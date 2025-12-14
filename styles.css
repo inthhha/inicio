@@ -1,0 +1,1126 @@
+/* =========================================
+   1. Variables y Tema (Origen: styles.css de la extensión)
+   ========================================= */
+:root {
+    --ssasur-blue: #0f69b4;
+    --ssasur-red: #eb3c46;
+    --primary-bg: #ffffff;
+    --secondary-bg: #f8f9fa;
+    /* Header bg actualizado para página completa */
+    --header-bg: linear-gradient(135deg, var(--ssasur-blue) 0%, var(--ssasur-red) 100%);
+    --text-primary: #2c3e50;
+    --text-secondary: #5a6c7d;
+    --text-muted: #7f8c8d;
+    --border-color: rgba(15, 105, 180, 0.2);
+    --item-bg: rgba(15, 105, 180, 0.05);
+    --item-hover: rgba(15, 105, 180, 0.1);
+    --shadow: rgba(15, 105, 180, 0.15);
+    --overlay: rgba(0,0,0,0.4);
+    --page-bg: #f0f2f5; /* Nuevo color de fondo general */
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --primary-bg: #1a1f2e;
+      --secondary-bg: #252a3a;
+      --text-primary: #ffffff;
+      --text-secondary: #e0e0e0;
+      --text-muted: #a0a0a0;
+      --border-color: rgba(255,255,255,0.1);
+      --item-bg: rgba(255,255,255,0.05);
+      --item-hover: rgba(255,255,255,0.1);
+      --shadow: rgba(0,0,0,0.4);
+      --overlay: rgba(0,0,0,0.6);
+      --page-bg: #121212;
+    }
+  }
+
+  /* Reset básico */
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--page-bg);
+      color: var(--text-primary);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+  }
+  a { text-decoration: none; }
+  
+/* =========================================
+   2. Layout General (Basado en DISTRIBUCION PAGINA WEB.png)
+   ========================================= */
+
+/* Header Principal */
+.main-header-container {
+    background-color: var(--primary-bg);
+    box-shadow: 0 2px 10px var(--shadow);
+    z-index: 10;
+}
+
+/* 1. El contenedor principal recibe el fondo de lado a lado */
+/* Ajuste para que el contenedor principal tenga el degradado por defecto */
+.header-top-area {
+background: 
+        linear-gradient(135deg, rgba(15, 105, 180, 0.85) 0%, rgba(235, 60, 70, 0.85) 100%),
+        url('images/fondo.jpg') !important;
+    background-size: 100% auto !important;
+    background-position: top center;
+    background-repeat: no-repeat;  
+    padding: 0;
+}
+
+/* Aseguramos que la sección de contenido llene todo */
+.header-gradient-section {
+    width: 100%;
+    background: transparent !important;
+    padding: 15px 30px;
+    display: flex;               
+    align-items: center;         
+    justify-content: flex-start; 
+}
+
+/* 3. Ajuste del texto para que se lea sobre el fondo oscuro */
+.header-text-content h3 {
+    margin: 0;
+    color: white; /* Texto blanco */
+    font-size: 1.5rem;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.header-text-content p {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.9); /* Texto secundario casi blanco */
+}
+
+/* Asegura que los cuadritos rojo/azul del logo SSASUR (si los usas) se vean bien */
+.logo-blue-hhha, .logo-red-hhha {
+    border-color: white !important; /* Borde blanco para resaltar */
+}
+
+/* Barra de Herramientas */
+.toolbar-area {
+    height: 50px;
+    background-color: var(--secondary-bg);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    border-bottom: 1px solid var(--border-color);
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+.btn-tool {
+    padding: 6px 12px;
+    margin-left: 10px;
+    border: 1px solid var(--border-color);
+    background: var(--primary-bg);
+    color: var(--text-primary);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Grid Principal del Cuerpo */
+.main-layout-grid {
+    display: grid;
+    /* Definición de columnas: Izquierda fija (aprox 300px), Derecha flexible */
+    grid-template-columns: 320px 1fr;
+    gap: 20px;
+    padding: 20px;
+    flex: 1; /* Hace que el main ocupe el espacio vertical restante */
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* Columna Izquierda (Accesos Rápidos) */
+.quick-access-column {
+    background-color: var(--primary-bg);
+    border-radius: 12px;
+    box-shadow: 0 4px 15px var(--shadow);
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+    height: fit-content; /* No estirar innecesariamente */
+}
+.section-title {
+    padding: 20px;
+    margin: 0;
+    font-size: 18px;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--border-color);
+    background-color: var(--secondary-bg);
+}
+
+/* Columna Derecha (Contenido) */
+.content-column {
+display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: auto;
+}
+
+/* Placeholders de contenido */
+.placeholder-container {
+    background-color: var(--primary-bg);
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 15px var(--shadow);
+    border: 1px solid var(--border-color);
+    flex: 1; /* Distribuir espacio */
+}
+
+.primary-content-area { min-height: 300px; }
+.additional-resources-area {
+    flex: none !important; 
+    height: auto !important; 
+    min-height: 200px;
+    overflow: visible; 
+    background-color: var(--primary-bg);
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 15px var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+/* =========================================
+   TARJETAS DE RECURSOS (Iconos Laterales)
+   ========================================= */
+/* =========================================
+   SECCIÓN RECURSOS ADICIONALES: Grid de 3 Columnas + Iconos Laterales
+   ========================================= */
+
+/* 1. EL CONTENEDOR (La rejilla) */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 15px;
+    width: 100%;
+    height: auto; 
+    align-content: start;
+}
+/* Protección Responsiva (CRUCIAL para que no se rompa en pantallas chicas) */
+@media (max-width: 1100px) {
+    .cards-grid {
+        grid-template-columns: repeat(2, 1fr); /* Baja a 2 columnas en pantallas medianas */
+    }
+}
+@media (max-width: 600px) {
+    .cards-grid {
+        grid-template-columns: 1fr; /* 1 sola columna en móviles */
+    }
+}
+
+/* 2. LA TARJETA INDIVIDUAL (Estilo y Animación) */
+.info-card {
+    /* Diseño Visual */
+    background: var(--item-bg);
+    padding: 15px 20px;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    font-weight: 600;
+    
+    /* DISTRIBUCIÓN INTERNA: ICONO A LA IZQUIERDA (Lateral) */
+    display: flex;
+    flex-direction: row; /* Fila horizontal */
+    align-items: center; /* Centrado vertical */
+    justify-content: flex-start; /* Todo a la izquierda */
+    gap: 15px; /* Espacio entre icono y texto */
+    text-align: left;
+    
+    /* Animación (Igual a Accesos Rápidos) */
+    position: relative;
+    cursor: pointer;
+    border-left: 4px solid transparent; /* Borde invisible inicial */
+    transition: all 0.3s ease; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* Efectos al pasar el mouse (Hover) */
+.info-card:hover {
+    background: var(--item-hover);
+    border-left-color: var(--ssasur-blue); /* Aparece borde azul */
+    transform: translateX(5px); /* Se mueve a la derecha */
+    box-shadow: 0 4px 12px var(--shadow);
+    color: var(--ssasur-blue);
+}
+
+/* 3. EL ICONO DENTRO DE LA TARJETA */
+.info-card-icon {
+    font-size: 24px;
+    /* Contenedor cuadrado suave para el icono */
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(15, 105, 180, 0.1);
+    border-radius: 8px;
+    flex-shrink: 0; /* Asegura que el icono no se aplaste */
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.info-card-icon img {
+    width: 24px;  /* Tamaño del icono dentro del cuadro */
+    height: 24px;
+    object-fit: contain; /* Asegura que la imagen no se deforme */
+    display: block;
+}
+/* Animación del icono al hacer hover en la tarjeta */
+.info-card:hover .info-card-icon {
+    transform: scale(1.1) rotate(5deg);
+    background: white;
+}
+
+/* === RESPONSIVIDAD (Opcional pero recomendado) === */
+/* Si la pantalla es muy pequeña (móvil), pasamos a 1 o 2 columnas para que no se rompa */
+@media (max-width: 900px) {
+    .cards-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 columnas en tablets */
+    }
+}
+@media (max-width: 600px) {
+    .cards-grid {
+        grid-template-columns: 1fr; /* 1 columna en móviles */
+    }
+}
+
+/* =========================================
+   3. Estilos de Componentes del Menú (Origen: styles.css)
+   NOTA: Se mantienen casi idénticos para preservar la estética.
+   ========================================= */
+
+/* Logos del header HHHA */
+.ssasur-logo-hhha { display: flex; justify-content: center; align-items: center; margin-bottom: 0px; margin-right: 15px; gap: 4px; filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.5));}
+.logo-blue-hhha { width: 30px; height: 40px; background: var(--ssasur-blue); border-radius: 2px; }
+.logo-red-hhha { width: 40px; height: 40px; background: var(--ssasur-red); border-radius: 2px; }
+.sidebar-header-hhha h3 { color: white; margin: 0 0 5px 0; font-size: 20px; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.3); }
+.sidebar-header-hhha p { color: rgba(255,255,255,0.9); margin: 0; font-size: 12px; font-weight: 500; }
+
+/* Contenido del menú */
+.sidebar-content-hhha.adapted-content { padding: 20px 15px; }
+
+/* Items principales */
+.sidebar-item-hhha {
+  display: flex; align-items: center; padding: 14px 18px; margin: 6px 0; background: var(--item-bg);
+  border-radius: 10px; cursor: pointer; transition: all 0.3s ease; border-left: 4px solid transparent;
+  border: 1px solid var(--border-color); position: relative; /* Necesario para el ::after */
+}
+.sidebar-item-hhha.has-submenu::after {
+  content: '▸'; position: absolute; right: 18px; color: var(--text-muted); transition: transform 0.3s ease; font-weight: bold;
+}
+.sidebar-item-hhha.has-submenu.open::after { transform: rotate(90deg); color: var(--ssasur-blue); }
+.sidebar-item-hhha:hover {
+  background: var(--item-hover); border-left: 4px solid var(--ssasur-blue); transform: translateX(5px); box-shadow: 0 4px 12px var(--shadow);
+}
+.sidebar-item-icon-hhha {
+  width: 36px; height: 36px; margin-right: 15px; display: flex; align-items: center; justify-content: center;
+  background: rgba(15, 105, 180, 0.1); border-radius: 8px; font-size: 16px; color: var(--ssasur-blue);
+  overflow: hidden; border: 1px solid var(--border-color);
+}
+.sidebar-item-icon-hhha img { width: 20px; height: 20px; object-fit: contain; }
+.sidebar-item-text-hhha { flex: 1; color: var(--text-primary); font-size: 14px; font-weight: 600; }
+
+/* Submenús */
+.submenu-hhha {
+  max-height: 0; overflow: hidden; transition: max-height 0.3s ease; background: rgba(15, 105, 180, 0.03);
+  border-radius: 8px; margin: 4px 0; border: 1px solid var(--border-color);
+}
+.submenu-hhha.open { max-height: 800px; /* Aumentado para evitar cortes en web */ }
+.submenu-item-hhha {
+  display: flex; align-items: center; padding: 12px 18px 12px 65px; margin: 2px 0; background: transparent;
+  border-radius: 6px; cursor: pointer; transition: all 0.2s ease; border-left: 3px solid transparent;
+  text-decoration: none; /* Asegurar que los enlaces no tengan subrayado */
+}
+.submenu-item-hhha:hover { background: rgba(15, 105, 180, 0.08); border-left: 3px solid var(--ssasur-red); }
+.submenu-item-icon-hhha {
+  width: 24px; height: 24px; margin-right: 12px; display: flex; align-items: center; justify-content: center;
+  background: rgba(15, 105, 180, 0.08); border-radius: 6px; font-size: 12px; color: var(--text-secondary); overflow: hidden;
+}
+.submenu-item-icon-hhha img { width: 14px; height: 14px; object-fit: contain; }
+.submenu-item-text-hhha { flex: 1; color: var(--text-secondary); font-size: 13px; font-weight: 500; }
+
+/* Separadores */
+.separator-hhha.with-text { text-align: center; margin: 25px 10px; }
+.separator-text-hhha {
+  display: inline-block; background: var(--secondary-bg); color: var(--ssasur-blue); padding: 6px 16px;
+  border-radius: 15px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
+  border: 1px solid var(--border-color); box-shadow: 0 2px 8px var(--shadow);
+}
+
+/* Footer y Créditos */
+.sidebar-footer-hhha { padding: 20px; text-align: center; border-top: 1px solid var(--border-color); background: var(--item-bg); }
+.credits-text-hhha {
+  color: var(--text-muted); font-size: 12px; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 8px;
+}
+.ufro-small-logo { width: 18px; height: 18px; border-radius: 50%; object-fit: cover; }
+
+/* Loading para iconos */
+.icon-loading { background: #f0f0f0; animation: pulse 1.5s infinite; }
+@keyframes pulse {
+  0% { opacity: 0.6; } 50% { opacity: 0.3; } 100% { opacity: 0.6; }
+}
+
+/* Responsive básico para pantallas pequeñas */
+@media (max-width: 768px) {
+    .main-layout-grid {
+        grid-template-columns: 1fr; /* Una sola columna en móviles */
+    }
+    .header-top-area {
+        flex-direction: column;
+        height: auto;
+    }
+    .page-icon-area { width: 100%; padding: 10px; border-right: none; border-bottom: 1px solid var(--border-color); }
+    .header-background-area.adapted-header { padding: 20px; }
+}
+
+/* =========================================
+   NUEVO: Integración Mega Menú en Barra de Herramientas
+   ========================================= */
+
+.main-header-container {
+    position: relative;
+    z-index: 100; /* Asegurar que esté por encima del contenido */
+}
+
+/* Contenedor de las pestañas */
+.toolbar-tabs-container {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    gap: 12px; /* Más espacio entre botones */
+    padding: 0 10px;
+}
+
+/* PESTAÑAS PRINCIPALES (Estilo tipo botón redondeado) */
+.megamenu-tab {
+    padding: 8px 20px;
+    height: auto; /* Altura automática ajustada al contenido */
+    background: var(--item-bg); /* Mismo fondo azul claro que el sidebar */
+    border: 1px solid var(--border-color);
+    border-radius: 20px; /* BORDES MUY REDONDOS */
+    cursor: pointer;
+    
+    /* Tipografía */
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    
+    /* Flexbox para icono y texto */
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    
+    /* Animaciones suaves */
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+/* Efecto Hover en Pestañas */
+.megamenu-tab:hover {
+    background: white;
+    color: var(--ssasur-blue);
+    border-color: var(--ssasur-blue);
+    box-shadow: 0 4px 12px var(--shadow);
+    transform: translateY(-2px); /* Pequeña elevación */
+}
+
+/* Estado Activo (Cuando el menú está abierto) */
+.megamenu-tab.active {
+    background: var(--ssasur-blue);
+    color: white;
+    border-color: var(--ssasur-blue);
+    box-shadow: 0 4px 15px rgba(15, 105, 180, 0.3);
+    transform: translateY(0);
+}
+
+/* EL PANEL DESPLEGABLE */
+.megamenu-panel {
+    position: absolute;
+    top: calc(100% + 10px); /* Un poco separado del header */
+    left: 20px; /* Alineado con el margen general */
+    right: 20px;
+    width: auto; /* Ancho automático respetando márgenes */
+    height: auto;
+    max-height: 0;
+    background: var(--primary-bg);
+    border-radius: 16px; /* Panel redondeado */
+    z-index: 100;
+    overflow: hidden;
+    
+    /* Transición de apertura */
+    transition: max-height 0.4s ease-in-out, opacity 0.3s ease, transform 0.3s ease;
+    opacity: 0;
+    transform: translateY(-10px);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+}
+
+.megamenu-panel.active {
+    max-height: 600px; /* Suficiente para el contenido */
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.megamenu-content {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+/* SECCIONES DENTRO DEL MENÚ */
+.megamenu-section-header {
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--ssasur-blue);
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--item-bg);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-transform: uppercase;
+}
+
+/* ITEMS (ENLACES) DENTRO DEL MENÚ */
+.megamenu-item {
+    display: flex;
+    align-items: center; /* Centrado verticalmente */
+    padding: 12px 16px;
+    margin-bottom: 8px;
+    border-radius: 12px; /* Redondeados */
+    text-decoration: none;
+    background: transparent;
+    border: 1px solid transparent; /* Para evitar saltos al hacer hover */
+    
+    /* Animación idéntica al sidebar */
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.megamenu-item:hover {
+    background: var(--item-hover);
+    border-color: var(--border-color);
+    transform: translateX(6px); /* Desplazamiento a la derecha */
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+/* Iconos dentro de los items */
+.megamenu-item-icon {
+    margin-right: 15px;
+    font-size: 18px;
+    background: rgba(15, 105, 180, 0.08);
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+    color: var(--ssasur-blue);
+}
+
+.megamenu-item:hover .megamenu-item-icon {
+    transform: scale(1.1) rotate(5deg); /* Pequeña animación del icono */
+    background: white;
+}
+
+.megamenu-item-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.megamenu-item-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.2;
+}
+
+.megamenu-item:hover .megamenu-item-title {
+    color: var(--ssasur-blue);
+}
+
+.megamenu-item-desc {
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-top: 4px;
+    line-height: 1.3;
+}
+
+/* Overlay de fondo */
+.megamenu-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.2);
+    backdrop-filter: blur(2px); /* Efecto borroso elegante */
+    z-index: 90;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.megamenu-overlay.active { 
+    display: block; 
+    opacity: 1;
+}
+
+/* =========================================
+   PANEL DE ENLACES
+   ========================================= */
+
+.links-panel-section {
+    /* 1. Estilo de Tarjeta (Card Style) */
+    background-color: var(--primary-bg); /* Fondo blanco del tema */
+    border: 1px solid var(--border-color); /* Borde sutil completo */
+    border-radius: 12px; /* Esquinas redondeadas */
+    
+    /* Sombra más pronunciada para dar efecto "flotante" */
+    box-shadow: 0 8px 20px var(--shadow); 
+    
+    /* 2. Dimensiones y Ubicación Centrada */
+    width: 95%; /* Deja un pequeño margen a los lados en móviles */
+    max-width: 1200px; /* Ancho máximo igual al contenido principal */
+    margin: 40px auto; /* Centrado horizontalmente, separación vertical */
+    
+    /* Espaciado interno de la tarjeta */
+    padding: 40px 0;
+    
+    /* Tipografía base */
+    font-family: inherit;
+    color: var(--text-secondary);
+    overflow: hidden; /* Asegura que el contenido respete las esquinas redondeadas */
+}
+
+.links-panel-container {
+    /* El contenedor interno ya no necesita controlar el ancho */
+    padding: 0 30px; /* Un poco más de margen interno lateral */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+/* --- Estilos de Columnas (Sin cambios mayores) --- */
+.link-col {
+    padding-right: 15px;
+    border-right: 1px solid var(--border-color);
+}
+
+.link-col:last-child {
+    border-right: none;
+}
+
+/* Títulos */
+.link-col h4 {
+    color: var(--text-secondary); 
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.link-col h4::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+    height: 2px;
+    background-color: var(--ssasur-blue);
+    opacity: 0.4;
+}
+
+/* Listas y Enlaces */
+.link-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.link-col ul li {
+    margin-bottom: 9px;
+}
+
+.link-col ul li a {
+    color: var(--text-secondary);
+    font-size: 13px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    transition: all 0.2s ease;
+}
+
+/* Efecto Hover con flechita */
+.link-col ul li a:hover {
+    color: var(--ssasur-blue);
+    transform: translateX(4px);
+}
+
+.link-col ul li a::before {
+    content: "›";
+    color: var(--ssasur-red);
+    font-weight: bold;
+    margin-right: 6px;
+    opacity: 0;
+    transform: translateX(-5px);
+    transition: all 0.2s ease;
+}
+
+.link-col ul li a:hover::before {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* --- RESPONSIVE --- */
+@media (max-width: 900px) {
+    .links-panel-container {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 20px;
+    }
+    .link-col {
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .link-col:nth-last-child(-n+2) {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .links-panel-section {
+        width: 92%; /* Un poco más ancho en celulares */
+        margin: 30px auto;
+        border-radius: 16px; /* Esquinas un poco más redondas en móvil */
+    }
+    .links-panel-container {
+        grid-template-columns: 1fr;
+    }
+    .link-col:nth-last-child(2) { /* Restaurar borde en penúltimo elemento en móvil */
+         border-bottom: 1px solid var(--border-color);
+         padding-bottom: 20px;
+         margin-bottom: 20px;
+    }
+}
+
+/* =========================================
+   Estilos para Iconos PNG en Mega Menú
+   ========================================= */
+
+/* Clase base para la imagen (control de tamaño) */
+.mega-custom-icon {
+    width: 20px;       /* Tamaño estándar para pestañas y headers */
+    height: 20px;
+    object-fit: contain;
+    display: block;
+}
+
+/* Ajuste específico para los iconos dentro de los items (enlaces) */
+.megamenu-item-icon .mega-custom-icon {
+    width: 24px;       /* Un poco más grandes dentro de las tarjetas */
+    height: 24px;
+}
+
+/* Ajuste para las pestañas principales para alinear texto e imagen */
+.megamenu-tab span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* =========================================
+   ANIMACIÓN ICONOS - ACCESOS RÁPIDOS
+   ========================================= */
+
+/* 1. Definir la transición suave para el icono (para que no salte de golpe) */
+.quick-access-column img,
+.quick-access-column .info-card-icon {
+    transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+/* 2. El efecto al pasar el mouse (Hover) sobre el enlace */
+.quick-access-column a:hover img, 
+.quick-access-column a:hover .info-card-icon {
+    /* Escala al 110% y rota 5 grados (mismo efecto que Recursos Adicionales) */
+    transform: scale(1.1) rotate(5deg); 
+}
+
+/* =========================================
+   ESTILOS DEL REPOSITORIO (BANNER TIPO FICHA)
+   ========================================= */
+
+/* --- Contenedor Principal --- */
+.primary-content-area {
+    background: transparent !important; /* Quitar fondo por defecto si choca */
+    border: none !important;
+    box-shadow: none !important;
+    overflow: visible !important; 
+}
+
+/* CONTENEDOR ÚNICO DEL REPOSITORIO */
+.repo-card {
+    background: var(--primary-bg);
+    border-radius: 16px;
+    box-shadow: 0 4px 15px var(--shadow);
+    border: 1px solid var(--border-color);
+    overflow: hidden; /* clave para unir todo */
+}
+
+/* Header azul */
+.repo-card .repo-header {
+    border-radius: 16px 16px 0 0;
+}
+
+/* Filtros pegados al header */
+.repo-card .repo-filters-container {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+/* Resultados pegados a filtros */
+.repo-card .repo-results-list {
+    border: none;
+    border-top: 1px solid var(--border-color);
+    border-radius: 0 0 16px 16px;
+    box-shadow: none;
+}
+
+
+/* --- 1. Header con Pestañas --- */
+.repo-header {
+    background: var(--ssasur-blue);
+    padding: 15px 20px; /* Más padding abajo para que las píldoras respiren */
+    padding-bottom: 10px; 
+    border-radius: 16px 16px 0 0; /* Borde del contenedor azul */
+}
+
+.repo-tabs::-webkit-scrollbar { display: none; }
+
+.repo-tab {
+    background: rgba(255, 255, 255, 0.2); /* Blanco semitransparente */
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 8px 20px; /* Menos alto, más ancho */
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 0.3px;
+    
+    /* EL CAMBIO CLAVE: Radio alto para hacerlo ovalado completo */
+    border-radius: 50px; 
+    
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    white-space: nowrap; /* Evita que el texto se rompa */
+    flex-shrink: 0; /* Evita que se aplasten */
+}
+
+.repo-tab:hover {
+    background: rgba(255, 255, 255, 0.35);
+    transform: translateY(-1px); /* Efecto sutil de elevación */
+}
+
+.repo-tab.active {
+    background: var(--primary-bg); /* Blanco (o oscuro en dark mode) */
+    color: var(--ssasur-blue);
+    font-weight: 700;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Sombra suave */
+    border-color: transparent;
+    transform: scale(1.02); /* Crece un poquito al activarse */
+}
+
+/* Ajuste Dark Mode para la píldora activa */
+@media (prefers-color-scheme: dark) {
+    .repo-tab.active {
+        color: #64b5f6; /* Azul claro legible sobre fondo oscuro */
+    }
+}
+
+/* --- 2. Zona de Filtros --- */
+.repo-filters-container {
+    background: var(--secondary-bg); /* Se adapta: gris claro en light, oscuro en dark */
+    padding: 20px;
+    border-bottom: 1px solid var(--border-color);
+    border-left: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+}
+
+/* Barra de búsqueda */
+.repo-search-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+#repo-search {
+    flex: 1;
+    padding: 12px 15px;
+    border: 1px solid var(--border-color);
+    background: var(--primary-bg);
+    color: var(--text-primary);
+    border-radius: 8px;
+    font-size: 14px;
+    outline: none;
+    transition: border 0.2s;
+}
+
+#repo-search:focus {
+    border-color: var(--ssasur-blue);
+}
+
+.repo-search-btn {
+    background: var(--ssasur-blue);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 48px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background 0.2s;
+}
+.repo-search-btn:hover { background: var(--ssasur-red); }
+
+/* Dropdowns */
+.repo-dropdowns-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.repo-dropdowns-row select {
+    padding: 10px 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 50px; /* Estilo píldora */
+    background: var(--primary-bg);
+    color: var(--text-primary);
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+    appearance: none; /* Quita la flecha por defecto del navegador para estilar mejor */
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 15px top 50%;
+    background-size: 10px auto;
+}
+
+/* --- 3. Lista de Resultados --- */
+.repo-results-list {
+    background: var(--primary-bg);
+    min-height: 250px;
+    border-radius: 0 0 12px 12px;
+    border: 1px solid var(--border-color);
+    border-top: none;
+    box-shadow: 0 4px 15px var(--shadow);
+}
+
+/* Item */
+.repo-item {
+    display: flex;
+    align-items: center;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border-color);
+    transition: background 0.2s;
+}
+
+.repo-item:last-child { border-bottom: none; border-radius: 0 0 12px 12px; }
+
+.repo-item:hover {
+    background: var(--item-hover);
+}
+
+.repo-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 800;
+    color: white;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+/* Colores de iconos fijos (no cambian con dark mode para mantener código de color) */
+.repo-icon.pdf { background: #e74c3c; }
+.repo-icon.doc { background: #3498db; }
+.repo-icon.link { background: #27ae60; }
+.repo-icon.guia { background: #8e44ad; }
+
+.repo-info { flex: 1; }
+
+.repo-title {
+    font-weight: 600;
+    color: var(--text-primary);
+    display: block;
+    margin-bottom: 4px;
+    font-size: 15px;
+}
+
+.repo-meta {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.repo-btn {
+    padding: 8px 16px;
+    background: var(--item-bg); /* Fondo suave */
+    color: var(--ssasur-blue);
+    font-weight: 600;
+    font-size: 13px;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.repo-btn:hover {
+    background: var(--ssasur-blue);
+    color: white;
+}
+
+/* --- AJUSTES ESPECÍFICOS MODO OSCURO --- */
+@media (prefers-color-scheme: dark) {
+    .repo-tab.active {
+        /* En dark mode, la pestaña activa debe fundirse con el fondo oscuro */
+        background: var(--primary-bg); 
+        color: #64b5f6; /* Un azul más claro para que resalte sobre negro */
+    }
+    
+    .repo-filters-container {
+        background: rgba(255, 255, 255, 0.03); /* Un gris muy sutil sobre el fondo negro */
+    }
+
+    /* Ajuste para la flecha del select en modo oscuro (cambiar a blanco si es posible, o usar filtro) */
+    .repo-dropdowns-row select {
+        filter: invert(0.8) hue-rotate(180deg); /* Truco para aclarar el icono de flecha SVG */
+    }
+    /* Revertir el filtro para el texto dentro de las opciones para que no se vea raro al abrir */
+    .repo-dropdowns-row select option {
+        background: #1a1f2e;
+        color: white;
+    }
+
+    .repo-btn {
+        background: rgba(255, 255, 255, 0.1);
+        color: #90caf9;
+    }
+    .repo-btn:hover {
+        background: var(--ssasur-blue);
+        color: white;
+    }
+}
+
+/* Responsive Móvil */
+@media (max-width: 600px) {
+    .repo-dropdowns-row { grid-template-columns: 1fr; }
+    .repo-tabs { padding-bottom: 0; }
+    .repo-item { flex-direction: column; align-items: flex-start; gap: 10px; }
+    .repo-btn { width: 100%; text-align: center; margin-top: 5px; }
+    .repo-icon { margin-bottom: 5px; }
+}
+
+
+/* =========================================
+   ESTILOS DE PAGINACIÓN PARA REPOSITORIO
+   ========================================= */
+
+.repo-pagination-container {
+    background: var(--secondary-bg);
+    border-top: 1px solid var(--border-color);
+    padding: 20px;
+    border-radius: 0 0 16px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.repo-pagination {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pagination-btn {
+    background: var(--primary-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    transition: all 0.2s;
+    min-width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination-btn:hover:not(:disabled) {
+    background: var(--item-hover);
+    border-color: var(--ssasur-blue);
+    color: var(--ssasur-blue);
+}
+
+.pagination-btn.active {
+    background: var(--ssasur-blue);
+    color: white;
+    border-color: var(--ssasur-blue);
+}
+
+.pagination-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.pagination-info {
+    margin-left: 15px;
+    font-size: 13px;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+/* Responsive para paginación */
+@media (max-width: 600px) {
+    .repo-pagination {
+        gap: 6px;
+    }
+    
+    .pagination-btn {
+        padding: 6px 10px;
+        font-size: 12px;
+        min-width: 36px;
+    }
+    
+    .pagination-info {
+        margin-top: 10px;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* Estado vacío mejorado */
+.repo-empty-state {
+    padding: 40px;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 15px;
+    background: var(--secondary-bg);
+    border-radius: 12px;
+    margin: 20px;
+}

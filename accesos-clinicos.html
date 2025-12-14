@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accesos y Normativas - Araucanía Sur</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="images/hospital.png">
+    
+    <style>
+        /* Contenedor principal */
+        .subpage-container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 0 20px;
+            min-height: 60vh;
+        }
+
+        /* Navegación volver */
+        .back-nav {
+            margin-bottom: 25px;
+        }
+        .back-nav a {
+            color: var(--ssasur-blue);
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            transition: color 0.2s;
+        }
+        .back-nav a:hover {
+            color: var(--ssasur-red);
+            text-decoration: underline;
+        }
+
+        /* --- LAYOUT GRID --- */
+        .top-row {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 25px;
+            margin-bottom: 25px;
+        }
+
+        .bottom-row {
+            display: block;
+            width: 100%;
+        }
+
+        /* Estilo general de Paneles */
+        .info-panel {
+            background: var(--primary-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 12px var(--shadow);
+            height: 100%; 
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* --- ESTILOS DE TÍTULOS E ICONOS --- */
+        .panel-title {
+            color: var(--ssasur-blue);
+            font-size: 1.25rem;
+            margin-top: 0;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(15, 105, 180, 0.1);
+            font-weight: 700;
+            display: flex; 
+            align-items: center; 
+        }
+
+        h4 {
+            color: var(--text-primary);
+            margin-top: 15px;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .title-icon {
+            width: 32px;
+            height: 32px;
+            object-fit: contain;
+            margin-right: 12px;
+        }
+
+        .subtitle-icon {
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            margin-right: 8px;
+        }
+
+        .panel-text {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        /* --- Estilos Panel Imagen --- */
+        .promo-container {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .promo-image-wrapper {
+            width: 100%;
+            height: 100%;
+            min-height: 250px;
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 15px;
+            border: 1px solid var(--item-bg);
+            position: relative;
+        }
+
+        .promo-image-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        /* --- BOTONES DE ACCIÓN (Estilo Index) --- */
+        .action-buttons-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: auto; 
+        }
+
+        .download-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+            /* Estado Normal */
+            background-color: var(--primary-bg); 
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary); /* Texto gris oscuro por defecto */
+            
+            text-decoration: none;
+            padding: 15px 10px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 4px var(--shadow);
+            text-align: center;
+            position: relative;
+        }
+
+        /* Estado Hover: Similar a los items del index (Fondo claro + Borde azul) */
+        .download-btn:hover {
+            background-color: var(--item-hover); /* Azul muy clarito */
+            border-color: var(--ssasur-blue);
+            color: var(--ssasur-blue); /* Texto se vuelve azul */
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px var(--shadow);
+        }
+
+        /* Icono dentro del botón */
+        .btn-icon {
+            width: 24px; /* Un poco más grande para que luzca */
+            height: 24px;
+            margin-right: 10px;
+            object-fit: contain;
+            transition: transform 0.2s ease;
+            /* Se muestra en su color original siempre */
+        }
+
+        /* Pequeño zoom al icono al pasar el mouse */
+        .download-btn:hover .btn-icon {
+            transform: scale(1.1);
+        }
+
+        /* --- Estilos Contenido Panel Inferior --- */
+        .legal-content-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+
+        .license-block {
+            padding-left: 20px;
+            margin-top: 8px;
+            font-size: 0.9em;
+            color: var(--text-secondary);
+            border-left: 3px solid var(--item-bg); 
+        }
+
+        .license-block p {
+            margin-top: 10px;
+            text-align: justify;
+            line-height: 1.5;
+        }
+
+        .license-block p:first-child {
+            margin-top: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .top-row {
+                grid-template-columns: 1fr;
+            }
+            .legal-content-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            .info-panel {
+                height: auto;
+            }
+            .promo-image-wrapper {
+                min-height: 200px;
+            }
+            .action-buttons-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="main-header-container">
+        <div class="header-top-area">
+            <div class="header-gradient-section">
+                <div class="ssasur-logo-hhha">
+                    <div class="logo-blue-hhha"></div>
+                    <div class="logo-red-hhha"></div>
+                </div>
+                <div class="header-text-content">
+                    <h3>INTERNADO HHHA</h3>
+                    <p>Sector Araucanía Sur</p>
+                </div>
+            </div>
+        </div>
+        <div class="toolbar-area" id="toolbar-menu-root"></div>
+        <div id="megamenu-panel-container"></div>
+    </header>
+
+    <main class="subpage-container">
+        
+        <nav class="back-nav">
+            <a href="index.html">← Volver al Inicio</a>
+        </nav>
+
+        <section class="top-row">
+            
+            <div class="info-panel">
+                <h2 class="panel-title">
+                    <img src="images/accesos-clinicos.png" class="title-icon" alt="Icono Info">
+                    Extensión Accesos Clínicos Araucanía Sur
+                </h2>
+                <div class="panel-text">
+                    <p style="margin-top: 8px">Una herramienta de Accesos Clínicos para el Servicio de Araucanía Sur. Proporciona un menú flotante de acceso rápido a sistemas clínicos (HIS, Laboratorio, Rayos) para internos y personal médico en la red SSASUR.</p>
+                    
+                    <h4>
+                        <img src="images/question.png" class="subtitle-icon" alt="?">
+                        ¿POR QUÉ USARLO?
+                    </h4>
+                    
+                    <ul style="padding-left: 20px; margin-top: 8px; font-size: 0.9em;">
+                        <li>Acceso simples a páginas más usadas en servicios clínicos SSASUR.</li>
+                        <li>Acceso seguro, no se recopilan ni extraen datos del usuario o los respectivos servidores.</li>
+                        <li>Diseño minimalista.</li>
+                        <li>Instalación simple y rápida.</li>
+                    </ul>
+
+                    <h4>
+                        <img src="images/operator.png" class="subtitle-icon" alt="Contacto">
+                        CONTACTO Y SOPORTE TÉCNICO
+                    </h4>
+                    
+                    <ul style="padding-left: 20px; margin-top: 8px; font-size: 0.9em;">
+                        <li>Mail: vectorvr10@gmail.com</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="info-panel">
+                <div class="promo-container">
+                    <div class="promo-image-wrapper">
+                        <img src="images/promocion.webp" alt="Hospital Hernán Henríquez Aravena">
+                    </div>
+                    
+                    <div class="action-buttons-grid">
+                        
+                        <a href="https://chromewebstore.google.com/detail/accesos-cl%C3%ADnicos-araucani/negenbhndhedcoiblnecmojhaaecpdji?hl=es" class="download-btn" target="_blank">
+                            <img src="images/google-chrome.svg" class="btn-icon" alt="">
+                            Descargar para Chrome
+                        </a>
+
+                        <a href="https://addons.mozilla.org/es-CL/firefox/addon/accesos-cl%C3%ADnicos-araucania-sur/" class="download-btn" target="_blank">
+                            <img src="images/firefox.svg" class="btn-icon" alt="">
+                            Descargar para Firefox
+                        </a>
+
+                        <a href="https://github.com/Vectorvr10/ACCESOS-CLINICOS-ARAUCANIA-SUR" class="download-btn" target="_blank">
+                            <img src="images/code.svg" class="btn-icon" alt="">
+                            Ver Código Fuente
+                        </a>
+
+                    </div>
+                    
+                </div>
+            </div>
+
+        </section>
+
+        <section class="bottom-row">
+            
+            <div class="info-panel">
+                <h2 class="panel-title">
+                    <img src="images/protocolos.png" class="title-icon" alt="Icono Legal">
+                    Informaciones de Licencia y Privacidad
+                </h2>
+                
+                <div class="panel-text legal-content-grid">
+                    
+                    <div class="legal-section">
+                        <h4>
+                            <img src="images/licence.png" class="subtitle-icon" alt="Licencia">
+                            Licencia de Software
+                        </h4>
+                        
+                        <div class="license-block">
+                            <p><strong>MIT License - Copyright (c) [2025] [MEDICINA UFRO]</strong></p>
+                            <p>Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluyendo sin limitación los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a quienes se les proporciona el Software hacerlo, sujeto a las siguientes condiciones:</p>
+                            <p>El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todos copias o porciones sustanciales del Software.</p>
+                            <p><strong>EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.</strong></p>
+                        </div>
+                    </div>
+
+                    <div class="legal-section">
+                        <div class="license-block" style="border-left: none; padding-left: 0; margin-top: 0;">
+                            <h4 style="margin-top: 0;">
+                                <img src="images/privacy.png" class="subtitle-icon" alt="Privacidad">
+                                POLÍTICA DE PRIVACIDAD
+                            </h4>
+                            <p><strong>Última actualización: 29 de noviembre de 2025</strong></p>
+                            
+                            <ol style="padding-left: 20px; margin-top: 15px; font-size: 1em;">
+                              <li style="margin-bottom: 15px;"><strong>Recopilación de datos:</strong> La extensión "ACCESOS CLÍNICOS ARAUCANIA SUR" (desarrollada por Medicina UFRO) no recopila, almacena, ni transmite ningún dato personal, información de salud, ni credenciales de usuario.</li>
+                              <li style="margin-bottom: 15px;"><strong>Uso de Permisos:</strong> La extensión solicita permisos para ejecutarse en sitios específicos (como sistemas clínicos e intranet). Estos permisos se utilizan exclusivamente para inyectar el menú de navegación visual en la interfaz del usuario. La extensión no lee el contenido de las páginas web ni monitorea la navegación del usuario fuera de la funcionalidad del menú.</li>
+                              <li style="margin-bottom: 15px;"><strong>Terceros:</strong> No compartimos información con terceros ni utilizamos servicios de análisis (analytics) externos.</li>
+                              <li><strong>Contacto:</strong> Para consultas sobre esta herramienta, puede contactar al equipo de desarrollo de Medicina UFRO.</li>
+                            </ol>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="main-footer sidebar-footer-hhha adapted-footer">
+        <div class="credits-text-hhha">
+            <img src="images/medufro.png" alt="UFRO" class="ufro-small-logo">
+            Hecho por Medicina UFRO - Una plataforma para facilitar el acceso a Servicios Clínicos.
+        </div>
+        <div class="credits-text-hhha" style="margin-top: 8px;">
+           Creado con <span style="color: #e25555;">&#10084;</span> para la comunidad y con plena vocación de servicio.
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

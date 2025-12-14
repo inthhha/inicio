@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accesos Clínicos Araucanía Sur</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="images/hospital.png">
+</head>
+<body>
+
+<header class="main-header-container">
+<div class="header-top-area">
+    
+    <div class="header-gradient-section">
+        
+        <div class="ssasur-logo-hhha">
+            <div class="logo-blue-hhha"></div>
+            <div class="logo-red-hhha"></div>
+        </div>
+
+        <div class="header-text-content">
+            <h3>INTERNADO HHHA</h3>
+            <p>Sector Araucanía Sur</p>
+        </div>
+    </div>
+
+</div>
+    <div class="toolbar-area" id="toolbar-menu-root"></div>
+    <div id="megamenu-panel-container"></div>
+</header>
+
+<div id="megamenu-panel-container"></div>
+    </header>
+
+    <main class="main-layout-grid">
+        
+        <aside class="quick-access-column">
+              <h2 class="section-title" style="display: flex; align-items: center; gap: 10px;">
+                 <img src="images/hospital.png" alt="Icono" style="width: 24px; height: 24px;">ACCESOS RÁPIDOS
+              </h2>
+            <div id="menu-container" class="sidebar-content-hhha adapted-content">
+                </div>
+        </aside>
+
+        <section class="content-column">
+  <div class="repo-card">  
+    <div class="repo-header">
+        <h2 style="margin-bottom: 14px;">SERVICIOS CLÍNICOS</h2>
+        <div class="repo-tabs">
+            <button class="repo-tab active" data-cat="cirugia">Cirugía</button>
+            <button class="repo-tab" data-cat="medicina">Medicina Interna</button>
+            <button class="repo-tab" data-cat="ginecologia">Ginecología y Obs.</button>
+            <button class="repo-tab" data-cat="pediatria">Pediatría</button>
+        </div>
+    </div>
+
+    <div class="repo-filters-container">
+        <div class="repo-search-row">
+            <input type="text" id="repo-search" placeholder="Buscar protocolo, guía o documento...">
+            <button class="repo-search-btn">🔍</button>
+        </div>
+
+    <div class="repo-dropdowns-row">
+        <select id="filter-type">
+            <option value="">Todos los tipos</option>
+        </select>
+    
+        <select id="filter-year">
+           <option value="">Cualquier año</option>
+           <option value="2025">2025</option>
+           <option value="2024">2024</option>
+           <option value="2023">2023</option>
+           <option value="2022">2022</option>
+           <option value="2021">2021</option>
+           <option value="2020">2020</option>
+           <option value="antiguo">Histórico</option>
+       </select>
+
+       <select id="filter-order">
+           <option value="newest">Más recientes</option>
+           <option value="az">A - Z</option>
+       </select>
+</div>
+    </div>
+
+    <div class="repo-results-list" id="repo-results">
+        <div class="repo-empty-state">Seleccione una categoría o realice una búsqueda.</div>
+    </div>
+  <!-- CONTENEDOR DE PAGINACIÓN NUEVO -->
+    <div class="repo-pagination-container" id="repo-pagination-container">
+        <div class="repo-pagination" id="repo-pagination"></div>
+    </div>
+</div>
+
+            </div>
+            <div class="additional-resources-area placeholder-container">
+    <h2 style="margin-bottom: 14px;">RECURSOS ADICIONALES</h2>
+    <div class="cards-grid">
+        <a href="https://www.araucaniasur.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ssas.webp" alt="Servicio Araucanía Sur">
+              </div>
+          <div>Servicio Araucanía Sur</div>
+        </a>
+        <a href="https://www.superdesalud.gob.cl/difusion/665/w3-propertyvalue-1962.html" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ges.webp" alt="Garantías Explícitas en Salud">
+              </div>
+          <div>Garantías Explícitas en Salud</div>
+        </a>
+        <a href="https://www.superdesalud.gob.cl/difusion/665/w3-propertyvalue-6088.html" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ley_ricarte.webp" alt="Ley Ricarte Soto">
+              </div>
+          <div>Ley Ricarte Soto</div>
+        </a>
+        <a href="https://redcronicas.minsal.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ssasur.png" alt="Red Patologías Crónicas">
+              </div>
+          <div>Red Patologías Crónicas</div>
+        </a>
+        <a href="https://diprece.minsal.cl/le-informamos/auge/acceso-guias-clinicas/guias-clinicas-auge/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ssasur.png" alt="Guías Clínicas MINSAL">
+              </div>
+          <div>Guías Clínicas MINSAL</div>
+        </a>
+        <a href="https://www.crececontigo.gob.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/chilecrece.png" alt="Chile Crece Contigo">
+              </div>
+          <div>Chile Crece Contigo</div>
+        </a>
+        <a href="https://epivigila.minsal.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/epivigilia.webp" alt="EPIVIGILA">
+              </div>
+          <div>EPIVIGILA</div>
+        </a>
+        <a href="https://deis.minsal.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ssasur.png" alt="Departamento Estadístico MINSAL">
+              </div>
+          <div>Departamento Estadístico MINSAL</div>
+        </a>
+        <a href="https://drive.google.com/file/d/1-Yl0PYy-8gr68_G2hRIYYNwqqOnCmORt/view?usp=sharing" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/medicamento.webp" alt="Arsenal Farmacológico APS">
+              </div>
+          <div>Arsenal Farmacológico APS</div>
+        </a>
+        <a href="https://prescripcion-receta.minsal.cl/auth/login" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/receta.webp" alt="Receta Electrónica">
+              </div>
+          <div>Receta Electrónica</div>
+        </a>
+        <a href="https://quemados.minsal.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/quemados.webp" alt="RNQ (Quemados MINSAL)">
+              </div>
+          <div>RNQ (Quemados MINSAL)</div>
+        </a>
+        <a href="https://midas.minsal.cl/midas/index.php" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/ssasur.png" alt="MIDAS">
+              </div>
+          <div>MIDAS</div>
+        </a>
+        <a href="https://controldegestion.araucaniasur.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/control-gestion.webp" alt="Control Gestión SSASUR">
+              </div>
+          <div>Control Gestión SSASUR</div>
+        </a>
+        <a href="https://estadistica.araucaniasur.cl/" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/estadisticas.webp" alt="Estadísticas SSASUR">
+              </div>
+          <div>Estadísticas SSASUR</div>
+        </a>
+        <a href="https://www.araucaniasur.cl/wp-content/uploads/2020/07/Perfil-Socio-demogr%C3%A1fico-y-sanitario-Servicio-Araucania-Sur.pdf" target="_blank" class="info-card">
+          <div class="info-card-icon">
+            <img src="images/perfil-epi.webp" alt="Perfil Socio-Sanitario SSASUR">
+              </div>
+          <div>Perfil Socio-Sanitario SSASUR</div>
+        </a>
+</div>
+        </section>
+    </main>
+
+<section class="links-panel-section">
+    <div class="links-panel-container">
+        
+        <div class="link-col">
+            <h4>Links de Interés</h4>
+            <ul>
+                <li><a href="https://app.bibguru.com/">BibGuru</a></li>
+                <li><a href="https://docs.google.com/document/u/0/">Google Documentos</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/u/0/">Google Hojas de Cálculo</a></li>
+                <li><a href="https://drive.google.com/drive/u/0/my-drive">Google Drive</a></li>
+                <li><a href="https://notebooklm.google.com/">NotebookLM</a></li>
+                <li><a href="https://ufro.elogim.com/auth-meta/login.php?url=https://ovides.ufro.elogim.com/">Ovid</a></li>
+                <li><a href="https://sci-hub.shop/">Sci-Hub</a></li>
+            </ul>
+        </div>
+        <div class="link-col">
+            <h4>Material de Interés</h4>
+            <ul>
+                <li><a href="https://booksmedicos.org/">Booksmedicos</a></li>
+                <li><a href="https://libgen.is/">Library Genesis</a></li>
+                <li><a href="https://sintesis.med.uchile.cl/">Síntesis UChile</a></li>
+                <li><a href="https://www.soymedicina.com/libros-de-medicina/">SoyMedicina</a></li>
+                <li><a href="https://doctorpdf.org/">DoctorPDF</a></li>
+                <li><a href="https://archive.org/">Archive</a></li>
+            </ul>
+        </div>
+        <div class="link-col">
+            <h4>Búsquedas de Interés</h4>
+            <ul>
+                <li><a href="https://uptodate.ufro.elogim.com/contents/search">UpToDate</a></li>
+                <li><a href="https://pubmed.ncbi.nlm.nih.gov">PubMed</a></li>
+                <li><a href="https://ezproxy.ufro.cl:2321/student/">Clinical Key Student</a></li>
+                <li><a href="https://www.dynamed.com">DynaMed</a></li>
+                <li><a href="https://empendium.com/manualmibe/">Empendium</a></li>
+                <li><a href="https://www.msdmanuals.com/es/professional">MdsManual</a></li>
+                <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK430685/">StatPearls</a></li>
+            </ul>
+        </div>
+        <div class="link-col">
+            <h4>IAs de Interés</h4>
+            <ul>
+                <li><a href="https://www.openevidence.com/">OpenEvidence</a></li>
+                <li><a href="https://chatgpt.com/">ChatGPT</a></li>
+                <li><a href="https://gemini.google.com/app?hl=es">Gemini</a></li>
+                <li><a href="https://chat.deepseek.com/sign_in">DeepSeek</a></li>
+                <li><a href="https://copilot.microsoft.com/">Copilot</a></li>
+                <li><a href="https://www.perplexity.ai/">Perplexity</a></li>
+                <li><a href="https://www.explainpaper.com/login">Explainpaper</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+    </div>
+</section>
+
+    <footer class="main-footer sidebar-footer-hhha adapted-footer">
+        <div class="credits-text-hhha">
+            <img src="images/medufro.png" alt="UFRO" class="ufro-small-logo">
+            Hecho por Medicina UFRO - Una plataforma para facilitar el acceso a Servicios Clínicos.
+        </div>
+        <div class="credits-text-hhha" style="margin-top: 8px;">
+           Creado con <span style="color: #e25555;">&#10084;</span> para la comunidad y con plena vocación de servicio.
+        </div>
+    </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
