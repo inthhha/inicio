@@ -1030,3 +1030,246 @@ document.addEventListener('DOMContentLoaded', () => {
     // ... tus otras inicializaciones ...
     initRepoSystem();
 });
+
+// =============================================
+// SISTEMA DE ANEXOS TELEFÓNICOS
+// =============================================
+
+// Base de datos de anexos
+const anexosDB = [
+    // LABORATORIO 🧪
+    { id: 1, category: 'laboratorio', title: 'Laboratorio', number: 'N°: 9023/6905' },
+    { id: 2, category: 'laboratorio', title: 'Hemograma', number: 'N°: 9025' },
+    { id: 3, category: 'laboratorio', title: 'Orina y Urocultivos', number: 'N°: 6905' },
+    { id: 4, category: 'laboratorio', title: 'Banco de Sangre - Transfusiones', number: 'N°: 8867' },
+    { id: 5, category: 'laboratorio', title: 'Hemocultivos', number: 'N°: 9014' },
+    { id: 6, category: 'laboratorio', title: 'Microbiológico', number: 'N°: 6903' },
+    { id: 7, category: 'laboratorio', title: 'Inmunología', number: 'N°: 9030' },
+    { id: 8, category: 'laboratorio', title: 'Anatomía patológica', number: 'N°: 8827' },
+    { id: 9, category: 'laboratorio', title: 'Toxicina botulínica y clostridium', number: 'N°: 9016' },
+    { id: 10, category: 'laboratorio', title: 'Cultivos', number: 'N°: 9022' },
+    { id: 11, category: 'laboratorio', title: 'Hematología', number: 'N°: 9025/9017' },
+
+    // IMAGENOLOGÍA 🩻
+    { id: 12, category: 'imagenologia', title: 'Scanner', number: 'N°: 9355/9447' },
+    { id: 13, category: 'imagenologia', title: 'Medicina Nuclear', number: 'N°: 8754' },
+    { id: 14, category: 'imagenologia', title: 'Recuperación imagen', number: 'N°: 6676' },
+    { id: 15, category: 'imagenologia', title: 'Ecografía doppler', number: 'N°: 9357' },
+    { id: 16, category: 'imagenologia', title: 'Ecografía convencional', number: 'N°: 9358' },
+    { id: 17, category: 'imagenologia', title: 'Resonancia', number: 'N°: 9362/9361' },
+    { id: 18, category: 'imagenologia', title: 'Rayos urgencia', number: 'N°: 9345/9346' },
+    { id: 19, category: 'imagenologia', title: 'Informe Scanner', number: 'N°: 9346' },
+    { id: 20, category: 'imagenologia', title: 'Seriógrafo', number: 'N°: 9344' },
+    { id: 21, category: 'imagenologia', title: 'Radiografías', number: 'N°: 9353' },
+    { id: 22, category: 'imagenologia', title: 'Radiografías portátiles', number: 'N°: 9348' },
+    { id: 23, category: ['imagenologia', 'secretarias'], title: 'Secretaría de imagenología', number: 'N°: 9364' },
+    { id: 24, category: ['imagenologia', 'secretarias'], title: 'Secretaría radiología intervencional', number: 'N°: 9364' },
+    
+    // FARMACIA/INMUNIZACIONES 💊
+    { id: 25, category: 'farmacia-inmunizaciones', title: 'Farmacia oncológica', number: 'N°: 6828' },
+    { id: 26, category: 'farmacia-inmunizaciones', title: 'Farmacia unidosis', number: 'N°: 8784 / 8783' },
+    { id: 27, category: 'farmacia-inmunizaciones', title: 'Farmacia central', number: 'N°: 8782' },
+    { id: 28, category: 'farmacia-inmunizaciones', title: 'Inmunizaciones', number: 'N°: 8977' },
+    
+    // QUIMICA Y FARMACIA 👩‍🔬
+    { id: 29, category: 'qyf', title: 'Químico farmacéutico', number: 'N°: 6608' },
+    { id: 30, category: 'qyf', title: 'QF Yasna Betancurt', number: 'N°: 6608' },
+    { id: 31, category: 'qyf', title: 'QF Domingo Velasquez', number: 'N°: 9499' },
+    { id: 32, category: 'qyf', title: 'QF Graciela Ponce', number: 'N°: 8797' },
+    
+    // DIALISIS 🩸
+    { id: 33, category: 'dialisis', title: 'Diálisis HHHA', number: 'N°: 8838' },
+    { id: 34, category: 'dialisis', title: 'Diálisis Villarrica', number: 'N°: 2410707' },
+    { id: 35, category: 'dialisis', title: 'Diálisis PLC', number: 'N°: 2759733' },
+    { id: 36, category: 'dialisis', title: 'Diálisis Dinamarca', number: 'N°: 204280' },
+    { id: 37, category: 'dialisis', title: 'Diálisis El Bosque', number: 'N°: 452971000' },
+
+    // SUA-CRITICO 🚨
+    { id: 38, category: 'sua', title: 'SAR Medicina', number: 'N°: 3685/9450' },
+    { id: 39, category: 'sua', title: 'Estar médico SUA', number: 'N°: 9250' },
+    { id: 40, category: 'sua', title: 'Pasillo SUA', number: 'N°: 9253' },
+    { id: 41, category: 'sua', title: 'UTI 2° piso', number: 'N°: 9312' },
+    { id: 42, category: 'sua', title: 'UTI 3° piso', number: 'N°: 8941' },
+    
+    // POLICLÍNICOS 🏥
+    { id: 43, category: 'policlinicos', title: 'Policlínico de psiquiatría', number: 'N°: 9651' },
+    { id: 44, category: 'policlinicos', title: 'Policlínico de dermatología', number: 'N°: 8983' },
+    { id: 45, category: 'policlinicos', title: 'Policlínico de oncología', number: 'N°: 9155/8916' },
+    { id: 46, category: 'policlinicos', title: 'Policlínico de infectología', number: 'N°: 7511/8725' },
+    { id: 47, category: 'policlinicos', title: 'Policlínico de neurología', number: 'N°: 8996' },
+    { id: 48, category: 'policlinicos', title: 'Policlínico de otorrinolaringología', number: 'N°: 6626/8966/9178' },
+   
+    // CARDIOLOGIA ❤️
+    { id: 49, category: ['cardiologia', 'quirurgico'], title: 'Angiógrafo', number: 'N°: 9343' },
+    { id: 50, category: ['cardiologia', 'quirurgico'], title: 'EU angiógrafo', number: 'N°: 9368' },
+    { id: 51, category: 'cardiologia', title: 'Ecocardiografía', number: 'N°: 9156' },
+    { id: 52, category: 'cardiologia', title: 'Electrofisiología', number: 'N°: 8996' },
+    { id: 53, category: ['cardiologia', 'secretarias'], title: 'Secretaría de cardiología', number: 'N°: 8954' },
+    { id: 54, category: 'cardiologia', title: 'Holter', number: 'N°: 9158' },
+    { id: 55, category: ['cardiologia', 'secretarias'], title: 'Secretaria hemodinamia', number: 'N°: 8945' },
+
+    // MEDICO 👨‍⚕️
+    { id: 56, category: 'medico', title: 'HODOM', number: 'N°: 6922/6924' },
+    { id: 57, category: 'medico', title: 'Cuidados Paliativos', number: 'N°: 9065' },
+    { id: 58, category: 'medico', title: 'LP Sector A', number: 'N°: 8973' },
+    { id: 59, category: 'medico', title: 'LP Sector B', number: 'N°: 9343' },
+    { id: 60, category: 'medico', title: 'Medicina Interna A', number: 'N°: 8973' },
+    { id: 61, category: 'medico', title: 'Medicina Interna B', number: 'N°: 9243' },
+    { id: 62, category: 'medico', title: 'Medicina Interna C', number: 'N°: 6688' },
+    { id: 63, category: 'medico', title: 'Pediatría', number: 'N°: 6665' },
+    { id: 64, category: ['medico', 'secretarias'], title: 'Secretaría de medicina interna', number: 'N°: 8940' },
+    { id: 65, category: ['medico', 'secretarias'], title: 'Secretaría de CDT', number: 'N°: 9510' },
+    { id: 66, category: 'medico', title: 'Lactantes', number: 'N°: 8965' },
+    { id: 67, category: 'medico', title: 'Segunda infancia', number: 'N°: 6686' },
+    
+    // QUIRURGICO 🩺
+    { id: 68, category: 'quirurgico', title: 'Sala de procedimientos', number: 'N°: 6821' },
+    { id: 69, category: 'quirurgico', title: 'Endoscopía', number: 'N°: 9425' },
+    { id: 70, category: 'quirurgico', title: 'Pabellón central', number: 'N°: 8880' },
+    { id: 71, category: 'quirurgico', title: 'Pasillo pabellón', number: 'N°: 6723' },
+    { id: 72, category: 'quirurgico', title: 'Recuperación', number: 'N°: 9284' },
+    { id: 73, category: 'quirurgico', title: 'Pabellón de quemados', number: 'N°: 6850' },
+    { id: 74, category: ['quirurgico', 'cardiologia'], title: 'Pabellón cardiología', number: 'N°: 8953' },
+    { id: 75, category: 'quirurgico', title: 'Recuperación pabellón central', number: 'N°: 6722' },
+    { id: 76, category: 'quirurgico', title: 'Recuperación maternidad', number: 'N°: 9248' },
+    { id: 77, category: 'quirurgico', title: 'Cirugía EP-A', number: 'N°: 6681' },
+    { id: 78, category: 'quirurgico', title: 'Cirugía EP-B', number: 'N°: 6842' },
+    { id: 79, category: 'quirurgico', title: 'Cirugía EP-C 350', number: 'N°: 6750' },
+    { id: 80, category: 'quirurgico', title: 'Cirugía EP-C 370', number: 'N°: 8920' },
+    { id: 81, category: 'quirurgico', title: 'Neurocirugía', number: 'N°: 8913' },
+    { id: 82, category: 'quirurgico', title: 'Oftalmología', number: 'N°: 9168' },
+    { id: 83, category: 'quirurgico', title: 'Otorrinolaringología', number: 'N°: 9177' },
+    { id: 84, category: ['quirurgico', 'policlinicos'], title: 'Policlínico de urología', number: '0' },
+    { id: 85, category: ['quirurgico', 'policlinicos'], title: 'Policlínico de ginecología', number: 'N°: 6735/9108' },
+    { id: 86, category: ['quirurgico', 'policlinicos'], title: 'Policlínico de maxilofacial', number: 'N°: 6794' },
+    { id: 87, category: ['quirurgico', 'policlinicos'], title: 'Policlínico de ostomía', number: '0' },
+    { id: 88, category: ['quirurgico', 'policlinicos'], title: 'Policlínico de traumatología', number: 'N°: 9188/8935' },
+    { id: 89, category: ['quirurgico', 'cardiologia', 'secretarias'], title: 'Secretaría de cirugía cardíaca', number: 'N°: 8979' },
+    { id: 90, category: ['quirurgico', 'secretarias'], title: 'Secretaría de cirugía (Morelia)', number: 'N°: 8918' },
+    { id: 91, category: ['quirurgico', 'secretarias'], title: 'Secretaría de pabellón', number: '0' },
+    { id: 92, category: 'quirurgico', title: 'CMA', number: 'N°: 8999' },
+    { id: 93, category: 'quirurgico', title: 'Ginecología y oncoginecología', number: 'N°: 3669' },
+];
+
+// Mapeo de emojis por categoría
+const categoryEmojis = {
+    'laboratorio': '🧪',
+    'imagenologia': '🩻',
+    'farmacia-inmunizaciones': '💊',
+    'qyf': '👩‍🔬',
+    'dialisis': '🩸',
+    'secretarias': '📞',
+    'sua': '🚨',
+    'policlinicos': '🏥',
+    'cardiologia': '❤️',
+    'medico': '👨‍⚕️',
+    'quirurgico': '🩺'
+};
+
+// Función para obtener el emoji según la categoría
+function getEmojiForCategory(category) {
+    if (Array.isArray(category)) {
+        // Si tiene múltiples categorías, usar la primera
+        return categoryEmojis[category[0]] || '📞';
+    }
+    return categoryEmojis[category] || '📞';
+}
+
+// Función para inicializar el sistema de filtros de anexos
+function initAnexosSystem() {
+    const tabs = document.querySelectorAll('.filter-tab');
+    const searchInput = document.getElementById('anexos-search');
+    const searchBtn = document.querySelector('.search-btn');
+    const anexosGrid = document.getElementById('anexos-grid');
+    
+    // Si no existe la grilla, salir (no estamos en la página de anexos)
+    if (!anexosGrid) return;
+    
+    let currentFilter = 'todos';
+    let currentSearch = '';
+
+    // Función para renderizar anexos
+    const renderAnexos = () => {
+        // Filtrar anexos
+        let filtered = anexosDB.filter(anexo => {
+            const matchFilter = currentFilter === 'todos' || 
+                (Array.isArray(anexo.category) ? 
+                 anexo.category.includes(currentFilter) : 
+                 anexo.category === currentFilter);
+            
+            const matchSearch = !currentSearch || 
+                anexo.title.toLowerCase().includes(currentSearch) ||
+                anexo.number.includes(currentSearch);
+            
+            return matchFilter && matchSearch;
+        });
+
+        // Limpiar grid
+        anexosGrid.innerHTML = '';
+
+        // Mostrar resultados
+        if (filtered.length === 0) {
+            anexosGrid.innerHTML = `
+                <div class="empty-state" style="grid-column: 1 / -1;">
+                    No se encontraron anexos con estos filtros.
+                </div>`;
+        } else {
+            filtered.forEach(anexo => {
+                const card = document.createElement('div');
+                card.className = 'anexo-card';
+                
+                // Obtener el emoji según la categoría
+                const emoji = getEmojiForCategory(anexo.category);
+                
+                card.innerHTML = `
+                    <div class="anexo-icon">${emoji}</div>
+                    <span class="anexo-minititle">${anexo.title}</span>
+                    <p class="anexo-number">${anexo.number}</p>
+                `;
+                anexosGrid.appendChild(card);
+            });
+        }
+    };
+
+    // Event Listeners para Tabs
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            // Cambiar clase activa
+            tabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            
+            // Actualizar filtro
+            currentFilter = tab.dataset.filter;
+            
+            // Renderizar
+            renderAnexos();
+        });
+    });
+
+    // Event Listener para búsqueda
+    const performSearch = () => {
+        currentSearch = searchInput.value.toLowerCase();
+        renderAnexos();
+    };
+
+    searchInput.addEventListener('input', performSearch);
+    searchBtn.addEventListener('click', performSearch);
+    
+    // También buscar al presionar Enter
+    searchInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            performSearch();
+        }
+    });
+
+    // Renderizar inicialmente
+    renderAnexos();
+}
+
+// Inicializar cuando el DOM esté listo (si estamos en la página de anexos)
+document.addEventListener('DOMContentLoaded', function() {
+    // Verificar si estamos en la página de anexos
+    if (document.querySelector('.anexos-grid')) {
+        initAnexosSystem();
+    }
+});
