@@ -367,7 +367,7 @@ const megaStructure = [
           icon: '🏥',
           img: 'images/herramientas.png',
           items: [
-            { icon: '🏥', img: 'images/phone.png', text: 'Anexos HHHA', url: '', desc: 'Líneas de Teléfonos HHHA' },
+            { icon: '🏥', img: 'images/phone.png', text: 'Anexos HHHA', url: 'anexos.html', desc: 'Líneas de Teléfonos HHHA' },
             { icon: '🏥', img: 'images/cirugia.webp', text: 'IA Cirugía', url: 'https://notebooklm.google.com/notebook/9b90ed17-9d13-44c1-b92a-675f0d5ecce2', desc: 'NotebookLM elaborado con Material de la Carrera sobre Cirugía' },
             { icon: '🏥', img: 'images/gyo.webp', text: 'IA Gineco-obstetricia', url: 'https://notebooklm.google.com/notebook/21bee4f0-83d3-4c04-b514-bf40bb7aef06', desc: 'NotebookLM elaborado con Material de la Carrera sobre Gineco-obstetricia' },
             { icon: '🏥', img: 'images/medint.webp', text: 'IA Medicina Interna', url: 'https://notebooklm.google.com/notebook/3ffd6eff-8b19-4742-ac97-c0468a80d6e7', desc: 'NotebookLM elaborado con Material de la Carrera sobre Medicina Interna' },
