@@ -4,11 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anexos Telefónicos - Internado HHHA</title>
+    
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" type="image/png" href="images/hospital.png">
     
     <style>
-        /* Contenedor principal */
+        /* =========================================
+           2. ESTILOS LOCALES
+           ========================================= */
+
+        /* --- 2.1 Layout y Contenedores --- */
         .subpage-container {
             max-width: 1200px;
             margin: 30px auto;
@@ -16,10 +21,7 @@
             min-height: 60vh;
         }
 
-        /* Navegación volver */
-        .back-nav {
-            margin-bottom: 25px;
-        }
+        .back-nav { margin-bottom: 25px; }
         .back-nav a {
             color: var(--ssasur-blue);
             text-decoration: none;
@@ -34,65 +36,43 @@
             text-decoration: underline;
         }
 
-        /* --- LAYOUT GRID --- */
         .top-row {
             display: grid;
             grid-template-columns: 1fr;
             gap: 25px;
             margin-bottom: 25px;
         }
+        .bottom-row { display: block; width: 100%; }
 
-        .bottom-row {
-            display: block;
-            width: 100%;
-        }
-
-        /* Estilo general de Paneles */
+        /* --- 2.2 Paneles Informativos --- */
         .info-panel {
-            background: var(--primary-bg);
+            background-color: var(--primary-bg);
             border: 1px solid var(--border-color);
             border-radius: 12px;
             padding: 25px;
-            box-shadow: 0 4px 12px var(--shadow);
+            box-shadow: 0 4px 15px var(--shadow);
             height: 100%; 
             display: flex;
             flex-direction: column;
         }
 
-        /* --- ESTILOS DE TÍTULOS E ICONOS --- */
+        .info-panel.no-padding { padding: 0; overflow: hidden; }
+
         .panel-title {
             color: var(--ssasur-blue);
             font-size: 1.25rem;
-            margin-top: 0;
-            margin-bottom: 15px;
+            margin: 0 0 15px 0;
             padding-bottom: 10px;
             border-bottom: 2px solid rgba(15, 105, 180, 0.1);
             font-weight: 700;
-            display: flex; 
-            align-items: center; 
+            display: flex; align-items: center; 
         }
 
-        h4 {
+        .panel-subtitle {
             color: var(--text-primary);
-            margin-top: 15px;
-            margin-bottom: 10px;
+            margin: 15px 0 10px 0;
             font-size: 1.1rem;
-            display: flex;
-            align-items: center;
-        }
-
-        .title-icon {
-            width: 32px;
-            height: 32px;
-            object-fit: contain;
-            margin-right: 12px;
-        }
-
-        .subtitle-icon {
-            width: 24px;
-            height: 24px;
-            object-fit: contain;
-            margin-right: 8px;
+            display: flex; align-items: center;
         }
 
         .panel-text {
@@ -100,18 +80,21 @@
             font-size: 0.95rem;
             line-height: 1.6;
         }
+        
+        .contact-details-list { padding-left: 20px; margin-top: 8px; font-size: 0.9em; color: var(--text-primary); }
+        .title-icon { width: 32px; height: 32px; object-fit: contain; margin-right: 12px; }
+        .subtitle-icon { width: 24px; height: 24px; object-fit: contain; margin-right: 8px; }
 
-        /* --- SECCIÓN DE FILTROS (Estilo similar a SERVICIOS CLÍNICOS) --- */
+        /* --- 2.3 Cabecera de Filtros (Estilo Servicios Clínicos) --- */
         .filters-header {
-            background: var(--ssasur-blue);
+            background: var(--ssasur-blue); /* Fondo azul sólido */
             padding: 15px 20px;
-            border-radius: 16px 16px 0 0;
-            margin-bottom: 0;
+            border-radius: 12px 12px 0 0;
         }
 
         .filters-header h2 {
-            margin-bottom: 14px;
-            color: #ffffff;
+            margin: 0 0 14px 0;
+            color: #ffffff; /* Texto blanco siempre */
             font-size: 1.5rem;
         }
 
@@ -120,124 +103,80 @@
             overflow-x: auto;
             padding-bottom: 5px;
             gap: 10px;
-            scrollbar-width: thin;
-            scrollbar-color: rgba(255,255,255,0.3) transparent;
         }
+        .filters-tabs-container::-webkit-scrollbar { height: 4px; }
+        .filters-tabs-container::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.3); border-radius: 3px; }
 
-        .filters-tabs-container::-webkit-scrollbar {
-            height: 6px;
-        }
-
-        .filters-tabs-container::-webkit-scrollbar-track {
-            background: rgba(255,255,255,0.1);
-            border-radius: 3px;
-        }
-
-        .filters-tabs-container::-webkit-scrollbar-thumb {
-            background: rgba(255,255,255,0.3);
-            border-radius: 3px;
-        }
-
+        /* BOTONES CLAROS (Igual a .repo-tab en styles.css) */
         .filter-tab {
-            background: rgba(255, 255, 255, 0.2);
+            background: rgba(255, 255, 255, 0.2); /* Blanco semitransparente */
             border: 1px solid rgba(255, 255, 255, 0.1);
-            color: white;
+            color: white; /* Texto blanco */
             padding: 8px 20px;
-            font-family: inherit;
             font-weight: 500;
             font-size: 13px;
-            letter-spacing: 0.3px;
             border-radius: 50px;
             cursor: pointer;
             transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
             white-space: nowrap;
-            flex-shrink: 0;
         }
 
-        .filter-tab:hover {
-            background: rgba(255, 255, 255, 0.35);
+        .filter-tab:hover { 
+            background: rgba(255, 255, 255, 0.35); /* Más blanco al pasar el mouse */
             transform: translateY(-1px);
         }
-
+        
         .filter-tab.active {
-            background: var(--primary-bg);
-            color: var(--ssasur-blue);
+            background: var(--primary-bg); /* Blanco sólido (o oscuro en tema dark) */
+            color: var(--ssasur-blue);     /* Texto Azul */
             font-weight: 700;
             box-shadow: 0 4px 12px rgba(0,0,0,0.15);
             border-color: transparent;
             transform: scale(1.02);
         }
 
-        /* Ajuste Dark Mode para la píldora activa */
-        @media (prefers-color-scheme: dark) {
-            .filter-tab.active {
-                color: #64b5f6;
-            }
-        }
-
-        /* Contenedor de filtros */
+        /* --- 2.4 Buscador y Grid de Resultados --- */
         .filters-container {
             background: var(--secondary-bg);
             padding: 20px;
-            border-bottom: 1px solid var(--border-color);
-            border-left: 1px solid var(--border-color);
-            border-right: 1px solid var(--border-color);
-            border-radius: 0;
-        }
-
-        .filters-search-row {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 15px;
-        }
-
-        #anexos-search {
-            flex: 1;
-            padding: 12px 15px;
             border: 1px solid var(--border-color);
-            background: var(--primary-bg);
-            color: var(--text-primary);
-            border-radius: 8px;
-            font-size: 14px;
-            outline: none;
-            transition: border 0.2s;
+            border-top: none;
         }
-
-        #anexos-search:focus {
-            border-color: var(--ssasur-blue);
-        }
-
-        .search-btn {
-            background: var(--ssasur-blue);
-            color: white;
-            border: none;
-            border-radius: 8px;
-            width: 48px;
-            cursor: pointer;
-            font-size: 18px;
-            transition: background 0.2s;
-        }
+        .filters-search-row { display: flex; gap: 10px; }
         
-        .search-btn:hover { 
-            background: var(--ssasur-red); 
+        #anexos-search {
+            flex: 1; padding: 12px 15px; border: 1px solid var(--border-color);
+            background: var(--primary-bg); color: var(--text-primary);
+            border-radius: 8px; font-size: 14px; outline: none;
         }
+        #anexos-search:focus { border-color: var(--ssasur-blue); }
+        
+        .search-btn {
+            background: var(--ssasur-blue); color: white; border: none;
+            border-radius: 8px; width: 48px; cursor: pointer; font-size: 18px;
+        }
+        .search-btn:hover { background: var(--ssasur-red); }
 
-        /* --- SECCIÓN DE ANEXOS TELEFÓNICOS --- */
-        .anexos-container {
-            margin-top: 20px;
+        .results-container {
+            background: var(--primary-bg);
+            min-height: 250px;
+            border-radius: 0 0 12px 12px;
+            border: 1px solid var(--border-color);
+            border-top: none;
+            padding: 20px;
         }
 
         .anexos-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             gap: 15px;
-            margin-top: 20px;
             width: 100%;
         }
 
+        /* Tarjeta de Anexo (Estilo .info-card) */
         .anexo-card {
             background: var(--item-bg);
-            padding: 20px;
+            padding: 15px 20px;
             border-radius: 12px;
             border: 1px solid var(--border-color);
             color: var(--text-primary);
@@ -245,7 +184,6 @@
             display: flex;
             flex-direction: column;
             align-items: flex-start;
-            justify-content: flex-start;
             gap: 10px;
             text-align: left;
             position: relative;
@@ -260,20 +198,21 @@
             border-left-color: var(--ssasur-blue);
             transform: translateX(5px);
             box-shadow: 0 4px 12px var(--shadow);
+            color: var(--ssasur-blue);
         }
 
         .anexo-minititle {
             font-size: 14px;
             color: var(--text-secondary);
             font-weight: 500;
-            margin-bottom: 5px;
+            margin-bottom: 4px;
             display: block;
         }
 
         .anexo-number {
-            font-size: 18px;
+            font-size: 19px;
             color: var(--ssasur-blue);
-            font-weight: 700;
+            font-weight: 800;
             margin: 0;
             font-family: 'Courier New', monospace;
         }
@@ -286,56 +225,29 @@
             align-items: center;
             justify-content: center;
             background: rgba(15, 105, 180, 0.1);
+            color: var(--ssasur-blue);
             border-radius: 8px;
-            margin-bottom: 10px;
-            transition: transform 0.3s ease;
+            margin-bottom: 8px;
+            transition: transform 0.3s ease, background 0.3s ease;
         }
 
         .anexo-card:hover .anexo-icon {
-            transform: scale(1.1) rotate(5deg);
             background: white;
+            transform: scale(1.1) rotate(5deg);
         }
 
-        .section-description {
-            color: var(--text-muted);
-            font-size: 14px;
-            margin-top: 5px;
-            line-height: 1.5;
-        }
-
-        /* Contenedor de resultados */
-        .results-container {
-            background: var(--primary-bg);
-            min-height: 250px;
-            border-radius: 0 0 12px 12px;
-            border: 1px solid var(--border-color);
-            border-top: none;
-            box-shadow: 0 4px 15px var(--shadow);
-            padding: 20px;
-        }
-
-        /* Estado vacío */
         .empty-state {
+            grid-column: 1 / -1;
             padding: 40px;
             text-align: center;
             color: var(--text-muted);
-            font-size: 15px;
             background: var(--secondary-bg);
             border-radius: 12px;
-            margin: 20px;
         }
 
-        /* Responsive */
         @media (max-width: 768px) {
-            .top-row {
-                grid-template-columns: 1fr;
-            }
-            .info-panel {
-                height: auto;
-            }
-            .anexos-grid {
-                grid-template-columns: 1fr;
-            }
+            .top-row { grid-template-columns: 1fr; }
+            .anexos-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -354,7 +266,6 @@
                 </div>
             </div>
         </div>
-        <!-- BARRA SUPERIOR RESTAURADA -->
         <div class="toolbar-area" id="toolbar-menu-root"></div>
         <div id="megamenu-panel-container"></div>
     </header>
@@ -362,78 +273,76 @@
     <main class="subpage-container">
         
         <nav class="back-nav">
-            <a href="index.html">← Volver al Inicio</a>
+            <a href="index.html" aria-label="Volver al inicio">← Volver al Inicio</a>
         </nav>
 
         <section class="top-row">
-            
             <div class="info-panel">
                 <h2 class="panel-title">
-                    <img src="images/phone.png" class="title-icon" alt="Icono Anexos">
+                    <img src="images/phone.png" class="title-icon" alt="" aria-hidden="true">
                     Anexos HHHA
                 </h2>
+                
                 <div class="panel-text">
-                    <p style="margin-top: 8px">Llamadas desde teléfono fuera del hospital, se debe anteponer "45 2 55" al número del anexo.</p>
+                    <p style="margin-top: 8px;">Llamadas desde teléfono fuera del hospital, se debe anteponer "45 2 55" al número del anexo.</p>
 
-                    <h4>
-                        <img src="images/operator.png" class="subtitle-icon" alt="Contacto">
+                    <h4 class="panel-subtitle">
+                        <img src="images/operator.png" class="subtitle-icon" alt="" aria-hidden="true">
                         CENTRAL TELEFÓNICA
                     </h4>
                     
-                    <ul style="padding-left: 20px; margin-top: 8px; font-size: 0.9em;">
+                    <ul class="contact-details-list">
                         <li><strong>Teléfono:</strong> (45) 2 559000</li>
                         <li><strong>Unidad Central Telefónica:</strong> Marque 0 desde cualquier extensión interna</li>
                     </ul>
                 </div>
             </div>
-
         </section>
 
         <section class="bottom-row">
             
-            <div class="info-panel" style="padding: 0; overflow: hidden;">
-                <!-- Header con Filtros -->
+            <div class="info-panel no-padding">
+                
                 <div class="filters-header">
                     <h2>Listado de Anexos Telefónicos</h2>
-                    <div class="filters-tabs-container">
-                        <button class="filter-tab active" data-filter="todos">Todos</button>
-                        <button class="filter-tab" data-filter="laboratorio">🧪 Laboratorio/Muestras</button>
-                        <button class="filter-tab" data-filter="imagenologia">🩻 Imagenología</button>
-                        <button class="filter-tab" data-filter="farmacia-inmunizaciones">💊 Farmacia/Inmunizaciones</button>
-                        <button class="filter-tab" data-filter="qyf">👩‍🔬 Química y Farmacia</button>
-                        <button class="filter-tab" data-filter="dialisis">🩸 Dialisis</button>                        
-                        <button class="filter-tab" data-filter="secretarias">📞 Secretarías</button>
-                        <button class="filter-tab" data-filter="sua">🚨 SUA/Crítico</button>
-                        <button class="filter-tab" data-filter="policlinicos">🏥 Policlínicos</button>
-                        <button class="filter-tab" data-filter="cardiologia">❤️ Cardiología</button>
-                        <button class="filter-tab" data-filter="medico">👨‍⚕️ Médico</button>
-                        <button class="filter-tab" data-filter="quirurgico">🩺 Quirúrgico</button>
+                    
+                    <div class="filters-tabs-container" role="tablist">
+                        <button class="filter-tab active" data-filter="todos" role="tab">Todos</button>
+                        <button class="filter-tab" data-filter="laboratorio" role="tab">🧪 Laboratorio/Muestras</button>
+                        <button class="filter-tab" data-filter="imagenologia" role="tab">🩻 Imagenología</button>
+                        <button class="filter-tab" data-filter="farmacia-inmunizaciones" role="tab">💊 Farmacia/Inmunizaciones</button>
+                        <button class="filter-tab" data-filter="qyf" role="tab">👩‍🔬 Química y Farmacia</button>
+                        <button class="filter-tab" data-filter="dialisis" role="tab">🩸 Dialisis</button>                        
+                        <button class="filter-tab" data-filter="secretarias" role="tab">📞 Secretarías</button>
+                        <button class="filter-tab" data-filter="sua" role="tab">🚨 SUA/Crítico</button>
+                        <button class="filter-tab" data-filter="policlinicos" role="tab">🏥 Policlínicos</button>
+                        <button class="filter-tab" data-filter="cardiologia" role="tab">❤️ Cardiología</button>
+                        <button class="filter-tab" data-filter="medico" role="tab">👨‍⚕️ Médico</button>
+                        <button class="filter-tab" data-filter="quirurgico" role="tab">🩺 Quirúrgico</button>
                     </div>
                 </div>
 
-                <!-- Barra de Búsqueda y Filtros -->
                 <div class="filters-container">
                     <div class="filters-search-row">
-                        <input type="text" id="anexos-search" placeholder="Buscar servicio, departamento o número...">
-                        <button class="search-btn">🔍</button>
+                        <input type="text" id="anexos-search" placeholder="Buscar servicio, departamento o número..." aria-label="Buscar anexos">
+                        <button class="search-btn" aria-label="Buscar">🔍</button>
                     </div>
                 </div>
 
-                <!-- Resultados -->
                 <div class="results-container" id="anexos-results">
                     <div class="anexos-grid" id="anexos-grid">
-                        <!-- Los anexos se cargarán aquí dinámicamente -->
+                        <div class="empty-state">Cargando anexos...</div>
                     </div>
                 </div>
-            </div>
 
+            </div>
         </section>
 
     </main>
 
     <footer class="main-footer sidebar-footer-hhha adapted-footer">
         <div class="credits-text-hhha">
-            <img src="images/medufro.png" alt="UFRO" class="ufro-small-logo">
+            <img src="images/medufro.png" alt="Logo Medicina UFRO" class="ufro-small-logo">
             Hecho por Medicina UFRO - Una plataforma para facilitar el acceso a Servicios Clínicos.
         </div>
         <div class="credits-text-hhha" style="margin-top: 8px;">
@@ -443,14 +352,9 @@
 
     <script src="script.js"></script>
     <script>
-        // Este código se ejecutará cuando la página se cargue
-        document.addEventListener('DOMContentLoaded', function() {
-            // Verificar si estamos en la página de anexos
-            if (document.querySelector('.anexos-grid')) {
-                // Inicializar el sistema de anexos
-                if (typeof initAnexosSystem === 'function') {
-                    initAnexosSystem();
-                }
+        document.addEventListener('DOMContentLoaded', () => {
+            if (document.querySelector('.anexos-grid') && typeof initAnexosSystem === 'function') {
+                initAnexosSystem();
             }
         });
     </script>
