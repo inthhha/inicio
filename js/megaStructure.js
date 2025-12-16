@@ -144,11 +144,8 @@ const megaStructure = [
             { title: 'Recursos', img: 'images/herramientas.png',
                 items: [
                            { text: 'Anexos HHHA', img: 'images/phone.png', desc: 'Líneas de Teléfonos HHHA', url: 'anexos.html' },
-                           { text: 'IA Cirugía', img: 'images/cirugia.webp', desc: 'NotebookLM elaborado con Material de la Carrera sobre Cirugía', url: 'https://notebooklm.google.com/notebook/9b90ed17-9d13-44c1-b92a-675f0d5ecce2' },
-                           { text: 'IA Gineco-obstetricia', img: 'images/gyo.webp', desc: 'NotebookLM elaborado con Material de la Carrera sobre Gineco-obstetricia', url: 'https://notebooklm.google.com/notebook/21bee4f0-83d3-4c04-b514-bf40bb7aef06' },
-                           { text: 'IA Medicina Interna', img: 'images/medint.webp', desc: 'NotebookLM elaborado con Material de la Carrera sobre Medicina Interna', url: 'https://notebooklm.google.com/notebook/3ffd6eff-8b19-4742-ac97-c0468a80d6e7' },
-                           { text: 'IA Pediatría', img: 'images/ped.webp', desc: 'NotebookLM elaborado con Material de la Carrera sobre Pediatría', url: 'https://notebooklm.google.com/notebook/35f1d53b-8ce4-418b-949d-fffdf65b3a5e' },
-                           { text: 'IA Infectología', img: 'images/bacteria.png', desc: 'NotebookLM elaborado con Material de la Carrera sobre Infectología', url: 'https://notebooklm.google.com/notebook/3e304c9b-0530-445c-82cb-151b49fb87db' }
+                           { text: 'Manejos/Indicaciones', img: 'images/tto.png', desc: 'Manejos e Indicaciones generales en urgencias/hospitalizados', url: '' },
+                           { text: 'Acerca de', img: 'images/info.png', desc: 'Términos de Uso y Política de Privacidad', url: 'terminos-de-uso-y-politica-de-privacidad.html' }
                         ]
                      },
             { title: 'Software', img: 'images/software.png',

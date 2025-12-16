@@ -28,6 +28,7 @@ const resourcesDB = [
     { title: 'ATLS 2025', type: 'libro', format: 'pdf', category: 'cirugia', year: '2025', url: 'https://drive.google.com/file/d/1cSRoEoDMeui_3m5oSsDBhwXwLcc3UQ_W/view?usp=sharing' },
     { title: 'Algoritmos RCP', type: 'RCP', format: 'pdf', category: 'cirugia', year: '2025', url: 'https://drive.google.com/file/d/1PBqa38fHFySlIIgSoEgIV0k1wDKG7Zyl/view?usp=drive_link' },
     { title: 'Cirugía Docente', type: 'link', format: 'link', category: 'cirugia', year: '2025', url: 'https://www.cirugiadocente.com/' },
+    { title: 'IA Cirugía', type: 'link', format: 'link', category: 'cirugia', year: '2025', url: 'https://notebooklm.google.com/notebook/9b90ed17-9d13-44c1-b92a-675f0d5ecce2' },
 
     // --- MEDICINA INTERNA ---
     { title: 'Resumenes Cirugia Kika', type: 'apunte', format: 'pdf', category: 'medicina', year: '2020', url: 'https://drive.google.com/file/d/1-8ipuFGxJ5k4en6UdbmiqMQDMoxUn9Xo/view?usp=sharing' },
@@ -53,6 +54,8 @@ const resourcesDB = [
     { title: 'Recetario', type: 'Salas/Turnos', format: 'pdf', category: 'medicina', year: '2025', url: 'https://drive.google.com/file/d/1ob8MB10QQC8iPiCYyRQODMvyrxLyrOfh/view?usp=drive_link' }, 
     { title: 'Resúmenes Examen Teórico', type: 'Otros recursos', format: 'guia', category: 'medicina', year: '2025', url: 'https://drive.google.com/file/d/1yNV3Q9hx_6DMS-yjrblkpsNq28hpyDtI/view?usp=drive_link' }, 
     { title: 'Otros Resumenes', type: 'Otros recursos', format: 'guia', category: 'medicina', year: '2025', url: 'https://drive.google.com/drive/folders/1UMILTu1-knzG1cIY9ELFaFaPR9eXx48X?usp=sharing' }, 
+    { title: 'IA Medicina Interna', type: 'link', format: 'link', category: 'medicina', year: '2025', url: 'https://notebooklm.google.com/notebook/3ffd6eff-8b19-4742-ac97-c0468a80d6e7' },
+    { title: 'IA Infectología', type: 'link', format: 'link', category: 'medicina', year: '2025', url: 'https://notebooklm.google.com/notebook/3e304c9b-0530-445c-82cb-151b49fb87db' },
     
     // --- GINECOLOGÍA ---
     { title: 'Resumenes Cirugia Ginecología/Obstetricia', type: 'apunte', format: 'pdf', category: 'ginecologia', year: '2020', url: 'https://drive.google.com/file/d/14d6XVnIaiMC8nO06q1C5pd2U-WOlcfuv/view?usp=drive_link' },
@@ -74,6 +77,7 @@ const resourcesDB = [
     { title: 'Para Hospitalizar', type: 'MMF', format: 'link', category: 'ginecologia', year: '2025', url: 'https://docs.google.com/spreadsheets/d/17-qKZDAFIPpWSsaTpWg7aZaNRxuuJtXR/edit?gid=1673295739#gid=1673295739' },
     { title: 'Estadísticas ARO', type: 'MMF', format: 'link', category: 'ginecologia', year: '2025', url: 'https://docs.google.com/spreadsheets/d/1Sk29cUusIAn7hVk5m_UAaVxSkJJJ_Zr-/edit?gid=1592456355#gid=1592456355' },
     { title: 'Calcula la edad gestacional', type: 'link', format: 'link', category: 'ginecologia', year: '2025', url: 'https://www.clinicauandes.cl/maternidad/calculadora-fur' },
+    { title: 'IA Gineco-obstetricia', type: 'link', format: 'link', category: 'ginecologia', year: '2025', url: 'https://notebooklm.google.com/notebook/21bee4f0-83d3-4c04-b514-bf40bb7aef06' },
   
     { title: 'ANEXO 2a: DECLARACION DE ENTREGA Y RECEPCION DE INFORMACION SOBRE LA LEY 21.030 QUE DESPENALIZA LA INTERRUPCIÓN VOLUNTARIA DEL EMBARAZO EN TRES CAUSALES', type: 'Protocolos-ARO', format: 'pdf', category: 'ginecologia', year: '2024', url: 'https://drive.google.com/file/d/1VxqrfLwrftj4VYmdr_IKxr46EqzYtv-P/view?usp=drive_link' },
     { title: 'INSTRUCTIVO DETECCIÓN NEONATAL DE CARDIOPATÍAS CONGÉNITAS MEDIANTE SATUROMETRÍA DE PULSO', type: 'Protocolos-ARO', format: 'pdf', category: 'ginecologia', year: '2024', url: 'https://drive.google.com/file/d/1LT2NmJY1FMyihYa33ppiaQM_PALsQt49/view?usp=drive_link' },
@@ -190,4 +194,5 @@ const resourcesDB = [
     { title: 'Resúmenes Examen', type: 'Otros recursos', format: 'link', category: 'pediatria', year: '2024', url: 'https://drive.google.com/file/d/1AMtoSdi_U-Rk3K1s-nDFxlcGxm4V4T_6/view?usp=sharing' },
     { title: 'Pediamécum', type: 'link', format: 'link', category: 'pediatria', year: '2025', url: 'https://www.aeped.es/comite-medicamentos/pediamecum' },
     { title: 'Ped-Z', type: 'link', format: 'link', category: 'pediatria', year: '2025', url: 'https://www.pedz.de/de/pedz/main.html' },
+    { title: 'IA Pediatría', type: 'link', format: 'link', category: 'pediatria', year: '2025', url: 'https://notebooklm.google.com/notebook/35f1d53b-8ce4-418b-949d-fffdf65b3a5e' }
 ];
