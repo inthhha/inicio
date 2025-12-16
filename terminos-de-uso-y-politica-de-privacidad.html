@@ -88,20 +88,67 @@
         }
 
         /* Bloques de texto legal */
+/* =========================================
+           BLOQUES LEGALES (Animados + Listas)
+           ========================================= */
+        
+        /* 1. Contenedor Principal con animación */
         .legal-block {
-            background-color: var(--item-bg); /* Fondo sutil para bloques de código/legal */
+            background-color: var(--item-bg);
             padding: 20px;
-            border-radius: 8px;
+            border-radius: 12px;
             margin-top: 15px;
             border-left: 4px solid var(--ssasur-blue);
             font-size: 0.95em;
+            
+            /* Esta línea activa el movimiento suave */
+            transition: var(--transition-smooth); 
+            cursor: pointer;
         }
 
+        /* 2. Efecto al pasar el mouse (Igual al Index) */
+        .legal-block:hover {
+            transform: translateX(5px); /* Mueve 5px a la derecha */
+            background-color: var(--item-hover); /* Color de fondo sutil */
+            box-shadow: 0 4px 12px var(--shadow); /* Sombra suave */
+        }
+
+        /* 3. Estilos de texto */
         .legal-block p {
             margin-bottom: 12px;
             text-align: justify;
         }
-        .legal-block p:last-child { margin-bottom: 0; }
+
+        /* 4. Estilos de Listas (Tus estilos personalizados) */
+        .legal-block ul {
+            list-style-type: disc !important; 
+            list-style-position: outside;
+            padding-left: 25px !important;
+            margin-top: 10px;
+        }
+
+        .legal-block ol {
+            list-style-type: decimal !important; 
+            list-style-position: outside; 
+            padding-left: 25px !important;
+            margin-top: 10px;
+            background-color: rgba(0, 0, 0, 0.03);
+            border-radius: 4px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .legal-block li {
+            display: list-item !important;
+            margin-bottom: 10px;
+            line-height: 1.6;
+            color: var(--text-secondary);
+        }
+
+        .legal-block ol li {
+            font-size: 0.95em;
+            margin-bottom: 5px;
+        }
 
         .privacy-list {
             padding-left: 20px;
@@ -141,7 +188,7 @@
 
     <main class="subpage-container">        
         <nav class="back-nav">
-            <a href="accesos-clinicos.html" aria-label="Volver a Accesos Clínicos">← Volver a Accesos Clínicos</a>
+            <a href="index.html" aria-label="Volver a la página de inicio">← Volver al Inicio</a>
         </nav>
 
         <div class="legal-layout">

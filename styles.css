@@ -524,6 +524,32 @@ button, select { font-family: inherit; }
 .link-col ul li a:hover::before { opacity: 1; transform: translateX(0); }
 
 /* -- Estilos de Listas para Términos y Condiciones de Uso -- */
+/* 1. Contenedor Principal */
+.legal-block {
+    background-color: var(--item-bg);
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 15px;
+    border-left: 4px solid var(--ssasur-blue);
+    font-size: 0.95em;
+    transition: var(--transition-smooth); 
+    cursor: pointer;
+}
+
+/* 2. Efecto Hover */
+.legal-block:hover {
+    transform: translateX(5px);
+    background-color: var(--item-hover);
+    box-shadow: 0 4px 12px var(--shadow);
+}
+
+/* 3. Estilos de Párrafos */
+.legal-block p {
+    margin-bottom: 12px;
+    text-align: justify;
+}
+
+/* 4. Estilos de Listas */
 .legal-block ul {
     list-style-type: disc !important; 
     list-style-position: outside;
