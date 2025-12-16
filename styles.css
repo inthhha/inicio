@@ -81,6 +81,14 @@ a { text-decoration: none; color: inherit; }
 ul { list-style: none; }
 button, select { font-family: inherit; }
 
+/* Listado general */
+.details-list {
+    padding-left: 20px;
+    margin-top: 8px;
+    font-size: 0.9em;
+    list-style-type: disc; 
+}
+
 /* =========================================
    3. Layout General
    ========================================= */
@@ -514,6 +522,37 @@ button, select { font-family: inherit; }
     opacity: 0; transform: translateX(-5px); transition: var(--transition-fast);
 }
 .link-col ul li a:hover::before { opacity: 1; transform: translateX(0); }
+
+/* -- Estilos de Listas para Términos y Condiciones de Uso -- */
+.legal-block ul {
+    list-style-type: disc !important; 
+    list-style-position: outside;
+    padding-left: 25px !important;
+    margin-top: 10px;
+}
+
+.legal-block ol {
+    list-style-type: decimal !important; 
+    list-style-position: outside; 
+    padding-left: 25px !important;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.legal-block li {
+    display: list-item !important;
+    margin-bottom: 10px;
+    line-height: 1.6;
+    color: var(--text-secondary);
+}
+
+.legal-block ol li {
+    font-size: 0.95em;
+    margin-bottom: 5px;
+}
 
 /* =========================================
    8. Módulo: Repositorio
