@@ -283,6 +283,32 @@ const initMegaMenu = () => {
 
     toolbarRoot.appendChild(tabsContainer);
 
+    // --- AJUSTES DE CÓDIGO PARA SMARTPHONE ---
+    const mobileToggle = document.getElementById('mobile-menu-toggle');
+    if (mobileToggle) {
+        mobileToggle.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const isOpen = tabsContainer.classList.contains('show-mobile');
+            
+            // Toggle clase
+            if (isOpen) {
+                tabsContainer.classList.remove('show-mobile');
+                mobileToggle.querySelector('span').innerHTML = '☰';
+            } else {
+                tabsContainer.classList.add('show-mobile');
+                mobileToggle.querySelector('span').innerHTML = '&#10005;'; // X bonita
+            }
+        });
+
+        // Cerrar menú automáticamente al hacer click en una opción del menú
+        const tabButtons = tabsContainer.querySelectorAll('.megamenu-tab');
+        tabButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                tabsContainer.classList.remove('show-mobile');
+                mobileToggle.querySelector('span').innerHTML = '☰';
+            });
+        });
+    }
     // Event Listeners Globales
     overlay.addEventListener('click', closePanel);
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePanel(); });
@@ -303,6 +329,7 @@ const initRepository = () => {
     const orderFilter = document.getElementById('filter-order');
     const paginationContainer = document.getElementById('repo-pagination');
     const searchBtn = document.querySelector('.repo-search-btn');
+    const mobileSelect = document.getElementById('mobile-repo-category');
 
     // Estado local
     let currentCategory = 'cirugia';
@@ -364,6 +391,7 @@ const initRepository = () => {
         paginationContainer.appendChild(info);
     };
 
+    // --- FUNCIÓN RENDER PRINCIPAL (CORREGIDA) ---
     const renderResources = () => {
         if (typeof resourcesDB === 'undefined') {
             resultsContainer.innerHTML = '<div class="error">Error: resourcesDB no cargada.</div>';
@@ -393,7 +421,6 @@ const initRepository = () => {
             });
         } else {
             // POR DEFECTO: Orden Alfabético (A-Z)
-            // Esto se ejecuta si selectedOrder es 'az', '' (vacío) o cualquier otro valor.
             filtered.sort((a, b) => a.title.localeCompare(b.title));
         }
 
@@ -430,18 +457,39 @@ const initRepository = () => {
         renderPagination(filtered.length);
     };
 
-    // Event Listeners
+    // --- EVENT LISTENERS ---
+
+    // 1. Tabs de Categoría (Escritorio)
     tabs.forEach(tab => {
         tab.addEventListener('click', () => {
             tabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
+            
+            // Actualizar variables
             currentCategory = tab.dataset.cat;
+            
+            // Sincronizar visualmente el Select Móvil
+            if(mobileSelect) mobileSelect.value = currentCategory;
+
             currentPage = 1;
             updateTypeFilterOptions();
             renderResources();
         });
     });
 
+    // 2. Select de Categoría (Móvil)
+    if (mobileSelect) {
+        mobileSelect.addEventListener('change', (e) => {
+            const selectedCat = e.target.value;
+            // Buscar el botón correspondiente y simular click
+            const targetTab = document.querySelector(`.repo-tab[data-cat="${selectedCat}"]`);
+            if (targetTab) {
+                targetTab.click();
+            }
+        });
+    }
+
+    // 3. Filtros y Búsqueda
     const triggerUpdate = () => { currentPage = 1; renderResources(); };
 
     searchInput.addEventListener('input', triggerUpdate);
@@ -453,7 +501,6 @@ const initRepository = () => {
     orderFilter.addEventListener('change', triggerUpdate);
 
     // Inicialización
-    // Opcional: Forzar visualmente el select a 'az' si existe esa opción en el HTML
     if(orderFilter.querySelector('option[value="az"]')) {
         orderFilter.value = 'az'; 
     }

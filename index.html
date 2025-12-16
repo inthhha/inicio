@@ -32,7 +32,12 @@
                 </div>
             </div>
         </div>
-        <div class="toolbar-area" id="toolbar-menu-root"></div>
+        <div class="toolbar-area">
+          <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Abrir menú">
+            <span>☰</span> Menú
+          </button>
+        <div id="toolbar-menu-root" class="toolbar-menu-root"></div>
+          </div>
         <div id="megamenu-panel-container"></div>
     </header>
 
@@ -51,13 +56,22 @@
             <div class="repo-card">  
                 <div class="repo-header">
                     <h2 class="text-white mb-small">SERVICIOS CLÍNICOS</h2>
-                    <div class="repo-tabs">
+                    <div class="repo-tabs desktop-tabs">
                         <button class="repo-tab active" data-cat="cirugia">Cirugía</button>
                         <button class="repo-tab" data-cat="medicina">Medicina Interna</button>
                         <button class="repo-tab" data-cat="ginecologia">Ginecología y Obs.</button>
                         <button class="repo-tab" data-cat="pediatria">Pediatría</button>
                     </div>
-                </div>
+
+                    <div class="mobile-repo-select-container">
+                        <select id="mobile-repo-category" class="mobile-repo-select" aria-label="Seleccionar Servicio Clínico">
+                          <option value="cirugia">Cirugía</option>
+                          <option value="medicina">Medicina Interna</option>
+                          <option value="ginecologia">Ginecología y Obs.</option>
+                          <option value="pediatria">Pediatría</option>
+                        </select>
+                  </div>
+          </div>
 
                 <div class="repo-filters-container">
                     <div class="repo-search-row">
