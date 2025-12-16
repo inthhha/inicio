@@ -129,6 +129,62 @@ button, select { font-family: inherit; }
     overflow: visible; 
 }
 
+/* Footer */
+.adapted-footer {
+    width: 100% !important; 
+    max-width: 100% !important;
+    position: relative !important;
+    left: auto !important;
+    bottom: auto !important;
+    border-right: none !important;
+    
+    background-color: var(--primary-bg);
+    border-top: 1px solid var(--border-color);
+    padding: 25px 20px;
+    margin-top: auto;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.adapted-footer .credits-text-hhha {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    line-height: 1;
+    text-align: center;
+}
+
+.adapted-footer .mt-small {
+    margin-top: 8px !important;
+}
+
+.adapted-footer .ufro-small-logo {
+    height: 20px;
+    width: auto;
+    vertical-align: middle;
+    display: block;
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    .adapted-footer .credits-text-hhha {
+        flex-direction: column;
+        gap: 4px;
+    }
+    
+    .adapted-footer .mt-small {
+        margin-top: 10px !important;
+    }
+}
+
 /* =========================================
    4. Header y Navegación Superior
    ========================================= */
