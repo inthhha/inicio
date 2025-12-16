@@ -1,0 +1,115 @@
+// js/anexosDB.js
+const anexosDB = [
+    // LABORATORIO 🧪
+    { title: 'Laboratorio', category: 'laboratorio', number: 'N°: 9023/6905' },
+    { title: 'Hemograma', category: 'laboratorio', number: 'N°: 9025' },
+    { title: 'Orina y Urocultivos', category: 'laboratorio', number: 'N°: 6905' },
+    { title: 'Banco de Sangre - Transfusiones', category: 'laboratorio', number: 'N°: 8867' },
+    { title: 'Hemocultivos', category: 'laboratorio', number: 'N°: 9014' },
+    { title: 'Microbiológico', category: 'laboratorio', number: 'N°: 6903' },
+    { title: 'Inmunología', category: 'laboratorio', number: 'N°: 9030' },
+    { title: 'Anatomía patológica', category: 'laboratorio', number: 'N°: 8827' },
+    { title: 'Toxicina botulínica y clostridium', category: 'laboratorio', number: 'N°: 9016' },
+    { title: 'Cultivos', category: 'laboratorio', number: 'N°: 9022' },
+    { title: 'Hematología', category: 'laboratorio', number: 'N°: 9025/9017' },
+
+    // IMAGENOLOGÍA 🩻
+    { title: 'Scanner', category: 'imagenologia', number: 'N°: 9355/9447' },
+    { title: 'Medicina Nuclear', category: 'imagenologia', number: 'N°: 8754' },
+    { title: 'Recuperación imagen', category: 'imagenologia', number: 'N°: 6676' },
+    { title: 'Ecografía doppler', category: 'imagenologia', number: 'N°: 9357' },
+    { title: 'Ecografía convencional', category: 'imagenologia', number: 'N°: 9358' },
+    { title: 'Resonancia', category: 'imagenologia', number: 'N°: 9362/9361' },
+    { title: 'Rayos urgencia', category: 'imagenologia', number: 'N°: 9345/9346' },
+    { title: 'Informe Scanner', category: 'imagenologia', number: 'N°: 9346' },
+    { title: 'Seriógrafo', category: 'imagenologia', number: 'N°: 9344' },
+    { title: 'Radiografías', category: 'imagenologia', number: 'N°: 9353' },
+    { title: 'Radiografías portátiles', category: 'imagenologia', number: 'N°: 9348' },
+    { title: 'Secretaría de imagenología', category: ['imagenologia', 'secretarias'], number: 'N°: 9364' },
+    { title: 'Secretaría radiología intervencional', category: ['imagenologia', 'secretarias'], number: 'N°: 9364' },
+    
+    // FARMACIA/INMUNIZACIONES 💊
+    { title: 'Farmacia oncológica', category: 'farmacia-inmunizaciones', number: 'N°: 6828' },
+    { title: 'Farmacia unidosis', category: 'farmacia-inmunizaciones', number: 'N°: 8784 / 8783' },
+    { title: 'Farmacia central', category: 'farmacia-inmunizaciones', number: 'N°: 8782' },
+    { title: 'Inmunizaciones', category: 'farmacia-inmunizaciones', number: 'N°: 8977' },
+    
+    // QUIMICA Y FARMACIA 👩‍🔬
+    { title: 'Químico farmacéutico', category: 'qyf', number: 'N°: 6608' },
+    { title: 'QF Yasna Betancurt', category: 'qyf', number: 'N°: 6608' },
+    { title: 'QF Domingo Velasquez', category: 'qyf', number: 'N°: 9499' },
+    { title: 'QF Graciela Ponce', category: 'qyf', number: 'N°: 8797' },
+    
+    // DIALISIS 🩸
+    { title: 'Diálisis HHHA', category: 'dialisis', number: 'N°: 8838' },
+    { title: 'Diálisis Villarrica', category: 'dialisis', number: 'N°: 2410707' },
+    { title: 'Diálisis PLC', category: 'dialisis', number: 'N°: 2759733' },
+    { title: 'Diálisis Dinamarca', category: 'dialisis', number: 'N°: 204280' },
+    { title: 'Diálisis El Bosque', category: 'dialisis', number: 'N°: 452971000' },
+
+    // SUA-CRITICO 🚨
+    { title: 'SAR Medicina', category: 'sua', number: 'N°: 3685/9450' },
+    { title: 'Estar médico SUA', category: 'sua', number: 'N°: 9250' },
+    { title: 'Pasillo SUA', category: 'sua', number: 'N°: 9253' },
+    { title: 'UTI 2° piso', category: 'sua', number: 'N°: 9312' },
+    { title: 'UTI 3° piso', category: 'sua', number: 'N°: 8941' },
+    
+    // POLICLÍNICOS 🏥
+    { title: 'Policlínico de psiquiatría', category: 'policlinicos', number: 'N°: 9651' },
+    { title: 'Policlínico de dermatología', category: 'policlinicos', number: 'N°: 8983' },
+    { title: 'Policlínico de oncología', category: 'policlinicos', number: 'N°: 9155/8916' },
+    { title: 'Policlínico de infectología', category: 'policlinicos', number: 'N°: 7511/8725' },
+    { title: 'Policlínico de neurología', category: 'policlinicos', number: 'N°: 8996' },
+    { title: 'Policlínico de otorrinolaringología', category: 'policlinicos', number: 'N°: 6626/8966/9178' },
+   
+    // CARDIOLOGIA ❤️
+    { title: 'Angiógrafo', category: ['cardiologia', 'quirurgico'], number: 'N°: 9343' },
+    { title: 'EU angiógrafo', category: ['cardiologia', 'quirurgico'], number: 'N°: 9368' },
+    { title: 'Ecocardiografía', category: 'cardiologia', number: 'N°: 9156' },
+    { title: 'Electrofisiología', category: 'cardiologia', number: 'N°: 8996' },
+    { title: 'Secretaría de cardiología', category: ['cardiologia', 'secretarias'], number: 'N°: 8954' },
+    { title: 'Holter', category: 'cardiologia', number: 'N°: 9158' },
+    { title: 'Secretaria hemodinamia', category: ['cardiologia', 'secretarias'], number: 'N°: 8945' },
+
+    // MEDICO 👨‍⚕️
+    { title: 'HODOM', category: 'medico', number: 'N°: 6922/6924' },
+    { title: 'Cuidados Paliativos', category: 'medico', number: 'N°: 9065' },
+    { title: 'LP Sector A', category: 'medico', number: 'N°: 8973' },
+    { title: 'LP Sector B', category: 'medico', number: 'N°: 9343' },
+    { title: 'Medicina Interna A', category: 'medico', number: 'N°: 8973' },
+    { title: 'Medicina Interna B', category: 'medico', number: 'N°: 9243' },
+    { title: 'Medicina Interna C', category: 'medico', number: 'N°: 6688' },
+    { title: 'Pediatría', category: 'medico', number: 'N°: 6665' },
+    { title: 'Secretaría de medicina interna', category: ['medico', 'secretarias'], number: 'N°: 8940' },
+    { title: 'Secretaría de CDT', category: ['medico', 'secretarias'], number: 'N°: 9510' },
+    { title: 'Lactantes', category: 'medico', number: 'N°: 8965' },
+    { title: 'Segunda infancia', category: 'medico', number: 'N°: 6686' },
+    
+    // QUIRURGICO 🩺
+    { title: 'Sala de procedimientos', category: 'quirurgico', number: 'N°: 6821' },
+    { title: 'Endoscopía', category: 'quirurgico', number: 'N°: 9425' },
+    { title: 'Pabellón central', category: 'quirurgico', number: 'N°: 8880' },
+    { title: 'Pasillo pabellón', category: 'quirurgico', number: 'N°: 6723' },
+    { title: 'Recuperación', category: 'quirurgico', number: 'N°: 9284' },
+    { title: 'Pabellón de quemados', category: 'quirurgico', number: 'N°: 6850' },
+    { title: 'Pabellón cardiología', category: ['quirurgico', 'cardiologia'], number: 'N°: 8953' },
+    { title: 'Recuperación pabellón central', category: 'quirurgico', number: 'N°: 6722' },
+    { title: 'Recuperación maternidad', category: 'quirurgico', number: 'N°: 9248' },
+    { title: 'Cirugía EP-A', category: 'quirurgico', number: 'N°: 6681' },
+    { title: 'Cirugía EP-B', category: 'quirurgico', number: 'N°: 6842' },
+    { title: 'Cirugía EP-C 350', category: 'quirurgico', number: 'N°: 6750' },
+    { title: 'Cirugía EP-C 370', category: 'quirurgico', number: 'N°: 8920' },
+    { title: 'Neurocirugía', category: 'quirurgico', number: 'N°: 8913' },
+    { title: 'Oftalmología', category: 'quirurgico', number: 'N°: 9168' },
+    { title: 'Otorrinolaringología', category: 'quirurgico', number: 'N°: 9177' },
+    { title: 'Policlínico de urología', category: ['quirurgico', 'policlinicos'], number: 'N°: 9184/9483' },
+    { title: 'Policlínico de ginecología', category: ['quirurgico', 'policlinicos'], number: 'N°: 6735/9108' },
+    { title: 'Policlínico de maxilofacial', category: ['quirurgico', 'policlinicos'], number: 'N°: 6794' },
+    { title: 'Policlínico de ostomía', category: ['quirurgico', 'policlinicos'], number: 'N°: 8903' },
+    { title: 'Policlínico de traumatología', category: ['quirurgico', 'policlinicos'], number: 'N°: 9188/8935' },
+    { title: 'Secretaría de cirugía cardíaca', category: ['quirurgico', 'cardiologia', 'secretarias'], number: 'N°: 8979' },
+    { title: 'Secretaría de cirugía (Morelia)', category: ['quirurgico', 'secretarias'], number: 'N°: 8918' },
+    { title: 'Secretaría de pabellón', category: ['quirurgico', 'secretarias'], number: 'N°: 9430' },
+    { title: 'CMA', category: 'quirurgico', number: 'N°: 8999' },
+    { title: 'Ginecología y oncoginecología', category: 'quirurgico', number: 'N°: 3669' },
+];
