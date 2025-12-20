@@ -1,0 +1,672 @@
+/* indicaciones-y-manejo-styles.css */
+
+        /* =========================================
+           2. ESTILOS LOCALES
+           ========================================= */
+        /* --- 2.1 Configuración general --- */
+        .subpage-container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 0 20px;
+            min-height: 60vh;
+        }
+        
+        /* --- 2.2 Navegación --- */
+        .back-nav {
+            margin-bottom: 25px;
+        }
+        .back-nav a {
+            color: var(--ssasur-blue);
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            transition: color 0.2s;
+        }
+        .back-nav a:hover {
+            color: var(--ssasur-red);
+            text-decoration: underline;
+        }
+        
+        /* --- 2.3 Layout Grid --- */
+        .top-row {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 25px;
+            margin-bottom: 25px;
+        }
+
+        .bottom-row {
+            display: block;
+            width: 100%;
+        }
+
+        /* --- 2.4 Paneles --- */
+        .info-panel {
+            background: var(--primary-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 12px var(--shadow);
+            height: 100%; 
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* --- 2.5 Títulos e iconos --- */
+        .panel-title {
+            color: var(--ssasur-blue);
+            font-size: 1.25rem;
+            margin-top: 0;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(15, 105, 180, 0.1);
+            font-weight: 700;
+            display: flex; 
+            align-items: center; 
+        }
+
+        h4 {
+            color: var(--text-primary);
+            margin-top: 15px;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .title-icon { width: 32px; height: 32px; object-fit: contain; margin-right: 12px; }
+        .subtitle-icon { width: 24px; height: 24px; object-fit: contain; margin-right: 8px; }
+
+        .panel-text {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        /* Listas de detalles generales */
+        .details-list {
+            padding-left: 20px;
+            margin-top: 8px;
+            font-size: 0.9em;
+        }
+
+        /* --- 2.6 Imagen Promocional --- */
+        .promo-container {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .promo-image-wrapper {
+            width: 100%;
+            height: 100%;
+            min-height: 200px;
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 15px;
+            border: 1px solid var(--item-bg);
+            position: relative;
+        }
+
+        .promo-image-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        /* --- 2.7 Botones de descarga --- */
+        .action-buttons-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: auto; 
+        }
+
+        .download-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--primary-bg); 
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            text-decoration: none;
+            padding: 15px 10px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 4px var(--shadow);
+            text-align: center;
+            position: relative;
+        }
+
+        .download-btn:hover {
+            background-color: var(--item-hover);
+            border-color: var(--ssasur-blue);
+            color: var(--ssasur-blue);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px var(--shadow);
+        }
+
+        .btn-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            object-fit: contain;
+            transition: transform 0.2s ease;
+        }
+
+        .download-btn:hover .btn-icon { transform: scale(1.1); }
+
+        /* =========================================
+           ESTILOS PARA LA TABLA DE INDICACIONES
+           ========================================= */
+
+        /* --- 1. Layout Principal --- */
+        .subpage-container {
+            max-width: 1400px;
+            margin: 30px auto;
+            padding: 0 20px;
+            min-height: 60vh;
+        }
+
+        .back-nav { margin-bottom: 25px; }
+        .back-nav a {
+            color: var(--ssasur-blue);
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            transition: color 0.2s;
+        }
+        .back-nav a:hover {
+            color: var(--ssasur-red);
+            text-decoration: underline;
+        }
+
+        .top-row {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 25px;
+            margin-bottom: 25px;
+        }
+
+        /* --- 2. Paneles de Información --- */
+        .info-panel {
+            background-color: var(--primary-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 15px var(--shadow);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .panel-title {
+            color: var(--text-primary);
+            font-size: 1.25rem;
+            margin: 0 0 15px 0;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--border-color);
+            font-weight: 700;
+            display: flex; align-items: center;
+        }
+
+        .panel-subtitle {
+            color: var(--text-primary);
+            margin: 15px 0 10px 0;
+            font-size: 1.1rem;
+            display: flex; align-items: center;
+        }
+
+        .panel-text {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .contact-details-list { padding-left: 20px; margin-top: 8px; font-size: 0.9em; color: var(--text-primary); }
+        .title-icon { width: 32px; height: 32px; object-fit: contain; margin-right: 12px; }
+        .subtitle-icon { width: 24px; height: 24px; object-fit: contain; margin-right: 8px; }
+        .mt-small { margin-top: 8px; }
+
+        /* --- 3. Contenedor Principal de Indicaciones --- */
+        .indicaciones-card {
+            background: var(--primary-bg);
+            border-radius: 16px;
+            box-shadow: 0 4px 15px var(--shadow);
+            border: 1px solid var(--border-color);
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+
+        .indicaciones-header {
+            background: var(--ssasur-blue);
+            padding: 15px 20px 10px 20px;
+            border-radius: 16px 16px 0 0;
+        }
+
+        .indicaciones-header h2 {
+            margin: 0 0 14px 0;
+            color: white;
+            font-size: 1.5rem;
+        }
+
+        /* Tabs de Filtro (igual que en el repositorio principal) */
+        .indicaciones-tabs {
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            padding-bottom: 5px;
+            flex-wrap: wrap;
+        }
+
+        .indicaciones-tabs::-webkit-scrollbar {
+            display: none;
+        }
+
+        .indicaciones-tab {
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: white;
+            padding: 8px 20px;
+            font-weight: 500;
+            font-size: 13px;
+            letter-spacing: 0.3px;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .indicaciones-tab:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-1px);
+        }
+
+        .indicaciones-tab.active {
+            background: white;
+            color: var(--ssasur-blue);
+            font-weight: 700;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-color: white;
+            transform: scale(1.02);
+        }
+        
+/* Corrección Modo Oscuro al final del archivo */
+    @media (prefers-color-scheme: dark) {
+        .indicaciones-tab.active {
+            background: var(--primary-bg);
+            color: #64b5f6;
+            border-color: var(--border-color);
+    }
+}
+
+        /* Contenedor de contenido principal - ANCHO FIJO */
+        .indicaciones-content {
+            display: grid;
+            grid-template-columns: 40% 60%; /* Ancho fijo proporcional */
+            gap: 0;
+            min-height: 600px;
+            width: 100%;
+        }
+
+        @media (max-width: 992px) {
+            .indicaciones-content {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Panel de Selección (Izquierda) - CON EFECTO DE TARJETA */
+        .seleccion-panel {
+            background-color: var(--secondary-bg);
+            padding: 20px;
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .buscador-container {
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        .buscador-input {
+            width: 100%;
+            padding: 12px 15px;
+            padding-left: 40px;
+            border: 1px solid var(--border-color);
+            background: var(--primary-bg);
+            color: var(--text-primary);
+            border-radius: 8px;
+            font-size: 14px;
+            outline: none;
+            transition: border 0.2s;
+        }
+
+        .buscador-input:focus {
+            border-color: var(--ssasur-blue);
+        }
+
+        .buscador-icon {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 16px;
+        }
+
+        /* --- MODIFICACIÓN PRINCIPAL: CONTENEDOR TRANSPARENTE --- */
+        .items-lista {
+            flex: 1;
+            max-height: 500px;
+            overflow-y: auto;
+            /* Eliminamos el borde y fondo del contenedor para que las tarjetas "floten" */
+            border: none; 
+            background: transparent;
+            padding-right: 5px; /* Espacio para el scrollbar */
+        }
+
+        /* --- MODIFICACIÓN PRINCIPAL: ESTILO TARJETA (CARD) --- */
+        .item-indicacion {
+            padding: 15px 20px;
+            /* Borde completo y redondeado para efecto tarjeta */
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            /* Margen inferior para separar las tarjetas */
+            margin-bottom: 12px; 
+            
+            background: var(--primary-bg); /* Fondo blanco/primario */
+            cursor: pointer;
+            transition: var(--transition-smooth);
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            text-align: left;
+            position: relative;
+            
+            /* Borde izquierdo como acento (dentro de la tarjeta) */
+            border-left: 5px solid transparent; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            overflow: hidden;
+        }
+
+        /* Eliminamos la regla anterior que quitaba el borde del último elemento */
+        .item-indicacion:last-child {
+            border-bottom: 1px solid var(--border-color); 
+            margin-bottom: 5px; /* Pequeño margen final */
+        }
+
+        .item-indicacion:hover {
+            background: var(--primary-bg);
+            border-left-color: var(--ssasur-red);
+            transform: translateY(-3px);
+        }
+        
+        .item-indicacion.active {
+            background-color: var(--primary-bg);
+            color: var(--ssasur-blue);
+            border-left: 6px solid var(--ssasur-blue);
+            transform: translateY(-3px);
+        }
+
+        .item-indicacion.active .item-icon {
+            color: var(--ssasur-blue);
+            background: rgba(15, 105, 180, 0.1);
+        }
+
+        .item-icon {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(15, 105, 180, 0.1);
+            border-radius: 8px;
+            color: var(--ssasur-blue);
+            font-size: 20px;
+            flex-shrink: 0;
+            transition: transform 0.3s ease, background 0.3s ease;
+        }
+
+        .item-indicacion:hover .item-icon {
+            transform: scale(1.1) rotate(5deg);
+            background: rgba(15, 105, 180, 0.15);
+        }
+
+        .item-indicacion.active:hover .item-icon {
+            background: rgba(15, 105, 180, 0.2);
+        }
+
+        .item-text {
+            flex: 1;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        /* Panel de Detalle (Derecha) - ANCHO FIJO */
+        .detalle-panel {
+            background-color: var(--secondary-bg);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            border-left: 1px solid var(--border-color);
+            transform: none !important;
+            transition: none !important;
+            box-shadow: none !important;
+            min-width: 0;
+        }
+        
+        .detalle-panel:hover {
+            transform: none !important;
+            box-shadow: none !important;
+        }
+
+        .detalle-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 0 5px;
+            border-bottom: 2px solid var(--border-color);
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .detalle-titulo {
+            color: var(--text-primary);
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin: 0;
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .copiar-btn {
+            width: 100px;
+            height: 32px;
+            border-radius: 8px;
+            min-width: 60px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;   
+            background: #FFFFFFA1; 
+            border: 0px;
+            color: var(--ssasur-blue);      
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 0.8rem; 
+            font-weight: bold;
+            padding: 0 20px;
+            gap: 8px;
+            white-space: nowrap;
+            box-shadow: 0 2px 6px var(--shadow);
+        }
+        
+        .copiar-btn:hover:not(:disabled) {
+            background: var(--item-hover);   
+            transform: translateY(-2px);    
+            box-shadow: 0 4px 10px var(--shadow);
+            color: var(--ssasur-blue);
+            border-color: var(--ssasur-blue);
+        }
+
+        .copiar-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            background: rgba(0,0,0,0.05);
+            border-color: transparent;
+            transform: none;
+            box-shadow: none;
+        }
+
+/* Corrección explícita para Modo Oscuro (si es necesaria) */
+      @media (prefers-color-scheme: dark) {
+        .copiar-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #64b5f6;
+        }
+        .copiar-btn:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.15);
+            color: #64b5f6;
+        }
+}
+
+        .detalle-contenido {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            white-space: pre-wrap;
+            word-wrap: break-word; 
+            overflow-wrap: break-word; 
+            padding: 25px;
+            background: var(--primary-bg);
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            flex: 1;
+            overflow-y: auto;
+            min-height: 400px;
+            max-width: 100%;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            transition: var(--transition-smooth);
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+        
+        .detalle-contenido:hover {
+            transform: translateY(-3px); 
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1); 
+        }
+        
+        .detalle-contenido pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-family: inherit;
+        }
+
+        .detalle-vacio {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 400px;
+            color: var(--text-muted);
+            text-align: center;
+            gap: 15px;
+        }
+
+        .detalle-vacio-icon {
+            font-size: 48px;
+            opacity: 0.5;
+        }
+
+        .detalle-vacio-texto {
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        /* Scrollbar personalizado */
+        .items-lista::-webkit-scrollbar,
+        .detalle-contenido::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .items-lista::-webkit-scrollbar-track,
+        .detalle-contenido::-webkit-scrollbar-track {
+            background: var(--secondary-bg);
+            border-radius: 4px;
+        }
+
+        .items-lista::-webkit-scrollbar-thumb,
+        .detalle-contenido::-webkit-scrollbar-thumb {
+            background: var(--ssasur-blue);
+            border-radius: 4px;
+        }
+
+        .items-lista::-webkit-scrollbar-thumb:hover,
+        .detalle-contenido::-webkit-scrollbar-thumb:hover {
+            background: var(--ssasur-red);
+        }
+
+        /* Estados vacíos */
+        .lista-vacia {
+            padding: 40px 20px;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        /* MEDIA QUERIES */
+        @media (max-width: 768px) {
+            .seleccion-panel,
+            .detalle-panel {
+                padding: 15px;
+            }
+            
+            .detalle-header {
+                flex-direction: column;
+                gap: 15px;
+                align-items: flex-start;
+            }
+            
+            .copiar-btn {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .indicaciones-tabs {
+                flex-wrap: wrap;
+            }
+            
+            .indicaciones-content {
+                grid-template-columns: 1fr;
+                min-height: 500px;
+            }
+            
+            .detalle-contenido {
+                min-height: 300px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .item-indicacion {
+                padding: 12px 15px;
+                gap: 12px;
+            }
+            
+            .item-icon {
+                width: 36px;
+                height: 36px;
+                font-size: 18px;
+            }
+        }
