@@ -143,14 +143,15 @@ const megaStructure = [
         sections: [
             { title: 'Recursos', img: 'images/herramientas.png',
                 items: [
-                           { text: 'Anexos HHHA', img: 'images/phone.png', desc: 'Líneas de Teléfonos HHHA', url: 'anexos.html' },
-                           { text: 'Manejos/Indicaciones', img: 'images/tto.png', desc: 'Manejos e Indicaciones generales en urgencias/hospitalizados', url: '' },
-                           { text: 'Acerca de', img: 'images/info.png', desc: 'Términos de Uso y Política de Privacidad', url: 'terminos-de-uso-y-politica-de-privacidad.html' }
+                           { text: 'Anexos HHHA', img: 'images/phone.png', desc: 'Líneas de Teléfonos HHHA', url: 'anexos.html', sameTab: true },
+                           { text: 'Manejos/Indicaciones', img: 'images/tto.png', desc: 'Manejos e Indicaciones generales en urgencias/hospitalizados', url: 'indicaciones-y-manejo.html', sameTab: true },
+                           { text: 'Portal Intern@', img: 'images/medufro.png', desc: 'Portal privado de la Carrera de Medicina UFRO', url: 'intern@', sameTab: true },
+                           { text: 'Acerca de', img: 'images/info.png', desc: 'Términos de Uso y Política de Privacidad', url: 'terminos-de-uso-y-politica-de-privacidad.html', sameTab: true }
                         ]
                      },
             { title: 'Software', img: 'images/software.png',
                 items: [
-                            { text: 'Extensión Accesos Clínicos', img: 'images/accesos-clinicos.png', desc: 'Extensión de navegadores para accesos a servicios clínicos Araucanía Sur', url: 'accesos-clinicos.html' },
+                            { text: 'Extensión Accesos Clínicos', img: 'images/accesos-clinicos.png', desc: 'Extensión de navegadores para accesos a servicios clínicos Araucanía Sur', url: 'accesos-clinicos.html', sameTab: true },
                             { text: 'Extractor de Exámenes', img: 'images/test.png', desc: 'Extractor de resultados de exámenes generales', url: 'https://notionmedufro.github.io/ExtractorHIS/' },
                             { text: 'Psiphon', img: 'images/psiphon.png', desc: 'VPN gratuita', url: 'https://drive.google.com/drive/folders/1SeqFDJmYBIvV6SCfcLPskAdEeIkWrI-1?usp=sharing' },
                             { text: 'WPS Office', img: 'images/wps.png', desc: 'Ofimática China gratuita', url: 'https://es.wps.com/' }
