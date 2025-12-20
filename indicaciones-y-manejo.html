@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manejo/Indicaciones</title>
+
+    <meta property="og:title" content="Manejo/Indicaciones" />
+    <meta property="og:description" content="Plataforma creado por la carrera de Medicina UFRO para facilitar el acceso a plataformas clínicas." />
+    <meta property="og:image" content="https://inthhha.pages.dev/images/tto.png" />
+    <meta property="og:url" content="https://inthhha.pages.dev/indicaciones-y-manejo" />
+    <meta property="og:type" content="website" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://cdnjs.cloudflare.com; style-src 'self' https://cdnjs.cloudflare.com 'unsafe-inline'; font-src 'self' https://cdnjs.cloudflare.com; connect-src https://*.googleapis.com https://*.firebaseio.com; img-src 'self' data: https:;">
+    
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/indicaciones-y-manejo-styles.css">
+    <link rel="icon" type="image/png" href="images/hospital.png">
+    
+</head>
+<body>
+
+    <header class="main-header-container">
+        <div class="header-top-area">
+            <div class="header-gradient-section">
+                <div class="ssasur-logo-hhha">
+                    <div class="logo-blue-hhha"></div>
+                    <div class="logo-red-hhha"></div>
+                </div>
+                <div class="header-text-content">
+                    <h3>INTERNADO HHHA</h3>
+                    <p>Sector Araucanía Sur</p>
+                </div>
+            </div>
+        </div>
+        <div class="toolbar-area">
+          <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Abrir menú">
+            <span>☰</span> Menú
+          </button>
+        <div id="toolbar-menu-root" class="toolbar-menu-root"></div>
+          </div>
+    </header>
+    <main class="subpage-container">        
+        <nav class="back-nav">
+            <a href="index.html" aria-label="Volver a la página de inicio">← Volver al Inicio</a>
+        </nav>
+
+        <section class="bottom-row">
+            
+            <div class="info-panel">
+                <h2 class="panel-title">
+                    <img src="images/tto.png" class="title-icon" alt="" aria-hidden="true">
+                    Manejo/Indicaciones
+                </h2>
+                <div class="panel-text">
+                    <p class="mt-small">Las planillas son herramientas de apoyo que <strong>nunca sustituyen el juicio clínico</strong>, por lo que deben usarse con criterio y prudencia.<span style="color: transparent;">_____________________________________________________________</span></p>
+                <section class="indicaciones-card" style="margin-top: 30px;">
+                    <div class="indicaciones-header">
+                        <h2>Planillas de Manejo</h2>
+                        <div class="indicaciones-tabs" role="tablist">
+                            <button class="indicaciones-tab active" data-tipo="urgencia">🚨 Urgencia</button>
+                            <button class="indicaciones-tab" data-tipo="hospitalizados">🏥 Hospitalizados</button>
+                        </div>
+                    </div>
+
+                    <div class="indicaciones-content">
+                        <div class="seleccion-panel">
+                            <div class="buscador-container">
+                                <span class="buscador-icon">🔍</span>
+                                <input type="text" class="buscador-input" placeholder="Buscar manejo o indicación..." id="buscador-indicaciones">
+                            </div>
+                            
+                            <div class="items-lista" id="lista-indicaciones">
+                                </div>
+                        </div>
+
+                        <div class="detalle-panel">
+                            <div class="detalle-header">
+                                <h3 class="detalle-titulo" id="titulo-indicacion">Seleccione una indicación</h3>
+                                <button class="copiar-btn" id="btn-copiar" disabled>
+                                    📋   
+                                </button>
+                            </div>
+                            
+                            <div class="detalle-contenido" id="contenido-indicacion">
+                                <div class="detalle-vacio">
+                                    <div class="detalle-vacio-icon">📝</div>
+                                    <div class="detalle-vacio-texto">Seleccione una indicación de la lista para ver su contenido</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="main-footer sidebar-footer-hhha adapted-footer">
+        <div class="credits-text-hhha mt-tiny">
+            <img src="images/medufro.png" alt="Logo Medicina UFRO" class="ufro-small-logo">
+            <strong>Hecho por Medicina UFRO</strong> - Una plataforma para facilitar el acceso a Servicios Clínicos.
+        </div>
+        <div class="credits-text-hhha mt-small">
+           <img src="images/operator.png" alt="Logo Medicina UFRO" class="ufro-small-logo">
+           <strong>Contacto y Soporte Técnico:</strong> inthhha@gmail.com
+        </div>
+    </footer>
+
+    <script src="js/megaStructure.js"></script>
+    <script src="js/indicacionesDB.js"></script>
+    <script src="script.js"></script>
+    
+</body>
+</html>

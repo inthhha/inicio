@@ -7,8 +7,9 @@
  * 3. Módulo: Menú Lateral (Sidebar)
  * 4. Módulo: Mega Menú (Toolbar)
  * 5. Módulo: Repositorio (Filtros y Paginación)
- * 6. Módulo: Anexos (Directorio)
- * 7. Inicialización Global
+ * 6. Módulo: Anexos (Directorio) - ACTUALIZADO CON LOGICA MÓVIL
+ * 7. Módulo: Indicaciones y Manejo (Indicaciones)
+ * 8. Inicialización Global
  * ============================================================================
  */
 
@@ -235,8 +236,10 @@ const initMegaMenu = () => {
                 link.href = (item.url && item.url !== '#') ? item.url : 'javascript:void(0)';
                 
                 if (item.url && item.url !== '#' && !item.url.startsWith('javascript')) {
+                  if (!item.sameTab) { 
                     link.target = '_blank';
                     link.rel = 'noopener noreferrer';
+                    }
                 }
 
                 link.innerHTML = `
@@ -520,6 +523,9 @@ const initAnexosDirectory = () => {
     const tabs = document.querySelectorAll('.filter-tab');
     const searchInput = document.getElementById('anexos-search');
     const searchBtn = document.querySelector('.search-btn');
+    
+    // --- Referencia al Select Móvil ---
+    const mobileSelect = document.getElementById('mobile-filter-select');
 
     let currentFilter = 'todos';
 
@@ -567,9 +573,26 @@ const initAnexosDirectory = () => {
             tabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
             currentFilter = tab.dataset.filter;
+            
+            // --- Sincronizar Select Móvil al hacer clic en Tab ---
+            if (mobileSelect) {
+                mobileSelect.value = currentFilter;
+            }
+            
             renderAnexos();
         });
     });
+
+    // --- Listener para el Select Móvil ---
+    if (mobileSelect) {
+        mobileSelect.addEventListener('change', (e) => {
+            const selectedValue = e.target.value;
+            const targetTab = document.querySelector(`.filter-tab[data-filter="${selectedValue}"]`);
+            if (targetTab) {
+                targetTab.click(); 
+            }
+        });
+    }
 
     const performSearch = () => renderAnexos();
     
@@ -581,7 +604,160 @@ const initAnexosDirectory = () => {
 };
 
 // =========================================
-// 7. Inicialización Global
+// 7. Módulo: Indicaciones y Manejo
+// =========================================
+
+const initIndicaciones = () => {
+    // Verificar si estamos en la página correcta
+    const listaIndicaciones = document.getElementById('lista-indicaciones');
+    if (!listaIndicaciones) return;
+
+    // Verificar si la BD está cargada
+    if (typeof indicacionesDB === 'undefined') {
+        listaIndicaciones.innerHTML = '<div class="lista-vacia">Error: Base de datos no cargada.</div>';
+        return;
+    }
+
+    // Elementos del DOM
+    const contenidoIndicacion = document.getElementById('contenido-indicacion');
+    const tituloIndicacion = document.getElementById('titulo-indicacion');
+    const btnCopiar = document.getElementById('btn-copiar');
+    const buscadorInput = document.getElementById('buscador-indicaciones');
+    const filtrosTabs = document.querySelectorAll('.indicaciones-tab');
+    
+    // Variables de estado
+    let indicacionesFiltradas = [...indicacionesDB];
+    let tipoSeleccionado = 'urgencia';
+    let indicacionSeleccionada = null;
+    
+    // Funciones
+    const seleccionarIndicacion = (id) => {
+        indicacionSeleccionada = indicacionesFiltradas.find(ind => ind.id === id);
+        
+        // Actualizar clases activas
+        document.querySelectorAll('.item-indicacion').forEach(item => {
+            item.classList.remove('active');
+            if (parseInt(item.dataset.id) === id) {
+                item.classList.add('active');
+            }
+        });
+        
+        // Actualizar contenido
+        tituloIndicacion.textContent = indicacionSeleccionada.titulo;
+        contenidoIndicacion.innerHTML = `<pre>${indicacionSeleccionada.contenido}</pre>`;
+        
+        // Habilitar botón de copiar
+        btnCopiar.disabled = false;
+        btnCopiar.innerHTML = '📋 Copiar';
+    };
+
+    const renderizarLista = () => {
+        listaIndicaciones.innerHTML = '';
+        
+        if (indicacionesFiltradas.length === 0) {
+            listaIndicaciones.innerHTML = `
+                <div class="lista-vacia">
+                    No se encontraron indicaciones para "${tipoSeleccionado}" con la búsqueda actual.
+                </div>
+            `;
+            return;
+        }
+        
+        indicacionesFiltradas.forEach(indicacion => {
+            const item = document.createElement('div');
+            item.className = `item-indicacion ${indicacionSeleccionada?.id === indicacion.id ? 'active' : ''}`;
+            item.dataset.id = indicacion.id;
+            
+            item.innerHTML = `
+                <div class="item-icon">📋</div>
+                <div class="item-text">${indicacion.titulo}</div>
+            `;
+            
+            item.addEventListener('click', () => seleccionarIndicacion(indicacion.id));
+            listaIndicaciones.appendChild(item);
+        });
+    };
+
+        const filtrarIndicaciones = () => {
+            const textoBusqueda = buscadorInput.value.toLowerCase();
+            indicacionesFiltradas = indicacionesDB.filter(indicacion => {
+                    const coincideTipo = indicacion.tipo === tipoSeleccionado;
+                    const coincideBusqueda = !textoBusqueda || 
+                        indicacion.titulo.toLowerCase().includes(textoBusqueda) ||
+                        indicacion.contenido.toLowerCase().includes(textoBusqueda);
+            
+                return coincideTipo && coincideBusqueda;
+        });
+        indicacionesFiltradas.sort((a, b) => a.titulo.localeCompare(b.titulo));
+        renderizarLista();
+    };
+    
+    const copiarContenido = () => {
+        if (!indicacionSeleccionada) return;
+        
+        const texto = indicacionSeleccionada.contenido;
+        
+        navigator.clipboard.writeText(texto)
+            .then(() => {
+                const originalText = btnCopiar.innerHTML;
+                btnCopiar.innerHTML = '✅ ¡Copiado!';
+                btnCopiar.style.background = 'var(--ssasur-blue)';
+                btnCopiar.style.color = 'white';
+                btnCopiar.style.borderLeftColor = 'var(--ssasur-red)';
+                
+                setTimeout(() => {
+                    btnCopiar.innerHTML = originalText;
+                    btnCopiar.style.background = '';
+                    btnCopiar.style.color = '';
+                    btnCopiar.style.borderLeftColor = '';
+                }, 2000);
+            })
+            .catch(err => {
+                console.error('Error al copiar:', err);
+                alert('Error al copiar el texto. Intente nuevamente.');
+            });
+    };
+    
+    // Inicialización de Eventos
+    filtrosTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            filtrosTabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            
+            tipoSeleccionado = tab.dataset.tipo;
+            
+            filtrarIndicaciones();
+            
+            // Resetear vista detalle
+            indicacionSeleccionada = null;
+            tituloIndicacion.textContent = 'Seleccione una indicación';
+            contenidoIndicacion.innerHTML = `
+                <div class="detalle-vacio">
+                    <div class="detalle-vacio-icon">📝</div>
+                    <div class="detalle-vacio-texto">Seleccione una indicación de la lista para ver su contenido</div>
+                </div>
+            `;
+            btnCopiar.disabled = true;
+        });
+    });
+
+    buscadorInput.addEventListener('input', filtrarIndicaciones);
+    btnCopiar.addEventListener('click', copiarContenido);
+    
+    // Carga inicial
+    filtrarIndicaciones();
+    
+    // Seleccionar primera opción automáticamente si hay resultados
+    if (indicacionesFiltradas.length > 0) {
+        setTimeout(() => {
+            const primeraIndicacion = listaIndicaciones.querySelector('.item-indicacion');
+            if (primeraIndicacion) primeraIndicacion.click();
+        }, 100);
+    }
+};
+
+// =========================================
+// 8. Inicialización Global
 // =========================================
 
 const initApp = () => {
@@ -590,6 +766,7 @@ const initApp = () => {
     initMegaMenu();
     initRepository();
     initAnexosDirectory();
+    initIndicaciones();
 };
 
 document.addEventListener('DOMContentLoaded', initApp);
