@@ -145,6 +145,7 @@ const megaStructure = [
                 items: [
                            { text: 'Anexos HHHA', img: 'images/phone.png', desc: 'Líneas de Teléfonos HHHA', url: 'anexos.html', sameTab: true },
                            { text: 'Manejos/Indicaciones', img: 'images/tto.png', desc: 'Manejos e Indicaciones generales en urgencias/hospitalizados', url: 'indicaciones-y-manejo.html', sameTab: true },
+                           { text: 'Portal Intern@', img: 'images/medufro.png', desc: 'Portal privado de la Carrera de Medicina UFRO', url: 'intern@', sameTab: true },
                            { text: 'Acerca de', img: 'images/info.png', desc: 'Términos de Uso y Política de Privacidad', url: 'terminos-de-uso-y-politica-de-privacidad.html', sameTab: true }
                         ]
                      },
