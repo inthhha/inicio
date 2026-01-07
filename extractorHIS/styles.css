@@ -1,0 +1,1335 @@
+:root {
+    /* Colores de la extensión */
+    --primary-color: #0f69b4;
+    --secondary-color: #eb3c46;
+    --bg-color: #ffffff;
+    --text-color: #2c3e50;
+    --border-color: rgba(15, 105, 180, 0.2);
+    --shadow-color: rgba(15, 105, 180, 0.15);
+    --light-bg: #f8f9fa;
+    --muted-color: #5a6c7d;
+    --success-color: #27ae60;
+    --error-color: #e74c3c;
+    --info-color: #3498db;
+    --card-bg: #ffffff;
+    --input-bg: #ffffff;
+    --button-blue: #0f69b4;
+    --button-hover-blue: #0d5a9f;
+    --hover-light: #e6f2ff;
+}
+
+/* Modo oscuro automático basado en preferencias del sistema */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary-color: #0f69b4;
+        --secondary-color: #eb3c46;
+        --bg-color: #1a1f2e;
+        --text-color: #e0e0e0;
+        --border-color: rgba(255, 255, 255, 0.1);
+        --shadow-color: rgba(0, 0, 0, 0.3);
+        --light-bg: #252a3a;
+        --muted-color: #a0a0a0;
+        --card-bg: #252a3a;
+        --input-bg: #2d3748;
+        --button-blue: #0f69b4;
+        --button-hover-blue: #0d5a9f;
+        --hover-light: rgba(15, 105, 180, 0.2);
+    }
+}
+
+/* Para compatibilidad con el atributo data-theme (si se implementa manualmente) */
+[data-theme="dark"] {
+    --primary-color: #0f69b4;
+    --secondary-color: #eb3c46;
+    --bg-color: #1a1f2e;
+    --text-color: #e0e0e0;
+    --border-color: rgba(255, 255, 255, 0.1);
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --light-bg: #252a3a;
+    --muted-color: #a0a0a0;
+    --card-bg: #252a3a;
+    --input-bg: #2d3748;
+    --button-blue: #0f69b4;
+    --button-hover-blue: #0d5a9f;
+    --hover-light: rgba(15, 105, 180, 0.2);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+/* Header */
+.main-header {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    padding: 15px 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 12px 12px 0 0;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.ssasur-logo-compact {
+    display: flex;
+    gap: 3px;
+}
+
+.logo-blue-compact, .logo-red-compact {
+    width: 20px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.logo-blue-compact { 
+    background: var(--primary-color);
+    opacity: 1;
+    box-shadow: 
+        0 4px 8px rgba(15, 105, 180, 0.3),
+        0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.logo-red-compact { 
+    background: var(--secondary-color);
+    opacity: 1;
+    box-shadow: 
+        0 4px 8px rgba(235, 60, 70, 0.3),
+        0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header-title h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.header-title p {
+    margin: 2px 0 0 0;
+    font-size: 12px;
+    opacity: 0.9;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.header-right {
+    display: flex;
+    gap: 8px;
+}
+
+.header-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+}
+
+.header-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-1px);
+}
+
+.source-icon {
+    font-size: 14px;
+}
+
+.chrome-btn {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.chrome-btn:hover {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+/* Main Content */
+.main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    position: relative;
+}
+
+/* Step Cards */
+.step-card {
+    background: var(--card-bg);
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px var(--shadow-color);
+    position: relative;
+}
+
+.step-card:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px var(--shadow-color);
+}
+
+.step-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.step-card-header h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.step-icon {
+    font-size: 20px;
+}
+
+.step-card-controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+/* Botones Todo/Borrar - Estilo azul de la extensión */
+.step-card-btn {
+    padding: 8px 16px;
+    background: var(--button-blue);
+    border: 1px solid var(--button-blue);
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.step-card-btn:hover {
+    background: var(--button-hover-blue);
+    border-color: var(--button-hover-blue);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(15, 105, 180, 0.2);
+}
+
+.add-exam-btn {
+    background: var(--success-color) !important;
+    border-color: var(--success-color) !important;
+}
+
+.add-exam-btn:hover {
+    background: #219653 !important;
+    border-color: #219653 !important;
+}
+
+/* Fecha Control - Checkbox circular de la extensión */
+.fecha-control {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--light-bg);
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+}
+
+.fecha-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.fecha-toggle input {
+    display: none;
+}
+
+.fecha-checkmark {
+    position: relative;
+    height: 18px;
+    width: 18px;
+    background-color: #fff;
+    border: 2px solid #bdc3c7;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+}
+
+.fecha-toggle input:checked ~ .fecha-checkmark {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.fecha-checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.fecha-toggle input:checked ~ .fecha-checkmark:after {
+    display: block;
+}
+
+.fecha-label {
+    font-size: 13px;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.date-format-select {
+    padding: 6px 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: var(--input-bg);
+    color: var(--text-color);
+    font-size: 13px;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+.date-format-select:hover {
+    border-color: var(--primary-color);
+}
+
+.date-format-select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px rgba(15, 105, 180, 0.2);
+}
+
+/* ===== ESTILOS PARA EL NUEVO SISTEMA DE BOTONES PRINCIPALES ===== */
+
+/* Fila de botones principales */
+.main-buttons-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main-parameter-item {
+    flex: 1;
+    min-width: 180px;
+    max-width: 200px;
+    background: var(--light-bg);
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+    padding: 12px;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+/* CORREGIDO: Estilos para hover - ahora usa variable --hover-light */
+.main-parameter-item:hover {
+    background: var(--hover-light);
+    border-color: var(--primary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(15, 105, 180, 0.15);
+}
+
+.main-parameter-item.active {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.main-parameter-item.active .param-label {
+    color: white;
+}
+
+.main-parameter-item.active .param-icon {
+    color: white;
+}
+
+.main-parameter-item .checkbox-container {
+    flex: 1;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.main-parameter-item .checkmark {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 2px solid #bdc3c7;
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+}
+
+.main-parameter-item .checkbox-container input:checked ~ .checkmark {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.main-parameter-item .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+    left: 6px;
+    top: 2px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.main-parameter-item .checkbox-container input:checked ~ .checkmark:after {
+    display: block;
+}
+
+.param-icon {
+    font-size: 20px;
+    color: var(--text-color);
+    flex-shrink: 0;
+}
+
+.param-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-color);
+    white-space: nowrap;
+    flex: 1;
+}
+
+.details-btn {
+    background: none;
+    border: none;
+    color: var(--muted-color);
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.details-btn:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--primary-color);
+}
+
+.details-btn.active .details-arrow {
+    transform: rotate(180deg);
+}
+
+.details-arrow {
+    font-size: 10px;
+    transition: transform 0.2s;
+}
+
+/* Paneles avanzados */
+.advanced-panels-container {
+    margin-bottom: 20px;
+}
+
+.advanced-panel {
+    background: var(--light-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+        max-height: 0;
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+        max-height: 500px;
+    }
+}
+
+.advanced-panel-header {
+    background: rgba(15, 105, 180, 0.1);
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.advanced-panel-header h3 {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.advanced-panel-content {
+    padding: 20px;
+}
+
+.advanced-options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 12px;
+}
+
+.advanced-option-group {
+    margin-bottom: 15px;
+}
+
+.advanced-option-group:last-child {
+    margin-bottom: 0;
+}
+
+.advanced-option {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    background: var(--card-bg);
+    border-radius: 6px;
+    border: 1px solid transparent;
+    transition: all 0.2s;
+}
+
+/* MODIFICADO: Ahora los botones de opciones tienen el mismo estilo que "Fecha" */
+.advanced-option {
+    background: var(--light-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+}
+
+.advanced-option:hover {
+    border-color: var(--primary-color);
+    background: var(--hover-light);
+}
+
+.advanced-option .checkbox-container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.advanced-option .checkbox-container input:checked ~ .option-label {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.advanced-option .checkmark {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 2px solid #bdc3c7;
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+}
+
+.advanced-option .checkbox-container input:checked ~ .checkmark {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.advanced-option .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.advanced-option .checkbox-container input:checked ~ .checkmark:after {
+    display: block;
+}
+
+.option-label {
+    font-size: 13px;
+    color: var(--text-color);
+    flex: 1;
+}
+
+/* ESTILOS ESPECÍFICOS PARA SUBOPCIONES (VFG, Urea, etc.) */
+.advanced-suboptions {
+    margin-left: 30px;
+    padding-left: 15px;
+    border-left: 2px solid rgba(15, 105, 180, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.advanced-suboption {
+    display: flex;
+    align-items: center;
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+/* MODIFICADO: Subopciones también tienen el estilo de "Fecha" */
+.advanced-suboption {
+    background: var(--light-bg);
+    border: 1px solid var(--border-color);
+}
+
+.advanced-suboption:hover {
+    background: var(--hover-light);
+    border-color: var(--primary-color);
+}
+
+.advanced-suboption .checkbox-container {
+    padding: 0;
+    background: transparent;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Checkbox más pequeño para subopciones */
+.advanced-suboption .sub-checkmark {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 2px solid #bdc3c7;
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+}
+
+.advanced-suboption .checkbox-container input:checked ~ .sub-checkmark {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.advanced-suboption .sub-checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+    left: 4px;
+    top: 0;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.advanced-suboption .checkbox-container input:checked ~ .sub-checkmark:after {
+    display: block;
+}
+
+.advanced-suboption .sub-label {
+    font-size: 12px;
+    color: var(--text-color);
+    flex: 1;
+}
+
+/* Checkbox personalizado (general) */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    gap: 8px;
+}
+
+.checkbox-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+/* Todos los checkmark deben ser circulares */
+.fecha-checkmark,
+.checkmark,
+.format-checkmark,
+.sub-checkmark {
+    border-radius: 50% !important;
+}
+
+/* Format Panel */
+.format-panel {
+    background: var(--light-bg);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.format-header {
+    display: flex;
+    align-items: center;
+    min-width: 150px;
+}
+
+.format-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    white-space: nowrap;
+}
+
+.format-options-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.format-option {
+    display: flex;
+}
+
+/* Checkbox estilo circular para formato */
+.format-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    position: relative;
+    padding-left: 0;
+}
+
+.format-toggle input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.format-checkmark {
+    position: relative;
+    height: 18px;
+    width: 18px;
+    background-color: #fff;
+    border: 2px solid #bdc3c7;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+}
+
+.format-toggle:hover input ~ .format-checkmark {
+    border-color: var(--primary-color);
+}
+
+.format-toggle input:checked ~ .format-checkmark {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.format-checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.format-toggle input:checked ~ .format-checkmark:after {
+    display: block;
+}
+
+.format-text {
+    font-size: 13px;
+    color: var(--text-color);
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+/* Two Column Layout */
+.two-column-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    .two-column-layout {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Left Column - Exams */
+.left-column .step-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.exams-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    overflow-y: auto;
+    max-height: 400px;
+    padding: 4px;
+}
+
+.exam-item {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.2s;
+}
+
+.exam-item:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 2px 8px rgba(15, 105, 180, 0.1);
+}
+
+.exam-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    background: var(--light-bg);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.exam-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.exam-controls {
+    display: flex;
+    gap: 4px;
+}
+
+.exam-paste-btn,
+.exam-clear-btn,
+.exam-remove-btn {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.exam-paste-btn:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+}
+
+.exam-clear-btn:hover {
+    background: var(--error-color);
+    color: white;
+    border-color: var(--error-color);
+}
+
+.exam-remove-btn:hover {
+    background: var(--secondary-color);
+    color: white;
+    border-color: var(--secondary-color);
+}
+
+.btn-icon {
+    font-size: 14px;
+}
+
+.exam-input {
+    padding: 10px;
+}
+
+.exam-textarea {
+    width: 100%;
+    min-height: 120px;
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
+    font-size: 13px;
+    line-height: 1.4;
+    background: var(--input-bg);
+    color: var(--text-color);
+    resize: vertical;
+    transition: border-color 0.2s;
+}
+
+.exam-textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px rgba(15, 105, 180, 0.2);
+}
+
+.exam-textarea::placeholder {
+    color: var(--muted-color);
+}
+
+/* Right Column - Results */
+.right-column .step-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.results-card {
+    border-left: 4px solid var(--success-color);
+}
+
+.results-status {
+    margin-bottom: 15px;
+    padding: 12px;
+    background: var(--light-bg);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+
+.status-text {
+    color: var(--muted-color);
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.results-content {
+    flex: 1;
+    background: var(--input-bg);
+    border-radius: 8px;
+    padding: 15px;
+    font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
+    font-size: 13px;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    min-height: 200px;
+    overflow-y: auto;
+    display: none;
+}
+
+.results-content:not(:empty) {
+    display: block;
+}
+
+.copy-area {
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.copy-button {
+    padding: 10px 20px;
+    background: var(--button-blue);
+    border: 1px solid var(--button-blue);
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex: 1;
+    justify-content: center;
+}
+
+.copy-button:hover {
+    background: var(--button-hover-blue);
+    border-color: var(--button-hover-blue);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(15, 105, 180, 0.2);
+}
+
+.copy-icon {
+    font-size: 16px;
+}
+
+.copy-text {
+    font-weight: 500;
+}
+
+/* Footer - Actualizado para usar colores sólidos */
+.main-footer {
+    background-color: var(--card-bg);
+    padding: 12px 20px;
+    margin-top: 15px;
+    border-radius: 0 0 12px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--border-color);
+    border-left: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    box-shadow: 0 2px 8px var(--shadow-color);
+}
+
+.footer-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 12px;
+    color: var(--muted-color);
+    font-weight: 600;
+}
+
+.custom-icon-container {
+    display: flex;
+    align-items: center;
+}
+
+.custom-icon {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    filter: brightness(0.8);
+    transition: filter 0.2s ease;
+}
+
+.custom-icon:hover {
+    filter: brightness(1);
+}
+
+.footer-text {
+    display: flex;
+    align-items: center;
+}
+
+.footer-right {
+    font-size: 11px;
+    color: var(--muted-color);
+}
+
+/* Notification */
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: var(--success-color);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    z-index: 100000;
+    opacity: 0;
+    transform: translateX(20px);
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    pointer-events: none;
+    max-width: 300px;
+}
+
+.notification.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.notification.error {
+    background: var(--error-color);
+}
+
+.notification.info {
+    background: var(--info-color);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(15, 105, 180, 0.05);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(15, 105, 180, 0.3);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(15, 105, 180, 0.5);
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+    .main-buttons-row {
+        gap: 8px;
+    }
+    
+    .main-parameter-item {
+        min-width: 150px;
+        padding: 10px;
+    }
+    
+    .param-icon {
+        font-size: 18px;
+    }
+    
+    .param-label {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 95%;
+    }
+    
+    .step-card {
+        padding: 15px;
+    }
+    
+    .format-panel {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+    }
+    
+    .format-options-container {
+        justify-content: flex-start;
+    }
+    
+    .main-buttons-row {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .main-parameter-item {
+        min-width: auto;
+        padding: 8px;
+    }
+    
+    .advanced-options-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+        max-width: 100%;
+    }
+    
+    .main-header {
+        padding: 12px 15px;
+        flex-direction: column;
+        gap: 10px;
+        align-items: stretch;
+    }
+    
+    .header-left, .header-right {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    .header-right {
+        margin-top: 10px;
+        justify-content: flex-start;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    
+    .step-card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    
+    .step-card-controls {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    .two-column-layout {
+        grid-template-columns: 1fr;
+    }
+    
+    .format-options-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .copy-area {
+        flex-direction: column;
+    }
+    
+    .copy-button {
+        width: 100%;
+    }
+    
+    .main-buttons-row {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 6px;
+    }
+    
+    .advanced-suboptions {
+        margin-left: 20px;
+        padding-left: 10px;
+    }
+    
+    .advanced-panel-content {
+        padding: 15px;
+    }
+    
+    .advanced-options-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .main-footer {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+        padding: 15px;
+    }
+    
+    .footer-left {
+        flex-direction: column;
+        gap: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-title h2 {
+        font-size: 18px;
+    }
+    
+    .step-card-header h2 {
+        font-size: 16px;
+    }
+    
+    .main-buttons-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .main-parameter-item {
+        max-width: 100%;
+        padding: 12px;
+    }
+    
+    .param-icon {
+        font-size: 18px;
+    }
+    
+    .param-label {
+        font-size: 13px;
+    }
+    
+    .advanced-panel-header {
+        padding: 10px 15px;
+    }
+    
+    .advanced-panel-header h3 {
+        font-size: 12px;
+    }
+    
+    .option-label, .sub-label {
+        font-size: 12px;
+    }
+    
+    .format-text {
+        font-size: 12px;
+    }
+    
+    .header-btn {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}
+
+/* Animaciones adicionales */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.results-container:not(:empty) {
+    animation: fadeIn 0.3s ease;
+}

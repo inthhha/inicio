@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extractor de Laboratorio</title>
+    <meta name="description" content="Herramienta para extraer datos de exámenes médicos del HIS">
+    <meta property="og:image" content="https://inthhha.pages.dev/images/lab.png" />
+    <meta property="og:url" content="https://inthhha.pages.dev/" />
+    <meta property="og:type" content="website" />
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="png" href="lab.png">
+    <script src="patterns.js"></script>
+    <script src="extractors.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Overlay para dropdowns -->
+        <div class="dropdown-overlay" id="dropdownOverlay"></div>
+        
+        <div class="main-header">
+            <div class="header-left">
+                <div class="ssasur-logo-compact">
+                    <div class="logo-blue-compact"></div>
+                    <div class="logo-red-compact"></div>
+                </div>
+                <div class="header-title">
+                    <h2>EXTRACTOR DE LABORATORIO</h2>
+                    <p>Extracción automática de exámenes</p>
+                </div>
+            </div>
+            <div class="header-right">
+                <!-- Nuevo botón de extensión Chrome -->
+                <a href="https://chromewebstore.google.com/detail/extractor-de-laboratorio/apfmbefidobffjamcomjidjbgmhobfpi?authuser=0&hl=es" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="header-btn chrome-btn" 
+                   id="chromeExtensionBtn"
+                   title="Descargar extensión para Chrome">
+                    <img src="google-chrome.svg"> Extensión de Chrome
+                </a>
+                
+                <!-- Botón existente -->
+                <a href="https://notionmedufro.github.io/ExtractorHIS/" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="header-btn" 
+                   id="sourceLink">
+                    <span class="source-icon">🔬</span> Adaptado de Extractor HIS
+                </a>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <!-- Panel de Parámetros -->
+            <div class="step-card parameters-card">
+                <div class="step-card-header">
+                    <h2>
+                        <span class="step-icon">📋</span>
+                        PARÁMETROS A EXTRAER
+                    </h2>
+                    <div class="step-card-controls">
+                        <button id="selectAllBtn" class="step-card-btn">Todo</button>
+                        <button id="clearAllBtn" class="step-card-btn">Borrar</button>
+                        <div class="fecha-control">
+                            <label class="fecha-toggle">
+                                <input type="checkbox" value="Fecha" class="selection-checkbox" id="fechaCheckbox" checked>
+                                <span class="fecha-checkmark"></span>
+                                <span class="fecha-label">Fecha</span>
+                            </label>
+                            <select id="dateFormatSelect" class="date-format-select" title="Formato de fecha">
+                                <option value="dd/mm">dd/mm</option>
+                                <option value="dd/mm/yy">dd/mm/aa</option>
+                                <option value="dd/mm/yyyy" selected>dd/mm/aaaa</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Botones principales (una sola fila) -->
+                <div class="main-buttons-row" id="mainButtonsRow">
+                    <!-- Hemograma -->
+                    <div class="main-parameter-item">
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Hemograma" class="selection-checkbox main-checkbox" data-exam="hemograma" checked>
+                            <span class="checkmark"></span>
+                            <span class="param-icon">🩸</span>
+                            <span class="param-label">Hemograma</span>
+                        </label>
+                        <button class="details-btn" data-category="hemograma">
+                            <span class="details-arrow">▼</span>
+                        </button>
+                    </div>
+                    
+                    <!-- Bioquímico -->
+                    <div class="main-parameter-item">
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Bioquímico" class="selection-checkbox main-checkbox" data-exam="bioquimico" checked>
+                            <span class="checkmark"></span>
+                            <span class="param-icon">🧪</span>
+                            <span class="param-label">Bioquímico</span>
+                        </label>
+                        <button class="details-btn" data-category="bioquimico">
+                            <span class="details-arrow">▼</span>
+                        </button>
+                    </div>
+                    
+                    <!-- Coagulación -->
+                    <div class="main-parameter-item">
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Coagulación" class="selection-checkbox main-checkbox" data-exam="coagulacion" checked>
+                            <span class="checkmark"></span>
+                            <span class="param-icon">💉</span>
+                            <span class="param-label">Coagulación</span>
+                        </label>
+                        <button class="details-btn" data-category="coagulacion">
+                            <span class="details-arrow">▼</span>
+                        </button>
+                    </div>
+                    
+                    <!-- Gases -->
+                    <div class="main-parameter-item">
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Gases" class="selection-checkbox main-checkbox" data-exam="gases" checked>
+                            <span class="checkmark"></span>
+                            <span class="param-icon">💨</span>
+                            <span class="param-label">Gases</span>
+                        </label>
+                        <button class="details-btn" data-category="gases">
+                            <span class="details-arrow">▼</span>
+                        </button>
+                    </div>
+                    
+                    <!-- Nutricional -->
+                    <div class="main-parameter-item">
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Nutricional" class="selection-checkbox main-checkbox" data-exam="nutricional" checked>
+                            <span class="checkmark"></span>
+                            <span class="param-icon">🥗</span>
+                            <span class="param-label">Nutricional</span>
+                        </label>
+                        <button class="details-btn" data-category="nutricional">
+                            <span class="details-arrow">▼</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Paneles de opciones avanzadas (se muestran dinámicamente) -->
+                <div class="advanced-panels-container" id="advancedPanelsContainer">
+                    <!-- Hemograma -->
+                    <div class="advanced-panel" id="panel-hemograma" style="display: none;">
+                        <div class="advanced-panel-header">
+                            <h3>PARÁMETROS AVANZADOS DE HEMOGRAMA</h3>
+                        </div>
+                        <div class="advanced-panel-content">
+                            <div class="advanced-options-grid">
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Hcto" class="selection-checkbox" data-exam="hcto">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Hematocrito (Hcto)</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="VCM" class="selection-checkbox" data-exam="vcm">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">VCM</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="CHCM" class="selection-checkbox" data-exam="chcm">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">CHCM</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="RDW" class="selection-checkbox" data-exam="rdw">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">RDW</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Reticulocitos" class="selection-checkbox" data-exam="reticulocitos">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Reticulocitos</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Linfocitos" class="selection-checkbox" data-exam="linfocitos">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Linfocitos %</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="RAN" class="selection-checkbox" data-exam="ran">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">RAN</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="RAL" class="selection-checkbox" data-exam="ral">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">RAL</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Bioquímico -->
+                    <div class="advanced-panel" id="panel-bioquimico" style="display: none;">
+                        <div class="advanced-panel-header">
+                            <h3>PARÁMETROS AVANZADOS BIOQUÍMICO</h3>
+                        </div>
+                        <div class="advanced-panel-content">
+                            <!-- PCR/ProCa - Se mantiene seleccionado por defecto -->
+                            <div class="advanced-option-group">
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="PCR" class="selection-checkbox" data-exam="pcr" checked>
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">PCR + Procalcitonina</span>
+                                    </label>
+                                </div>
+                            </div>
+                            
+                            <!-- Renal - CON CHECKBOXES COMPLETOS -->
+                            <div class="advanced-option-group">
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Renal" class="selection-checkbox" data-exam="renal" checked>
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Función Renal</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-suboptions">
+                                    <div class="advanced-suboption">
+                                        <label class="checkbox-container">
+                                            <input type="checkbox" value="VFG" class="selection-checkbox sub-checkbox" data-exam="vfg">
+                                            <span class="checkmark sub-checkmark"></span>
+                                            <span class="option-label sub-label">VFG</span>
+                                        </label>
+                                    </div>
+                                    <div class="advanced-suboption">
+                                        <label class="checkbox-container">
+                                            <input type="checkbox" value="Urea" class="selection-checkbox sub-checkbox" data-exam="urea">
+                                            <span class="checkmark sub-checkmark"></span>
+                                            <span class="option-label sub-label">Urea</span>
+                                        </label>
+                                    </div>
+                                    <div class="advanced-suboption">
+                                        <label class="checkbox-container">
+                                            <input type="checkbox" value="Electrolitos" class="selection-checkbox sub-checkbox" data-exam="electrolitos">
+                                            <span class="checkmark sub-checkmark"></span>
+                                            <span class="option-label sub-label">Electrolitos (Na/K/Cl)</span>
+                                        </label>
+                                    </div>
+                                    <div class="advanced-suboption">
+                                        <label class="checkbox-container">
+                                            <input type="checkbox" value="Magnesio" class="selection-checkbox sub-checkbox" data-exam="magnesio">
+                                            <span class="checkmark sub-checkmark"></span>
+                                            <span class="option-label sub-label">Magnesio</span>
+                                        </label>
+                                    </div>
+                                    <div class="advanced-suboption">
+                                        <label class="checkbox-container">
+                                            <input type="checkbox" value="AcidoUrico" class="selection-checkbox sub-checkbox" data-exam="acidoUrico">
+                                            <span class="checkmark sub-checkmark"></span>
+                                            <span class="option-label sub-label">Ácido Úrico</span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Hepático - Se mantiene seleccionado por defecto -->
+                            <div class="advanced-option-group">
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Hepático" class="selection-checkbox" data-exam="hepatico" checked>
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Función Hepática</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Coagulación -->
+                    <div class="advanced-panel" id="panel-coagulacion" style="display: none;">
+                        <div class="advanced-panel-header">
+                            <h3>PARÁMETROS AVANZADOS DE COAGULACIÓN</h3>
+                        </div>
+                        <div class="advanced-panel-content">
+                            <div class="advanced-option-group">                                  
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="INR" class="selection-checkbox" data-exam="inr">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">INR</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="TP" class="selection-checkbox" data-exam="tp">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Tiempo Protrombina</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Gases -->
+                    <div class="advanced-panel" id="panel-gases" style="display: none;">
+                        <div class="advanced-panel-header">
+                            <h3>PARÁMETROS DE GASES EN SANGRE</h3>
+                        </div>
+                        <div class="advanced-panel-content">
+                            <div class="advanced-option-group">
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Gases" class="selection-checkbox" data-exam="gases" checked>
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Gases en sangre completo</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Nutricional -->
+                    <div class="advanced-panel" id="panel-nutricional" style="display: none;">
+                        <div class="advanced-panel-header">
+                            <h3>PARÁMETROS NUTRICIONALES</h3>
+                        </div>
+                        <div class="advanced-panel-content">
+                            <div class="advanced-option-group">                                
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Proteínas" class="selection-checkbox" data-exam="proteinas">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Proteínas/Albúmina</span>
+                                    </label>
+                                </div>
+                                <div class="advanced-option">
+                                    <label class="checkbox-container">
+                                        <input type="checkbox" value="Lípidos" class="selection-checkbox" data-exam="lipidos">
+                                        <span class="checkmark"></span>
+                                        <span class="option-label">Lípidos (Col, LDL, HDL)</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Panel de Formato -->
+                <div class="format-panel">
+                    <div class="format-header">
+                        <span class="format-label">⚙️ Formato de salida:</span>
+                    </div>
+                    <div class="format-options-container">
+                        <div class="format-option">
+                            <label class="format-toggle">
+                                <input type="checkbox" id="formatHb" checked>
+                                <span class="format-checkmark"></span>
+                                <span class="format-text">Hb (en vez de Hg)</span>
+                            </label>
+                        </div>
+                        <div class="format-option">
+                            <label class="format-toggle">
+                                <input type="checkbox" id="formatMayusculas">
+                                <span class="format-checkmark"></span>
+                                <span class="format-text">Mayúsculas</span>
+                            </label>
+                        </div>
+                        <div class="format-option">
+                            <label class="format-toggle">
+                                <input type="checkbox" id="formatDosPuntos" checked>
+                                <span class="format-checkmark"></span>
+                                <span class="format-text">Dos puntos (:)</span>
+                            </label>
+                        </div>
+                        <div class="format-option">
+                            <label class="format-toggle">
+                                <input type="checkbox" id="formatSaltos" checked>
+                                <span class="format-checkmark"></span>
+                                <span class="format-text">Saltos de línea</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Panel de dos columnas -->
+            <div class="two-column-layout">
+                <!-- Columna izquierda - Textos de Exámenes -->
+                <div class="left-column">
+                    <div class="step-card">
+                        <div class="step-card-header">
+                            <h2>
+                                <span class="step-icon">📄</span>
+                                TEXTOS DE EXÁMENES
+                            </h2>
+                            <div class="step-card-controls">
+                                <button id="addNewExamBtn" class="step-card-btn add-exam-btn">
+                                    <span class="btn-icon">+</span> Agregar Nuevo
+                                </button>
+                                <button id="clearAllExamsBtn" class="step-card-btn">Borrar Todo</button>
+                            </div>
+                        </div>
+                        <div class="exams-container" id="examsContainer">
+                            <div class="exam-item" data-exam-id="1">
+                                <div class="exam-header">
+                                    <span class="exam-title">Examen #1</span>
+                                    <div class="exam-controls">
+                                        <button class="exam-paste-btn" title="Pegar texto">
+                                            <span class="btn-icon">📋</span>
+                                        </button>
+                                        <button class="exam-clear-btn" title="Limpiar texto">
+                                            <span class="btn-icon">🗑️</span>
+                                        </button>
+                                        <button class="exam-remove-btn" title="Eliminar examen" style="display: none;">
+                                            <span class="btn-icon">✕</span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="exam-input">
+                                    <textarea class="exam-textarea" placeholder="1. En la página pdf del examen presiona: Ctrl + A para seleccionar todo el texto&#10;2. Copia el texto mediante: Ctrl + C&#10;3. Pega el texto aquí mediante: Ctrl + V"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Columna derecha - Resultado Extraído -->
+                <div class="right-column">
+                    <div class="step-card results-card">
+                        <div class="step-card-header">
+                            <h2>
+                                <span class="step-icon">📊</span>
+                                RESULTADO EXTRAÍDO
+                            </h2>
+                        </div>
+                        
+                        <div class="results-status" id="resultsStatus">
+                            <p class="status-text">Selecciona parámetros y pega el texto para ver los resultados automáticamente</p>
+                        </div>
+                        
+                        <div id="results" class="results-content"></div>
+                        
+                        <div class="copy-area" id="copyArea" style="display: none;">
+                            <button id="copyBtn" class="copy-button">
+                                <span class="copy-icon">📋</span>
+                                <span class="copy-text">Copiar Texto</span>
+                            </button>
+                            <button id="copyHtmlBtn" class="copy-button">
+                                <span class="copy-icon">🌐</span>
+                                <span class="copy-text">Copiar HTML</span>
+                            </button>
+                            <button id="copySummernoteBtn" class="copy-button">
+                                <span class="copy-icon">✏️</span>
+                                <span class="copy-text">Summernote</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-footer">
+            <div class="footer-left">
+                <div class="custom-icon-container">
+                    <img src="rapido-pulgoso-icon.png" alt="Icono personalizado" class="custom-icon">
+                </div>
+                <div class="footer-text">
+                    Rápido & Pulgoso Inc. 2025
+                </div>
+            </div>
+            <div class="footer-right">
+                <span>INTHHHA - Extractor de Laboratorio v1.0.1</span>
+            </div>
+        </div>
+
+        <div class="notification" id="notification"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
