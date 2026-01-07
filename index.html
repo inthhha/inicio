@@ -7,14 +7,15 @@
 
     <meta property="og:title" content="Internado HHHA - Portal de Recursos" />
     <meta property="og:description" content="Plataforma creado por la carrera de Medicina UFRO para facilitar el acceso a plataformas clínicas." />
-    <meta property="og:image" content="https://inthhha.github.io/inicio/images/hospital.png" />
-    <meta property="og:url" content="https://inthhha.github.io/inicio/" />
+    <meta property="og:image" content="https://inthhha.pages.dev/images/hospital.png" />
+    <meta property="og:url" content="https://inthhha.pages.dev/" />
     <meta property="og:type" content="website" />
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.gstatic.com https://cdnjs.cloudflare.com; style-src 'self' https://cdnjs.cloudflare.com 'unsafe-inline'; font-src 'self' https://cdnjs.cloudflare.com; connect-src https://*.googleapis.com https://*.firebaseio.com; img-src 'self' data: https:;">
     
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="css/index-styles.css">
     <link rel="icon" type="image/png" href="images/hospital.png">
+    <script src="js/iconify.min.js"></script>
 
 </head>
 <body>
@@ -146,7 +147,7 @@
                         <div class="info-card-icon"><img src="images/ssasur.png" alt="Icono DEIS"></div>
                         <div>Departamento Estadístico MINSAL</div>
                     </a>
-                    <a href="https://drive.google.com/file/d/1-Yl0PYy-8gr68_G2hRIYYNwqqOnCmORt/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="info-card">
+                    <a href="files/ARSENAL-FARMACOLOGICO-SSASUR-2025-2027.pdf"_blank" rel="noopener noreferrer" class="info-card">
                         <div class="info-card-icon"><img src="images/medicamento.webp" alt="Icono Farmacia"></div>
                         <div>Arsenal Farmacológico APS</div>
                     </a>
@@ -204,6 +205,7 @@
                     <li><a href="https://www.soymedicina.com/libros-de-medicina/" target="_blank" rel="noopener noreferrer">SoyMedicina</a></li>
                     <li><a href="https://doctorpdf.org/" target="_blank" rel="noopener noreferrer">DoctorPDF</a></li>
                     <li><a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Archive</a></li>
+                    <li><a href="https://annas-archive.org/" target="_blank" rel="noopener noreferrer">Anna's Archive</a></li>
                 </ul>
             </div>
 
@@ -250,7 +252,27 @@
     <script src="js/menuStructure.js"></script>
     <script src="js/megaStructure.js"></script>
     <script src="js/resourcesDB.js"></script>
-    <script src="js/anexosDB.js"></script>
+    <script src="js/easter-egg.js"></script>
     <script src="script.js"></script>
+    
+<audio id="easterEggAudio" preload="auto">
+    <source src="audio/easter-egg.mp3" type="audio/mpeg">
+</audio>
+
+<div id="easterEggOverlay" class="easter-egg-overlay">
+    <div class="easter-egg-panel">
+        <button class="easter-egg-close" id="easterEggClose" aria-label="Cerrar panel">×</button>
+        
+        <div class="easter-egg-header">
+            <h2 class="easter-egg-title">"El sostén del regreso frente a la fragilidad del viaje"...</h2>
+        </div>
+        
+        <div class="easter-egg-footer">
+            "Querida amiga....espero que este sea tu mejor viaje, y espero que cuando sientas la soledad y tristeza en este mundo frío y cruel, escuches a tu corazón y recuerdes que eres amada y que siempre lo serás. Que la fragilidad nos vuelve gentilez, que la gentileza no quita lo valiente, que el amor y cariño sea lo que te devuelva a casa a pesar de todos tus aciertos y todos tus errores, porque la verdad, si lo piensas bien y le das una que otra vuelta, te das cuenta que esta es la vida que hemos decidido vivir, tal y como la tenemos. Porque nos sirve como fuente de inspiración para quienes queremos, estemos ahí o no para ellos”." - <strong>Interno UFRO Anónimo</strong>
+        </div>
+        
+    </div>
+</div>
+
 </body>
 </html>
