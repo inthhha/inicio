@@ -2,22 +2,20 @@
  * ============================================================================
  * SCRIPT PRINCIPAL - GESTOR DE INTERFAZ
  * ============================================================================
- * ÚLTIMA REVISIÓN 23/12/2025
- * 1. CONFIGURACIONES GENERALES
- * 2. HELPERS
- * 3. REEMPLAZO AUTOMÁTICO DE EMOJIS (NUEVO)
- * 4. MENU LATERAL
- * 5. MEGAMENU
- * 6. REPOSITORIO
- * 7. ANEXOS
- * 8. INDICACIONES
- * 9. INICIALIZACIÓN GLOBAL
+ * 1. Configuración y Constantes
+ * 2. Funciones de Utilidad (Helpers)
+ * 3. Módulo: Menú Lateral (Sidebar)
+ * 4. Módulo: Mega Menú (Toolbar)
+ * 5. Módulo: Repositorio (Filtros y Paginación)
+ * 6. Módulo: Anexos (Directorio) - ACTUALIZADO CON LOGICA MÓVIL
+ * 7. Módulo: Indicaciones y Manejo (Indicaciones)
+ * 8. Inicialización Global
  * ============================================================================
  */
- 
-/* =========================================
- * 1. CONFIGURACIONES GENERALES
- * ========================================= */
+
+// =========================================
+// 1. Configuración y Constantes
+// =========================================
 
 const CONFIG = {
     imgBasePath: 'images/',
@@ -29,8 +27,9 @@ const CONFIG = {
         'pediatria': ['apunte', 'Guias', 'libro', 'Ingresos', 'Turnos', 'Otros recursos', 'link']
     },
     repoTypeLabels: {
-        'apunte': 'Resúmenes', 'manual': 'Manual', 'libro': 'Libro', 'protocolo': 'Protocolo', 'guia': 'Guía', 
+        'apunte': 'Resumenes', 'manual': 'Manual', 'libro': 'Libro', 'protocolo': 'Protocolo', 'guia': 'Guía', 
         'becados': 'Becados', 'RCP': 'RCP/Urgencias', 'link': 'Enlace Web'
+    
     },
     anexoEmojis: {
         'laboratorio': '🧪', 'imagenologia': '🩻', 'farmacia-inmunizaciones': '💊',
@@ -39,6 +38,7 @@ const CONFIG = {
     }
 };
 
+// Generador de cache de iconos locales
 const localIcons = {};
 [
     'hhha', 'ssasur', 'lab', 'test', 'synapse', 'ray', 'pathient', 'onco',
@@ -48,10 +48,14 @@ const localIcons = {};
     localIcons[icon] = `${CONFIG.imgBasePath}${icon}.png`;
 });
 
-/* =========================================
- * 2. HELPERS
- * ========================================= */
- 
+// =========================================
+// 2. Funciones de Utilidad (Helpers)
+// =========================================
+
+/**
+ * Crea un elemento DOM para un icono.
+ * Intenta cargar una imagen y si falla, muestra texto (fallback).
+ */
 const createIcon = (iconName, iconKey, isSubmenu = false) => {
     const container = document.createElement('div');
     container.className = isSubmenu ? 'submenu-item-icon-hhha' : 'sidebar-item-icon-hhha';
@@ -67,128 +71,53 @@ const createIcon = (iconName, iconKey, isSubmenu = false) => {
             container.textContent = iconName;
             container.classList.remove('icon-loading');
         };
+
         container.appendChild(img);
     } else {
         container.textContent = iconName;
     }
+
     return container;
 };
 
+/**
+ * Obtiene el emoji correspondiente a una categoría de anexos.
+ */
 const getEmojiForCategory = (category) => {
     const catKey = Array.isArray(category) ? category[0] : category;
     return CONFIG.anexoEmojis[catKey] || '📞';
 };
 
-/* =========================================
- * 3. REEMPLAZO AUTOMÁTICO DE EMOJIS POR ICONIFY (NUEVO)
- * ========================================= */
+// =========================================
+// 3. Módulo: Menú Lateral (Sidebar)
+// =========================================
 
-const replaceEmojisWithFluent = () => {
-    // Solo ejecutar si Iconify está cargado
-    if (typeof Iconify === 'undefined') {
-        setTimeout(replaceEmojisWithFluent, 100);
-        return;
-    }
-    
-    // Mapa de emojis a códigos Fluent Emoji
-    const emojiMap = {
-        '🧪': 'test-tube',
-        '🩻': 'x-ray',
-        '💊': 'pill',
-        '👩‍🔬': 'woman-scientist',
-        '🩸': 'drop-of-blood',
-        '📞': 'telephone',
-        '🚨': 'police-car-light',
-        '🏥': 'hospital',
-        '❤️': 'red-heart',
-        '👨‍⚕️': 'man-health-worker',
-        '🩺': 'stethoscope',
-        '📱': 'mobile-phone',
-        '🧠': 'brain',
-        '❓': 'question-mark',
-        '📄': 'page-with-curl',
-        '🔒': 'locked-with-key',
-        '💉': 'syringe',
-        '👨‍💻': 'man-technologist',
-        '🔍': 'magnifying-glass',
-        '📋': 'clipboard',
-        '🎵': 'musical-notes',
-        '⚙️': 'gear'
-    };
-    
-    // Buscar y reemplazar emojis
-    document.querySelectorAll('button, span, div, a, p, li').forEach(el => {
-        // Saltar elementos que ya tienen iconify
-        if (el.querySelector('iconify-icon') || el.tagName === 'ICONIFY-ICON') return;
-        
-        const html = el.innerHTML;
-        let newHtml = html;
-        
-        for (const [emoji, code] of Object.entries(emojiMap)) {
-            if (html.includes(emoji)) {
-                const iconHTML = `<iconify-icon icon="fluent-emoji-flat:${code}" class="fluent-emoji" style="display:inline-flex;vertical-align:middle;font-size:1em"></iconify-icon>`;
-                newHtml = newHtml.replace(new RegExp(emoji, 'g'), iconHTML);
-            }
-        }
-        
-        if (newHtml !== html) {
-            el.innerHTML = newHtml;
-        }
-    });
-};
-
-// Inicializar reemplazo de emojis
-const initEmojiReplacement = () => {
-    // Esperar a que Iconify se cargue
-    if (typeof Iconify !== 'undefined') {
-        replaceEmojisWithFluent();
-    } else {
-        const checkIconify = setInterval(() => {
-            if (typeof Iconify !== 'undefined') {
-                clearInterval(checkIconify);
-                replaceEmojisWithFluent();
-            }
-        }, 100);
-        
-        setTimeout(() => clearInterval(checkIconify), 5000);
-    }
-    
-    // Observar cambios en el DOM para contenido dinámico
-    const observer = new MutationObserver(() => {
-        setTimeout(replaceEmojisWithFluent, 50);
-    });
-    
-    observer.observe(document.body, {
-        childList: true,
-        subtree: true
-    });
-};
-
-/* =========================================
- * 4. MENU LATERAL
- * ========================================= */
- 
 const initSidebarMenu = () => {
     const menuContainer = document.getElementById('menu-container');
-    if (!menuContainer || typeof menuStructure === 'undefined') return;
+    
+    if (!menuContainer) return; // Salir si no existe el contenedor en esta página
+    if (typeof menuStructure === 'undefined') {
+        console.error("Error: menuStructure no definido. Carga js/menuStructure.js");
+        return;
+    }
 
-    menuContainer.textContent = '';
+    menuContainer.innerHTML = '';
 
     menuStructure.forEach(item => {
+        // Caso 1: Separador
         if (item.separator) {
             const separator = document.createElement('div');
             separator.className = 'separator-hhha with-text';
-            const textDiv = document.createElement('div');
-            textDiv.className = 'separator-text-hhha';
-            textDiv.textContent = item.separator;
-            separator.appendChild(textDiv);
+            separator.innerHTML = `<div class="separator-text-hhha">${item.separator}</div>`;
             menuContainer.appendChild(separator);
             return;
         }
 
+        // Caso 2: Ítem con Submenú
         if (item.submenu) {
             const mainItem = document.createElement('div');
             mainItem.className = 'sidebar-item-hhha has-submenu';
+            
             const textDiv = document.createElement('div');
             textDiv.className = 'sidebar-item-text-hhha';
             textDiv.textContent = item.text;
@@ -212,8 +141,10 @@ const initSidebarMenu = () => {
                 submenuContainer.appendChild(link);
             });
 
+            // Lógica de acordeón
             mainItem.addEventListener('click', (e) => {
                 e.preventDefault();
+                // Cerrar otros abiertos
                 document.querySelectorAll('.submenu-hhha.open, .sidebar-item-hhha.open').forEach(el => {
                     if (el !== submenuContainer && el !== mainItem) el.classList.remove('open');
                 });
@@ -222,7 +153,9 @@ const initSidebarMenu = () => {
             });
 
             menuContainer.append(mainItem, submenuContainer);
-        } else {
+        } 
+        // Caso 3: Enlace directo
+        else {
             const link = document.createElement('a');
             link.className = 'sidebar-item-hhha';
             link.href = item.url || '#';
@@ -238,20 +171,26 @@ const initSidebarMenu = () => {
     });
 };
 
-/* =========================================
- * 5. MEGAMENU
- * ========================================= */
- 
+// =========================================
+// 4. Módulo: Mega Menú (Toolbar)
+// =========================================
+
 const initMegaMenu = () => {
     const toolbarRoot = document.getElementById('toolbar-menu-root');
     const headerContainer = document.querySelector('.main-header-container');
 
-    if (!toolbarRoot || !headerContainer || typeof megaStructure === 'undefined') return;
+    if (!toolbarRoot || !headerContainer) return;
+    if (typeof megaStructure === 'undefined') {
+        console.warn("megaStructure no definido. El menú superior no se cargará.");
+        return;
+    }
 
-    toolbarRoot.textContent = '';
+    // Limpieza previa
+    toolbarRoot.innerHTML = '';
     document.querySelector('.megamenu-panel')?.remove();
     document.querySelector('.megamenu-overlay')?.remove();
 
+    // Crear Estructura DOM
     const tabsContainer = document.createElement('div');
     tabsContainer.className = 'toolbar-tabs-container';
 
@@ -266,6 +205,7 @@ const initMegaMenu = () => {
 
     let activeTabId = null;
 
+    // Helper interno
     const renderIcon = (obj) => obj.img ? `<img src="${obj.img}" alt="icon" class="mega-custom-icon">` : (obj.icon || '');
 
     const closePanel = () => {
@@ -277,7 +217,7 @@ const initMegaMenu = () => {
 
     const openPanel = (tabData) => {
         const contentContainer = panel.querySelector('.megamenu-content');
-        contentContainer.textContent = '';
+        contentContainer.innerHTML = '';
 
         tabData.sections.forEach(section => {
             const sectionDiv = document.createElement('div');
@@ -295,9 +235,11 @@ const initMegaMenu = () => {
                 link.className = 'megamenu-item';
                 link.href = (item.url && item.url !== '#') ? item.url : 'javascript:void(0)';
                 
-                if (item.url && item.url !== '#' && !item.url.startsWith('javascript') && !item.sameTab) {
+                if (item.url && item.url !== '#' && !item.url.startsWith('javascript')) {
+                  if (!item.sameTab) { 
                     link.target = '_blank';
                     link.rel = 'noopener noreferrer';
+                    }
                 }
 
                 link.innerHTML = `
@@ -322,6 +264,7 @@ const initMegaMenu = () => {
         });
     };
 
+    // Generar Tabs
     megaStructure.forEach(tab => {
         const tabBtn = document.createElement('div');
         tabBtn.className = 'megamenu-tab';
@@ -343,30 +286,41 @@ const initMegaMenu = () => {
 
     toolbarRoot.appendChild(tabsContainer);
 
+    // --- AJUSTES DE CÓDIGO PARA SMARTPHONE ---
     const mobileToggle = document.getElementById('mobile-menu-toggle');
     if (mobileToggle) {
         mobileToggle.addEventListener('click', (e) => {
             e.stopPropagation();
-            const isOpen = tabsContainer.classList.toggle('show-mobile');
-            mobileToggle.querySelector('span').innerHTML = isOpen ? '&#10005;' : '☰';
+            const isOpen = tabsContainer.classList.contains('show-mobile');
+            
+            // Toggle clase
+            if (isOpen) {
+                tabsContainer.classList.remove('show-mobile');
+                mobileToggle.querySelector('span').innerHTML = '☰';
+            } else {
+                tabsContainer.classList.add('show-mobile');
+                mobileToggle.querySelector('span').innerHTML = '&#10005;'; // X bonita
+            }
         });
 
-        tabsContainer.querySelectorAll('.megamenu-tab').forEach(btn => {
+        // Cerrar menú automáticamente al hacer click en una opción del menú
+        const tabButtons = tabsContainer.querySelectorAll('.megamenu-tab');
+        tabButtons.forEach(btn => {
             btn.addEventListener('click', () => {
                 tabsContainer.classList.remove('show-mobile');
                 mobileToggle.querySelector('span').innerHTML = '☰';
             });
         });
     }
-
+    // Event Listeners Globales
     overlay.addEventListener('click', closePanel);
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePanel(); });
 };
 
-/* =========================================
- * 6. REPOSITORIO
- * ========================================= */
- 
+// =========================================
+// 5. Módulo: Repositorio (Filtros y Paginación)
+// =========================================
+
 const initRepository = () => {
     const resultsContainer = document.getElementById('repo-results');
     if (!resultsContainer) return;
@@ -377,58 +331,116 @@ const initRepository = () => {
     const yearFilter = document.getElementById('filter-year');
     const orderFilter = document.getElementById('filter-order');
     const paginationContainer = document.getElementById('repo-pagination');
+    const searchBtn = document.querySelector('.repo-search-btn');
     const mobileSelect = document.getElementById('mobile-repo-category');
 
+    // Estado local
     let currentCategory = 'cirugia';
     let currentPage = 1;
 
+    // Métodos Auxiliares
     const updateTypeFilterOptions = () => {
         const currentValue = typeFilter.value;
         typeFilter.innerHTML = '<option value="">Todos los tipos</option>';
         
-        (CONFIG.repoCategoryTypes[currentCategory] || []).forEach(type => {
+        const types = CONFIG.repoCategoryTypes[currentCategory] || [];
+        types.forEach(type => {
             const option = document.createElement('option');
             option.value = type;
             option.textContent = CONFIG.repoTypeLabels[type] || type;
             typeFilter.appendChild(option);
         });
-        typeFilter.value = (CONFIG.repoCategoryTypes[currentCategory] || []).includes(currentValue) ? currentValue : '';
+
+        typeFilter.value = types.includes(currentValue) ? currentValue : '';
     };
 
+    const renderPagination = (totalItems) => {
+        if (!paginationContainer) return;
+        
+        const totalPages = Math.ceil(totalItems / CONFIG.repoItemsPerPage);
+        paginationContainer.innerHTML = '';
+
+        if (totalPages <= 1) return;
+
+        const createBtn = (text, onClick, disabled, isActive = false) => {
+            const btn = document.createElement('button');
+            btn.className = `pagination-btn ${isActive ? 'active' : ''}`;
+            btn.innerHTML = text;
+            btn.disabled = disabled;
+            btn.addEventListener('click', onClick);
+            return btn;
+        };
+
+        paginationContainer.appendChild(createBtn('&laquo; Anterior', () => {
+            currentPage--;
+            renderResources();
+        }, currentPage === 1));
+
+        for (let i = 1; i <= totalPages; i++) {
+            paginationContainer.appendChild(createBtn(i, () => {
+                currentPage = i;
+                renderResources();
+            }, false, i === currentPage));
+        }
+
+        paginationContainer.appendChild(createBtn('Siguiente &raquo;', () => {
+            currentPage++;
+            renderResources();
+        }, currentPage === totalPages));
+
+        const info = document.createElement('span');
+        info.className = 'pagination-info';
+        info.textContent = `Página ${currentPage} de ${totalPages} (${totalItems} docs)`;
+        paginationContainer.appendChild(info);
+    };
+
+    // --- FUNCIÓN RENDER PRINCIPAL (CORREGIDA) ---
     const renderResources = () => {
         if (typeof resourcesDB === 'undefined') {
             resultsContainer.innerHTML = '<div class="error">Error: resourcesDB no cargada.</div>';
             return;
         }
 
+        // 1. Filtrado
         const searchText = searchInput.value.toLowerCase();
         const selectedType = typeFilter.value;
         const selectedYear = yearFilter.value;
         const selectedOrder = orderFilter.value;
 
-        let filtered = resourcesDB.filter(item => 
-            item.category === currentCategory &&
-            item.title.toLowerCase().includes(searchText) &&
-            (!selectedType || item.type === selectedType) &&
-            (!selectedYear || item.year === selectedYear)
-        );
+        let filtered = resourcesDB.filter(item => {
+            return item.category === currentCategory &&
+                   item.title.toLowerCase().includes(searchText) &&
+                   (!selectedType || item.type === selectedType) &&
+                   (!selectedYear || item.year === selectedYear);
+        });
 
-        const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
+        // 2. Ordenamiento (MODIFICADO: A-Z por defecto)
         if (selectedOrder === 'year' || selectedOrder === 'recent') {
-            filtered.sort((a, b) => (parseInt(b.year) || 0) - (parseInt(a.year) || 0));
+            // Ordenar por año (descendente)
+            filtered.sort((a, b) => {
+                const yearA = isNaN(a.year) ? -1 : parseInt(a.year);
+                const yearB = isNaN(b.year) ? -1 : parseInt(b.year);
+                return yearB - yearA;
+            });
         } else {
-            filtered.sort((a, b) => collator.compare(a.title, b.title));
+            // POR DEFECTO: Orden Alfabético (A-Z)
+            filtered.sort((a, b) => a.title.localeCompare(b.title));
         }
 
+        // 3. Paginación
         const totalPages = Math.ceil(filtered.length / CONFIG.repoItemsPerPage);
         if (currentPage > totalPages) currentPage = 1;
         
         const start = (currentPage - 1) * CONFIG.repoItemsPerPage;
         const itemsToShow = filtered.slice(start, start + CONFIG.repoItemsPerPage);
 
-        resultsContainer.textContent = '';
+        // 4. Renderizado DOM
+        resultsContainer.innerHTML = '';
         if (itemsToShow.length === 0) {
-            resultsContainer.innerHTML = `<div class="repo-empty-state">No hay documentos para <strong>${currentCategory.toUpperCase()}</strong>.</div>`;
+            resultsContainer.innerHTML = `
+                <div class="repo-empty-state">
+                    No hay documentos para <strong>${currentCategory.toUpperCase()}</strong> con estos filtros.
+                </div>`;
         } else {
             itemsToShow.forEach(item => {
                 const itemDiv = document.createElement('div');
@@ -444,84 +456,100 @@ const initRepository = () => {
                 resultsContainer.appendChild(itemDiv);
             });
         }
+
         renderPagination(filtered.length);
     };
 
-    const renderPagination = (totalItems) => {
-        if (!paginationContainer) return;
-        const totalPages = Math.ceil(totalItems / CONFIG.repoItemsPerPage);
-        paginationContainer.textContent = '';
-        if (totalPages <= 1) return;
+    // --- EVENT LISTENERS ---
 
-        const createBtn = (text, onClick, disabled, isActive = false) => {
-            const btn = document.createElement('button');
-            btn.className = `pagination-btn ${isActive ? 'active' : ''}`;
-            btn.innerHTML = text;
-            btn.disabled = disabled;
-            btn.onclick = onClick;
-            return btn;
-        };
-
-        paginationContainer.appendChild(createBtn('&laquo; Anterior', () => { currentPage--; renderResources(); }, currentPage === 1));
-        for (let i = 1; i <= totalPages; i++) {
-            paginationContainer.appendChild(createBtn(i, () => { currentPage = i; renderResources(); }, false, i === currentPage));
-        }
-        paginationContainer.appendChild(createBtn('Siguiente &raquo;', () => { currentPage++; renderResources(); }, currentPage === totalPages));
-    };
-
+    // 1. Tabs de Categoría (Escritorio)
     tabs.forEach(tab => {
         tab.addEventListener('click', () => {
             tabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
+            
+            // Actualizar variables
             currentCategory = tab.dataset.cat;
+            
+            // Sincronizar visualmente el Select Móvil
             if(mobileSelect) mobileSelect.value = currentCategory;
+
             currentPage = 1;
             updateTypeFilterOptions();
             renderResources();
         });
     });
 
+    // 2. Select de Categoría (Móvil)
     if (mobileSelect) {
         mobileSelect.addEventListener('change', (e) => {
-            document.querySelector(`.repo-tab[data-cat="${e.target.value}"]`)?.click();
+            const selectedCat = e.target.value;
+            // Buscar el botón correspondiente y simular click
+            const targetTab = document.querySelector(`.repo-tab[data-cat="${selectedCat}"]`);
+            if (targetTab) {
+                targetTab.click();
+            }
         });
     }
 
+    // 3. Filtros y Búsqueda
     const triggerUpdate = () => { currentPage = 1; renderResources(); };
-    searchInput.addEventListener('input', triggerUpdate);
-    [typeFilter, yearFilter, orderFilter].forEach(f => f.addEventListener('change', triggerUpdate));
 
-    if(orderFilter.querySelector('option[value="az"]')) orderFilter.value = 'az';
+    searchInput.addEventListener('input', triggerUpdate);
+    searchInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') triggerUpdate(); });
+    if(searchBtn) searchBtn.addEventListener('click', triggerUpdate);
+    
+    typeFilter.addEventListener('change', triggerUpdate);
+    yearFilter.addEventListener('change', triggerUpdate);
+    orderFilter.addEventListener('change', triggerUpdate);
+
+    // Inicialización
+    if(orderFilter.querySelector('option[value="az"]')) {
+        orderFilter.value = 'az'; 
+    }
+    
     updateTypeFilterOptions();
     renderResources();
 };
 
-/* =========================================
- * 7. ANEXOS
- * ========================================= */
- 
+// =========================================
+// 6. Módulo: Anexos (Directorio)
+// =========================================
+
 const initAnexosDirectory = () => {
     const anexosGrid = document.getElementById('anexos-grid');
-    if (!anexosGrid) return;
+    if (!anexosGrid) return; // Solo ejecutar si existe el contenedor
 
     const tabs = document.querySelectorAll('.filter-tab');
     const searchInput = document.getElementById('anexos-search');
+    const searchBtn = document.querySelector('.search-btn');
+    
+    // --- Referencia al Select Móvil ---
     const mobileSelect = document.getElementById('mobile-filter-select');
 
     let currentFilter = 'todos';
 
     const renderAnexos = () => {
-        if (typeof anexosDB === 'undefined') return;
+        if (typeof anexosDB === 'undefined') {
+            anexosGrid.innerHTML = 'Error: anexosDB no cargada.';
+            return;
+        }
 
         const searchText = searchInput.value.toLowerCase();
+        
         const filtered = anexosDB.filter(anexo => {
             const matchFilter = currentFilter === 'todos' || 
                 (Array.isArray(anexo.category) ? anexo.category.includes(currentFilter) : anexo.category === currentFilter);
-            const matchSearch = !searchText || anexo.title.toLowerCase().includes(searchText) || anexo.number.includes(searchText);
+            
+            const matchSearch = !searchText || 
+                anexo.title.toLowerCase().includes(searchText) || 
+                anexo.number.includes(searchText);
+
             return matchFilter && matchSearch;
         });
 
-        anexosGrid.textContent = '';
+        anexosGrid.innerHTML = '';
+
         if (filtered.length === 0) {
             anexosGrid.innerHTML = `<div class="empty-state" style="grid-column: 1 / -1;">No se encontraron anexos.</div>`;
             return;
@@ -537,128 +565,208 @@ const initAnexosDirectory = () => {
             `;
             anexosGrid.appendChild(card);
         });
-        
-        // Reemplazar emojis con Iconify después de renderizar
-        setTimeout(replaceEmojisWithFluent, 10);
     };
 
+    // Event Listeners
     tabs.forEach(tab => {
         tab.addEventListener('click', () => {
             tabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
             currentFilter = tab.dataset.filter;
-            if (mobileSelect) mobileSelect.value = currentFilter;
+            
+            // --- Sincronizar Select Móvil al hacer clic en Tab ---
+            if (mobileSelect) {
+                mobileSelect.value = currentFilter;
+            }
+            
             renderAnexos();
         });
     });
 
+    // --- Listener para el Select Móvil ---
     if (mobileSelect) {
         mobileSelect.addEventListener('change', (e) => {
-            document.querySelector(`.filter-tab[data-filter="${e.target.value}"]`)?.click();
+            const selectedValue = e.target.value;
+            const targetTab = document.querySelector(`.filter-tab[data-filter="${selectedValue}"]`);
+            if (targetTab) {
+                targetTab.click(); 
+            }
         });
     }
 
-    searchInput.addEventListener('input', renderAnexos);
+    const performSearch = () => renderAnexos();
+    
+    searchInput.addEventListener('input', performSearch);
+    searchInput.addEventListener('keypress', (e) => { if(e.key === 'Enter') performSearch(); });
+    if(searchBtn) searchBtn.addEventListener('click', performSearch);
+
     renderAnexos();
 };
 
-/* =========================================
- * 8. INDICACIONES
- * ========================================= */
- 
-const initIndicaciones = () => {
-    const listaIndicaciones = document.getElementById('lista-indicaciones');
-    if (!listaIndicaciones || typeof indicacionesDB === 'undefined') return;
+// =========================================
+// 7. Módulo: Indicaciones y Manejo
+// =========================================
 
+const initIndicaciones = () => {
+    // Verificar si estamos en la página correcta
+    const listaIndicaciones = document.getElementById('lista-indicaciones');
+    if (!listaIndicaciones) return;
+
+    // Verificar si la BD está cargada
+    if (typeof indicacionesDB === 'undefined') {
+        listaIndicaciones.innerHTML = '<div class="lista-vacia">Error: Base de datos no cargada.</div>';
+        return;
+    }
+
+    // Elementos del DOM
     const contenidoIndicacion = document.getElementById('contenido-indicacion');
     const tituloIndicacion = document.getElementById('titulo-indicacion');
     const btnCopiar = document.getElementById('btn-copiar');
     const buscadorInput = document.getElementById('buscador-indicaciones');
     const filtrosTabs = document.querySelectorAll('.indicaciones-tab');
     
+    // Variables de estado
+    let indicacionesFiltradas = [...indicacionesDB];
     let tipoSeleccionado = 'urgencia';
     let indicacionSeleccionada = null;
     
+    // Funciones
     const seleccionarIndicacion = (id) => {
-        indicacionSeleccionada = indicacionesDB.find(ind => ind.id === id);
+        indicacionSeleccionada = indicacionesFiltradas.find(ind => ind.id === id);
+        
+        // Actualizar clases activas
         document.querySelectorAll('.item-indicacion').forEach(item => {
-            item.classList.toggle('active', parseInt(item.dataset.id) === id);
+            item.classList.remove('active');
+            if (parseInt(item.dataset.id) === id) {
+                item.classList.add('active');
+            }
         });
         
+        // Actualizar contenido
         tituloIndicacion.textContent = indicacionSeleccionada.titulo;
         contenidoIndicacion.innerHTML = `<pre>${indicacionSeleccionada.contenido}</pre>`;
+        
+        // Habilitar botón de copiar
         btnCopiar.disabled = false;
-        btnCopiar.innerHTML = '<iconify-icon icon="fluent-emoji-flat:clipboard" class="fluent-emoji"></iconify-icon> Copiar';
+        btnCopiar.innerHTML = '📋 Copiar';
     };
 
-    const filtrarIndicaciones = () => {
-        const textoBusqueda = buscadorInput.value.toLowerCase();
-        const filtradas = indicacionesDB.filter(ind => 
-            ind.tipo === tipoSeleccionado && 
-            (ind.titulo.toLowerCase().includes(textoBusqueda) || ind.contenido.toLowerCase().includes(textoBusqueda))
-        ).sort((a, b) => a.titulo.localeCompare(b.titulo));
-
-        listaIndicaciones.textContent = '';
-        if (filtradas.length === 0) {
-            listaIndicaciones.innerHTML = '<div class="lista-vacia">No hay resultados.</div>';
+    const renderizarLista = () => {
+        listaIndicaciones.innerHTML = '';
+        
+        if (indicacionesFiltradas.length === 0) {
+            listaIndicaciones.innerHTML = `
+                <div class="lista-vacia">
+                    No se encontraron indicaciones para "${tipoSeleccionado}" con la búsqueda actual.
+                </div>
+            `;
             return;
         }
         
-        filtradas.forEach(ind => {
+        indicacionesFiltradas.forEach(indicacion => {
             const item = document.createElement('div');
-            item.className = `item-indicacion ${indicacionSeleccionada?.id === ind.id ? 'active' : ''}`;
-            item.dataset.id = ind.id;
-            item.innerHTML = `<div class="item-icon">📋</div><div class="item-text">${ind.titulo}</div>`;
-            item.onclick = () => seleccionarIndicacion(ind.id);
+            item.className = `item-indicacion ${indicacionSeleccionada?.id === indicacion.id ? 'active' : ''}`;
+            item.dataset.id = indicacion.id;
+            
+            item.innerHTML = `
+                <div class="item-icon">📋</div>
+                <div class="item-text">${indicacion.titulo}</div>
+            `;
+            
+            item.addEventListener('click', () => seleccionarIndicacion(indicacion.id));
             listaIndicaciones.appendChild(item);
         });
-        
-        // Reemplazar emojis con Iconify después de renderizar
-        setTimeout(replaceEmojisWithFluent, 10);
     };
-    
-    btnCopiar.onclick = () => {
-        if (!indicacionSeleccionada) return;
-        navigator.clipboard.writeText(indicacionSeleccionada.contenido).then(() => {
-            const original = btnCopiar.innerHTML;
-            btnCopiar.innerHTML = '<iconify-icon icon="fluent-emoji-flat:check-mark" class="fluent-emoji"></iconify-icon> ¡Copiado!';
-            setTimeout(() => btnCopiar.innerHTML = original, 2000);
+
+        const filtrarIndicaciones = () => {
+            const textoBusqueda = buscadorInput.value.toLowerCase();
+            indicacionesFiltradas = indicacionesDB.filter(indicacion => {
+                    const coincideTipo = indicacion.tipo === tipoSeleccionado;
+                    const coincideBusqueda = !textoBusqueda || 
+                        indicacion.titulo.toLowerCase().includes(textoBusqueda) ||
+                        indicacion.contenido.toLowerCase().includes(textoBusqueda);
+            
+                return coincideTipo && coincideBusqueda;
         });
+        indicacionesFiltradas.sort((a, b) => a.titulo.localeCompare(b.titulo));
+        renderizarLista();
     };
     
+    const copiarContenido = () => {
+        if (!indicacionSeleccionada) return;
+        
+        const texto = indicacionSeleccionada.contenido;
+        
+        navigator.clipboard.writeText(texto)
+            .then(() => {
+                const originalText = btnCopiar.innerHTML;
+                btnCopiar.innerHTML = '✅ ¡Copiado!';
+                btnCopiar.style.background = 'var(--ssasur-blue)';
+                btnCopiar.style.color = 'white';
+                btnCopiar.style.borderLeftColor = 'var(--ssasur-red)';
+                
+                setTimeout(() => {
+                    btnCopiar.innerHTML = originalText;
+                    btnCopiar.style.background = '';
+                    btnCopiar.style.color = '';
+                    btnCopiar.style.borderLeftColor = '';
+                }, 2000);
+            })
+            .catch(err => {
+                console.error('Error al copiar:', err);
+                alert('Error al copiar el texto. Intente nuevamente.');
+            });
+    };
+    
+    // Inicialización de Eventos
     filtrosTabs.forEach(tab => {
-        tab.onclick = () => {
+        tab.addEventListener('click', () => {
             filtrosTabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
+            
             tipoSeleccionado = tab.dataset.tipo;
+            
+            filtrarIndicaciones();
+            
+            // Resetear vista detalle
             indicacionSeleccionada = null;
             tituloIndicacion.textContent = 'Seleccione una indicación';
-            contenidoIndicacion.innerHTML = '<div class="detalle-vacio">Seleccione de la lista.</div>';
+            contenidoIndicacion.innerHTML = `
+                <div class="detalle-vacio">
+                    <div class="detalle-vacio-icon">📝</div>
+                    <div class="detalle-vacio-texto">Seleccione una indicación de la lista para ver su contenido</div>
+                </div>
+            `;
             btnCopiar.disabled = true;
-            filtrarIndicaciones();
-        };
+        });
     });
 
-    buscadorInput.oninput = filtrarIndicaciones;
+    buscadorInput.addEventListener('input', filtrarIndicaciones);
+    btnCopiar.addEventListener('click', copiarContenido);
+    
+    // Carga inicial
     filtrarIndicaciones();
-    setTimeout(() => listaIndicaciones.querySelector('.item-indicacion')?.click(), 100);
+    
+    // Seleccionar primera opción automáticamente si hay resultados
+    if (indicacionesFiltradas.length > 0) {
+        setTimeout(() => {
+            const primeraIndicacion = listaIndicaciones.querySelector('.item-indicacion');
+            if (primeraIndicacion) primeraIndicacion.click();
+        }, 100);
+    }
 };
 
-/* =========================================
- * 9. INICIALIZACIÓN GLOBAL
- * ========================================= */
+// =========================================
+// 8. Inicialización Global
+// =========================================
 
 const initApp = () => {
+    console.log('Iniciando Aplicación HHHA...');
     initSidebarMenu();
     initMegaMenu();
     initRepository();
     initAnexosDirectory();
     initIndicaciones();
-    
-    // Inicializar reemplazo de emojis (NUEVO)
-    initEmojiReplacement();
-    
-    if (typeof initEasterEgg === 'function') initEasterEgg(); 
 };
 
 document.addEventListener('DOMContentLoaded', initApp);
