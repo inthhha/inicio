@@ -158,7 +158,7 @@ const initSidebarMenu = () => {
         else {
             const link = document.createElement('a');
             link.className = 'sidebar-item-hhha';
-            link.href = item.url || '#';
+            link.href = getViewerUrl(item.url) || '#';
             if (item.url) link.target = '_blank';
 
             const textDiv = document.createElement('div');
@@ -169,6 +169,25 @@ const initSidebarMenu = () => {
             menuContainer.appendChild(link);
         }
     });
+};
+
+// Helper para convertir enlaces de Drive al modo Preview (Visualización limpia)
+const getViewerUrl = (url) => {
+    if (!url || !url.includes('drive.google.com')) return url;
+    
+    // Si es un enlace de descarga directa (uc?id=...)
+    if (url.includes('uc?id=')) {
+        const id = url.split('id=')[1].split('&')[0];
+        return `https://drive.google.com/file/d/${id}/preview`;
+    }
+    
+    // Si es un enlace de vista estándar (/file/d/.../view)
+    if (url.includes('/file/d/')) {
+        const id = url.split('/file/d/')[1].split('/')[0];
+        return `https://drive.google.com/file/d/${id}/preview`;
+    }
+    
+    return url;
 };
 
 // =========================================
@@ -233,7 +252,7 @@ const initMegaMenu = () => {
             section.items.forEach(item => {
                 const link = document.createElement('a');
                 link.className = 'megamenu-item';
-                link.href = (item.url && item.url !== '#') ? item.url : 'javascript:void(0)';
+                link.href = (item.url && item.url !== '#') ? getViewerUrl(item.url) : 'javascript:void(0)';
                 
                 if (item.url && item.url !== '#' && !item.url.startsWith('javascript')) {
                   if (!item.sameTab) { 
@@ -451,7 +470,7 @@ const initRepository = () => {
                         <span class="repo-title">${item.title}</span>
                         <span class="repo-meta">Año: ${item.year} | Tipo: ${CONFIG.repoTypeLabels[item.type] || item.type}</span>
                     </div>
-                    <a href="${item.url}" class="repo-btn" target="_blank">Ver / Descargar</a>
+                    <a href="${getViewerUrl(item.url)}" class="repo-btn" target="_blank">Ver / Descargar</a>
                 `;
                 resultsContainer.appendChild(itemDiv);
             });
