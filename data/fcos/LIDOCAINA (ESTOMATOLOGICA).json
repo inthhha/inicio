@@ -1,0 +1,36 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Anestésico local. Tipo amida. Actúa bloqueando la propagación de los impulsos nerviosos, al estabilizar eléctricamente la membrana axoplásmica de las neuronas, a nivel local. La acción anestésica comienza a los 2-5 min y dura 1-4 h.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>Autorizadas en España: Anestesia local en dolor dental y dolor gingival, dolor de la mucosa oral, dolor por prótesis dental, dolor en la dentición (gel al 2%).</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Tópico. <b>Adultos</b>: varios toques sobre la zona afectada mediante un aplicador de algodón, hasta 4 veces al día. Niños: 2-3 aplicaciones/día (máximo 6 aplicaciones/día).</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Colocar una pequeña cantidad de gel en la yema del dedo y frotar suavemente la encia del niño en los puntos de erupción dentaria.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Las reacciones adversas más características son:<br />-Raramente (<1%): reacción anafilactoide, sensación de quemazón bucal.</p>",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>Contraindicado en alergia a la lidocaína o a anestésico locales tipo amida (articaína, mepivacaína, prilocaína. Aunque excepcional, existe riesgo de alergia cruzada).</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'>Cuando se aplique en anestesia bucofaríngea, se aconseja no comer mientras persista la anestesia ante el riesgo de aspiración o morderse la lengua.</p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANESTESICO LOCAL",
+    "BLOQUEANTE DE LOS CANALES DE SODIO"
+  ]
+}

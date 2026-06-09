@@ -1,0 +1,54 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "ACENOCUMAROL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "MATRICARIA + ANTICOAGULANTES",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de hemorragia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada report&aacute;ndose un &uacute;nico caso de hemorragia. Sin embargo, se sabe que el uso de un medicamento antiplaquetario con un anticoagulante se encuentra contraindicado. Por tanto, deber&iacute;a recomendarse evitar la administraci&oacute;n concomitante de anticoagulantes y productos con matricaria o, en caso de no ser posible, avisar a los pacientes de vigilar la posible aparici&oacute;n de cualquier signo de sangrado.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Matricaria presenta efectos antiplaquetarios cuya administraci&oacute;n con f&aacute;rmacos anticoagulantes incrementa el riesgo de hemorragia.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante de productos con matricaria advierte sobre el posible riesgo de hemorragias tras su administraci&oacute;n concomitante con f&aacute;rmacos anticoagulantes.<br>2. Se reporta un caso de una paciente de 70 a&ntilde;os en tratamiento con warfarina que sufri&oacute; m&uacute;ltiples hemorragias despu&eacute;s de haber utilizado productos de manzanilla.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Migraherb (Feverfew herb). MH Pharma (UK) Ltd. UK Summary of product characteristics, April 2007.<br>2. Segal R, et al. Warfarin interaction with Matricaria chamomilla. CMAJ. 2006; 174(9): 1281-2.<BR><br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "WARFARINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "MATRICARIA + ANTICOAGULANTES",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de hemorragia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada report&aacute;ndose un &uacute;nico caso de hemorragia. Sin embargo, se sabe que el uso de un medicamento antiplaquetario con un anticoagulante se encuentra contraindicado. Por tanto, deber&iacute;a recomendarse evitar la administraci&oacute;n concomitante de anticoagulantes y productos con matricaria o, en caso de no ser posible, avisar a los pacientes de vigilar la posible aparici&oacute;n de cualquier signo de sangrado.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Matricaria presenta efectos antiplaquetarios cuya administraci&oacute;n con f&aacute;rmacos anticoagulantes incrementa el riesgo de hemorragia.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante de productos con matricaria advierte sobre el posible riesgo de hemorragias tras su administraci&oacute;n concomitante con f&aacute;rmacos anticoagulantes.<br>2. Se reporta un caso de una paciente de 70 a&ntilde;os en tratamiento con warfarina que sufri&oacute; m&uacute;ltiples hemorragias despu&eacute;s de haber utilizado productos de manzanilla.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Migraherb (Feverfew herb). MH Pharma (UK) Ltd. UK Summary of product characteristics, April 2007.<br>2. Segal R, et al. Warfarin interaction with Matricaria chamomilla. CMAJ. 2006; 174(9): 1281-2.<BR><br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIULCERA PEPTICA",
+    "DIGESTIVO",
+    "ANTIINFLAMATORIO",
+    "HIPNOTICO",
+    "ANTIESPASMODICO",
+    "INHIBIDOR DE LA SINTESIS DE LEUCOTRIENOS (5-LIPOOXIGENASA)"
+  ]
+}

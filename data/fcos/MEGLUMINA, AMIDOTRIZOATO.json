@@ -1,0 +1,60 @@
+{
+  "farmacologia": "",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <strong>UROGRAFIA</strong> intravenosa. <br><br><br>- <strong>ANGIOGRAFIA</strong> cerebral. <br>- <strong>ARTERIOGRAFIA</strong> selectiva. <br>- Aortograf&iacute;a. <br>- Exploraciones radiol&oacute;gicas diversas.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>10-100 ml, en funci&oacute;n del tipo de examen.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>- Metformina: la administración de medios de contraste yodados a pacientes diabéticos tratados con metformina podría inducir acidosis láctica, por lo que el tratamiento con metformina deberá suspenderse 48 horas antes de la administración del medio de contraste y no restaurarse hasta dos días después de ésta.</p>",
+    "detalle": [
+      {
+        "principio_activo": "METFORMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "METFORMINA + CONTRASTES RADIOLOGICOS IODADOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18315\"></HEAD><BODY>Posible aumento de los niveles de metformina con riesgo de potenciaci&oacute;n de su toxicidad (acidosis l&aacute;ctica).</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>La administraci&oacute;n intravascular de medios de contraste yodados en exploraciones radiol&oacute;gicas puede desembocar en un fallo renal que puede dar lugar a acumulaci&oacute;n de metformina en pacntes tratados con este medicameto con el consiguinte riesgo de acidosis l&aacute;ctica. <BR>* Si filtrado glomerular es &gt; 60ml/min/1,73 m2, el tratamiento con metformina debe suspenderse antes o en el momento de la exploraci&oacute;n y no debe reanudarselo hasta al menos pasadas 48 horas, y s&oacute;lo tras haber re-evaluado la funci&oacute;n renal y que no se haya deteriorado a&uacute;n m&aacute;s. <BR>* Si filtrado glomerular est&aacute; entre 45 y 60 ml/min/1,73 m2, interrumpir metformina 48 horas antes de la administraci&oacute;n del medio de contraste yodado y no debe reiniciarse el tratamiento hasta al menos pasadas 48 horas, y s&oacute;lo tras haber re-evaluado la funci&oacute;n renal y que no se haya deteriorado a&uacute;n m&aacute;s. <BR>* Si filtrado glomerular es &lt; 45ml/min/1,73m2, la metformina est&aacute; contraindicada. <br><br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'>Posible incremento de los niveles orgánicos de metformina con el consiguiente aumento de los niveles de lactato, como consecuencia de un descenso de la excreción urinaria, debido a la <b>insuficiencia renal</b> a que puede dar lugar la administración de los contrastes radiológicos iodados.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18315\"></HEAD><BODY>1 En una revisi&oacute;n realizada de los casos publicados de acidosis l&aacute;ctica provocados por la administraci&oacute;n de metformina, se registr&oacute; que en 7 de los 110 casos descritos entre 1968 y 1991 se hab&iacute;a recibido contrastes radiol&oacute;gicos iodados antes de desarrollar esa acidosis. <br>2 El fabricante de metformina informa de la necesidad de interrumpir el tratamiento de metformina desde al menos 48 horas hasta 48 horas despu&eacute;s de la utilizaci&oacute;n de un contraste radiol&oacute;gico iodado, realizando un control de grado de funcionalismo renal antes de su reinstauraci&oacute;n. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>1 Rasuli P, et al. New contraindication to intravascular contrast material (letter). Radiology 1996;201:289. <br>2 Ficha t&eacute;cnica Dianben (Metformina), diciembre 2014.&nbsp;<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><strong>NAUSEAS</strong>, <strong>VOMITOS</strong> , <strong>DISGEUSIA</strong>, <strong>GOLPE DE CALOR</strong>. Su frecuencia depende de la velocidad de infusión. <strong>REACCIONES DE HIPERSENSIBILIDAD</strong> (suspender inmediatamente el tratamiento).</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- <strong>ALERGIA A CONTRASTES IODADOS</strong>. <br>- <strong>INSUFICIENCIA RENAL</strong>. <br>- <strong>INSUFICIENCIA HEPATICA</strong>. <br>- <strong>MIELOMA MULTIPLE</strong>.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- Extremar las precauciones en <strong>INSUFICIENCIA CARDIACA</strong>, <strong>HIPERTENSION ARTERIAL</strong>, <strong>INSUFICIENCIA CORONARIA</strong>, <strong>ASMA</strong> cr&oacute;nico, <strong>DIABETES</strong>, historial de <strong>CONVULSIONES</strong>, <strong>ENFISEMA PULMONAR</strong>, <strong>ATEROSCLEROSIS CEREBRAL</strong>. <br>- En pacientes con <strong>FEOCROMOCITOMA</strong> se recomienda administrar profil&aacute;cticamente alfa-bloqueantes, ante el riesgo de crisis hipertensiva.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: En el embarazo, el principal riesgo proviene de la radiaci&oacute;n y no del medio de contraste. El empleo de medios de contraste en mujeres embarazadas es s&oacute;lo aconsejable cuando, a juicio del m&eacute;dico, es esencial para la salud de la paciente. No ha sido establecida la toxicidad de los medios de contraste en el feto. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Si debe administrarse a una madre lactante se aconseja interrumpir la lactancia temporalmente despu&eacute;s de recibir este medicamento.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "INSUFICIENCIA_HEPATICA",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia hepática (IH), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "INSUFICIENCIA_RENAL",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia renal (IR), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "AGENTE DE DIAGNOSTICO",
+    "CONTRASTE RADIOLOGICO"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>- <strong>ANALGESICO</strong>,[518;2].  En la piel produce un efecto rubefaciente (dilata los vasos sanguíneos), provocando posterior sensación de frío seguida de una acción analgésica local.</p>",
+  "indicaciones": "",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>-&nbsp;<b>Adultos</b> y ni&ntilde;os mayores de 2 a&ntilde;os <br><br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>- Pulverizar sobre la zona afectada. Aplicar cada 2 horas si se considera necesario.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "NIFEDIPINO",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "MENTA + BLOQUEANTES CANALES DE CALCIO",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la biodisponibilidad de los antagonistas de los canales de calcio con el consiguiente riesgo de incrementar la aparici&oacute;n de efectos adversos.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>El incremento de la biodisponibilidad de estos f&aacute;rmacos podr&iacute;a dar lugar a la aparici&oacute;n de efectos adversos entre los que se incluyen dolor de cabeza y mareos. Se sabe que esta interacci&oacute;n afectar&iacute;a a felodipino y nifedipino, pero ser&iacute;a necesario realizar nuevos estudios para comprobar si se tiene este efecto sobre el resto de calcio- antagonistas. Se recomienda precauci&oacute;n en caso de administraci&oacute;n concomitante y vigilar la posible aparici&oacute;n de efectos adversos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la exposici&oacute;n a los antagonistas de calcio mediante la inhibici&oacute;n de la isoenzima CYP3A4 por parte de la Mentha piperita.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 12 sujetos sanos, la administraci&oacute;n de c&aacute;psulas con aceite de Mentha piperita 600mg junto con felodipino 10mg, produjo un incremento en el AUC y la Cmax de felodipino del 55% y 40%, respectivamente.<br>2. En estudios in vitro realizados se descubri&oacute; que la Mentha piperita, el mentol y mentol acetato presentaban cierta capacidad para inhibir moderadamente el metabolismo de nifedipino.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1, 2. Dresser GK, et al. Evaluation of peppermint oil and ascorbyl palmitate as inhibitors of cytochrome P4503A4 activity in vitro and in vivo. Clin Pharmacol Ther. 2002; 72, 247-55.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FELODIPINO",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "MENTA + BLOQUEANTES CANALES DE CALCIO",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la biodisponibilidad de los antagonistas de los canales de calcio con el consiguiente riesgo de incrementar la aparici&oacute;n de efectos adversos.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>El incremento de la biodisponibilidad de estos f&aacute;rmacos podr&iacute;a dar lugar a la aparici&oacute;n de efectos adversos entre los que se incluyen dolor de cabeza y mareos. Se sabe que esta interacci&oacute;n afectar&iacute;a a felodipino y nifedipino, pero ser&iacute;a necesario realizar nuevos estudios para comprobar si se tiene este efecto sobre el resto de calcio- antagonistas. Se recomienda precauci&oacute;n en caso de administraci&oacute;n concomitante y vigilar la posible aparici&oacute;n de efectos adversos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la exposici&oacute;n a los antagonistas de calcio mediante la inhibici&oacute;n de la isoenzima CYP3A4 por parte de la Mentha piperita.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 12 sujetos sanos, la administraci&oacute;n de c&aacute;psulas con aceite de Mentha piperita 600mg junto con felodipino 10mg, produjo un incremento en el AUC y la Cmax de felodipino del 55% y 40%, respectivamente.<br>2. En estudios in vitro realizados se descubri&oacute; que la Mentha piperita, el mentol y mentol acetato presentaban cierta capacidad para inhibir moderadamente el metabolismo de nifedipino.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1, 2. Dresser GK, et al. Evaluation of peppermint oil and ascorbyl palmitate as inhibitors of cytochrome P4503A4 activity in vitro and in vivo. Clin Pharmacol Ther. 2002; 72, 247-55.</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>- El mentol puede originar reacciones de hipersensibilidad, como <strong>DERMATITIS DE CONTACTO</strong>. Se han descrito casos de <strong>APNEA</strong> y <strong>SINCOPE</strong> inmediato en lactantes tras la aplicación local de mentol en los orificios nasales.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Alergia a mentol</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- No aplicar sobre heridas abiertas o ampollas. <br />- Evitar el contacto con las mucosas</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: La ingestión accidental de mentol puede producir severo dolor abdominal, náuseas, vómitos, vértigo, ataxia, mareos y coma.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "CARMINATIVO",
+    "ANTIPRURIGINOSO",
+    "ANTIINFLAMATORIO TOPICO",
+    "DESCONGESTIONANTE NASO/FARINGEO"
+  ]
+}
