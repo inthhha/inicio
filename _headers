@@ -1,0 +1,60 @@
+# ── SEGURIDAD GLOBAL ─────────────────────────────────────────
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-Robots-Tag: index, follow
+
+# ── HTML: sin cache ──────────────────────────────────────────
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Páginas Astro (rutas limpias)
+# ── HTML: sin cache ──────────────────────────────────────────
+/
+  Cache-Control: public, max-age=0, must-revalidate
+/anexos
+  Cache-Control: public, max-age=0, must-revalidate
+/indicaciones-y-manejo
+  Cache-Control: public, max-age=0, must-revalidate
+/accesos-clinicos
+  Cache-Control: public, max-age=0, must-revalidate
+/extractor-laboratorio
+  Cache-Control: public, max-age=0, must-revalidate
+/extractorHIS
+  Cache-Control: public, max-age=0, must-revalidate
+/extractorRecetas
+  Cache-Control: public, max-age=0, must-revalidate
+/inthhha-desktop
+  Cache-Control: public, max-age=0, must-revalidate
+/terminos-de-uso-y-politica-de-privacidad
+  Cache-Control: public, max-age=0, must-revalidate
+/vademecum
+  Cache-Control: public, max-age=0, must-revalidate
+/certificados
+  Cache-Control: public, max-age=0, must-revalidate
+/admin-panel
+  Cache-Control: public, max-age=0, must-revalidate
+
+# ── JSON de datos: se renueva cada 7 días ────────────────────
+/data/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=3600
+
+# ── Imágenes: se renuevan cada 1 año ─────────────────────────
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# ── Archivos: se renuevan cada 30 días ───────────────────────
+/files/*
+  Cache-Control: public, max-age=2592000
+
+# ── Audio: se renueva cada 1 año ─────────────────────────────
+/audio/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# ── Assets compilados por Astro (CSS/JS con hash) ────────────
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+  
+# HugeRTE: cache agresiva (inmutable)
+/hugerte/*
+  Cache-Control: public, max-age=31536000, immutable

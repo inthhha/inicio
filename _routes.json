@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "include": [
+    "/login",
+    "/login.html",
+    "/api/*",
+    "/intern@*"
+  ],
+  "exclude": [
+    "/intern@/css/*",
+    "/intern@/styles.css",
+    "/intern@/images/*",
+    "/intern@/js/modules/*",
+    "/intern@/audio/*"
+  ]
+}
