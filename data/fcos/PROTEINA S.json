@@ -1,0 +1,44 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "FONDAPARINUX",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "FONDAPARINUX + ANTITROMBOTICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17924\"></HEAD><BODY>El uso concomitante de f&aacute;rmacos antitromb&oacute;ticos o antiagregantes plaquetarios con fondaparinux puede aumentar el riesgo de hemorragia. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>En t&eacute;rminos generales, cabe esperar que la administraci&oacute;n concomitante de dos f&aacute;rmacos con propiedades antitromb&oacute;ticas o antiagregantes plaquetarias aumente el riesgo de hemorragia, por adici&oacute;n de efectos farmacol&oacute;gicos. Es importante resaltar tambi&eacute;n que hay condiciones cl&iacute;nicas en las que el uso conjunto de estos tipos de f&aacute;rmacos resulta beneficiosa. En consecuencia, en caso de administraci&oacute;n conjunta se aconseja precauci&oacute;n con control cl&iacute;nico exhaustivo de los par&aacute;metros de coagulaci&oacute;n. <br>No obstante, no&nbsp;se produjeron alteraciones farmacocin&eacute;ticas cuando fondaparinux se administr&oacute; con &aacute;cido acetilsalic&iacute;lico, ni tampoco se observaron cambios significativos en el tiempo de hemorragia. <br>En pacientes sometidos a cirug&iacute;a ortop&eacute;dica mayor, en el caso de administraci&oacute;n concomitante de fondaparinux en pacientes con anestesia raqu&iacute;dea/epidural &oacute; punci&oacute;n raqu&iacute;dea no se puede excluir la formaci&oacute;n de hematomas epidurales o espinales, que pueden causar par&aacute;lisis prolongada o permanente. El riesgo de estos eventos infrecuentes puede ser mayor con la administraci&oacute;n concomitante de otros medicamentos que influyan sobre la hemostasia.<br>• Heparina/HBPM: Si el tratamiento de continuaci&oacute;n va a iniciarse con heparina o HBPM, la primera inyecci&oacute;n debe administrarse, como norma general, un d&iacute;a despu&eacute;s de la &uacute;ltima inyecci&oacute;n de fondaparinux.<BR>• Anticoagulantes antivitaminas K: Si es necesario continuar el tratamiento con un antagonista de la vitamina K, el tratamiento con fondaparinux debe continuar hasta que se alcance el valor INR deseado.<BR>• Paso de dabigatr&aacute;n a un anticoagulante parenteral: Se recomienda esperar 12 horas despu&eacute;s de la &uacute;ltima dosis antes de cambiar de dabigatr&aacute;n etexilato a un anticoagulante parenteral. <BR>• Paso de un anticoagulante parenteral a dabigatr&aacute;n: Suspender el anticoagulante parenteral e iniciar dabigatr&aacute;n etexilato 0-2 horas antes del momento previsto para administrar la siguiente dosis programada del tratamiento alternativo o en el momento de interrupci&oacute;n en caso de tratamientos continuos (p. ej. heparina no fraccionada intravenosa (HNF)). <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>Posible adici&oacute;n de efectos farmacol&oacute;gicos, con aumento del riesgo de hemorragia. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>1. Ni la aspirina ni el piroxicam alteran la farmacocin&eacute;tica de&nbsp;fondaparinux, sin cambios significativos en el tiempo de sangrado con el uso concomitante.&nbsp;Un estudio sobre 16 sujetos sanos demostr&oacute; que una dosis &uacute;nica de 975 mg de aspirina adminstrada en los d&iacute;as 4 y 8 de un tratamiento subcut&aacute;neo con fondaparinux (10 mg diarios) no ejerci&oacute; ning&uacute;n efecto sobre la farmacocin&eacute;tica de fondaparinux; adem&aacute;s, el incremento en el tiempo de sangrado con fondaparinux y aspirina era ligeramente superior que con aspirina sola, pero fue una diferencia sin significaci&oacute;n estad&iacute;stica. Por otro lado, otro estudio evalu&oacute; el efecto de 20 mg diarios de piroxicam administrados a 12 sujetos sanos durante 10 d&iacute;as, en administraci&oacute;n concomitante con fondaparinux (10 mg diarios) a partir del d&iacute;a 7. Ambos f&aacute;rmacos tambi&eacute;n se administraron de forma &uacute;nica e independiente, y se observ&oacute; que el piroxicam no ejerc&iacute;a efecto siginificativo en el tiempo de sangrado y en la farmacocin&eacute;tica de fondaparinux.<br>2. En Reino Unido, el fabricante de recomienda evitar uso concomitante de otros f&aacute;rmacos que puedan incrementar el riesgo de hemorragia, nombrando espec&iacute;ficamente: desirudina, fibrinol&iacute;ticos, antagonistas de los receptores IIb/IIIa de la glicoprote&iacute;na, heparina, heparinas de bajo peso molecular y otros derivados de heparina. <br>3. Del mismo modo, el fabricante de fondaparinux en EEUU recomienda que deber&iacute;a interrumpirse el tratamiento con otros f&aacute;rmacos que incrementen el riesgo de hemorragia cuando se inicie la terapia con fondaparinux. Se resalta que si el uso concomitante es esencial, debe hacerse una monitorizaci&oacute;n intensa. <br><BR><BR><BR>&nbsp;<br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>1. Ollier C, Faaij RA, Santoni A, Duvauchelle T, van Haard PMM, Schoemaker RC, Cohen AF, de Greef R, Burggraaf J. Absence of interaction of fondaparinux sodium with aspirin and piroxicam in healthy male volunteers. Clin Pharmacokinet, 2002, 41(Suppl 2): 31-37.<br>2. Arixtra (Fondaparinux sodium). GlaxoSmithKline UK. UK Summary of product characteristics, March 2009.<br>3. Arixtra (Fondaparinux sodium). GlaxoSmithKline. US Prescribing information, October 2009.<br>4. Ficha t&eacute;cnica Aristra (Fondaparinux), octubre 2014. <br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTICOAGULANTE PARENTERAL",
+    "ANTITROMBOTICO"
+  ]
+}

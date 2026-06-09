@@ -1,0 +1,49 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Analgésico, antipirético. Derivado pirazolónico, inhibidor de la síntesis de prostaglandinas</p>\n\nFarmacocinética:\n<p style='text-indent:0px;'>- Absorción: La propifenazona se absorbe un 90% por vía oral. La concentración plasmática máxima se alcanza entre 1-3 horas. <br />- Distribución: La unión a proteínas plasmáticas es del 10% al 20%, siendo el volumen de distribución de 1.3 L/kg. - Eliminación: La vida media de eliminación es de 1 a 1.5 horas. Aproximadamente el 0.6% del fármaco se excreta inalterado por la orina.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- Dolor: dolor de cabeza, muelas; neuralgias, dolores postoperatorios, heridas dolorosas, dismenorreas, etc.<br />- Fiebre: enfriamientos febriles, afecciones gripales.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>- <b>Adultos</b>: Oral, 220-440 mg/12-24 h. Rectal, 440 mg/8-24 h.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>- Anticoagulantes orales (acenocumarol, warfarina): hay estudios con otros fármacos con estructura pirazolónica (fenilbutazona, feprazona) en los que se ha registrado posible potenciación del efecto anticoagulante, con riesgo de hemorragia, por desplazamiento de su unión a proteínas plasmáticas.</p>",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Los efectos adversos de propifenazona son, <br />en general, infrecuentes aunque moderadamente importantes. Los <br />efectos adversos más característicos son:<br />-Ocasionalmente (1-9%): reacciones alérgicas (erupciones <br />exantemáticas).<br />-Excepcionalmente (<<1%): agranulocitosis, anemia aplásica, <br />leucopenia, trombocitopenia; reacción anafiláctica y disnea.<br />El tratamiento debe ser suspendido inmediatamente en el caso de <br />que el paciente experimente algún episodio de fiebre o úlcera <br />bucal.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Alergia a pirazolonas.<br />- Historial de agranulocitosis por medicamentos y anemia aplásica: aumenta el riesgo de agranulocitosis, por alteración de la producción celular.<br />- Deficiencia de glucosa 6 fosfato deshidrogenasa: aumenta el riesgo de hemolisis.<br />- Porfiria: su metabolización hepática puede potenciar la síntesis de determinadas enzimas como la ALA sintetasa, que pueden dar lugar a aumento de porfirinas, lo que provoca la exacerbación de la enfermedad.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>Precauciones:<br />- Asma crónico: debido a la posible aparición de reacciones de broncoespasmo.<br />- Historial de alergias múltiples a medicamentos (especialmente a salicilatos): puede provocar depresión respiratoria por alergia cruzada a los salicilatos.<br />- Situaciones de colapso circulatorio (hipertensión, infarto de miocardio): puede agravarse, por hipotensión y taquicardia.<br />- Insuficiencia hepática: dado que se metaboliza mayoritariamente en el hígado, debe ajustarse la dosis al gradiente de incapacidad funcional del mismo.<br />- <b>Insuficiencia renal</b>: su eliminación puede verse disminuida, pudiendo aumentar los efectos adversos renales.<br />- Ulcera gastroduodenal o hemorragia gastrointestinal reciente: puede exacerbarse debido a la toxicidad gastrointestinal del derivado pirazolónico. Aumenta el riesgo de hemorragia gastrointestinal.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: Los estudios en animales para evaluar la mutag&eacute;nesis y teratog&eacute;nesis de la propifenazona no han demostrado que dicho f&aacute;rmaco sea teratog&eacute;nico ni mutag&eacute;nico, ni han aparecido signos de embrioletalidad bajo las condiciones de dichos estudios. <br>Seguridad en humanos: a propifenazona atraviesa la placenta. No se han realizado estudios adecuados y bien controlados en humanos, no obstante no se han registrado efectos terat&oacute;genos con el uso de propifenazona en mujeres embarazadas. En principio, el uso no se recomienda durante los 3 primeros meses (falta de estudios sobre teratogenia) y las seis &uacute;ltimas semanas del embarazo (inhibici&oacute;n de la s&iacute;ntesis de prostaglandinas; puede inhibir las contracciones uterinas y retrasar el parto, as&iacute; como aumentar el riesgo de hemorragia neonatal, ver &aacute;cido acetilsalic&iacute;lico), acept&aacute;ndose tan s&oacute;lo bajo estricta vigilancia cl&iacute;nica. El uso de propifenazona durante otros periodos del embarazo s&oacute;lo se acepta en caso de ausencia de alternativas terap&eacute;uticas m&aacute;s seguras. <br>Efectos sobre la fertilidad</I>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: La propifenazona es excretada con la leche materna. Se desconocen las posibles consecuencias en el lactante. Se recomienda suspender la lactancia materna o evitar la administraci&oacute;n de este medicamento.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    },
+    {
+      "categoria": "RIESGO RAM GRAVES",
+      "texto": "Precaucion en ola de calor"
+    },
+    {
+      "categoria": "RIESGO RAM GRAVES",
+      "texto": "Medicamento de alto riesgo para pacientes cronicos"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANALGESICO",
+    "ANTIPIRETICO",
+    "PIRAZOLONAS (GRUPO)"
+  ]
+}

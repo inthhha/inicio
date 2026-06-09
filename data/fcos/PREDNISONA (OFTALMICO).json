@@ -1,0 +1,95 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "KETOROLACO (OFTALMICO)",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "CORTICOIDES TÓPICOS + AINE TÓPICOS",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de corticoides con AINE por vía oftálmica puede dar lugar a alteraciones en la cicatrización corneal, aumentando el riesgo de daño corneal.</p>",
+        "importancia": "<p style='text-indent:0px;'>Los fabricantes de colirios a base de AINE advierten del riesgo de interacción al combinar un AINE administrado por vía oftálmica con un corticoide, empleado por la misma vía. Una de las reacciones adversas características de los AINE oftálmicos es la aparición de queratitis punctata, cuya gravedad oscila desde leves alteraciones del epitelio corneal a importantes efectos, incluyendo úlceras y perforaciones corneales, que podrían afectar a la visión. Entre los factores de riesgo que parecen estar más implicados en esta interacción, se encuentra el empleo de estos AINE a altas dosis y durante periodos prolongados de tiempo, así como su combinación con un corticoide oftálmico, entre otros.<br />En caso de utilización conjunta, se recomienda usar a las dosis y durante el periodo de tiempo prescrito por el médico. Se deberá advertir al paciente que notifique cualquier alteración de la visión que perciba. En caso de sintomatología de queratitis, sería aconsejable suspender la administración conjunta e instaurar el tratamiento necesario.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Tanto los corticoides como los AINE parecen enlentecer o retrasar la cicatrización cuando se administran vía oftálmica.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1-4    Los fabricantes de AINE oftálmicos avisan del riesgo de interacción.</p>",
+        "referencias": "<p style='text-indent:0px;'>1    Ficha técnica Yellox (bromfenaco, Bausch&Lomb, 2012).<br />2    Ficha técnica Voltaren (diclofenaco, Thea, 2011).<br />3    Ficha técnica Acular (ketorolaco, Allergan, 2010).<br />4    Ficha técnica Nevanac (nepafenaco, Alcon Cusi, 2012).</p>"
+      },
+      {
+        "principio_activo": "BROMFENACO",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "CORTICOIDES TÓPICOS + AINE TÓPICOS",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de corticoides con AINE por vía oftálmica puede dar lugar a alteraciones en la cicatrización corneal, aumentando el riesgo de daño corneal.</p>",
+        "importancia": "<p style='text-indent:0px;'>Los fabricantes de colirios a base de AINE advierten del riesgo de interacción al combinar un AINE administrado por vía oftálmica con un corticoide, empleado por la misma vía. Una de las reacciones adversas características de los AINE oftálmicos es la aparición de queratitis punctata, cuya gravedad oscila desde leves alteraciones del epitelio corneal a importantes efectos, incluyendo úlceras y perforaciones corneales, que podrían afectar a la visión. Entre los factores de riesgo que parecen estar más implicados en esta interacción, se encuentra el empleo de estos AINE a altas dosis y durante periodos prolongados de tiempo, así como su combinación con un corticoide oftálmico, entre otros.<br />En caso de utilización conjunta, se recomienda usar a las dosis y durante el periodo de tiempo prescrito por el médico. Se deberá advertir al paciente que notifique cualquier alteración de la visión que perciba. En caso de sintomatología de queratitis, sería aconsejable suspender la administración conjunta e instaurar el tratamiento necesario.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Tanto los corticoides como los AINE parecen enlentecer o retrasar la cicatrización cuando se administran vía oftálmica.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1-4    Los fabricantes de AINE oftálmicos avisan del riesgo de interacción.</p>",
+        "referencias": "<p style='text-indent:0px;'>1    Ficha técnica Yellox (bromfenaco, Bausch&Lomb, 2012).<br />2    Ficha técnica Voltaren (diclofenaco, Thea, 2011).<br />3    Ficha técnica Acular (ketorolaco, Allergan, 2010).<br />4    Ficha técnica Nevanac (nepafenaco, Alcon Cusi, 2012).</p>"
+      },
+      {
+        "principio_activo": "NEPAFENACO",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "CORTICOIDES TÓPICOS + AINE TÓPICOS",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de corticoides con AINE por vía oftálmica puede dar lugar a alteraciones en la cicatrización corneal, aumentando el riesgo de daño corneal.</p>",
+        "importancia": "<p style='text-indent:0px;'>Los fabricantes de colirios a base de AINE advierten del riesgo de interacción al combinar un AINE administrado por vía oftálmica con un corticoide, empleado por la misma vía. Una de las reacciones adversas características de los AINE oftálmicos es la aparición de queratitis punctata, cuya gravedad oscila desde leves alteraciones del epitelio corneal a importantes efectos, incluyendo úlceras y perforaciones corneales, que podrían afectar a la visión. Entre los factores de riesgo que parecen estar más implicados en esta interacción, se encuentra el empleo de estos AINE a altas dosis y durante periodos prolongados de tiempo, así como su combinación con un corticoide oftálmico, entre otros.<br />En caso de utilización conjunta, se recomienda usar a las dosis y durante el periodo de tiempo prescrito por el médico. Se deberá advertir al paciente que notifique cualquier alteración de la visión que perciba. En caso de sintomatología de queratitis, sería aconsejable suspender la administración conjunta e instaurar el tratamiento necesario.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Tanto los corticoides como los AINE parecen enlentecer o retrasar la cicatrización cuando se administran vía oftálmica.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1-4    Los fabricantes de AINE oftálmicos avisan del riesgo de interacción.</p>",
+        "referencias": "<p style='text-indent:0px;'>1    Ficha técnica Yellox (bromfenaco, Bausch&Lomb, 2012).<br />2    Ficha técnica Voltaren (diclofenaco, Thea, 2011).<br />3    Ficha técnica Acular (ketorolaco, Allergan, 2010).<br />4    Ficha técnica Nevanac (nepafenaco, Alcon Cusi, 2012).</p>"
+      },
+      {
+        "principio_activo": "CICLOSPORINA (OFTALMICO)",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "CICLOSPORINA OFTÁLMICA + CORTICOIDES OFTÁLMICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Posible incremento del riesgo de reacciones adversas debidas a ambos f&aacute;rmacos, que&nbsp;pueden afectar a las defensas del hu&eacute;sped frente a infecciones y neoplasias malignas.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>La interacci&oacute;n se propone en base a consideraciones te&oacute;ricas a partir de los perfiles farmacodin&aacute;micos de ambos principios activos. Se requieren futuros estudios para confirmar o descartar la interacci&oacute;n en la pr&aacute;ctica cl&iacute;nica.<br>La administraci&oacute;n conjunta de&nbsp;Ikervis (colirio que contiene ciclosporina)&nbsp;con un colirio que contenga corticoesteroides puede potenciar los efectos de la ciclosporina en el sistema inmunitario, pudiendo afectar a las defensas del hu&eacute;sped.<br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Adici&oacute;n de los efectos de ambos principios activos sobre el sistema inmunitario.<br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>1. La ficha t&eacute;cnica de Ikervis (ciclosporina) hace referencia a la posible interacci&oacute;n.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>1. Ficha t&eacute;cnica - IKERVIS, colirio en emulsi&oacute;n (ciclosporina), marzo 2015.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DICLOFENACO (OFTALMICO)",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "CORTICOIDES TÓPICOS + AINE TÓPICOS",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de corticoides con AINE por vía oftálmica puede dar lugar a alteraciones en la cicatrización corneal, aumentando el riesgo de daño corneal.</p>",
+        "importancia": "<p style='text-indent:0px;'>Los fabricantes de colirios a base de AINE advierten del riesgo de interacción al combinar un AINE administrado por vía oftálmica con un corticoide, empleado por la misma vía. Una de las reacciones adversas características de los AINE oftálmicos es la aparición de queratitis punctata, cuya gravedad oscila desde leves alteraciones del epitelio corneal a importantes efectos, incluyendo úlceras y perforaciones corneales, que podrían afectar a la visión. Entre los factores de riesgo que parecen estar más implicados en esta interacción, se encuentra el empleo de estos AINE a altas dosis y durante periodos prolongados de tiempo, así como su combinación con un corticoide oftálmico, entre otros.<br />En caso de utilización conjunta, se recomienda usar a las dosis y durante el periodo de tiempo prescrito por el médico. Se deberá advertir al paciente que notifique cualquier alteración de la visión que perciba. En caso de sintomatología de queratitis, sería aconsejable suspender la administración conjunta e instaurar el tratamiento necesario.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Tanto los corticoides como los AINE parecen enlentecer o retrasar la cicatrización cuando se administran vía oftálmica.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1-4    Los fabricantes de AINE oftálmicos avisan del riesgo de interacción.</p>",
+        "referencias": "<p style='text-indent:0px;'>1    Ficha técnica Yellox (bromfenaco, Bausch&Lomb, 2012).<br />2    Ficha técnica Voltaren (diclofenaco, Thea, 2011).<br />3    Ficha técnica Acular (ketorolaco, Allergan, 2010).<br />4    Ficha técnica Nevanac (nepafenaco, Alcon Cusi, 2012).</p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>-&nbsp;La influencia sobre la capacidad de conducci&oacute;n&nbsp; es nula o insignificante. No obstante, puede dar lugar a visi&oacute;n borrosa transitoria tras su aplicaci&oacute;n. Si aparece este efecto, el paciente debe esperar hasta que la visi&oacute;n sea n&iacute;tida antes de conducir.<br></BODY></HTML></p>",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "GLUCOCORTICOIDE TOPICO",
+    "HORMONA CORTICOSUPRARRENAL",
+    "GLUCOCORTICOIDE",
+    "ANTIINFLAMATORIO",
+    "ANTIINFLAMATORIO TOPICO"
+  ]
+}

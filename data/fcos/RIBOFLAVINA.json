@@ -1,0 +1,44 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "BLEOMICINA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "BLEOMICINA + VITAMINAS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Posible riesgo de p&eacute;rdida de eficacia terap&eacute;utica de la bleomicina. <br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>La interacci&oacute;n no ha sido constatada desde el punto de vista cl&iacute;nico, sino que se establece a partir de consideraciones te&oacute;ricas derivadas de los ensayos <EM>in vitro</EM>.<br>Las vitaminas, cuando se emplean por v&iacute;a intravenosa,&nbsp;pueden inactivar (y disminuir la actividad) de&nbsp;ciertos antibi&oacute;ticos, como la bleomicina. Por la gravedad de las patolog&iacute;as frente a las que se emplea la bleomicina, y el riesgo de fracaso terap&eacute;utico, se recomienda que, si se sospecha de tal interacci&oacute;n, se suspenda la administraci&oacute;n de&nbsp;vitaminas.<br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Se ha propuesto que la interacci&oacute;n se media por una posible&nbsp;inactivaci&oacute;n del antibi&oacute;tico&nbsp;bleomicina por&nbsp;las vitaminas, tales como el&nbsp;&aacute;cido asc&oacute;rbico y la riboflavina.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>1-2. No existen estudios de intereacci&oacute;n espec&iacute;ficos, pero los fabricantes de estos productos advierten del riesgo de interacci&oacute;n a partir de los resultados de ensayos <EM>in vitro</EM>.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>1. Ficha t&eacute;cnica - Bleomicina Mylan, junio 2015.<br>2. Ficha t&eacute;cnica EEUU -&nbsp;ASCOR [intravenous injection, ascorbic acid intravenous injection]. US Product Information, 2017.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: no se dispone de estudios adecuados y bien controlados en humanos. Se recomienda administrarlo con precauci&oacute;n, sin superar las dosis diarias recomendadas.<br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "FACTOR VITAMINICO",
+    "VITAMINA B"
+  ]
+}

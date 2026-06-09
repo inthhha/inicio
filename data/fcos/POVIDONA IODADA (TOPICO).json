@@ -1,0 +1,39 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Antiséptico de amplio espectro, antibacteriano (bactericida), antifúngico (fungicida), antiviral, antiprotozoario, esporicida. Se trata de un complejo molecular de iodo con povidona. El complejo, como tal, carece de actividad hasta que se va liberando el iodo, verdadero reponsable de la acción antiséptica. La dilución incrementa el proceso de liberación del iodo. El iodo actúa mediante reacciones de óxido-reducción, alterando muchas moléculas biológicamente importantes, como glucosa, almidón, glicoles, lípidos, proteínas, etc. En este proceso el iodo se transforma en ioduro, que es biológicamente inactivo. El iodo tiene un espectro antimicrobiano muy amplio. No se ha detectado la aparición de cepas microbianas resistentes.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <EM>GEL T&Oacute;PICO, SOLUCI&Oacute;N T&Oacute;PICA</EM>: Antis&eacute;ptico y desinfectante de la piel de uso general, peque&ntilde;as heridas y cortes superficiales, <strong>QUEMADURAS</strong> leves, <strong>ESCARAS</strong>, material quir&uacute;rgico, zonas de punci&oacute;n de inyectables, tratamiento complementario de afecciones dermatol&oacute;gicas susceptibles de sobreinfecci&oacute;n, desinfecci&oacute;n por irrigaci&oacute;n de zonas s&eacute;pticas corporales. La pomada tambi&eacute;n puede utilizarse para lubricaci&oacute;n de cat&eacute;teres. <br>- <EM>SCRUB</EM>: lavado desinfectante de las manos y de la piel. <br>- <EM>CHAMP&Uacute;</EM>: lavado desinfectante de las zonas pilosas del cuerpo.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br><br>- <EM>SOLUCI&Oacute;N</EM>: Dependiendo de la indicaci&oacute;n puede utilizarse puro o diluido. Se aplicar&aacute; directamente sobre el &aacute;rea afectada despu&eacute;s de lavar y secar. Para irrigaci&oacute;n de zonas s&eacute;pticas diluir entre 2% y 10% en suero fisiol&oacute;gico. Para desinfecci&oacute;n y lavado de manos en cirug&iacute;a utilizar directamente la soluci&oacute;n al 7.5%.<br>- <EM>GEL</EM>: 1-3 aplicaciones/24 horas despu&eacute;s de lavar y secar aplic&aacute;ndolo directamente sobre la superficie afectada. Despu&eacute;s de la aplicaci&oacute;n, es aconsejable cubrir la zona con una gasa.<br>- <EM>SCRUB</EM>: utilizar una peque&ntilde;a cantidad de producto frotando unos 2-5 min hasta obtener espuma. Aclarar con abundante agua o con una gasa est&eacute;ril empapada en agua.</BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Raramente, irritación local y alteraciones de hipersensibilidad. La aplicación de povidona iodada sobre heridas extensas puede producir efectos sistémicos adversos tales como acidosis metabólica, hipernatremia y alteraciones de la función renal.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- <strong>ALERGIA A IODUROS</strong>.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- Los derivados mercuriales pueden disminuir la acción antiséptica de la povidona iodada.<br />- En caso de utilización prolongada, se deberán realizar pruebas de la función tiroidea.<br />- Evitar el contacto con los ojos, oídos y mucosas.<br />- La materia orgánica (proteínas, sangre, etc) disminuye su actividad.<br />- Es inactivado por el tiosulfato sódico: posible antídoto en caso de intoxicación.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: en un estudio reciente, el uso en ni&ntilde;os de bajo peso al nacer provoc&oacute; un hipotiroidismo neonatal. Atraviesa la placenta. No se dispone de estudios adecuados y bien controlados en humanos. No se recomienda su empleo. <br><br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: povidona se excreta con la leche. Por ello, no se aconseja su administraci&oacute;n durante la lactancia.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: Locales: irritación de la piel. <br />Tratamiento: Local: lavar la zona lesionada con abundante agua y aplicar localmente antiinflamatorios, incluidos corticoides. Ingestión accidental de grandes cantidades: tratamiento sintomático y de apoyo, vigilando el equilibrio ácido-base y las funciones renal y tiroidea.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTISEPTICO"
+  ]
+}

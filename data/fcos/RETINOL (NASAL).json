@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>- <strong>FACTOR VITAMINICO</strong>, <strong>VITAMINA A</strong>. El retinol es una vitamina liposoluble que interviene en multitud de procesos del organismo. Es esencial para el crecimiento, desarrollo y mantenimiento de los tejidos epiteliales. Aplicado por vía tópica nasal presenta unos efectos protectores y regeneradores de la mucosa nasal.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Alivio sintom&aacute;tico de la <strong>IRRITACION NASAL</strong> de la mucosa, con o sin formaci&oacute;n de costra, en resfriados nasales secos.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b> y ni&ntilde;os mayores de 6 a&ntilde;os: Aplicar una peque&ntilde;a cantidad en la zona afectada, 2-3 veces al d&iacute;a.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Para administrar este medicamento se procederá a introducir el aplicador del tubo en la fosa nasal, apretando ligeramente de forma que salga una pequeña cantidad de la pomada. Para que la pomada se distribuya uniformemente por toda la superficie de la fosa nasal, se debe realizar un pequeño masaje en la zona exterior de la nariz.<br />Una vez aplicada la pomada en el interior de la nariz, se procederá a administrar una fina capa alrededor de las fosas nasales.<br />Después de cada uso, el aplicador debe limpiarse con un paño limpio y húmedo, cerrando a continuación el envase.<br />Tras al administración, se recomienda no sonarse la nariz, para que la pomada permanezca en contacto con la mucosa durante el mayor tiempo posible. Es conveniente que una de las administraciones se realice al acostarse, para favorecer la acción de la pomada.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>No se han descrito interacciones con el retinol administrado por vía nasal, pero se recomienda evitar la administración conjunta de retinol con cualquier otro medicamento por esta vía.</p>",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a cualquier componente del medicamento.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: la sobredosis de retinol ha producido malformaciones del sistema nervioso central, ojos, paladar y tracto urogenital. La dosis m&aacute;xima no terat&oacute;gena es aproximadamente 133,33 UI/Kg en ratas y 2.500 UI/Kg en ratones. <br>Seguridad en humanos: no se ha evaluado la seguridad y eficacia de este medicamento en mujeres embarazadas, por lo que el uso de este medicamento s&oacute;lo se acepta en caso de alternativas terap&eacute;uticas m&aacute;s seguras, y siempre que los beneficios superen los posibles riesgos. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: el retinol se excreta en leche, pero se desconoce la cantidad eliminada tras su administraci&oacute;n nasal, y los posibles efectos en el ni&ntilde;o. Se recomienda evitar la administraci&oacute;n de este medicamento o suspender la lactancia materna.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>- Tras la administraci&oacute;n, se proceder&aacute; a realizar un ligero masaje sobre la nariz, para favorecer su distribuci&oacute;n.<br>- Se recomienda no sonarse la nariz tras la administraci&oacute;n de la pomada, a fin de que permanezca mayor tiempo en contacto con la mucosa.<br>- Una de las administraciones deber&aacute; hacerse por la noche, para favorecer los efectos de la pomada.<br>- Si los s&iacute;ntomas contin&uacute;an o empeoran despu&eacute;s de 10 d&iacute;as de tratamiento, se recomienda consultarlo con un m&eacute;dico o farmac&eacute;utico.</BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "FACTOR VITAMINICO",
+    "VITAMINA A"
+  ]
+}
