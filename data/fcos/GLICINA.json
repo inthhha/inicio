@@ -1,0 +1,33 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Soluci&oacute;n para irrigaci&oacute;n de la vejiga urinaria durante procedimientos urol&oacute;gicos a realizar.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>Lavado de vejiga, irrigación vesical durante el examen interno de vejiga, irrigación vesical postoperatoria.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Vía tópica uretral. El volumen de solución para irrigación a administrar se establecerá dependiendo de la naturaleza.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>La absorción sistémica puede producir salivación, náuseas, mareos, eliminación de líquidos y electrolitos, diuresis elevada, retención de orina, edema, sequedad de boca, sed, deshidratación, alteraciones cardiovasculares y respiratorios.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>Anuria.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- Hiponatremia, insuficiencia cardiaca, hepática, pulmonar o renal grave.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIACIDO",
+    "SUPLEMENTO ORGANICO (RESTAURACION)",
+    "AMINOACIDO"
+  ]
+}

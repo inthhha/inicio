@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Suplemento de fosfato fundamental para mantener un buen estado nutricional.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Suplemento en nutrici&oacute;n intravenosa para cubrir las necesidades de fosfato (<strong>HIPOFOSFATEMIA</strong>) en <b>adultos</b> y ni&ntilde;os.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b>: dosis diaria de 10-20 mmol. Se recomienda una dosificaci&oacute;n individualizada. <br>- Ni&ntilde;os y <b>adolescentes</b>: la dosis recomendada para ni&ntilde;os y neonatos es 1,0-1,5 mmol/kg/d&iacute;a. Se recomienda una dosificaci&oacute;n individualizada.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No debe administrarse sin diluir. Administrar como perfusi&oacute;n intravenosa diluido en una soluci&oacute;n/emulsi&oacute;n de nutrici&oacute;n parenteral. El tiempo de perfusi&oacute;n de la soluci&oacute;n no debe ser inferior a 8 horas.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Hipersensibilidad al glicerofosfato s&oacute;dico o a cualquier otro componente del medicamento. <br>- No debe administrarse a pacientes en estado de <strong>DESHIDRATACION</strong> o con <strong>HIPERNATREMIA</strong>, <strong>HIPERFOSFATEMIA</strong>, <b>insuficiencia renal</b> grave o estado de shock.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Precauci&oacute;n en pacientes con la funci&oacute;n renal da&ntilde;ada.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. Su administraci&oacute;n s&oacute;lo se acepta si no existen alternativas terap&eacute;uticas m&aacute;s seguras, y los beneficios superan los posibles riesgos. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ELECTROLITO",
+    "SUPLEMENTO ORGANICO (RESTAURACION)"
+  ]
+}

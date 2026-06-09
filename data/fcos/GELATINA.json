@@ -1,0 +1,39 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18500\"></HEAD><BODY>Antidiarr&eacute;ico. Adsorbente intestinal. Se trata de una prote&iacute;na purificada, obtenida mediante hidr&oacute;lisis del col&aacute;geno de origen animal. Act&uacute;a inactivando toxinas y microorganismos en el tracto digestivo, mediante un proceso f&iacute;sico de adsorci&oacute;n.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18538\"></HEAD><BODY>- Tratamiento sintom&aacute;tico de <strong>DIARREA</strong> aguda inespec&iacute;fica en <b>adultos</b> y <b>adolescentes</b> &gt; 14 a&ntilde;os, cuando las medidas diet&eacute;ticas y la rehidrataci&oacute;n oral no sean suficientes.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18500\"></HEAD><BODY>- <b>Adultos</b>: <br>- Ni&ntilde;os y <b>adolescentes</b> &lt; 18 a&ntilde;os: 500 mg/4-6 h, hasta una dosis m&aacute;xima de 3 g/24 h. <br>* <b>Adolescentes</b> &gt; 14 a&ntilde;os: igual que <b>adultos</b>. <br>* Ni&ntilde;os y <b>adolescentes</b> &lt; 14 a&ntilde;os: no se recomienda. <br>- <b>Ancianos</b>: no se recomienda. <br>Duraci&oacute;n del tratamiento: reevaluar a aquellos pacientes que no respondan despu&eacute;s de 2 d&iacute;as de tratamiento.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18500\"></HEAD><BODY>Disolver el polvo en agua o leche, o mezclarlo con comidas, yogur, zumos o papillas, preferentemente de fruta. <br>Beber abundante cantidad de l&iacute;quido durante el tratamiento.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18500\"></HEAD><BODY>Los efectos adversos de la gelatina son, en general, infrecuentes, leves y transitorios. Las reacciones adversas m&aacute;s caracter&iacute;sticas son: <br>-Excepcionalmente (&lt;&lt;1%): <strong>ESTREÑIMIENTO</strong>, <strong>ALERGIA</strong>.<br></BODY></HTML></p>",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. No se recomienda su empleo durante el embarazo (especialmente durante el primer trimestre) ni en mujeres en edad f&eacute;rtil que no est&eacute;n usando m&eacute;todos anticonceptivos eficaces. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche, y las consecuencias que podr&iacute;a tener para el lactante. Se aconseja usar con precauci&oacute;n durante la lactancia.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIDIARREICO"
+  ]
+}

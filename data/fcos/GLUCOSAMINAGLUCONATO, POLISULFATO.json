@@ -1,0 +1,29 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Derivado de la heparina de estructura polisac&aacute;rida. Acci&oacute;n anticoagulante por incremento de la actividad de la antitrombina III. Vasoprotector y antivaricoso.</BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.16476\"></HEAD><BODY>- <strong>VARICES</strong> o procesos varicosos.<BR>- <strong>TROMBOFLEBITIS</strong> superficial.<BR>- <strong>HEMATOMA</strong>, tumefacciones.<BR>- Tratamiento de <strong>CICATRICES</strong>.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17496\"></HEAD><BODY>V&iacute;a t&oacute;pica: <BR>- <b>Adultos</b>: 5-10 cm varias veces al d&iacute;a. <BR>- Ni&ntilde;os: 2,5-5 cm varias veces al d&iacute;a. <BR></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17496\"></HEAD><BODY>Lavarse las manos antes y despu&eacute;s de la aplicaci&oacute;n. <BR>Aplicar una fina capa del producto con un ligero masaje en la zona afectada.<BR>No aplicar el gel debajo de vendajes. Para su uso debajo de vendajes se recomienda la pomada.<BR>Cuando se trate de curas oclusivas aumentar proporcionalmente la cantidad de medicamento</BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.16476\"></HEAD><BODY>Los efectos adversos de este medicamento son, en general, infrecuentes leves y transitorios. Los efectos adversos m&aacute;s caracter&iacute;sticos son: alteraciones al&eacute;rgicas: <strong>URTICARIA</strong> y <strong>ERITEMA</strong>.</BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Hipersensibilidad a polisulfato de mucopolisac&aacute;rido o cualquier otro componente del producto.</BODY></HTML></p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.16518\"></HEAD><BODY>- Si los s&iacute;ntomas no mejoran o empeoran, consultar al m&eacute;dico. <BR><BR></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": []
+}

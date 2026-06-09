@@ -1,0 +1,56 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "FEZOLINETANT",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "INDUCTORES CYP1A2 + FEZOLINETANT",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto de fezolinetant.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Fezolinetant es metabolizado por CYP1A2, por lo que al administrarse de forma conjunta con inductores de dicho complejo enzimatico puede reducir sus concentraciones plasm&aacute;ticas, reducciendo su acci&oacute;n. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica VEOZA (fezolinetant), noviembre 2021.</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INDUCTOR CYP1A2 MODERADO",
+    "INHIBIDOR DE DOPA DESCARBOXILASA"
+  ]
+}
