@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17107\"></HEAD><BODY>L-cistina, en forma de ciste&iacute;na, es una mol&eacute;cula fundamental en la estructura de la queratina, una prote&iacute;na abundante en la piel, el cabello y las u&ntilde;as. El azufre suministrado por l-cistina, a trav&eacute;s de sus puentes S-S, tiene un papel claro en la calidad de la queratina. El d&eacute;ficit de l-cistina puede conducir al deterioro y ca&iacute;da del cabello y a la p&eacute;rdida de resistencia y elasticidad de las u&ntilde;as.</BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17107\"></HEAD><BODY>- Tratamiento de d&eacute;ficit de cistina (constituyente de la queratina), que podr&iacute;a manifestarse con <strong>ALOPECIA</strong> y/o fragilidad de las u&ntilde;as <strong>ONICODISTROFIA</strong>, causado por dietas desequilibradas o restrictivas (adelgazamiento, vegetarianas, etc.), en <b>adultos</b> y <b>adolescentes</b> mayores de 14 a&ntilde;os.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17420\"></HEAD><BODY>- <b>Adultos</b> y ni&ntilde;os mayores de 14 a&ntilde;os, v&iacute;a oral: 1000-1500 mg/d&iacute;a, repartidos entre las 3 principales comidas. <BR>- Ni&ntilde;os menores de 14 a&ntilde;os: No se ha establecido la seguridad y eficacia. <br>Si los s&iacute;ntomas empeoran o si persisten despu&eacute;s de 15-30 d&iacute;as de tratamiento, debe reevaluarse la situaci&oacute;n cl&iacute;nica.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17107\"></HEAD><BODY>- V&iacute;a oral. Ingerir durante las comidas con una cantidad suficiente de agua.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17107\"></HEAD><BODY>- Hipersensibilidad al principio activo. <BR>- Pacientes con <strong>CISTINOSIS</strong>.<BR></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17107\"></HEAD><BODY>-&nbsp;<strong>CISTINURIA</strong>: Se requiere precauci&oacute;n en caso de trastornos en la absorci&oacute;n o eliminaci&oacute;n de cistina (ej., cistinuria).</BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: los estudios realizados en animales son insuficientes en t&eacute;rminos de toxicidad para la reproducci&oacute;n. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. Es conocido que hay tranferencia materno-filial. Como medida de precauci&oacute;n se recomienda evitar su empleo. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche. No se puede excluir el riesgo para los lactantes. Se debe decidir si es necesario interrumpir la lactancia o interrumpir/suspender el tratamiento tras considerar el beneficio de la lactancia para el ni&ntilde;o y el beneficio del tratamiento para la madre.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "SUPLEMENTO ORGANICO (RESTAURACION)",
+    "AMINOACIDO"
+  ]
+}

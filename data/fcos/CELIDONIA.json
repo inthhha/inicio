@@ -1,0 +1,38 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "CICLOSPORINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BERBERINA + CICLOSPORINA",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de ciclosporina con berberina podría dar lugar a una acumulación orgánica del inmunosupresor, pudiendo conducir a efectos tóxicos.</p>",
+        "importancia": "<p style='text-indent:0px;'>La interacción ha sido descrita en términos clínicos, habiéndose observado un aumento de los niveles plasmáticos de ciclosporina en pacientes trasplantados que recibieron berberina. Sin embargo, en los estudios realizados no se han observado síntomas de toxicidad.<br />No se han realizado estudios con plantas con berberina, como el hidrastis, el agracejo o la celidonia, pero debería tenerse en cuenta esta posible interacción, ante el riesgo de una intoxicación grave.<br />Si es necesario el uso conjunto, se aconseja monitorizar los niveles de ciclosporina, ajustando la dosis al iniciar o finalizar un tratamiento con una planta con berberina, así como ante cualquier cambio de dosis.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Desconocido. No obstante, se plantea que la berbería podría inhibir al citocromo CYP3A4, reduciendo así el metabolismo de ciclosporina.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado en 6 pacientes trasplantados de ri&ntilde;&oacute;n, tomando ciclosporina (3 mg/kg/12 h), la administraci&oacute;n de berberina (200 mg/8 h) a los 12 d&iacute;as ocasion&oacute; un aumento del AUC y la Cp del 35% y 88% respectivamente. Estos resultados se confirmaron posteriormente en otros 52 pacientes tratados con ciclosporina, en los que la administraci&oacute;n durante 3 meses de 200 mg/8 h de berberina aument&oacute; un 24% los niveles plasm&aacute;ticos. Estas concentraciones se redujeron significativamente cuando se suspendi&oacute; la berberina, si bien el aclaramiento de creatinina no se vio afectado. <br>2. En 6 pacientes que recibieron una dosis de 3 mg/kg de ciclosporina, la administraci&oacute;n de una dosis de 300 mg de berberina aumentaba el AUC un 19,2%. Sin embargo, la administraci&oacute;n de 300 mg/12 h de berberina durante 10 d&iacute;as no tuvo efecto sobre una dosis de 6 mg/kg de ciclosporina.<br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Wu X, Li Q, Xin H et al. Effects of berberine on the blood concentration of cyclosporin A in renal transplanted recipients: clinical and pharmacokinetic study. Eur J Clin Pharmacol. 2005; 61: 567-72. <br>2. Xin H-W, Wu X-C, Li Q et al. The effects of berberine on the pharmacokinetics of ciclosporin A in healthy volunteers. Methods Find Exp Clin Pharmacol. 2006; 28: 25-9.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "COLAGOGO/COLERETICO"
+  ]
+}

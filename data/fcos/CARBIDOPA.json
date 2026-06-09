@@ -1,0 +1,107 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "FEZOLINETANT",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "INDUCTORES CYP1A2 + FEZOLINETANT",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto de fezolinetant.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Fezolinetant es metabolizado por CYP1A2, por lo que al administrarse de forma conjunta con inductores de dicho complejo enzimatico puede reducir sus concentraciones plasm&aacute;ticas, reducciendo su acci&oacute;n. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica VEOZA (fezolinetant), noviembre 2021.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FERROGLICINA, SULFATO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "LEVODOPA + SALES DE HIERRO",
+        "efecto": "<p style='text-indent:0px;'>Posible reducción de la absorción oral del agente antiparkinsoniano con riesgo de pérdida de su eficacia.</p>",
+        "importancia": "<p style='text-indent:0px;'>El descenso en la biodisponibilidad oral de la levodopa puede ser suficiente como para provocar una reducción o incluso la pérdida de la actividad antiparkinsoniana en algunos pacientes, especialmente en aquellos que estén utilizando dosis bajas o límites. Debe darse también importancia al hecho de la drástica reducción de la absorción de carbidopa, lo que podría facilitar una descarboxilación periférica prematura de la levodopa a dopamina, la cual es incapaz de acceder al Sistema Nervioso Central a través de la barrera hemato- encefálica. En este caso, el empleo adicional de dosis elevadas de piridoxina podría potenciar aun más esta descarboxilación prematura de la levodopa. En consecuencia, es recomendable espaciar lo más posible las administraciones orales de ambos fármacos, o al menos dos horas.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La levodopa y, en mayor proporción, la carbidopa son capaces de formar quelatos insolubles e inabsorbibles en el tracto gastrointestinal, reduciendo de esta manera la cantidad total absorbida de levodopa y carbidopa.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 9 pacientes con parkinson, bajo tratamiento cr&oacute;nico con una asociaci&oacute;n de levodopa y carbidopa (100/25 mg/d&iacute;a), la administraci&oacute;n por v&iacute;a oral de 325 mg de sulfato ferroso condujo a una reducci&oacute;n del &aacute;rea bajo la curva concentraci&oacute;n plasm&aacute;tica/tiempo del 30% (levodopa) y del 75% (carbidopa). <br>2. El fabricante de ferrimanitol ovoalb&uacute;mina advierte del riesgo de disminuci&oacute;n en la absorci&oacute;n de levodopa cuando se administra conjuntamente con sales de hierro. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Campbell NRC. Br J Clin Pharmacol 1990;30:599-605. <br>2. Ficha T&eacute;cnica Kilor (ferrimanitol ovoalb&uacute;mina), Menarini, 2000.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "HIERRO (II), GLUCONATO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "LEVODOPA + SALES DE HIERRO",
+        "efecto": "<p style='text-indent:0px;'>Posible reducción de la absorción oral del agente antiparkinsoniano con riesgo de pérdida de su eficacia.</p>",
+        "importancia": "<p style='text-indent:0px;'>El descenso en la biodisponibilidad oral de la levodopa puede ser suficiente como para provocar una reducción o incluso la pérdida de la actividad antiparkinsoniana en algunos pacientes, especialmente en aquellos que estén utilizando dosis bajas o límites. Debe darse también importancia al hecho de la drástica reducción de la absorción de carbidopa, lo que podría facilitar una descarboxilación periférica prematura de la levodopa a dopamina, la cual es incapaz de acceder al Sistema Nervioso Central a través de la barrera hemato- encefálica. En este caso, el empleo adicional de dosis elevadas de piridoxina podría potenciar aun más esta descarboxilación prematura de la levodopa. En consecuencia, es recomendable espaciar lo más posible las administraciones orales de ambos fármacos, o al menos dos horas.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La levodopa y, en mayor proporción, la carbidopa son capaces de formar quelatos insolubles e inabsorbibles en el tracto gastrointestinal, reduciendo de esta manera la cantidad total absorbida de levodopa y carbidopa.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 9 pacientes con parkinson, bajo tratamiento cr&oacute;nico con una asociaci&oacute;n de levodopa y carbidopa (100/25 mg/d&iacute;a), la administraci&oacute;n por v&iacute;a oral de 325 mg de sulfato ferroso condujo a una reducci&oacute;n del &aacute;rea bajo la curva concentraci&oacute;n plasm&aacute;tica/tiempo del 30% (levodopa) y del 75% (carbidopa). <br>2. El fabricante de ferrimanitol ovoalb&uacute;mina advierte del riesgo de disminuci&oacute;n en la absorci&oacute;n de levodopa cuando se administra conjuntamente con sales de hierro. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Campbell NRC. Br J Clin Pharmacol 1990;30:599-605. <br>2. Ficha T&eacute;cnica Kilor (ferrimanitol ovoalb&uacute;mina), Menarini, 2000.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "HIERRO (II), SULFATO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "LEVODOPA + SALES DE HIERRO",
+        "efecto": "<p style='text-indent:0px;'>Posible reducción de la absorción oral del agente antiparkinsoniano con riesgo de pérdida de su eficacia.</p>",
+        "importancia": "<p style='text-indent:0px;'>El descenso en la biodisponibilidad oral de la levodopa puede ser suficiente como para provocar una reducción o incluso la pérdida de la actividad antiparkinsoniana en algunos pacientes, especialmente en aquellos que estén utilizando dosis bajas o límites. Debe darse también importancia al hecho de la drástica reducción de la absorción de carbidopa, lo que podría facilitar una descarboxilación periférica prematura de la levodopa a dopamina, la cual es incapaz de acceder al Sistema Nervioso Central a través de la barrera hemato- encefálica. En este caso, el empleo adicional de dosis elevadas de piridoxina podría potenciar aun más esta descarboxilación prematura de la levodopa. En consecuencia, es recomendable espaciar lo más posible las administraciones orales de ambos fármacos, o al menos dos horas.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La levodopa y, en mayor proporción, la carbidopa son capaces de formar quelatos insolubles e inabsorbibles en el tracto gastrointestinal, reduciendo de esta manera la cantidad total absorbida de levodopa y carbidopa.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 9 pacientes con parkinson, bajo tratamiento cr&oacute;nico con una asociaci&oacute;n de levodopa y carbidopa (100/25 mg/d&iacute;a), la administraci&oacute;n por v&iacute;a oral de 325 mg de sulfato ferroso condujo a una reducci&oacute;n del &aacute;rea bajo la curva concentraci&oacute;n plasm&aacute;tica/tiempo del 30% (levodopa) y del 75% (carbidopa). <br>2. El fabricante de ferrimanitol ovoalb&uacute;mina advierte del riesgo de disminuci&oacute;n en la absorci&oacute;n de levodopa cuando se administra conjuntamente con sales de hierro. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Campbell NRC. Br J Clin Pharmacol 1990;30:599-605. <br>2. Ficha T&eacute;cnica Kilor (ferrimanitol ovoalb&uacute;mina), Menarini, 2000.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "HIERRO (III), PROTEINSUCCINILATO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "LEVODOPA + SALES DE HIERRO",
+        "efecto": "<p style='text-indent:0px;'>Posible reducción de la absorción oral del agente antiparkinsoniano con riesgo de pérdida de su eficacia.</p>",
+        "importancia": "<p style='text-indent:0px;'>El descenso en la biodisponibilidad oral de la levodopa puede ser suficiente como para provocar una reducción o incluso la pérdida de la actividad antiparkinsoniana en algunos pacientes, especialmente en aquellos que estén utilizando dosis bajas o límites. Debe darse también importancia al hecho de la drástica reducción de la absorción de carbidopa, lo que podría facilitar una descarboxilación periférica prematura de la levodopa a dopamina, la cual es incapaz de acceder al Sistema Nervioso Central a través de la barrera hemato- encefálica. En este caso, el empleo adicional de dosis elevadas de piridoxina podría potenciar aun más esta descarboxilación prematura de la levodopa. En consecuencia, es recomendable espaciar lo más posible las administraciones orales de ambos fármacos, o al menos dos horas.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La levodopa y, en mayor proporción, la carbidopa son capaces de formar quelatos insolubles e inabsorbibles en el tracto gastrointestinal, reduciendo de esta manera la cantidad total absorbida de levodopa y carbidopa.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 9 pacientes con parkinson, bajo tratamiento cr&oacute;nico con una asociaci&oacute;n de levodopa y carbidopa (100/25 mg/d&iacute;a), la administraci&oacute;n por v&iacute;a oral de 325 mg de sulfato ferroso condujo a una reducci&oacute;n del &aacute;rea bajo la curva concentraci&oacute;n plasm&aacute;tica/tiempo del 30% (levodopa) y del 75% (carbidopa). <br>2. El fabricante de ferrimanitol ovoalb&uacute;mina advierte del riesgo de disminuci&oacute;n en la absorci&oacute;n de levodopa cuando se administra conjuntamente con sales de hierro. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Campbell NRC. Br J Clin Pharmacol 1990;30:599-605. <br>2. Ficha T&eacute;cnica Kilor (ferrimanitol ovoalb&uacute;mina), Menarini, 2000.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FERRIMANITOL OVOALBUMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "LEVODOPA + SALES DE HIERRO",
+        "efecto": "<p style='text-indent:0px;'>Posible reducción de la absorción oral del agente antiparkinsoniano con riesgo de pérdida de su eficacia.</p>",
+        "importancia": "<p style='text-indent:0px;'>El descenso en la biodisponibilidad oral de la levodopa puede ser suficiente como para provocar una reducción o incluso la pérdida de la actividad antiparkinsoniana en algunos pacientes, especialmente en aquellos que estén utilizando dosis bajas o límites. Debe darse también importancia al hecho de la drástica reducción de la absorción de carbidopa, lo que podría facilitar una descarboxilación periférica prematura de la levodopa a dopamina, la cual es incapaz de acceder al Sistema Nervioso Central a través de la barrera hemato- encefálica. En este caso, el empleo adicional de dosis elevadas de piridoxina podría potenciar aun más esta descarboxilación prematura de la levodopa. En consecuencia, es recomendable espaciar lo más posible las administraciones orales de ambos fármacos, o al menos dos horas.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La levodopa y, en mayor proporción, la carbidopa son capaces de formar quelatos insolubles e inabsorbibles en el tracto gastrointestinal, reduciendo de esta manera la cantidad total absorbida de levodopa y carbidopa.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 9 pacientes con parkinson, bajo tratamiento cr&oacute;nico con una asociaci&oacute;n de levodopa y carbidopa (100/25 mg/d&iacute;a), la administraci&oacute;n por v&iacute;a oral de 325 mg de sulfato ferroso condujo a una reducci&oacute;n del &aacute;rea bajo la curva concentraci&oacute;n plasm&aacute;tica/tiempo del 30% (levodopa) y del 75% (carbidopa). <br>2. El fabricante de ferrimanitol ovoalb&uacute;mina advierte del riesgo de disminuci&oacute;n en la absorci&oacute;n de levodopa cuando se administra conjuntamente con sales de hierro. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Campbell NRC. Br J Clin Pharmacol 1990;30:599-605. <br>2. Ficha T&eacute;cnica Kilor (ferrimanitol ovoalb&uacute;mina), Menarini, 2000.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "RIESGO RAM GRAVES",
+      "texto": "Precaucion en ola de calor"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INDUCTOR CYP1A2 MODERADO",
+    "INHIBIDOR DE DOPA DESCARBOXILASA"
+  ]
+}

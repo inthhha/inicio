@@ -1,0 +1,33 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Rubefaciente. El componente mayoritario de Capsicum frutescens es la capsaicina, que, vía tópica, desencadena irritación local e hiperalgesia, sensación de quemazón con picor y eritema. Este efecto se atribuye a un proceso de excitación selectiva de las neuronas aferentes de las fibras C sensoriales, causando la liberación de la sustancia P y otros neuropéptidos. Su aplicación repetida provoca una desensibilización de acción prolongada frente al dolor, aumentando el umbral del dolor.Este efecto es reversible.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Tratamiento local de <strong>MIALGIA</strong>, como la <strong>LUMBALGIA</strong>.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b>: 1 ap&oacute;sito/24 h directamente sobre la regi&oacute;n dolorida, al menos 4 h y hasta un m&aacute;ximo de 8 h. <br>- Ni&ntilde;os: Debido a la falta de experiencia en ni&ntilde;os menores de 12 a&ntilde;os, se desaconseja su uso.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>- Aplicar a la piel seca y no lesionada.<br />- Se debe dejar transcurrir un intervalo mínimo de 12 horas antes de aplicar un nuevo apósito en la misma zona de aplicación. En caso de necesidad, si el dolor continúa, aplicar 1 apósito hasta un máximo de 7 días de duración de tratamiento.<br />- La zona de aplicación debe estar limpia de cualquier producto utilizado anteriormente.<br />- No aplicar sobre la piel lesionada y las heridas ni en zonas cercanas a los ojos o sobre membranas mucosas.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Suele causar hiperemia con eritema pronunciado que forma parte de la acción farmacológica normal del tratamiento y suele remitir tras retirar el apósito. Si durante los primeros días del tratamiento estas sensaciones punzantes (y/o picor u hormigueo) parecen excesivas, el tratamiento debe interrumpirse.<br />- Alérgicas/dermatológicas: Raras (0,01-0,1%): <strong>REACCIONES DE HIPERSENSIBILIDAD</strong> cutánea como <strong>URTICARIA</strong> o vesiculación.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>Hipersensibilidad al principio activo, otras fuentes de capsaicinoides o a alguno de los excipientes.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>No hay datos concluyentes en animales sobre la seguridad de capsaicina durante el embarazo. <br>Los efectos prenatales y neonatales de la capsaicina tuvieron lugar a dosis muy superiores a las recomendadas por lo que debe emplearse &uacute;nicamente despu&eacute;s de evaluar el beneficio-riesgo de la aplicaci&oacute;n.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'>No existen datos que avalen su seguridad durante la lactancia, por lo que este medicamento debe emplearse, durante la lactancia, únicamente después de consultar al médico</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Se recomienda no rascar o frotar en la zona de aplicaci&oacute;n, para evitar lesiones en la piel. <br>- Evitar la aplicaci&oacute;n de otras fuentes de calor durante el tratamiento, ya que deber&iacute;a interrumpirse si se siente un calor excesivo. <br>- Se aconseja consultar al especialista antes de comenzar el tratamiento si el dolor se acompa&ntilde;a de enrojecimiento de la piel, hinchaz&oacute;n o calor en las articulaciones, molestias permanentes de las articulaciones, dolor fuerte de espalda que irradia a las piernas asociado o no con s&iacute;ndromes neurol&oacute;gicos, como entumecimiento y sensaci&oacute;n de hormigueo.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": []
+}

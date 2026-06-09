@@ -1,0 +1,39 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Antiséptico. Derivado de amonio cuaternario. Actúa como agente surfactante de tipo catiónico, alterando la permeabilidad de la membrana microbiana. Presenta un espectro antibacteriano moderadamente amplio, actuando tanto sobre gram-positivos como gram-negativos. Tiene efecto antifúngico (Candida).</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>Tratamiento de infecciones de la boca.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Tópica. 1 comprimido disuelto lentamente en la boca cuando sea <br />necesario. Solución: aplicar sobre la zona afectada sin diluir o <br />diluida a partes iguales en agua para gargarismos.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTISEPTICO"
+  ]
+}

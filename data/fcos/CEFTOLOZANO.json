@@ -1,0 +1,52 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "SALMONELLA TYPHI, ATENUADA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "VACUNA FIEBRE TIFOIDEA ATENUADA + ANTIBIOTICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>Posible inactivaci&oacute;n de la vacuna viva atenuada con riesgo de reducci&oacute;n de su eficacia cl&iacute;nica.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>Se trata de una interacci&oacute;n deducida por consideraciones farmacol&oacute;gicas, existiendo un amplio consenso en torno a la misma.<br>Los antibi&oacute;ticos, en general,&nbsp;no afectan a la respuesta inmune de la mayor&iacute;a las vacunas, a menos que &eacute;stas sean de bacterias vivas atenuadas, tal es el caso de la vacuna viva atenuada de la fiebre tifoidea oral. Esta vacuna, compuesta por microbios vivos atenuados, no debe administrarse a pacientes que est&eacute;n en tratamiento antibacteriano, sino que dicha administraci&oacute;n debe separarse al menos 3 d&iacute;as de la administraci&oacute;n previa o posterior de antibi&oacute;ticos o antimicrobianos, debido a que podr&iacute;an inactivarlo (atenuando su multiplicaci&oacute;n en &iacute;leon), con riesgo de p&eacute;rdida de la eficacia cl&iacute;nica.<BR><br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>El antibi&oacute;tico puede inhibir el crecimiento&nbsp;de las&nbsp;bacterias con p&eacute;rdida de su capacidad inmun&oacute;gena. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>1-3. La OMS y el fabricante en Reino Unido de la vacuna&nbsp;recomiendan que la vacunaci&oacute;n con la vacuna viva atenuada oral frente a fiebre tifoidea se realice dejando un margen desde los 3 d&iacute;as anteriores hasta los 3 d&iacute;as posteriores (a la vacunaci&oacute;n) sin tratamiento antibacteriano.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18666\"></HEAD><BODY>1.&nbsp;WHO. International travel and health; Vaccine-preventable diseases and vaccines. Geneva: WHO, 2012. Available at: http://www.who.int/ith/en/.<br>2. Vivotif (Oral typhoid vaccine). Masta Ltd. UK Summary of product characteristics, March 2005.<br>3. Ficha t&eacute;cnica -&nbsp;Vivotif (Vacuna viva antit&iacute;fica oral), septiembre 2012.<br>&nbsp;<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: Los estudios con ceftolozano en ratones y ratas no han mostrado signos de toxicidad para la reproducci&oacute;n ni de teratogenicidad. La administraci&oacute;n de ceftolozano a ratas durante la gestaci&oacute;n y la lactancia se asoci&oacute; a una disminuci&oacute;n del reflejo de sobresalto ac&uacute;stico en las cr&iacute;as macho el d&iacute;a 60 posnatal. <br><br>Seguridad en humanos: Se desconoce si ceftolozano atraviesa la placenta. S&oacute;lo debe utilizarse ceftolozano durante el embarazo si el beneficio esperado supera los posibles riesgos para la mujer embarazada y para el feto. <br>Efectos sobre la fertilidad: Los estudios de fertilidad en ratas no demostraron ning&uacute;n efecto sobre la fertilidad y el apareamiento tras la administraci&oacute;n intravenosa de ceftolozano<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Se desconoce si ceftolozano se excretan en la leche materna. No se puede excluir el riesgo a reci&eacute;n nacidos/lactantes. Se debe decidir si es necesario interrumpir la lactancia o interrumpir/no iniciar el tratamiento con ceftolozano tras considerar el beneficio de la lactancia para el ni&ntilde;o y el beneficio del tratamiento para la madre.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "CEFALOSPORINA (GRUPO)",
+    "ANTIBACTERIANO",
+    "BACTERICIDA",
+    "INHIBIDOR DE LA SINTESIS Y REPARACION DE PARED MICROBIANA",
+    "INHIBIDOR DE PBP (PROTEINAS FIJADORAS DE PENICILINAS)",
+    "ANTIINFECCIOSO"
+  ]
+}
