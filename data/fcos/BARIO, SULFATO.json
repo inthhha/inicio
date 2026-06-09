@@ -1,0 +1,40 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Excepcionalmente, <strong>OBSTRUCCION INTESTINAL</strong>, <strong>ESTREÑIMIENTO</strong> (cuando se administra en forma de enema).</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18538\"></HEAD><BODY>- <strong>OBSTRUCCION INTESTINAL</strong>, <strong>ESTENOSIS PILORICA</strong>, <strong>PERFORACION GASTROINTESTINAL</strong>: Las suspensiones de sulfato de bario no deben utilizarse ante la sospecha de perforaci&oacute;n u obstrucci&oacute;n de cualquier tramo del tracto gastrointestinal.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- <b>Ancianos</b> con lesiones org&aacute;nicas preexistentes, principalmente del sistema cardiovascular. Debe ser utilizado con precauci&oacute;n ya que la prueba, incluyendo su preparaci&oacute;n, puede ser estresante para estos pacientes. <br>- <strong>OBSTRUCCION INTESTINAL</strong> de alto grado (especialmente d&iacute;stales al est&oacute;mago). Se requiere una valoraci&oacute;n meticulosa del beneficio/riesgo. <br>- Patolog&iacute;as con alto riesgo de perforaci&oacute;n: f&iacute;stulas y <strong>CANCER DE ORGANOS DIGESTIVOS</strong> conocidos, <strong>ENFERMEDAD INFLAMATORIA INTESTINAL</strong>, <strong>DIVERTICULITIS INTESTINAL</strong>, <strong>DIVERTICULOSIS INTESTINAL</strong> y <strong>AMEBIASIS</strong>. Se requiere una valoraci&oacute;n meticulosa del beneficio/riesgo. <br>- Procesos infecciosos en el colon. El sulfato de bario puede acumularse en los diveticulos del colon, pudiendo favorecer y/o agravar procesos infecciosos en dicha localizaci&oacute;n. <br>- <strong>REACCIONES DE HIPERSENSIBILIDAD</strong> o <strong>ANAFILAXIA</strong>. En caso de que se produzcan, se deber&aacute; suspender inmediatamente la administraci&oacute;n del medicamento e iniciarse, si fuese necesario, un tratamiento por v&iacute;a intravenosa. Para permitir una intervenci&oacute;n inmediata en situaciones de emergencia, deber&aacute;n estar disponibles los medicamentos y equipos necesarios, tales como un tubo endotraqueal y equipo de ventilaci&oacute;n.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: No se han realizado estudios adecuados y bien controlados en embarazadas. Siempre que sea posible, se debe evitar la exposici&oacute;n a radiaciones durante el embarazo por los riesgos de la exposici&oacute;n al feto a la radiaci&oacute;n. No se prev&eacute;n efectos cuando se administra este medicamento durante el embarazo puesto que la exposici&oacute;n sist&eacute;mica a sulfato de bario es insignificante. En cualquier caso, se debe valorar con cuidado el beneficio del examen radiol&oacute;gico. <br>Efectos sobre la fertilidad</I>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Se desconoce si se excreta por leche materna aunque es de esperar que no, ya que la absorci&oacute;n es m&iacute;nima. No se prev&eacute;n efectos en ni&ntilde;os/neonatos/lactantes puesto que la exposici&oacute;n sist&eacute;mica a sulfato de bario en madres en per&iacute;odo de lactancia es m&iacute;nima.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>S&iacute;ntomas: Despu&eacute;s de la ingesti&oacute;n masiva por v&iacute;a oral existe riesgo de estre&ntilde;imiento y, en casos extremos, de formaci&oacute;n de ac&uacute;mulos de sulfato de bario. En raras ocasiones, la administraci&oacute;n repetida de suspensiones de sulfato de bario puede dar lugar a espasmos del est&oacute;mago y diarrea. Estas reacciones son transitorias y no se consideran graves. <br>Tratamiento: lavado intestinal y/o administraci&oacute;n de un enema cat&aacute;rtico de cloruro de sodio.<br></BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "AGENTE DE DIAGNOSTICO",
+    "CONTRASTE RADIOLOGICO"
+  ]
+}
