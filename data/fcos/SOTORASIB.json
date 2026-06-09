@@ -1,0 +1,412 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor selectivo de KRAS G12C (un impulsor oncog&eacute;nico de la tumorig&eacute;nesis), que se une de forma covalente e irreversible a una ciste&iacute;na espec&iacute;fica. Su inactivaci&oacute;n bloquea la transmisi&oacute;n de se&ntilde;ales y la supervivencia de las c&eacute;lulas tumorales, inhibe el crecimiento celular y favorece la apoptosis de manera selectiva en tumores que tienen KRAS G12C.<br></BODY></HTML></p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Absorci&oacute;n: C m&aacute;x de 1 hora tras administraci&oacute;n v&iacute;a oral en dosis &uacute;nica. <br><I>Efecto de los alimentos</I>: tras comida rica en grasa, la C m&aacute;x no se ve modficada. El AUC aumenta en un 38% respecto a administraci&oacute;n en ayunas. <br>- Distribuci&oacute;n: Vd 211L y 89% UPP. Uni&oacute;n preferente a glucoprote&iacute;na &aacute;cida alfa 1 <br>- Metabolismo: conjugaci&oacute;n no enzim&aacute;tica y metabolismo oxidativo. Metabolizado por CYP2C8, CYP3A4, CYP3A5 y sustrado de P – gp. Metabolitos farmacol&oacute;gicamente inactivos. <br>- Eliminaci&oacute;n: aclaramiento de 26,2 L / hora. La vida media es de 5 horas y la mayor&iacute;a de la eliminaci&oacute;n se produce por las heces. <br><I>Farmacocin&eacute;tica en <b>situaciones especiales</b></I>: <br>- <b>Insuficiencia renal</b>: no hay datos disponibles <br>- Insuficiencia hep&aacute;tica: no hay datos disponibles.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Tratamiento de <b>adultos</b> con <strong>CANCER DE PULMON NO MICROCITICO</strong> (CPNM) avanzado con mutaci&oacute;n KRAS G12C y que hayan progresado tras, al menos, una l&iacute;nea de tratamiento sist&eacute;mico previo.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b>: 960mg (8 comprimidos de 120mg) una vez al d&iacute;a a la misma hora cada d&iacute;a. <br>- Ni&ntilde;os y <b>adolescentes</b> &lt; 18 a&ntilde;os: el uso en estos pacientes no es apropiado. <br>- Pacientes de edad avanzada: no requiere reajuste posol&oacute;gico. <br><I>Ajuste de la dosificaci&oacute;n</I>: la dosificaci&oacute;n se debe modificar en funci&oacute;n de la toxicidad. En caso de toxicidad, se permiten un m&aacute;ximo de dos reducciones de dosis: <br>- Dosis inicial: 960mg (8 comprimidos de 120mg) una vez al d&iacute;a. <br>- Primera reducci&oacute;n: 480mg (4 comprimidos de 120mg) una vez al d&iacute;a. <br>- Segunda reducci&oacute;n: 240mg (2 comprimidos de 120mg) una vez al d&iacute;a <br><I>Duraci&oacute;n del tratamiento</I>: hasta progresi&oacute;n de la enfermedad o toxicidad inaceptable. <br><I>Dosis omitidas o v&oacute;mitos</I>: tomar dosis con normalidad si han pasado menos de 6h de la dosis omitida, no tomar la dosis si han transcurrido m&aacute;s de 6h. Si se producen v&oacute;mitos tras la dosis, no tomar una dosis adicional el mismo d&iacute;a.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Administraci&oacute;n con alimentos: puede tomarse con o sin alimentos.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "Posología en insuficiencia hepática:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Insuficiencia hep&aacute;tica leve (clase A de Child - Pugh): no se recomienda el ajuste de dosis <br>- Insuficiencia hep&aacute;tica moderada (clase B de Child - Pugh): no se recomienda la administraci&oacute;n en estos pacientes. <br>- Insuficiencia hep&aacute;tica grave (clase C de Child - Pugh): no se recomienda la administraci&oacute;n en estos pacientes.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_renal": "Posología en insuficiencia renal:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Insuficiencia renal</b> leve (ClCr 60-90 ml/min): no se recomienda reajuste posol&oacute;gico. <br>- <b>Insuficiencia renal</b> moderada (ClCr 30-60 ml/min): no se ha evaluado la seguridad y eficacia. Tratar con precauci&oacute;n. <br>- <b>Insuficiencia renal</b> grave (ClCr &lt; 30 ml/min): no se ha evaluado la seguridad y eficacia. Tratar con precauci&oacute;n. <br>- <b>Insuficiencia renal</b> terminal (ClCr &lt; 10 ml/min): no se ha evaluado la seguridad y eficacia. Tratar con precauci&oacute;n.<br></BODY></HTML></p>",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Inhibidores de la secreci&oacute;n &aacute;cida: administraci&oacute;n concomitante produce un descenso en la concentraci&oacute;n de sotorasib. Si es necesario la administraci&oacute;n de un IBP al mismo tiempo que sotorasib, &eacute;ste se debe tomar con una bebida &aacute;cida (tipo refresco de cola) o bien tomarlo cuatro horas antes del anti&aacute;cido local o diez horas despu&eacute;s. <br>- Inductores potentes del CYP3A4 (rifampicina, hierba de san Juan, fenito&iacute;na): no administrar de forma conjunta porque disminuyen la exposici&oacute;n a sotorasib. <br>- Sustratos de la BCRP: aumento de la C max y AUC del sustrato BCRP. <br>- Sustratos CYP3A4 de margen terap&eacute;utico estrecho: evitar administraci&oacute;n conjunta para evitar un descenso en la concentraci&oacute;n de estos sustratos.<br></BODY></HTML></p>",
+    "detalle": [
+      {
+        "principio_activo": "AMITRIPTILINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + SUSTRATOS P-gp",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la toxicidad de los sustratos de P-gp</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "AMOXICILINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + SUSTRATOS P-gp",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la toxicidad de los sustratos de P-gp</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "CARBAMAZEPINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INDUCTORES POTENTES CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n concomitante con inductores potentes del CYP3A4 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es metabolizado por CYP3A4, por lo que aquellos f&aacute;rmacos que inducen la capacidad metab&oacute;lica de estas enzimas pueden disminuir las concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Sotorasib con m&uacute;ltiples dosis de un inductor potente del CYP3A4 (rifampicina) redujo la Cm&aacute;x de sotorasib en un 35 % y el AUC en un 51 %.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DIGOXINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + SUSTRATOS P-gp",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la toxicidad de los sustratos de P-gp</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "FENITOINA (ANTIARRITMICO)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INDUCTORES POTENTES CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n concomitante con inductores potentes del CYP3A4 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es metabolizado por CYP3A4, por lo que aquellos f&aacute;rmacos que inducen la capacidad metab&oacute;lica de estas enzimas pueden disminuir las concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Sotorasib con m&uacute;ltiples dosis de un inductor potente del CYP3A4 (rifampicina) redujo la Cm&aacute;x de sotorasib en un 35 % y el AUC en un 51 %.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ERGOTAMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ESTRADIOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + SUSTRATOS P-gp",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la toxicidad de los sustratos de P-gp</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "MITOTANO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INDUCTORES POTENTES CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n concomitante con inductores potentes del CYP3A4 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es metabolizado por CYP3A4, por lo que aquellos f&aacute;rmacos que inducen la capacidad metab&oacute;lica de estas enzimas pueden disminuir las concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Sotorasib con m&uacute;ltiples dosis de un inductor potente del CYP3A4 (rifampicina) redujo la Cm&aacute;x de sotorasib en un 35 % y el AUC en un 51 %.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENITOINA (ANTIEPILEPTICO)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INDUCTORES POTENTES CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n concomitante con inductores potentes del CYP3A4 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es metabolizado por CYP3A4, por lo que aquellos f&aacute;rmacos que inducen la capacidad metab&oacute;lica de estas enzimas pueden disminuir las concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Sotorasib con m&uacute;ltiples dosis de un inductor potente del CYP3A4 (rifampicina) redujo la Cm&aacute;x de sotorasib en un 35 % y el AUC en un 51 %.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (BUCAL)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "METOTREXATO (ANTINEOPLASICO)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SUSTRATOS BCRP + SOTORASIB",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible aumento de la toxicidad de la toxicidad de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de BCRP, por lo puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de sotorasib con rosuvastatina (un sustrato de la BCRP) aument&oacute; la Cm&aacute;x y el AUC de rosuvastatina en un 70 % y un 34 % respectivamente.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de LUMYKRAS(sotorasib), Amgen Europe B.V, 2022.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ENZALUTAMIDA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INDUCTORES POTENTES CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n concomitante con inductores potentes del CYP3A4 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es metabolizado por CYP3A4, por lo que aquellos f&aacute;rmacos que inducen la capacidad metab&oacute;lica de estas enzimas pueden disminuir las concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Sotorasib con m&uacute;ltiples dosis de un inductor potente del CYP3A4 (rifampicina) redujo la Cm&aacute;x de sotorasib en un 35 % y el AUC en un 51 %.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LAPATINIB",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SUSTRATOS BCRP + SOTORASIB",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible aumento de la toxicidad de la toxicidad de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de BCRP, por lo puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de sotorasib con rosuvastatina (un sustrato de la BCRP) aument&oacute; la Cm&aacute;x y el AUC de rosuvastatina en un 70 % y un 34 % respectivamente.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de LUMYKRAS(sotorasib), Amgen Europe B.V, 2022.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PIMOZIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROSUVASTATINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SUSTRATOS BCRP + SOTORASIB",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible aumento de la toxicidad de la toxicidad de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de BCRP, por lo puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de sotorasib con rosuvastatina (un sustrato de la BCRP) aument&oacute; la Cm&aacute;x y el AUC de rosuvastatina en un 70 % y un 34 % respectivamente.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de LUMYKRAS(sotorasib), Amgen Europe B.V, 2022.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (ANESTESICO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RIFAMPICINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INDUCTORES POTENTES CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n concomitante con inductores potentes del CYP3A4 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es metabolizado por CYP3A4, por lo que aquellos f&aacute;rmacos que inducen la capacidad metab&oacute;lica de estas enzimas pueden disminuir las concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Sotorasib con m&uacute;ltiples dosis de un inductor potente del CYP3A4 (rifampicina) redujo la Cm&aacute;x de sotorasib en un 35 % y el AUC en un 51 %.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (TRANSDERMICO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (NASAL)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "METOPROLOL",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "SOTORASIB + SUSTRATOS CYP2D6",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto terap&eacute;utico de los sustratos de CYP2D6.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de CYP2D6, por lo que puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CICLOSPORINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PROPAFENONA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "SOTORASIB + SUSTRATOS CYP2D6",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto terap&eacute;utico de los sustratos de CYP2D6.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de CYP2D6, por lo que puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "METOTREXATO (INMUNOSUPRESOR)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SUSTRATOS BCRP + SOTORASIB",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible aumento de la toxicidad de la toxicidad de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de BCRP, por lo puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de sotorasib con rosuvastatina (un sustrato de la BCRP) aument&oacute; la Cm&aacute;x y el AUC de rosuvastatina en un 70 % y un 34 % respectivamente.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de LUMYKRAS(sotorasib), Amgen Europe B.V, 2022.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FAMOTIDINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INHIBIDORES SECRECION ACIDA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto farmacol&oacute;gico de sotorasib y fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n conjunta de sotorasib con agentes que modifican el pH del est&oacute;mago produce una reducci&oacute;n de la concentraci&oacute;n sotorasib. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 65 % y el AUC en un 57 %.<br>2. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 57 % y el AUC en un 42 %.<br></BODY></HTML></p>",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "FLECAINIDA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "SOTORASIB + SUSTRATOS CYP2D6",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto terap&eacute;utico de los sustratos de CYP2D6.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de CYP2D6, por lo que puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SUFENTANILO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "OMEPRAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INHIBIDORES SECRECION ACIDA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto farmacol&oacute;gico de sotorasib y fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n conjunta de sotorasib con agentes que modifican el pH del est&oacute;mago produce una reducci&oacute;n de la concentraci&oacute;n sotorasib. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 65 % y el AUC en un 57 %.<br>2. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 57 % y el AUC en un 42 %.<br></BODY></HTML></p>",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "LANSOPRAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INHIBIDORES SECRECION ACIDA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto farmacol&oacute;gico de sotorasib y fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n conjunta de sotorasib con agentes que modifican el pH del est&oacute;mago produce una reducci&oacute;n de la concentraci&oacute;n sotorasib. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 65 % y el AUC en un 57 %.<br>2. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 57 % y el AUC en un 42 %.<br></BODY></HTML></p>",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "PANTOPRAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INHIBIDORES SECRECION ACIDA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto farmacol&oacute;gico de sotorasib y fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n conjunta de sotorasib con agentes que modifican el pH del est&oacute;mago produce una reducci&oacute;n de la concentraci&oacute;n sotorasib. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 65 % y el AUC en un 57 %.<br>2. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 57 % y el AUC en un 42 %.<br></BODY></HTML></p>",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "TACROLIMUS",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TOPOTECAN",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SUSTRATOS BCRP + SOTORASIB",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible aumento de la toxicidad de la toxicidad de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inhibidor de BCRP, por lo puede incrementar las concentraciones plasm&aacute;ticas de sus sustratos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de sotorasib con rosuvastatina (un sustrato de la BCRP) aument&oacute; la Cm&aacute;x y el AUC de rosuvastatina en un 70 % y un 34 % respectivamente.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de LUMYKRAS(sotorasib), Amgen Europe B.V, 2022.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RABEPRAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INHIBIDORES SECRECION ACIDA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto farmacol&oacute;gico de sotorasib y fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n conjunta de sotorasib con agentes que modifican el pH del est&oacute;mago produce una reducci&oacute;n de la concentraci&oacute;n sotorasib. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 65 % y el AUC en un 57 %.<br>2. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 57 % y el AUC en un 42 %.<br></BODY></HTML></p>",
+        "referencias": ""
+      },
+      {
+        "principio_activo": "SIROLIMUS",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "SOTORASIB + SUSTRATOS CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto terap&eacute;utico de sotorasib.<br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sotorasib es un inductor de CYP3A4, por lo que cuando se administra de forma concomitante con sus sustratos puede producir un posible reducci&oacute;n del efecto terap&eacute;utico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n concomitante de sotorasib con midazolam redujo la Cm&aacute;x de midazolam en un 48 % y el AUC en un 53</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de Vydura(Rimegepant), HiTech Health Limited, 2023.<BR></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ESOMEPRAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SOTORASIB + INHIBIDORES SECRECION ACIDA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reducci&oacute;n del efecto farmacol&oacute;gico de sotorasib y fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La administraci&oacute;n conjunta de sotorasib con agentes que modifican el pH del est&oacute;mago produce una reducci&oacute;n de la concentraci&oacute;n sotorasib. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 65 % y el AUC en un 57 %.<br>2. La administraci&oacute;n concomitante de m&uacute;ltiples dosis de omeprazol con una &uacute;nica dosis de 960 mg de sotorasib redujo la Cm&aacute;x de sotorasib en un 57 % y el AUC en un 42 %.<br></BODY></HTML></p>",
+        "referencias": ""
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Las reacciones adversas se describen seg&uacute;n cada intervalo de frecuencia, consider&aacute;ndose muy frecuentes (&gt;10%), frecuentes (1-10%), poco frecuentes (0,1-1%), raras (0,01-0,1%), muy raras (&lt;0,01%) o de frecuencia desconocida (no puede estimarse a partir de los datos disponibles).<br>- Trastornos de la sangre y del sistema linf&aacute;tico: muy frecuentes <strong>ANEMIA</strong>.<br>- Trastornos del sistema nervioso: muy frecuentes <strong>CEFALEA</strong>.<br>- Trastornos respiratorios, tor&aacute;cicos y mediast&iacute;nicos: muy frecuentes <strong>TOS</strong>, <strong>DISNEA</strong>; poco frecuentes <strong>NEUMONITIS</strong>, <strong>NEUMONIA INTERSTICIAL</strong>.<br>- Trastornos gastrointestinales: muy frecuentes <strong>DIARREA</strong>, <strong>NAUSEAS</strong>, <strong>VOMITOS</strong>, <strong>ESTREÑIMIENTO</strong>, <strong>DOLOR ABDOMINAL</strong>.<br>- Trastornos hepatobiliares: frecuentes <strong>HEPATOPATIA</strong> inducida por f&aacute;rmacos.<br>- Trastornos musculoesquel&eacute;ticos y del tejido conjuntivo: muy frecuentes <strong>ARTRALGIA</strong>, <strong>DOLOR DE ESPALDA</strong>.<br>- Trastornos generales y alteraciones en el lugar de administraci&oacute;n: muy frecuentes <strong>FATIGA</strong>, <strong>FIEBRE</strong>.<br>- Exploraciones complementarias: muy frecuentes <strong>AUMENTO DE TRANSAMINASAS</strong>; frecuentes <strong>AUMENTO DE FOSFATASA ALCALINA</strong>, <strong>HIPERBILIRRUBINEMIA</strong>, <strong>AUMENTO DE GGT</strong>.<br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Hipersensibilidad a sotorasib o a cualquier otro componente del medicamento.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <strong>HEPATITIS</strong>: sotorasib puede producir hepatotoxicidad, que podr&iacute;a derivar en lesi&oacute;n hep&aacute;tica inducida por f&aacute;rmacos y hepatitis. Se ha asociado a elevaci&oacute;n de las transaminasas s&eacute;ricas. En funci&oacute;n de la gravedad de las anomal&iacute;as anal&iacute;ticas se deber&aacute; detener el tratamiento con sotorasib hasta recuperaci&oacute;n, ajustar la dosis o bien interrumpir de forma permanente. <br>- En<strong>NEUMONIA INTERSTICIAL</strong> / <strong>NEUMONITIS</strong>: se ha dado EPI en pacientes con este tratamiento que hab&iacute;an sido expuestos a inmunoterapia o radioterapia previamente. Monitorizar a los pacientes y suspender de inmediato ante sospecha de EPI o de neumonitis.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: en conejos, con niveles elevados de dosis, se observ&oacute; disminuci&oacute;n del peso corporal del feto y osificaci&oacute;n disminuida. En ratas no se observaron efectos. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. No se recomienda su empleo durante el embarazo ni en mujeres en edad f&eacute;rtil que no est&eacute;n usando m&eacute;todos anticonceptivos eficaces. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche, y las consecuencias que podr&iacute;a tener para el lactante. No se aconseja su administraci&oacute;n durante la lactancia.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>S&iacute;ntomas: no se han notificado s&iacute;ntomas espec&iacute;ficos asociados a una sobredosificaci&oacute;n. <br>Medidas a tomar: <br>- Ant&iacute;doto: no existe un ant&iacute;doto espec&iacute;fico. <br>- Medidas generales de eliminaci&oacute;n: no se han establecido. <br>- Monitorizaci&oacute;n: no parece preciso el seguimiento del paciente. <br>- Tratamiento: sintom&aacute;tico y con las medidas de soporte necesarias.<br></BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La influencia sobre la capacidad de conducci&oacute;n es nula o insignificante.<br></BODY></HTML></p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Si olvidas una dosis, t&oacute;mala cuanto antes, salvo que faltara poco tiempo para la siguiente. A continuaci&oacute;n, contin&uacute;a el tratamiento a las horas habituales. No dupliques la siguiente dosis para compensar la olvidada <br>- Los comprimidos se deben tragar enteros. Si tienes dificultades para tragar alimentos s&oacute;lidos, dispersar los comprimidos en 120 ml de agua a temperatura ambiente. No utilices otro l&iacute;quido. B&eacute;belo de inmediato, y en caso de no beberlo de inmediato, desecha el contenido pasadas dos horas. <br>- Informa a tu m&eacute;dico si est&aacute;s embarazada, crees que puedes estarlo o tienes previsto hacerlo antes de iniciar el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s en periodo de lactancia antes de iniciar el tratamiento.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": []
+}

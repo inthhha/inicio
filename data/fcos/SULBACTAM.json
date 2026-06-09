@@ -1,0 +1,38 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "LACTOBACILLUS ACIDOPHILLUS",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "LACTOBACILLUS ACIDOPHILLUS + ANTIBACTERIANOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible inhibici&oacute;n o disminuci&oacute;n del efecto terap&eacute;utico de <EM>Lactobacillus acidophilus</EM>.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido estudiada en cl&iacute;nica, observ&aacute;ndose disminuciones en el efecto terap&eacute;utico de <EM>Lactobacillus acidophilus</EM>. Los fabricantes recomiendan espaciar su administraci&oacute;n, al menos, dos horas para as&iacute; evitar que el antibi&oacute;tico destruya estas bacterias.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><EM>Lactobacillus acidophilus</EM> son bacterias Gram positivas, anaer&oacute;bicas y facultativas que pueden ser inhibidas o eliminadas por los antibacterianos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado para investigar la resistencia a los antibi&oacute;ticos de 45 cepas de bacterias de &aacute;cido l&aacute;ctico, se observ&oacute; que estas bacterias eran susceptibles al tratamiento con eritromicina, cloranfenicol y tetraciclina. <br>2. Se realizaron estudios con resultados similares para gentamicina, linez&oacute;lido, oxitetraciclina, tetraciclina, vancomicina y quinupristina.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Hummel AS, et al. Antibiotic resistances of starter and probiotic strains of lactic acid bacteria. Appl Environ Microbiol. 2007; 73: 730-9.<br>2. Klare I, et al. Antimicrobial susceptibilities of probiotic or nutritional use. J Antimicrob Chemother. 2007; 59; 900-12.<BR><br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INHIBIDOR DE BETA-LACTAMASAS"
+  ]
+}

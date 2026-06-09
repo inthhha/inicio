@@ -1,0 +1,35 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Es un surfactante natural, preparado a partir de pulmón porcino, constituido por una mezcla de sustancias, principalmente fosfolípidos, como fosfatidilcolina (alrededor del 70% del contenido total de fosfolípidos) y proteínas, que tapizan la superficie interna de los alveolos y son capaces de reducir la tensión superficial de la interfase aire-líquido, facilitando la aireación de los alveolos y el intercambio gaseoso en la mucosa pulmonar.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Tratamiento del s&iacute;ndrome de <strong>DISTRES RESPIRATORIO DEL RECIEN NACIDO</strong> (SDR) en neonatos y uso profil&aacute;ctico en ni&ntilde;os prematuros con edad gestacional menor de 30 semanas, con riesgo de SDR o con evidencia de d&eacute;ficit de surfactante.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>-Tratamiento SDR: 200 mg/kg en dosis &uacute;nica, o dos dosis de 100 mg/kg/12 h. Si las condiciones cl&iacute;nicas as&iacute; lo aconsejasen (cociente a/A PO2 &lt;0,22), podr&aacute; administrarse otra dosis de 100 mg/kg a las 12 h. Es recomendable iniciar el tratamiento lo antes posible, una vez realizado el diagn&oacute;stico de SDR.<br>-Profilaxis: dosis &uacute;nica de 100-200 mg/kg lo antes posible despu&eacute;s del nacimiento (preferentemente dentro de los primeros 15 min). Puede darse una dosis adicional de 100 mg/kg 6-12 h despu&eacute;s de la primera, y otra dosis 12 h m&aacute;s tarde, en los neonatos que tengan signos persistentes de SDR y sigan requiriendo ventilaci&oacute;n asistida (dosis m&aacute;xima total: 300-400 mg/kg). Se administrar&aacute; &uacute;nicamente a ni&ntilde;os intubados endotraquealmente sometidos a ventilaci&oacute;n mec&aacute;nica. Los ni&ntilde;os no deben ser intubados &uacute;nicamente para la administraci&oacute;n profil&aacute;ctica de surfactante. <br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Antes de su utilización, el vial debe calentarse hasta 37ºC e invertirse suavemente varias veces hasta suspensión uniforme.<br />El fármaco debe instilarse como dosis única en el segmento inferior de la tráquea, o bien en dos mitades, instiladas cada una en el bronquio principal izquierdo y derecho, respectivamente.<br />Tras la instilación, es necesario que el niño se ventile manualmente mediante un ambú (alrededor de 1 minuto), con la misma mezcla de oxígeno utilizada antes del tratamiento, para permitir una distribución uniforme. A acontinuación, el niño puede volver a conectarse al respirador.<br />Los niños que tras la administración del medicamento no requieran ventilación asistida, deben extubarse. Tras administrar el fármaco, se aconseja control estricto de las gasometrías arteriales.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>Se requiere monitorización contínua de la frecuencia cardiaca y oxigenación arterial para evitar hiperoxia, debido a la rápida mejora en la concentración arterial de oxígeno.<br />Los niños nacidos después de un periodo prolongado (más de 3 semanas) tras la rotura de membranas puede no responder de forma óptima.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>No procede el uso de este medicamento durante el embarazo.</p>\n\nLactancia:\n<p style='text-indent:0px;'>No procede el uso de este medicamento durante la lactancia.</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "SURFACTANTE PULMONAR"
+  ]
+}
