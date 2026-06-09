@@ -1,0 +1,417 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es un inhibidor de la enzima IDH1 mutada. La IDH1 mutada convierte el alfa-cetoglutarato (alfa-KG) en 2-hidroxiglutarato (2-HG), que bloquea la diferenciaci&oacute;n celular y favorece la carcinog&eacute;nesis en neoplasias malignas tanto hematol&oacute;gicas como no hematol&oacute;gicas. El mecanismo de acci&oacute;n de ivosidenib, m&aacute;s all&aacute; de su capacidad para reducir el 2-HG y restaurar la diferenciaci&oacute;n celular, no se conoce por completo en todas las indicaciones<br></BODY></HTML></p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Absorci&oacute;n: Tras una dosis oral &uacute;nica de 500 mg, la mediana del tiempo hasta la Cmax (T max ) fue de aproximadamente 2 horas en pacientes con LMA de nuevo diagn&oacute;stico tratados con una combinaci&oacute;n de ivosidenib y azacitidina, y en pacientes con colangiocarcinoma <br>- Distribuci&oacute;n: Seg&uacute;n un an&aacute;lisis farmacocin&eacute;tico poblacional, el volumen medio aparente de distribuci&oacute;n de ivosidenib en estado estacionario (Vc/F) es de 3,20 l/kg (CV%: 47,8) en pacientes con LMA de nuevo diagn&oacute;stico tratados con una combinaci&oacute;n de ivosidenib y azacitidina y de 2,97 l/kg (CV%: 25,9) en pacientes con colangiocarcinoma tratados con ivosidenib en monoterapia. <br>- Metabolismo: Ivosidenib fue el componente predominante (&gt; 92%) de la radiactividad total en el plasma de individuos sanos. Se metaboliza principalmente por v&iacute;as oxidativas mediadas en gran medida por el CYP3A4, con contribuciones menores por las v&iacute;as de N-desalquilaci&oacute;n e hidr&oacute;lisis. <br>Ivosidenib induce el CYP3A4 (incluyendo su propio metabolismo), el CYP2B6, el CYP2C8, el CYP2C9, y puede inducir el CYP2C19 y las UGTs. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas Ivosidenib inhibe la P-gp in vitro y tiene el potencial de inducir la P-gp. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica a sustancias activas que son transportadas predominantemente por la P-gp <br>Los datos in vitro sugieren que ivosidenib tiene el potencial de inhibir la OAT3, la OATP1B1 y la OATP1B3 a concentraciones cl&iacute;nicamente relevantes y puede, por tanto, aumentar la exposici&oacute;n sist&eacute;mica a los sustratos de la OAT3, la OATP1B1 o la OATP1B3 <br>- Eliminaci&oacute;n: n pacientes con LMA de nuevo diagn&oacute;stico tratados con una combinaci&oacute;n de ivosidenib y azacitidina, el aclaramiento aparente medio de ivosidenib en el estado estacionario fue de 4,6 l/hora (35%) con una semivida terminal media de 98 horas (42%). <br>En pacientes con colangiocarcinoma, el aclaramiento aparente medio de ivosidenib en el estado estacionario fue de 6,1 l/hora (31%) con una semivida terminal media de 129 horas (102%). <br>En individuos sanos, el 77% de una dosis oral &uacute;nica de ivosidenib se encontr&oacute; en las heces, recuper&aacute;ndose el 67% inalterado. Aproximadamente el 17% de una dosis oral &uacute;nica se encontr&oacute; en la orina, recuper&aacute;ndose el 10% inalterado. <br>Farmacocin&eacute;tica en <b>situaciones especiales</b>: <br>- Pacientes de edad avanzada: No se observaron efectos cl&iacute;nicamente significativos en la farmacocin&eacute;tica de ivosidenib en pacientes de hasta 84 a&ntilde;os. Se desconoce la farmacocin&eacute;tica de ivosidenib en pacientes de 85 a&ntilde;os de edad o mayores <br>- <b>Insuficiencia renal</b>: No se observaron efectos cl&iacute;nicamente significativos en la farmacocin&eacute;tica de ivosidenib en pacientes con <b>insuficiencia renal</b> leve o moderada (TFGe &gt;= 30 ml/min/1,73 m2). Se desconoce la farmacocin&eacute;tica de ivosidenib en pacientes con <b>insuficiencia renal</b> grave (TFGe &lt; 30 ml/min/1,73 m2) o con <b>insuficiencia renal</b> que requiere di&aacute;lisis <br>- Insuficiencia hep&aacute;tica: <br>- Otras situaciones: No se observaron efectos cl&iacute;nicamente significativos en la farmacocin&eacute;tica de ivosidenib en funci&oacute;n indice del sexo, la raza, el peso corporal o el estado funcional ECOG.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>En combinaci&oacute;n con azacitidina, est&aacute; indicado para el tratamiento de pacientes <b>adultos</b> con <strong>LEUCEMIA MIELOIDE AGUDA</strong>(LMA) de nuevo diagn&oacute;stico con mutaci&oacute;n de la isocitrato deshidrogenasa-1 (IDH1) R132, que no son candidatos a quimioterapia de inducci&oacute;n est&aacute;ndar. <br>Ivosideniben monoterapia est&aacute; indicado para el tratamiento de pacientes <b>adultos</b> con <strong>CANCER DE HIGADO</strong> localmente avanzado o metast&aacute;sico con mutaci&oacute;n IDH1 R132 que hayan recibido al menos una l&iacute;nea previa de tratamiento sist&eacute;mico.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Leucemia mieloide aguda: La dosis recomendada es de 500 mg de ivosidenib (2 comprimidos de 250 mg) por v&iacute;a oral una vez al d&iacute;a. <br>Ivosidenib se debe iniciar el D&iacute;a 1 del Ciclo 1, en combinaci&oacute;n con azacitidina a 75 mg/m2 de &aacute;rea de superficie corporal por v&iacute;a intravenosa o subcut&aacute;nea una vez al d&iacute;a los D&iacute;as 1 a 7 de cada ciclo de 28 d&iacute;as. El primer ciclo de tratamiento con azacitidina se debe administrar al 100% de la dosis. Se recomienda que los pacientes sean tratados durante un m&iacute;nimo de 6 ciclos. <br>Para la posolog&iacute;a y m&eacute;todo de administraci&oacute;n de azacitidina, por favor consulte la Ficha T&eacute;cnica completa de azacitidina. <br>El tratamiento se debe continuar hasta progresi&oacute;n de la enfermedad o hasta que el paciente deje de tolerar el tratamiento. <br>- Colangiocarcinoma: La dosis recomendada es de 500 mg de ivosidenib (2 comprimidos de 250 mg) por v&iacute;a oral una vez al d&iacute;a. <br>El tratamiento se debe continuar hasta progresi&oacute;n de la enfermedad o hasta que el paciente deje de tolerar el tratamiento. <br>Ni&ntilde;os y <b>adolescentes</b> &lt; 18 a&ntilde;os: No se ha establecido la seguridad y eficacia de Ivosideniben ni&ntilde;os y <b>adolescentes</b> menores de 18 a&ntilde;os de edad. No se dispone de datos. <br>- Pacientes de edad avanzada: no requiere reajuste posol&oacute;gico. <br>Olvido de dosis: Si se olvida una dosis o no se toma a la hora habitual, los comprimidos deben tomarse lo antes posible dentro de las 12 horas siguientes a la dosis olvidada. No deben tomarse dos dosis en un plazo de 12 horas. Los comprimidos deben tomarse como habitualmente al d&iacute;a siguiente. <br>Si se vomita una dosis, no se deben tomar comprimidos de reemplazo. Los comprimidos deben tomarse como habitualmente al d&iacute;a siguiente.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Los comprimidos se toman una vez al d&iacute;a aproximadamente a la misma hora. Los pacientes no deben comer nada durante 2 horas antes y 1 hora despu&eacute;s de tomar los comprimidos. Los comprimidos se deben tragar enteros con agua. <br>Se debe aconsejar a los pacientes que eviten el pomelo y el zumo de pomelo durante el tratamiento. Tambi&eacute;n se debe advertir a los pacientes que no traguen el gel de s&iacute;lice desecante que se encuentra en el frasco de los comprimidos.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "Posología en insuficiencia hepática:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No es necesario ajustar la dosis en pacientes con insuficiencia hep&aacute;tica leve (clase A de Child-Pugh). No se ha determinado una dosis recomendada para pacientes con insuficiencia hep&aacute;tica moderada y grave (clases B y C de Child-Pugh). Ivosidenib se debe utilizar con precauci&oacute;n en pacientes con insuficiencia hep&aacute;tica moderada y grave, y esta poblaci&oacute;n de pacientes debe ser monitorizada estrechamente<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_renal": "Posología en insuficiencia renal:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No es necesario ajustar la dosis en pacientes con <b>insuficiencia renal</b> leve(TFGe &gt;= 60 a ? 90 ml/min/1,73 m2 ) o moderada (TFGe &gt;= 30 a ? 60 ml/min/1,73 m2 ). No se ha determinado una dosis recomendada para pacientes con <b>insuficiencia renal</b> grave (TFGe ? 30 ml/min/1,73 m2). Ivosidenibse debe utilizar con precauci&oacute;n en pacientes con <b>insuficiencia renal</b> grave y esta poblaci&oacute;n de pacientes debe ser monitorizada estrechamente<br></BODY></HTML></p>",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Inductores potentes del CYP3A4 pueden disminuir las concentraciones plasm&aacute;ticas de ivosidenib, pudiendo generar un posible fracaso terap&eacute;utico, se recomienda evitar la asociaci&oacute;n. <br>- Inhibidores moderados o potentes del CYP3A4 puede incrementar las concentraciones plasm&aacute;ticas de ivosidenib, incrementando el riesgo de toxicidad. <br>- Medicamentos conocidos por prolongar el intervalo QTc pueden incrementar el riesgo al ser administrados con ivosidenib, por lo que se recomienda vigilar al paciente. <br>- Ivosidenib es inductor de la enzimas CYP3A4, CYP2B6, CYP2C8 y CYP2C9, por lo que los f&aacute;rmacos que se metabolizan por este citocromo pueden disminuir sus concentraciones plam&aacute;ticas. Se recomienda vigilar al paciente. <br>- Uridina difosfato glucuronosiltransferasas (UGTs), Ivosidenib tiene el potencial de inducir las UGTs y puede, por lo tanto, disminuir la exposici&oacute;n sist&eacute;mica de los sustratos de estas enzimas. Se recomienda vigilar al paciente.<br></BODY></HTML></p>",
+    "detalle": [
+      {
+        "principio_activo": "IPTACOPAN",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "IPTACOPAN + INDUCTORES DE CYP2C8",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de fracaso terap&eacute;utico. <br></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Iptacop&aacute;n es metabolizado por CYP2C8, por lo que aquellos f&aacute;rmacos que actu&aacute;n induciendo este complejo enzim&aacute;tico pueden incrementar el riesgo de fracaso terap&eacute;utico. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1- Ficha t&eacute;cnica, FABHALTA (<SPAN >iptacop&aacute;n </SPAN>, Novartis)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BENCILPENICILINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BENCILPENICILINA PROCAINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BENCILPENICILINA BENZATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CARBAMAZEPINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inductores potentes del CYP3A4 + ivosidenib \n",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Est&aacute; contraindicada la adminsitraci&oacute;n concomitante.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que f&aacute;rmacos inductores potentes pueden reducir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib),  SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "VORICONAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "APREPITANT",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ERITROMICINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "EVEROLIMUS (INMUNOSUPRESOR)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Inducción enzimática + Ivosidenib",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib induce CYP3A4, CYP2B6, CYP2C8, CYP2C9 y puede inducir CYP2C19. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "POSACONAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FUROSEMIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DABIGATRAN",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "METADONA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Inducción enzimática + Ivosidenib",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib induce CYP3A4, CYP2B6, CYP2C8, CYP2C9 y puede inducir CYP2C19. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ENZALUTAMIDA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inductores potentes del CYP3A4 + ivosidenib \n",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Est&aacute; contraindicada la adminsitraci&oacute;n concomitante.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que f&aacute;rmacos inductores potentes pueden reducir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib),  SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROSUVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RIFAMPICINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inductores potentes del CYP3A4 + ivosidenib \n",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Est&aacute; contraindicada la adminsitraci&oacute;n concomitante.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que f&aacute;rmacos inductores potentes pueden reducir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib),  SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "EVEROLIMUS (ANTINEOPLASICO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Inducción enzimática + Ivosidenib",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib induce CYP3A4, CYP2B6, CYP2C8, CYP2C9 y puede inducir CYP2C19. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "VERAPAMILO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DILTIAZEM",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CICLOSPORINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "KETOCONAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ISAVUCONAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "OMEPRAZOL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Inducción enzimática + Ivosidenib",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib induce CYP3A4, CYP2B6, CYP2C8, CYP2C9 y puede inducir CYP2C19. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FLUCONAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CLARITROMICINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PRAVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ITRACONAZOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PACLITAXEL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Inducción enzimática + Ivosidenib",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib induce CYP3A4, CYP2B6, CYP2C8, CYP2C9 y puede inducir CYP2C19. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RITONAVIR",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ATORVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Interacciones con transportadores + ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de toxicidad de los f&aacute;rmacos transportados por estas prote&iacute;nas. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La adminsitraci&oacute;n concomitante con dabigatr&aacute;n est&aacute; contraindicada. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib inhibe la P-gp y tiene el potencial de inducirla. Por lo tanto, puede alterar la exposici&oacute;n sist&eacute;mica de sustancias activas que son transportadas predominantemente por la P-g.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "REPAGLINIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Inducción enzimática + Ivosidenib",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib induce CYP3A4, CYP2B6, CYP2C8, CYP2C9 y puede inducir CYP2C19. Por lo tanto, puede disminuir la exposici&oacute;n sist&eacute;mica a los sustratos de estas enzimas.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "POMELO, ZUMO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inhibidores moderados o potentes del CYP3A4 + Ivosidenib",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n y toxicidad de de ivosidenib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que los inhibidores pueden incrementar sus concentraciones plam&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib), SERVIER S.L,2025<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LUMACAFTOR",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "Inductores potentes del CYP3A4 + ivosidenib \n",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de fracaso terap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Est&aacute; contraindicada la adminsitraci&oacute;n concomitante.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ivosidenib es metabolizado por CYP3A4, por lo que f&aacute;rmacos inductores potentes pueden reducir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Tibsovo (ivosidenib),  SERVIER S.L,2025</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Las reacciones adversas se describen seg&uacute;n cada intervalo de frecuencia, consider&aacute;ndose muy frecuentes (&gt;10%), frecuentes (1-10%), poco frecuentes (0,1-1%), raras (0,01-0,1%), muy raras (&lt;0,01%) o de frecuencia desconocida (no puede estimarse a partir de los datos disponibles). <br>- Trastornos de la sangre y del sistema linf&aacute;tico: muy frecuente s&iacute;ndrome de diferenciaci&oacute;n, <strong>LEUCOCITOSIS</strong>, <strong>TROMBOCITOPENIA</strong>, <strong>NEUTROPENIA</strong>; frecuente <strong>LEUCOPENIA</strong> <br>- Trastornos psiqui&aacute;tricos: muy frecuente <strong>INSOMNIO</strong> <br>- Trastornos del sistema nervioso: muy frecuente <strong>CEFALEA</strong>, <strong>MAREO</strong>; frecuente <strong>NEUROPATIA PERIFERICA</strong> <br>- Trastornos gastrointestinales: muy frecuentes <strong>VOMITOS</strong>; frecuentes <strong>DOLOR DE GARGANTA</strong> <br>- Trastornos musculoesquel&eacute;ticos y del tejido conjuntivo: muy frecuente <strong>DOLOR DE LAS EXTREMIDADES</strong>, <strong>ARTRALGIA</strong>,<strong>DOLOR DE ESPALDA</strong> <br>- Exploraciones complementarias: muy frecuente <strong>PROLONGACION DEL INTERVALO QT</strong><br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Hipersensibilidad a Ivosidenib o a cualquier otro componente del medicamento. <br>- Administraci&oacute;n concomitante con inductores potentes del CYP3A4 o dabigatr&aacute;n. <br>- <strong>SINDROME DE QT LARGO</strong> cong&eacute;nito. <br>- Antecedentes familiares de <strong>MUERTE SUBITA</strong> o arritmia ventricular polim&oacute;rfica. <br>- Intervalo QT/QTc &gt; 500 ms, independientemente del m&eacute;todo de correcci&oacute;n<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- S&iacute;ndrome de diferenciaci&oacute;n en pacientes con leucemia mieloide aguda: Se ha notificado s&iacute;ndrome de diferenciaci&oacute;n tras el tratamiento con ivosidenib. El <br>s&iacute;ndrome de diferenciaci&oacute;n puede poner en riesgo la vida o ser mortal si no se trata. El s&iacute;ndrome de diferenciaci&oacute;n se asocia a una proliferaci&oacute;n y diferenciaci&oacute;n r&aacute;pida de las c&eacute;lulas mieloides. Los s&iacute;ntomas incluyen: leucocitosis no infecciosa, edema perif&eacute;rico, pirexia, disnea, derrame pleural, hipotensi&oacute;n, hipoxia, edema pulmonar, neumonitis, derrame peric&aacute;rdico, erupci&oacute;n cut&aacute;nea, sobrecarga de l&iacute;quidos, s&iacute;ndrome de lisis tumoral y aumento de la creatinina. <br>- <strong>PROLONGACION DEL INTERVALO QT</strong>: Se debe realizar un ECG antes de iniciar el tratamiento, al menos semanalmente durante las primeras 3 semanas de tratamiento y posteriormente una vez al mes si el intervalo QTc permanece &lt;= 480 ms. Cualquier anomal&iacute;a debe ser tratada inmediatamente. <br>- <strong>INSUFICIENCIA RENAL</strong>. No se ha establecido la seguridad y eficacia de ivosidenib en pacientes con insuficiencia hep&aacute;tica moderada y grave (clases B y C de Child-Pugh). Ivosidenibse debe utilizar con precauci&oacute;n en pacientes con insuficiencia hep&aacute;tica moderada y grave, y esta poblaci&oacute;n de pacientes debe ser monitorizada estrechamente. <br>- Sustratos del CYP3A4: Ivosidenib induce el CYP3A4 y podr&iacute;a, por lo tanto, disminuir la exposici&oacute;n sist&eacute;mica a los sustratos del CYP3A4. <br>Los pacientes deben ser monitorizados para detectar la p&eacute;rdida de eficacia antif&uacute;ngica si no se puede evitar el uso de itraconazol o ketoconazol. <br>- Mujeres en edad f&eacute;rtil / anticoncepci&oacute;n: Las mujeres en edad f&eacute;rtil deben someterse a una prueba de embarazo antes de iniciar el tratamiento con Ivosidenib y evitar quedarse embarazadas durante el tratamiento <br>- Las mujeres en edad f&eacute;rtil y los hombres con parejas femeninas en edad f&eacute;rtil deben utilizar m&eacute;todos anticonceptivos eficaces durante el tratamiento con Ivosidenib y durante, al menos, 1 mes despu&eacute;s de la &uacute;ltima dosis. <br>Ivosidenib puede disminuir las concentraciones sist&eacute;micas de los anticonceptivos hormonales y, por tanto, se recomienda el uso concomitante de un m&eacute;todo anticonceptivo de barrera.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. No se recomienda su empleo durante el embarazo ni en mujeres en edad f&eacute;rtil que no est&eacute;n usando m&eacute;todos anticonceptivos eficaces. <br>Efectos sobre la fertilidad: No se dispone de datos en humanos sobre el efecto de ivosidenib en la fertilidad. No se han realizado estudios de fertilidad en animales para evaluar el efecto de ivosidenib. Se observaron efectos indeseables en los &oacute;rganos reproductores en un estudio de toxicidad a dosis repetidas de 28 d&iacute;as.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Se desconoce si ivosidenib y sus metabolitos se excretan en la leche materna. No se han realizado estudios en animales para evaluar la excreci&oacute;n de ivosidenib y sus metabolitos en la leche. No se puede excluir el riesgo en lactantes.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- En caso de sobredosis, es probable que la toxicidad se manifieste como una exacerbaci&oacute;n de las reacciones adversas asociadas a ivosidenib. Los pacientes deben ser vigilados estrechamente y recibir el tratamiento sintom&aacute;tico adecuado. No existe un ant&iacute;doto espec&iacute;fico para la sobredosis de ivosidenib.<br></BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Ser&iacute;a recomendable que el paciente evitase manejar maquinaria peligrosa, incluyendo autom&oacute;viles, hasta que tuviese la certeza razonable de que el tratamiento farmacol&oacute;gico no le afecta de forma adversa.<br></BODY></HTML></p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Aseg&uacute;rate de conocer adecuadamente las normas de administraci&oacute;n de este medicamento antes de su empleo. Consulta al farmac&eacute;utico si es necesario. <br>- Si olvidas una dosis, t&oacute;mala cuanto antes, salvo que faltara poco tiempo para la siguiente. A continuaci&oacute;n, contin&uacute;a el tratamiento a las horas habituales. No dupliques la siguiente dosis para compensar la olvidada. <br>- Consulta con tu m&eacute;dico y/o farmac&eacute;utico si los s&iacute;ntomas contin&uacute;an o empeoran durante el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s embarazada, crees que puedes estarlo o tienes previsto hacerlo antes de iniciar el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s en periodo de lactancia antes de iniciar el tratamiento. <br>- Ivosidenib es un medicamento susceptible de producir interacciones. Informa a tu m&eacute;dico o farmac&eacute;utico de todos los medicamentos, complementos alimenticios y/o plantas que est&eacute;s tomando.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "INSUFICIENCIA_RENAL",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia renal (IR), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INDUCTOR CYP2B6 MODERADO",
+    "INDUCTOR CYP2C8 MODERADO",
+    "INDUCTOR CYP2C9 MODERADO",
+    "INDUCTOR CYP2C19 MODERADO",
+    "SUSTRATO CYP3A4",
+    "INDUCTOR CYP3A4 MODERADO",
+    "INHIBIDOR OAT3"
+  ]
+}
