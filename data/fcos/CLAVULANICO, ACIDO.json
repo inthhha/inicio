@@ -1,0 +1,43 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "MICOFENOLICO, ACIDO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "AMOXICILINA/ACIDO CLAVULANICO + ACIDO MICOFENOLICO",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n en la concentraci&oacute;n plasm&aacute;tica del micofenolato de mofetilo, con el consiguiente riesgo de disminuci&oacute;n de su eficacia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido estudiada en t&eacute;rminos farmacocin&eacute;ticos, describi&eacute;ndose una disminuci&oacute;n de hasta el 50% en el metabolito activo del micofenolato de mofetilo. Esta disminuci&oacute;n puede no representar cambios en la exposici&oacute;n global al &aacute;cido micofen&oacute;lico. Como consiguiente, se recomienda monitorizar al paciente durante la administraci&oacute;n del tratamiento conjunto y tras la finalizaci&oacute;n del antibi&oacute;tico. Normalmente, no ser&aacute; necesario realizar un ajuste en la dosis de micofenolato de mofetilo en ausencia de evidencia cl&iacute;nica de rechazo del injerto.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Se ha sugerido una posible inhibici&oacute;n de la recirculaci&oacute;n enterohep&aacute;tica del &aacute;cido micofen&oacute;lico por la amoxicilina/&aacute;cido clavul&aacute;nico.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Se ha notificado una reducci&oacute;n del 50% en la concentraci&oacute;n plasm&aacute;tica del metabolito activo &aacute;cido micofen&oacute;lico, en pacientes que recibieron conjuntamente micofenolato de mofetilo y amoxicilina/&aacute;cido clavul&aacute;nico.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Amoxicilina/&aacute;cido clavul&aacute;nico Normon (amoxicilina/&aacute;cido clavul&aacute;nico). Laboratorios Normon, S.A., marzo 2021.</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INHIBIDOR DE BETA-LACTAMASAS"
+  ]
+}

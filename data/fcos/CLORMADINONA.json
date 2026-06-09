@@ -1,0 +1,44 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "ULIPRISTAL (ANTICONCEPTIVO)",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "ULIPRISTAL + ANTICONCEPTIVOS HORMONALES",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 10.00.9200.16686\"></HEAD><BODY>Riesgo de p&eacute;rdida de eficacia&nbsp;de los anticonceptivos hormonales, especialmente aquellos en cuya composici&oacute;n llevan&nbsp;solo progest&aacute;genos. Los anticonceptivos pueden disminuir el efecto del ulipristal para el tratamiento sintom&aacute;tico de los miomas.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 10.00.9200.16686\"></HEAD><BODY>La interacci&oacute;n ha sido establecida en base a criterios farmacol&oacute;gicos l&oacute;gicos, ya que ulipristal se comporta en determinados tejidos como un antagonista del receptor de progesterona, por lo que puede oponerse al efecto del anticonceptivo progestag&eacute;nico y reducir sus efectos. Hay que tener en cuenta que aunque es muy frecuente la aparici&oacute;n de amenorrea a partir de la primera semana de tratamiento con ulipristal, y a que la ovulaci&oacute;n no suele recuperarse hasta la suspensi&oacute;n del tratamiento, esto no siempre es as&iacute;, y existe un riesgo de embarazo no deseado en caso de estar utilizando un m&eacute;todo anticonceptivo hormonal, especialmente si &eacute;ste se basa en el uso exclusivo de anticonceptivos progestag&eacute;nicos, incluyendo dispositivos intrauterinos.<BR>Por otra parte, los propios progest&aacute;genos pueden oponerse igualmente a los efectos de ulipristal. Este efecto no parece ser importante en el caso de su utilizaci&oacute;n como anticonceptivo de emergencia, si bien s&iacute; ha de tenerse en cuenta en mujeres tratadas con ulipristal para miomas uterinos.<BR>Por tanto, se recomienda por regla general evitar la asociaci&oacute;n de ulipristal y anticonceptivos hormonales, debiendo ser sustituidos por anticonceptivos de barrera.<br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 10.00.9200.16686\"></HEAD><BODY>El ulipristal se comporta como un modulador selectivo de los receptores progestag&eacute;nicos, comport&aacute;ndose como antagonista parcial en determinados tejidos. Estos efectos antagonistas pueden oponerse al efecto agonista del progest&aacute;geno, y viceversa. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 10.00.9200.16686\"></HEAD><BODY>1. El fabricante de Ellaone (ulipristal) informa de la posible interacci&oacute;n con medicamentos que contienen progest&aacute;genos, entre los que cita a aquellos con levonorgestrel. Recomienda evitar la asociaci&oacute;n de anticonceptivos de emergencia que contenga levonorgestrel.<BR>2. El fabricante de Esmya comunica que adem&aacute;s del riesgo de p&eacute;rdida del efecto anticonceptivo, los anticonceptivos igualmente podr&iacute;an antagonizar los efectos de ulipristal sobre el tama&ntilde;o de los miomas.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 10.00.9200.16686\"></HEAD><BODY>1. Ficha t&eacute;cnica, Ellaone (acetato de ulipristal. HRA Pharma, 2009).<BR>2. Ficha t&eacute;cnica, Esmya (acetato de ulipristal. Gedeon Richter, 2012).<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: experimentos en animales han demostrado indicios de toxicidad para la funci&oacute;n reproductora. <br>Seguridad en humanos: no se requiere el uso de este f&aacute;rmaco. No se ha observado ning&uacute;n da&ntilde;o para la mujer, el curso de su embarazo o el feto si los ACO son usados accidentalmente durante el embarazo. <br>Datos cl&iacute;nicos de m&aacute;s de 330 embarazos humanos expuestos a acetato de clormadinona no mostraron efectos embriot&oacute;xicos. No est&aacute; indicado durante el embarazo. Se debe descartar un embarazo antes de empezar la administraci&oacute;n del f&aacute;rmaco. Si la paciente queda embarazada durante el tratamiento, &eacute;ste medicamento se debe interrumpir inmediatamente.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibes. <br>Seguridad en humanos: El uso de ACO durante la lactancia materna disminuyen la cantidad y la duraci&oacute;n de la lactancia, lo que puede afectar negativamente el crecimiento del bebe. Se pueden excretar peque&ntilde;as cantidades con la leche materna, lo que puede afectar te&oacute;ricamente al ni&ntilde;o, sobre todo durante las primeras 6 semanas posparto. Por lo tanto, este medicamento no se debe utilizar durante la lactancia materna.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "HORMONA SEXUAL",
+    "AGONISTA PROGESTAGENICO (PROGESTAGENO)"
+  ]
+}

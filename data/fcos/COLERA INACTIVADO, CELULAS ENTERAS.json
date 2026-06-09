@@ -1,0 +1,48 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "HIDROXICLOROQUINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "HIDROXICLOROQUINA + VACUNAS INACTIVADAS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de la eficacia terap&eacute;utica de las vacunas inactivadas.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido estudiada en cl&iacute;nica observ&aacute;ndose una disminuci&oacute;n en la respuesta de los anticuerpos frente a la inmunizaci&oacute;n con estas vacunas. Los fabricantes recomiendan, en caso de que sea necesaria una administraci&oacute;n concomitante, monitorizar al paciente para observar la posible aparici&oacute;n de reacciones adversas y la respuesta al tratamiento.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La acci&oacute;n inmunosupresora de hidroxicloroquina tiene cierta capacidad para disminuir la eficacia de este tipo de vacunas.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante en su ficha t&eacute;cnica, advierte de una posible disminuci&oacute;n de la respuesta de anticuerpos a la vacuna contra la rabia.<br>2. En un estudio realizado sobre 51 sujetos sanos a los cuales se les administr&oacute; una dosis de la vacuna contra la rabia. 26 de ellos hab&iacute;an recibido cloroquina 300mg unos d&iacute;as antes. El n&uacute;mero de anticuerpos neutralizantes fue menor en el grupo que hab&iacute;a recibido cloroquina.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica Hidroxicloroquina ratiopharm (hidroxicloroquina). Ratiopharm Espa&ntilde;a, S.A., abril 2019.<br>2. Pappaioanou M, et al. Antibody response to preexposure human diploid-cell rabies vaccine given concurrently with chloroquine. N Engl J Med. 1986; 314, 280-4.<BR><br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: autorizado su uso durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "VACUNA",
+    "ANTIGENO BACTERIANO"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>- <strong>DIGESTIVO</strong>. El aceite esencial de coriandro aumenta la producción de jugos gastrointestinales, favoreciendo la digestión.<br />- <strong>CARMINATIVO</strong>. El coriandro relaja el músculo liso de esfínteres, favoreciendo la eliminación de gases.<br />- <strong>ANTIESPASMODICO</strong>. El coriandro produce una relajación del músculo liso.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>Usos aprobados por la Comisión E del Ministerio de Sanidad alemán:<br />- <strong>DISPEPSIA</strong> y sus síntomas asociados, como <strong>FLATULENCIA</strong>, <strong>AEROFAGIA</strong>, <strong>ESPASMO ABDOMINAL</strong>, <strong>SENSACION DE PLENITUD GASTRICA</strong>.<br />- <strong>ANOREXIA</strong>.<br />Usos tradicionales:<br />- <strong>TOS SECA</strong>.<br />- Trastornos digestivos de origen hepático como <strong>DISPEPSIA BILIAR</strong> o <strong>DISCINESIA BILIAR</strong>.<br />- <strong>CEFALEA</strong>. Aplicado tópicamente en las sienes.<br />- <strong>ESTOMATITIS</strong> y <strong>FARINGITIS</strong>. En forma de gargarismos.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b>, oral: 1 taza/8 horas. <br>- Ni&ntilde;os: No se ha evaluado la seguridad y eficacia del coriandro en ni&ntilde;os.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Las infusiones se preparan con media cucharadita de postre en una taza a la que se le a&ntilde;ade agua en ebullici&oacute;n. Se deja reposar durante 10 minutos y se cuela. Se puede endulzar con az&uacute;car, miel o un edulcorante artificial. <br><br>Se recomienda administrar el coriandro media hora despu&eacute;s de las comidas.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>No se han descrito interacciones medicamentosas.</p>",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>No se han descrito reacciones adversas a las dosis terapéuticas recomendadas.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a cualquier componente del medicamento.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>No se han descrito.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>Se han recogido datos de casos de malformaciones congénitas (pie zambo) en niños de madres consumidoras de coriandro. Sin embargo, no se han realizado ensayos clínicos en seres humanos que lo demuestren, por lo que el uso de este medicamento sólo se acepta en caso de ausencia de alternativas terapéuticas más seguras.</p>\n\nLactancia:\n<p style='text-indent:0px;'>Se ignora si los componentes de este medicamento son excretados en cantidades significativas con la leche materna, y si ello pudiese afectar al niño. Se recomienda suspender la lactancia materna o evitar la administración de este medicamento.</p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>No hay datos disponibles en la bibliografía que recojan casos de sobredosificación con este medicamento.</p>",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'>No se han descrito.</p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>- Advierta a su m&eacute;dico si est&aacute; embarazada.<br>- Se recomienda tomar el coriandro despu&eacute;s de las comidas.</BODY></HTML></p>",
+  "advertencias_de_seguridad": [],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "CARMINATIVO",
+    "DIGESTIVO",
+    "ANTIESPASMODICO"
+  ]
+}

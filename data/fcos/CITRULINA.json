@@ -1,0 +1,48 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>- [585;2], <strong>AMINOACIDO</strong>. Proporciona el aminoácido citrulina y antagoniza la acción del ácido láctico disminuyendo la intoxicación muscular.</p>\n\nFarmacocinética:\n<p style='text-indent:0px;'>- Tras la administración de una única dosis oral de 4 gramos de malato de citrulina, las concentraciones plasmáticas se elevan desde la concentración basal (en torno a 8,5 microgramos por ml) hasta alcanzar un valor máximo, a los 45 minutos, en torno a 95 microgramos por ml; a las 6 horas de la dosis la concentración plasmática de citrulina había vuelto al valor basal. <br />- Al no haberse estudiado la cinética de una dosis endovenosa de citrulina no es posible cuantificar la biodisponibilidad.<br />- La cantidad de citrulina excretada por la orina en las seis horas siguientes a la dosis fue de 21 miligramos, lo que demuestra la metabolización mayoritaria del producto.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Alivio sintom&aacute;tico de los estados de <strong>ASTENIA</strong> funcional por carencia del amino&aacute;cido citrulina.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><br>- <b>Adultos</b> y <b>ancianos</b>: La dosis normal es de 1 g al d&iacute;a, administr&aacute;ndose un sobre durante las principales comidas.<br>- Ni&ntilde;os de 6 a 12 a&ntilde;os: 2 sobres al d&iacute;a, repartidos en la comida y cena.<br>Como todo tratamiento antiast&eacute;nico, el tratamiento deber&aacute; ser de corta duraci&oacute;n (12 d&iacute;as).<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Diluir  el contenido del sobre en un vaso de agua (aprox. 150 ml) u otro líquido frío o caliente (leche, zumo, etc.) a los que se les puede añadir azúcar, si se quiere.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>- Gastrointestinales: <strong>GASTRALGIA</strong> debido a su pH ácido<br />- Sistema nervioso: raramente <strong>NERVIOSISMO</strong>.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a cualquiera de los componentes de la especialidad.<br />- <strong>INSUFICIENCIA HEPATICA</strong>, <strong>INSUFICIENCIA RENAL</strong>.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos, por lo que se debe evitar su administraci&oacute;n durante el embarazo. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos, por lo que se debe evitar su administraci&oacute;n durante el lactancia.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "INSUFICIENCIA_HEPATICA",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia hepática (IH), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "INSUFICIENCIA_RENAL",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia renal (IR), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "SUPLEMENTO ORGANICO (RESTAURACION)",
+    "AMINOACIDO"
+  ]
+}
