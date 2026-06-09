@@ -1,0 +1,26 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>- [577;2]  La calamina posee actividad adherente sobre la superficie de la piel, formando una capa protectora frente a agentes irritantes extraños, y por su poder de absorción, seca las lesiones en caso de ligero rozamiento.  Posee moderada acción <strong>ASTRINGENTE DERMATOLOGICO</strong> y <strong>ANTIPRURIGINOSO</strong>.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- <strong>PRURITO</strong>: alivio sintomático del picor e irritación de la piel.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>- V&iacute;a t&oacute;pica: 1 aplicaci&oacute;n, 3-4 veces al d&iacute;a. <br><br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>- Espolvorear directamente sobre la piel. Antes de cada aplicación, se recomienda limpiar la zona a tratar con agua y jabón y secar.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad conocida a cualquiera de los componentes de la especialidad.<br />- No aplicar en heridas abiertas.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: En caso de ingestión pueden aparecer manifestaciones gastrointestinales leves.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'>- No aplicar sobre ojos.<br />- Evitar la inhalación manteniendo el producto apartado de la nariz y la boca durante la aplicación, ya que su inhalación puede dar problemas respiratorios, especialmente en niños pequeños.</p>",
+  "advertencias_de_seguridad": [],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ASTRINGENTE DERMATOLOGICO"
+  ]
+}

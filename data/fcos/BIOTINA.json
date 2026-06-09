@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- <strong>FACTOR VITAMINICO</strong>, <strong>VITAMINA B</strong>. Es una vitamina hidrosoluble, que se comporta como cofactor de reacciones enzim&aacute;ticas de carboxilaci&oacute;n. Interviene en la gluconeog&eacute;nesis, bios&iacute;ntesis de &aacute;cidos grasos y lipog&eacute;nesis, metabolismo del propionato y catabolismo de amino&aacute;cidos de cadena ramificada. </BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- <strong>DEFICIT DE BIOTINA</strong>. Tratamiento del d&eacute;ficit de biotina y patolog&iacute;as asociadas, como eccema seborreico, acn&eacute;, acrodinia, fragilidad ungueal, eritroderma o dermatitis exfoliativa.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>DOSIFICACI&Oacute;N:<br>- <b>Adultos</b> y ni&ntilde;os, oral: 5 mg/12-24 horas.<br>- <b>Adultos</b> y ni&ntilde;os, parenteral: 1-5 mg/12-24 horas.<br>Dosis omitida: Las reservas de biotina tardan en agotarse mucho tiempo, por lo que no es muy importante si se olvidase una dosis.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Comprimidos: Los comprimidos se deben tomar por v&iacute;a oral con un vaso de agua.<br>- Inyectables: Los inyectables se pueden administrar por v&iacute;a intramuscular (excepcionalmente v&iacute;a iv gota a gota) o por v&iacute;a oral mezclado con el biber&oacute;n u otro l&iacute;quido.</BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Antiepil&eacute;pticos. El uso prolongado de antiepil&eacute;pticos podr&iacute;a disminuir los niveles plasm&aacute;ticos de biotina.</BODY></HTML></p>",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Los efectos adversos de la biotina son, en general, infrecuentes, leves y transitorios. Las reacciones adversas m&aacute;s caracter&iacute;sticas son:<br>- Al&eacute;rgicas dermatol&oacute;gicas. Excepcionalmente (&lt;1%) pueden aparecer <strong>REACCIONES DE HIPERSENSIBILIDAD</strong>.</BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Hipersensibilidad a cualquier componente del medicamento.</BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>No se han descrito.</BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: no se han descrito problemas en humanos con la ingesta de las dosis recomendadas. La ingesta recomendada de biotina a trav&eacute;s de la dieta es de unos 30 microgramos /d&iacute;a en el embarazo. <br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- No se recomienda utilizar suplementos vitam&iacute;nicos como sustitutivos de una dieta adecuada.<br>- No se ha evaluado la eficacia de la administraci&oacute;n de dosis muy altas de vitaminas, por lo que no se recomienda superar las dosis recomendadas.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: autorizado su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "FACTOR VITAMINICO",
+    "VITAMINA B"
+  ]
+}

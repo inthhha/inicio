@@ -1,0 +1,254 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bloquea la entrada del VHB y VHD en los hepatocitos, uni&eacute;ndose e inactivando el NTCP, un transportador de sales biliares que act&uacute;a como receptor esencial de la entrada del VHB/VHD.<br></BODY></HTML></p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Distribuci&oacute;n: UPP del 99%. Volumen de distribuci&oacute;n estimado es inferior al total de agua corporal. <br>- Metabolismo: no se realizaron estudios. No se prev&eacute;n metabolitos activos. <br>- Eliminaci&oacute;n: no se detect&oacute; excreci&oacute;n en orina de voluntarios sanos. Se supone que la v&iacute;a principal de eliminaci&oacute;n es a trav&eacute;s de la uni&oacute;n a la diana (NTCP).<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Tratamiento de la infecci&oacute;n cr&oacute;nica por el virus de la hepatitis delta <strong>HEPATITIS D</strong> en pacientes <b>adultos</b> positivos para ARN del VHD en plasma con enfermedad hep&aacute;tica compensada.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Se debe administrar en una dosis de 2 mg una vez al d&iacute;a mediante inyecci&oacute;n subcut&aacute;nea en monoterapia o en combinaci&oacute;n con un an&aacute;logo de nucle&oacute;sidos/ nucle&oacute;tidos para el tratamiento subyacente de VHB. <br>- Ni&ntilde;os y <b>adolescentes</b> &lt; 18 a&ntilde;os: no se ha establecido la seguridad y eficacia. No se dispone de datos. <br>- Pacientes de edad avanzada: no se han realizado recomendaciones posol&oacute;gicas espec&iacute;ficas. <br>Duraci&oacute;n del tratamiento: se debe continuar mientras se asocie a un beneficio cl&iacute;nico. <br>Suspensi&oacute;n del tratamiento: se debe considerar interrumpir el tratamiento en caso de seroconversi&oacute;n mantenida (6 meses) del HBsAg o p&eacute;rdida de respuesta virol&oacute;gica y bioqu&iacute;mica. <br>Dosis olvidada: si se omite una inyecci&oacute;n y han transcurrido menos de 4 horas desde la hora programada, la inyecci&oacute;n se deber&aacute; poner tan pronto como sea posible. La hora de la siguiente dosis ser&aacute; conforme a la pauta de inyecci&oacute;n establecida previamente. Si se ha olvidado una inyecci&oacute;n y han pasado m&aacute;s de 4 horas, no se debe dar la dosis olvidada.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>V&iacute;a subcut&aacute;nea &uacute;nicamente. Se puede inyectar en lugares como el abdomen o la parte superior del muslo. <br>Para los pacientes que se autoadministren el medicamento, se deber&aacute; impartir la formaci&oacute;n adecuada para ello; adem&aacute;s, deber&aacute;n seguir la Gu&iacute;a para la inyecci&oacute;n paso a paso, que se incluye en el envase.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "Posología en insuficiencia hepática:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No es necesario ajustar la dosis en pacientes con insuficiencia leve (clase A de Child - Pugh) No se ha establecido la seguridad y eficacia en pacientes con cirrosis descompensada.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_renal": "Posología en insuficiencia renal:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se han realizado estudios en pacientes con <b>insuficiencia renal</b>. Se debe monitorizar atentamente la funci&oacute;n renal.<br></BODY></HTML></p>",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "BOSENTAN",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "OLMESARTAN",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "EZETIMIBA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "GLIBENCLAMIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LEVOTIROXINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROSUVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SULFASALAZINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PITAVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CICLOSPORINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "GLECAPREVIR",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PRAVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PACLITAXEL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FLUVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DOCETAXEL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RITONAVIR",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "VALSARTAN",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ATORVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "IRBESARTAN",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + FARMACOS INHIBIDORES DE SU DIANA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Disminuci&oacute;n efecto terap&eacute;utico de bulevirtida.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se recomienda la administraci&oacute;n junto con estos medicamentos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>In vitro se ha demostrado que algunos medicamentos pueden inhibir la diana de bulevirtida, el polip&eacute;ptido cotransportador de taurocolato de sodio (NTCP). </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>4. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida)</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FEXOFENADINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BULEVIRTIDA + SUSTRATOS OATP1B1/3",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del efecto y toxicidad de los sustratos de OATP1B1/3.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Como medida de precauci&oacute;n, una vigilancia cl&iacute;nica estrecha est&aacute; justificada cuando se administre junto con sustratos de OATP1B1/3 </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Bulevirtida puede inhibir el trasportador OATP1B1/3 produciendo un posible aumento de las concentraciones plasm&aacute;ticas de los sutratos de este transportador.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica HEPCLUDEX (bulevirtida), mayo 2014.</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Las reacciones adversas se describen seg&uacute;n cada intervalo de frecuencia, consider&aacute;ndose muy frecuentes (&gt;10%), frecuentes (1-10%), poco frecuentes (0,1-1%), raras (0,01-0,1%), muy raras (&lt;0,01%) o de frecuencia desconocida (no puede estimarse a partir de los datos disponibles). <br>- Trastornos de la sangre y del sistema linf&aacute;tico: frecuentes <strong>EOSINOFILIA</strong> <br>- Trastornos del sistema inmunol&oacute;gico: poco frecuentes hipersensibilidad, incluida <strong>ANAFILAXIA</strong>. <br>- Trastornos del sistema nervioso: muy frecuentes <strong>CEFALEA</strong>, frecuentes <strong>MAREO</strong>. <br>- Trastornos gastrointestinales: frecuentes <strong>NAUSEAS</strong>. <br>- Trastornos hepatobiliares: muy frecuentes aumento de la concentraci&oacute;n total de sales biliares. <br>- Trastornos de la piel y del tejido subcut&aacute;neo: muy frecuentes <strong>PRURITO</strong>. <br>- Trastornos musculoesquel&eacute;ticos y del tejido conjuntivo: frecuentes <strong>ARTRALGIA</strong>. <br>- Trastornos generales y alteraciones en el luga de administraci&oacute;n: muy frecuentes <strong>DOLOR EN EL PUNTO DE INYECCION</strong>, frecuentes <strong>FATIGA</strong>, <strong>SINTOMAS GRIPALES</strong>.<br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Hipersensibilidad a bulevirtida o a cualquier otro componente del medicamento.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <strong>HEPATOPATIA</strong> descompensada: no se ha establecido la farmacocin&eacute;tica, seguridad y eficacia del medicamento en pacientes con cirrosis descompensada. No se recomienda su uso en estos pacientes. <br>- <strong>HEPATITIS B</strong>: la infecci&oacute;n simult&aacute;nea con el VHB se debe tratar simult&aacute;neamente. Se recomienda vigilancia estrecha de los niveles de ADN del VHB durante el tratamiento con bulevirtida.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. No se recomienda su empleo durante el embarazo ni en mujeres en edad f&eacute;rtil que no est&eacute;n usando m&eacute;todos anticonceptivos eficaces <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos. En estudios realizados en animales, no se han observado efectos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles <br>Seguridad en humanos: se desconoce si se excreta con la leche. Se debe decidir si es necesario interrumpir la lactancia o interrumpir / suspender el tratamiento tras considerar el beneficio de la lactancia para el ni&ntilde;o y el beneficio del tratamiento para la madre.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se dispone de datos sobre sobredosis en seres humanos con este f&aacute;rmaco. Si se produce una sobredosis, se debe monitorizar al paciente para detectar indicios de toxicidad y proporcionar el tratamiento de apoyo necesario.<br></BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- La influencia sobre la capacidad de conducci&oacute;n es nula o insignificante. Informar a los pacientes de que se han notificado mareos durante el tratamiento.<br></BODY></HTML></p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Aseg&uacute;rate de conocer adecuadamente las normas de administraci&oacute;n de este medicamento antes de su empleo. Consulta al farmac&eacute;utico si es necesario. <br>- Informa a tu m&eacute;dico si est&aacute;s embarazada, crees que puedes estarlo o tienes previsto hacerlo antes de iniciar el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s en periodo de lactancia antes de iniciar el tratamiento. <br>- Este medicamento podr&iacute;a afectar negativamente a tu capacidad para conducir. Evita la conducci&oacute;n hasta que compruebes que el medicamento no te afecta de forma importante.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIVIRAL",
+    "ANTIINFECCIOSO"
+  ]
+}
