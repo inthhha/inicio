@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Antialérgico, el ácido espaglúmico inhibe la degranulación de los <br />mastocitos de la mucosa conjuntival, evitando la liberación de <br />mediadores químicos de la inflamación.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- <strong>CONJUNTIVITIS ALERGICA</strong> y <strong>BLEFAROCONJUNTIVITIS</strong> alérgica.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- <b>Adultos</b> y ni&ntilde;os: 1 gota 4 veces al d&iacute;a.&nbsp; </BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>Instilaci&oacute;n en el saco conjuntival. <br>- L&aacute;vese las manos. <br>- Agite bien el envase antes de usar. <br>- Mire hacia arriba y tire hacia abajo el p&aacute;rpado inferior para hacer un saco.<br>- Lleve el cuentagotas lo m&aacute;s cerca posible del saco sin que llega a tocar el ojo. Para evitar la contaminaci&oacute;n del medicamento, es importante que la punta del aplicador no entre en contacto con ninguna superficie (incluido el ojo).<br>- Aplique en el saco conjuntival inferior la cantidad exacta prescrita.&nbsp; <br>- Parpadee un par de veces para extender las gotas por toda la superficie ocular. <br>- Despu&eacute;s de la administraci&oacute;n, se aconseja cerrar el ojo (no demasiado fuerte) durante unos dos minutos u ocluir el canal nasolagrimal.<br>- No administrar otro medicamento por v&iacute;a oft&aacute;lmica hasta trascurridos como m&iacute;nimo&nbsp;10 minutos.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Los efectos adversos de este medicamento son leves y transitorios.<br />Ocasionalmente: <strong>IRRITACION OCULAR</strong>, en el momento de la aplicación.</p>",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no se observaron efectos perjudiciales en el embri&oacute;n y/o feto en animales. <br>Seguridad en humanos: no hay estudios adecuados y bien controlados en embarazadas. El uso de este medicamento s&oacute;lo se acepta en caso de ausencia de alternativas terap&eacute;uticas m&aacute;s seguras. se debe evitar especialmente el primer trimestre de embarazo. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se han llevado a cabo estudios espec&iacute;ficos en madres lactantes. El uso de este medicamento en madres lactantes s&oacute;lo se acepta en caso de ausencia de alternativas terap&eacute;uticas m&aacute;s seguras.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>-&nbsp;La influencia sobre la capacidad de conducci&oacute;n&nbsp; es nula o insignificante. No obstante, puede dar lugar a visi&oacute;n borrosa transitoria tras su aplicaci&oacute;n. Si aparece este efecto, el paciente debe esperar hasta que la visi&oacute;n sea n&iacute;tida antes de conducir.<br></BODY></HTML></p>",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIALERGICO",
+    "INHIBIDOR DE LA SINTESIS DE LEUCOTRIENOS (5-LIPOOXIGENASA)"
+  ]
+}

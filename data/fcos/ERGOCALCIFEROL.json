@@ -1,0 +1,56 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "BUROSUMAB",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "BUROSUMAB + FOSFATO ORAL Y ANALOGOS VITAMINA D",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo de sufrir hipercalcemia e hiperfosfatemia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Aunque no se han reportado casos de esta interacci&oacute;n, el fabricante contraindica la administraci&oacute;n simult&aacute;nea de burosumab con an&aacute;logos de la vitamina D o con fosfato oral debido al posible riesgo de sufrir hipercalcemia e hiperfosfatemia. Se recomienda suspender el fosfato oral y los an&aacute;logos de vitamina D activa al menos una semana antes de comenzar el tratamiento con burosumab. Se puede iniciar o continuar el tratamiento restitutivo o complementario de vitamina D con formas inactivas de acuerdo con las directrices locales siempre que se realice un control de los niveles s&eacute;ricos de calcio y de fosfato.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Se ha sugerido una posible adici&oacute;n sobre los niveles de f&oacute;sforo y calcio.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante en su ficha t&eacute;cnica, advierte del posible riesgo de hipercalcemia e hiperfosfatemia si se administran conjuntamente burosumab con fosfato oral o an&aacute;logos de la vitamina D.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Crysvita (burosumab). Kyowa Kirin Holdings B.V., febrero 2020.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "VERAPAMILO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "VERAPAMILO + SALES DE CALCIO",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de verapamilo con sales de calcio (iv), puede dar lugar a una reducción de la actividad farmacológica de verapamilo.</p>",
+        "importancia": "<p style='text-indent:0px;'>La administración iv de sales de calcio debe hacerse de forma precautoria en los pacientes tratados con verapamilo, siendo preciso un riguroso control clínico para detectar cualquier posible reducción de la actividad antihipertensiva, antianginosa y/o antiarrítmica de verapamilo. La interacción no está muy documentada, aunque algunos datos demuestran su existencia de forma indirecta, al utilizar gluconato cálcico para prevenir la aparición de hipertensión tras la administración de verapamilo.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Posible antagonismo farmacológico. Verapamilo actúa bloqueando los canales lentos de calcio situados en las membranas de las células musculares lisas y del miocardio, impidiendo o dificultando el paso de calcio al interior celular, lo cual es un factor esencial para el proceso de contracción de estas células musculares. Por consiguiente, un exceso de calcio podría reducir la eficacia de verapamilo.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1,2. Algunos casos aislados descritos en la literatura indican que los efectos hemodin&aacute;micos y electrofisiol&oacute;gicos de verapamilo fueron revertidos de forma completa tras la administraci&oacute;n iv de sales de calcio. <br>3. En un estudio, la administraci&oacute;n iv de gluconato c&aacute;lcico fue capaz de prevenir la aparici&oacute;n de hipotensi&oacute;n tras la administraci&oacute;n iv de verapamilo (5 mg), sin alterar significativamente sus efectos sobre la conducci&oacute;n del impulso card&iacute;aco. <br>4. Otros autores describen el caso de una mujer de 70 a&ntilde;os satisfactoriamente tratada con verapamilo, que present&oacute; una reca&iacute;da de fibrilaci&oacute;n auricular una semana despu&eacute;s de haber comenzado un tratamiento a base de calcio y vitamina D para la osteoporosis (lo que supuso un incremento de la calcemia de 9,8 a 10,8 mg%). <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Woie L. Eur Heart J 1981;2:239. <br>2. Morris DL. JAMA 1983;249:3212. <br>3. Weiss AT. Internat J Cardiol 1983;4:275. <br>4. Bar-Or D. BMJ 1981;282;1585.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: no se han realizado estudios adecuados y bien controlados en humanos. Deben tomarse precauciones a la hora de prescribir esta medicaci&oacute;n a las embarazadas. <br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "FACTOR VITAMINICO",
+    "HIPERCALCEMIANTE",
+    "VITAMINA D"
+  ]
+}

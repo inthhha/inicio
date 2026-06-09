@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Vasoprotector, venotónico y antiedematoso. La escina es una saponina aislada a partir de semillas de Aesculus hippocastanum (castaño de indias), que actúa a nivel capilar reduciendo la fragilidad y permeabilidad, a la vez que disminuye el paso excesivo de proteínas y de líquido (exudado) de los vasos a los tejidos (efecto antiedematoso). También favorece el retorno venoso, reduciendo la éstasis venosa. Actúa favorablemente sobre los signos y síntomas de la insuficiencia venosa crónica de los miembros inferiores: sensación de pesadez, dolor, calambres, prurito, éxtasis circulatorio, edema, varices y alteraciones tróficas.</p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Absorci&oacute;n: r&aacute;pida, semivida de absorci&oacute;n: 0,3h. El metabolismo de primer paso y la descomposici&oacute;n por parte de la microflora intestinal hace que la biodisponibilidad de una soluci&oacute;n oral sea de 0,12-2,3%. La formulaci&oacute;n retard tiene una biodisponibilidad plasm&aacute;tica de 0,18-2,8%; el principio activo se libera de forma total y controlada en 2h, alcanz&aacute;ndose la concentraci&oacute;n m&aacute;xima de 25ng/ml a las 2,4h. En comparaci&oacute;n con una soluci&oacute;n, la biodisponibilidad relativa de la escina en la formulaci&oacute;n retard es de 150%.<br>- Distribuci&oacute;n: uni&oacute;n a prote&iacute;nas plasm&aacute;ticas: 84%.<br>- Metabolismo: intenso metabolismo de primer paso. </BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- <strong>INSUFICIENCIA VENOSA</strong>, <strong>EDEMA</strong>: Alivio a corto plazo (de 2 a 3 meses) del edema y síntomas relacionados con la insuficiencia venosa crónica.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Oral: 50 mg (1 cápsula)/12 h (mañana y noche).</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>preferentemente antes de las comidas, tragar las cápsulas enteras (sin masticar), con ayuda de un poco de líquido.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Los efectos adversos son, en general, infrecuentes leves y transitorios. Los más característicos son:<br />- Digestivos: <strong>DOLOR ABDOMINAL</strong> leve y <strong>DISPEPSIA</strong> (especialmente en estos casos, tomar el medicamento con las comidas).<br />- Alérgicos/dermatológicos: <strong>ERUPCIONES CUTANEAS</strong>, <strong>PRURITO</strong>, <strong>ERITEMA</strong>.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a la escina.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: Los estudios en animales son insuficientes respecto a los efectos sobre el embarazo, desarrollo embrionario, parto y desarrollo postnatal. <br>Seguridad en humanos: No se han realizado ensayos cl&iacute;nicos en seres humanos, por lo que el uso de este medicamento s&oacute;lo se acepta en caso de ausencia de alternativas terap&eacute;uticas m&aacute;s seguras.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Se ignora si este medicamento es excretado en cantidades significativas con la leche materna, y si ello pudiese afectar al ni&ntilde;o. No se recomienda su uso.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>Síntomas: diarrea y vómitos. <br />Tratamiento: medidas sintomáticas.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "VASOPROTECTOR",
+    "ANTIVARICOSO"
+  ]
+}
