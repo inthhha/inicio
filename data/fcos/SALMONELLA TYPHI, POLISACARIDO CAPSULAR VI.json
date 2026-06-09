@@ -1,0 +1,36 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Vacuna, promueve la inmunización activa frente a Salmonella typhi. La respuesta inmunitaria aparece aproximadamente a los 15-21 días. La protección dura un mínimo de 3 años. En paises desarrollados se registra un índice de seroconversión en más de mas del 90% de los vacunas con una dosis a los 15 días de la vacunación.  Dos años después de la vacunación el 61% eran seropositivos y 3 años después el 46%. En países altamente endémicos, el índice registrado de protección es de aproximadamente un<br />60%. <br />- Se recomienda la revacunación con un intervalo no superior a 3 años, con una sola dosis de vacuna, de las personas que permanezcan expuestas o que puedan exponerse nuevamente al riesgo de contraer fiebre tifoidea.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- <strong>FIEBRE TIFOIDEA</strong>: Inmunización activa frente a la fiebre tifoidea en <b>adultos</b> y niños a partir de los 2 años de edad. <br />No está recomendada la vacunación rutinaria frente a fiebre tifoidea en España. <br />La vacunación está indicada en los siguientes casos:<br />- Viajeros a zonas endémicas: endémicas (Subcontinente Indio, Sudeste Asiático, Oriente Medio, Africa y ciertas zonas de América Central y del Sur) o en zonas con brote epidémico.<br />- Personas que trabajan en cloacas o con aguas residuales.<br />- Personas en contacto íntimo con un portador cuyo estado no puede ser erradicado.<br />- Trabajadores de laboratorio donde se aísla o se manipula regularmente Salmonella typhi.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Vía im: <br />- <b>Adultos</b> y niños a partir de 2 años: Una dosis de 0,5 ml. <br />La vacuna se debe administrar al menos dos semanas antes del riesgo de exposición a la fiebre tifoidea.<br />Se debería revacunar con un intervalo no superior a 3 años, con una sola dosis, a los sujetos que continúen en riesgo de contraer fiebre tifoidea</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>Debe ser administrada por v&iacute;a intramuscular (podr&iacute;a administrarse tambi&eacute;n por v&iacute;a subcut&aacute;nea). Agitar antes de usar. Bajo ninguna circunstancia debe administrarse por v&iacute;a intravenosa.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Las reacciones adversas fueron leves y de corta duración. <br />- Locales: <strong>DOLOR EN EL PUNTO DE INYECCION</strong>, <strong>INFLAMACION</strong>, enrojecimiento en el punto de inyección. Generalmente, remitieron durante las primeras 48 horas. Tras la segunda dosis, aumentó la incidencia de enrojecimiento y dolor (>10%).  <br />- Sistémicas: (<9%): <strong>FIEBRE</strong>, <strong>MALESTAR GENERAL</strong>, <strong>CEFALEA</strong>, <strong>DOLOR OSTEOMUSCULAR</strong>, <strong>MIALGIA</strong>,  <strong>NAUSEAS</strong>, <strong>DOLOR ABDOMINAL</strong>, estas reacciones, generalmente fueron pasajeras. <br />- Alérgicas: Muy rara vez, <strong>PRURITO</strong>, <strong>URTICARIA</strong>, y <strong>REACCIONES DE HIPERSENSIBILIDAD</strong>, incluyendo <strong>ANAFILAXIA</strong>.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Alergia a alguno de los componentes de la vacuna, así como historial de reacción grave a inyecciones anteriores.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- <strong>FIEBRE</strong>, <strong>INFECCION</strong>: Las vacunas no deben administrase durante las infecciones agudas moderadas y graves y en el periodo de convalecencia. En caso de fiebre elevada se retrasará la vacunación ya que puede ser el comienzo de una enfermedad más grave y la vacuna supone someter al organismo a un esfuerzo complementario, y además  podría llevar a un error de diagnóstico suponer que la enfermedad grave ha sido causada por la vacunación. La presencia de enfermedades infecciosas banales tales como catarros de vías altas, diarreas leves o fiebre leve o moderada, no interfiere con la seroconversión.<br />- <strong>INMUNODEFICIENCIA</strong>: Es de esperar que en pacientes que reciben terapia inmunosupresora o en pacientes con inmunodeficiencias, no llegue a alcanzarse una respuesta adecuada</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>Categoría C de la FDA. No hay estudios adecuados y bien controlados en humanos. El Colegio Americano de Obstetricia y Ginecología recomienda la vacunación durante el embarazo solamente en el caso de contacto continuado o en el caso de viajes a zonas endémicas. Cuando sea posible, se recomienda retrasar la vacunación hasta el segundo o tercer trimestre para minimizar la probabilidad de teratogenicidad.</p>\n\nLactancia:\n<p style='text-indent:0px;'>Se ignora si esta vacuna se excreta con la leche materna, y si ello pudiese afectar al niño. No hay datos suficientes que garanticen el uso de estas vacunas en madres lactantes con el fin de conseguir transferencia pasiva de anticuerpos al lactante. Uso precautorio. Sólo debe utilizarse en mujeres lactantes cuando exista elevado riesgo de contagio.</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "VACUNA",
+    "ANTIGENO BACTERIANO"
+  ]
+}

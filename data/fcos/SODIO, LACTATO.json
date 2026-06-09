@@ -1,0 +1,32 @@
+{
+  "farmacologia": "",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>Acidosis metabólicas en general: Vómitos, diarreas, fístulas, <br />diabetes, retención renal de ácidos, ingestión de ácidos, etc.<br />Restaurador del equilibrio extracelular de sodio: Hemorragias, shock <br />por quemaduras, operaciones quirúrgicas, etc.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>La dosificación se establecerá según criterio médico; por lo <br />general, se aplica la siguiente fórmula: Déficit de bases en <br />mmol/l. x 2 x kg de peso= ml de lactato 1/6 M. Administrar a razón de <br />25-30 gotas/minuto. I.V.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Con dosis elevadas puede provocar alcalosis grave con tetania <br />hipocalcémica.<br />Su uso prolongado puede producir tromboflebitis.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>Hiperlacticidemia.<br />Insuficiencia cardiaca, hepática o renal, shock.<br />Alcalosis metabólica.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>Disnea: Riesgo de alcalosis por sobredosificación.<br />Realizar controles del equilibrio ácido-básico y del balance <br />iónico.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ELECTROLITO",
+    "SUPLEMENTO ORGANICO (RESTAURACION)"
+  ]
+}

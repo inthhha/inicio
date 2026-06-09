@@ -1,0 +1,32 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Sapogenina obtenida del Ruscus aculeatus (Liliáceas).</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><strong>HEMORROIDES</strong>: Hemorroides externas e internas. <br />Crisis hemorroidales: Espasmo anal, rectorragias. <br /><strong>FISURA ANAL</strong><br />Después de intervenciones quirúrgicas rectales.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Pomada: aplicar una pequeña cantidad de pomada 2-4 veces al día. Supositorios: 8 mg 2 veces al día.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Los efectos adversos de este medicamento son, en general, infrecuentes leves y transitorios. Los efectos adversos más característicos son:.<br />-Raramente (<1%): prurito local.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>Contraindicado en alergia al medicamento.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>No aplicar directamente sobre mucosas, piel erosionada o heridas abiertas.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIHEMORROIDAL",
+    "ASTRINGENTE DERMATOLOGICO"
+  ]
+}

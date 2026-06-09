@@ -1,0 +1,41 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>El salicilato de trolamina es un <strong>ANTIINFLAMATORIO</strong> y <strong>ANALGESICO</strong> de tipo no esteroídico, del grupo de los salicilatos, que actúa impidiendo la síntesis de prostaglandinas y otros prostanoides, mediante la inhibición de la ciclooxigenasa.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- Alivio local sintomático de afecciones dolorosas o inflamatorias, de origen traumático o degenerativo de las articulaciones, tendones, ligamentos y músculos (<strong>ARTRITIS</strong>, periartritis, <strong>CAPSULITIS</strong>, artrosinovitis, <strong>TENOSINOVITIS</strong>,  distorsiones, <strong>CONTRACTURA MUSCULAR</strong>, <strong>TENDINITIS</strong>, <strong>BURSITIS</strong>, <strong>CONTUSION</strong>, <strong>ESGUINCE</strong>, <strong>LUMBALGIA</strong>, <strong>TORTICOLIS</strong>, <strong>LUXACION</strong>).</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>- <b>Adultos</b> y ni&ntilde;os mayores de 12 a&ntilde;os: aplicar 2 o 3 veces al d&iacute;a.<br>Duraci&oacute;n del tratamiento: no aplicar m&aacute;s de 7 d&iacute;as seguidos sin consultar al m&eacute;dico.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17105\"></HEAD><BODY>-&nbsp;Gel y crema: Aplicar una fina capa del producto en la zona afectada mediante un ligero masaje para facilitar la penetraci&oacute;n.<BR>- Aerosol: Debe realizarse la pulverizaci&oacute;n desde una distancia de 10 cm de la piel.<BR>- Lavar las manos despu&eacute;s de cada aplicaci&oacute;n.</BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>No se han descrito en el uso cutáneo, ya que se alcanzan concentraciones sistémicas muy bajas del fármaco, pero se valorará si debe utilizarse conjuntamente con otros analgésicos tópicos.</p>",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>-  <strong>ERITEMA</strong>, <strong>PRURITO</strong>, sensación de <strong>IRRITACION CUTANEA</strong>  en el lugar de aplicación y sensibilización alérgica local, efectos que remiten al cesar la aplicación.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><strong>ALERGIA A SALICILATOS</strong> o <strong>ALERGIA A AINE</strong>.<br />- Aunque la administración local minimiza los riesgos derivados de su uso sistémico, la aplicación tópica, en áreas extensas de la piel, en heridas abiertas, mucosas o piel eczematosa, de forma prolongada y con la utilización de vendajes oclusivos, puede provocar efectos sistémicos, por lo que conviene recordar que no se recomienda su uso en los pacientes que hayan presentado reacciones alérgicas (rinitis, asma, prurito, angioedema, urticaria, shock u otras), provocadas por ácido acetilsalicílico u otros AINES debido a la posibilidad de hipersensibilidad cruzada.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. Se puede absorber sistem&aacute;ticamente a trav&eacute;s de la piel y atravesar la placenta, aunque lo hace en bajas cantidades. La administraci&oacute;n de salicilato de trolamina s&oacute;lo se acepta si no existen alternativas terap&eacute;uticas m&aacute;s seguras, y los beneficios superan los posibles riesgos. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si salicilato de trolamina se excreta con la leche. No se puede excluir el riesgo para los lactantes. Se debe decidir si es necesario interrumpir la lactancia o interrumpir/suspender el tratamiento tras considerar el beneficio de la lactancia para el ni&ntilde;o y el beneficio del tratamiento para la madre.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: Su aplicación prolongada y/o en áreas extensas puede provocar intoxicación por salicilatos (mareos, vómitos, zumbido de oídos, visión borrosa, somnolencia), en cuyo caso deberá suspender la medicación y acudir a un centro médico. <br />- Tratamiento: En caso de ingestión accidental provocación del vómito y/o lavado gástrico o tratamiento sintomático, según criterio médico.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'>- Evitar el contacto con los ojos y membranas mucosas.<br />- No utilizar con vendajes oclusivos ni aplicar simultáneamente en la misma zona que otras preparaciones tópicas. <br />- No utilizar de forma prolongada ni en áreas extensas.<br />- Utilizar sólo en piel intacta, no sobre heridas abiertas, mucosas o piel eczematosa.<br />- No exponer al sol la zona tratada.<br />- Lavar las manos después de cada aplicación.</p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INHIBIDOR DE LA SINTESIS DE PROSTAGLANDINAS (CICLOOXIGENASA)",
+    "VASODILATADOR PERIFERICO",
+    "ANTIINFLAMATORIO TOPICO"
+  ]
+}

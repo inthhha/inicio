@@ -1,0 +1,45 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "LITIO, CARBONATO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "SALES DE LITIO + SALES DE SODIO.",
+        "efecto": "<p style='text-indent:0px;'>Puede dar lugar a la pérdida del efecto antimaniaco del litio. Asimismo, la implantación de dietas pobres en sal podría provocar una intoxicación por litio en estos pacientes.</p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17728\"></HEAD><BODY>La interacci&oacute;n esta bien contrastada en t&eacute;rminos farmacocin&eacute;ticos y toxicol&oacute;gicos. Por ello, debe evitarse tanto el exceso como el d&eacute;ficit de sodio en los pacientes tratados con sales de litio. Se trata de una interacci&oacute;n importante, que no debe ser infravalorada, muy especialmente en lo que se refiere a los suplementos de sal con las comidas o a las dietas hiposalinas. Los pacientes deben ser advertidos para que no cambien de forma sustancial la ingesta de sales de sodio. </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'>El litio es eliminado del organismo con la orina. Sin embargo, buena parte es reabsorbida en el túbulo proximal. No obstante, a este nivel no parece haber capacidad de distinguir al litio del sodio. Cuando se produce una deplección de sodio, el volumen extracelular del organismo se contrae y ambos iones (sodio y litio) son reabsorbidos al máximo (riesgo de efectos tóxicos). Por contra, si existe una sobrecarga de iones sodio, el volumen extracelular se expande y tanto el litio como el sodio son poco reabsorbidos, con lo que los niveles de litio pueden descender por debajo de los mínimos terapéuticos.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1\tEn un estudio realizado sobre 9 pacientes satisfactoriamente controlados con carbonato de litio (2,7 g/día), y a los que se estaba dando un suplemento de 1,5-3 g. de sal al día, se observó que dos de los pacientes presentaban signos de toxicidad por litio, varias semanas después de que se suprimiera el suplemento de sal. <br /><br />2\tCuatro pacientes tratados con carbonato de litio mostraron un aumento mayor y más rápido de los niveles plasmáticos de litio, durante dietas pobres en sal que cuando se les administraba un suplemento diario de sal. <br /><br />3\tUna paciente bajo tratamiento estabilizado con carbonato de litio, mostró síntomas de intoxicación por litio, tras aplicársele una terapia a base de digoxina, quinidina, furosemida y restricción de sodio. Los niveles de litio se habían multiplicado por cuatro.</p>",
+        "referencias": "<p style='text-indent:0px;'>1\tBleiweiss H. Lancet 1970;i:416.<br />2\tPlatman SF. Arch Gen Psychiat 1969;20:285.<br />3\tHurtig HI. N Engl J Med 1974;290:748. <br />2</p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ELECTROLITO",
+    "ALCALINIZANTE URINARIO",
+    "SUPLEMENTO ORGANICO (RESTAURACION)"
+  ]
+}
