@@ -1,0 +1,7902 @@
+[
+  {
+    "name": "5-AMINOLEVULINICO, ACIDO (ORAL)",
+    "file": "/data/fcos/5-AMINOLEVULINICO, ACIDO (ORAL).json"
+  },
+  {
+    "name": "5-AMINOLEVULINICO, ACIDO (TOPICO)",
+    "file": "/data/fcos/5-AMINOLEVULINICO, ACIDO (TOPICO).json"
+  },
+  {
+    "name": "ABACAVIR",
+    "file": "/data/fcos/ABACAVIR.json"
+  },
+  {
+    "name": "ABALOPARATIDA",
+    "file": "/data/fcos/ABALOPARATIDA.json"
+  },
+  {
+    "name": "ABATACEPT",
+    "file": "/data/fcos/ABATACEPT.json"
+  },
+  {
+    "name": "ABEDUL",
+    "file": "/data/fcos/ABEDUL.json"
+  },
+  {
+    "name": "ABEMACICLIB",
+    "file": "/data/fcos/ABEMACICLIB.json"
+  },
+  {
+    "name": "ABIRATERONA",
+    "file": "/data/fcos/ABIRATERONA.json"
+  },
+  {
+    "name": "ABROCITINIB",
+    "file": "/data/fcos/ABROCITINIB.json"
+  },
+  {
+    "name": "ACALABRUTINIB",
+    "file": "/data/fcos/ACALABRUTINIB.json"
+  },
+  {
+    "name": "ACAMPROSATO",
+    "file": "/data/fcos/ACAMPROSATO.json"
+  },
+  {
+    "name": "ACARBOSA",
+    "file": "/data/fcos/ACARBOSA.json"
+  },
+  {
+    "name": "ACECLOFENACO (TOPICO)",
+    "file": "/data/fcos/ACECLOFENACO (TOPICO).json"
+  },
+  {
+    "name": "ACECLOFENACO",
+    "file": "/data/fcos/ACECLOFENACO.json"
+  },
+  {
+    "name": "ACEDERA",
+    "file": "/data/fcos/ACEDERA.json"
+  },
+  {
+    "name": "ACEITE DE ALMENDRAS",
+    "file": "/data/fcos/ACEITE DE ALMENDRAS.json"
+  },
+  {
+    "name": "ACEITE DE OLIVA",
+    "file": "/data/fcos/ACEITE DE OLIVA.json"
+  },
+  {
+    "name": "ACEITE DE PESCADO",
+    "file": "/data/fcos/ACEITE DE PESCADO.json"
+  },
+  {
+    "name": "ACEITE DE SOJA",
+    "file": "/data/fcos/ACEITE DE SOJA.json"
+  },
+  {
+    "name": "ACENOCUMAROL",
+    "file": "/data/fcos/ACENOCUMAROL.json"
+  },
+  {
+    "name": "ACETAZOLAMIDA",
+    "file": "/data/fcos/ACETAZOLAMIDA.json"
+  },
+  {
+    "name": "ACETICO, ACIDO",
+    "file": "/data/fcos/ACETICO, ACIDO.json"
+  },
+  {
+    "name": "ACETILCISTEINA (V03AB)",
+    "file": "/data/fcos/ACETILCISTEINA (V03AB).json"
+  },
+  {
+    "name": "ACETILCISTEINA",
+    "file": "/data/fcos/ACETILCISTEINA.json"
+  },
+  {
+    "name": "ACETILCOLINA",
+    "file": "/data/fcos/ACETILCOLINA.json"
+  },
+  {
+    "name": "ACETILSALICILICO, ACIDO (ANALGESICO)",
+    "file": "/data/fcos/ACETILSALICILICO, ACIDO (ANALGESICO).json"
+  },
+  {
+    "name": "ACETILSALICILICO, ACIDO (CARDIOLOGIA)",
+    "file": "/data/fcos/ACETILSALICILICO, ACIDO (CARDIOLOGIA).json"
+  },
+  {
+    "name": "ACETILTIROSINA",
+    "file": "/data/fcos/ACETILTIROSINA.json"
+  },
+  {
+    "name": "ACETOHIDROXAMICO, ACIDO",
+    "file": "/data/fcos/ACETOHIDROXAMICO, ACIDO.json"
+  },
+  {
+    "name": "ACICLOVIR (OFTALMICO)",
+    "file": "/data/fcos/ACICLOVIR (OFTALMICO).json"
+  },
+  {
+    "name": "ACICLOVIR (TOPICO)",
+    "file": "/data/fcos/ACICLOVIR (TOPICO).json"
+  },
+  {
+    "name": "ACICLOVIR",
+    "file": "/data/fcos/ACICLOVIR.json"
+  },
+  {
+    "name": "ACITRETINA",
+    "file": "/data/fcos/ACITRETINA.json"
+  },
+  {
+    "name": "ACLIDINIO",
+    "file": "/data/fcos/ACLIDINIO.json"
+  },
+  {
+    "name": "ADALIMUMAB",
+    "file": "/data/fcos/ADALIMUMAB.json"
+  },
+  {
+    "name": "ADAPALENO",
+    "file": "/data/fcos/ADAPALENO.json"
+  },
+  {
+    "name": "ADENOSINA TRIFOSFATO",
+    "file": "/data/fcos/ADENOSINA TRIFOSFATO.json"
+  },
+  {
+    "name": "ADENOSINA",
+    "file": "/data/fcos/ADENOSINA.json"
+  },
+  {
+    "name": "AFATINIB",
+    "file": "/data/fcos/AFATINIB.json"
+  },
+  {
+    "name": "AFLIBERCEPT (OFTALMICO)",
+    "file": "/data/fcos/AFLIBERCEPT (OFTALMICO).json"
+  },
+  {
+    "name": "AFLIBERCEPT",
+    "file": "/data/fcos/AFLIBERCEPT.json"
+  },
+  {
+    "name": "AGALSIDASA ALFA",
+    "file": "/data/fcos/AGALSIDASA ALFA.json"
+  },
+  {
+    "name": "AGALSIDASA BETA",
+    "file": "/data/fcos/AGALSIDASA BETA.json"
+  },
+  {
+    "name": "AGOMELATINA",
+    "file": "/data/fcos/AGOMELATINA.json"
+  },
+  {
+    "name": "AGUA PARA INYECCION",
+    "file": "/data/fcos/AGUA PARA INYECCION.json"
+  },
+  {
+    "name": "ALANINA",
+    "file": "/data/fcos/ALANINA.json"
+  },
+  {
+    "name": "ALANTOINA",
+    "file": "/data/fcos/ALANTOINA.json"
+  },
+  {
+    "name": "ALBENDAZOL",
+    "file": "/data/fcos/ALBENDAZOL.json"
+  },
+  {
+    "name": "ALBUMINA HUMANA",
+    "file": "/data/fcos/ALBUMINA HUMANA.json"
+  },
+  {
+    "name": "ALBUTREPENONACOG ALFA",
+    "file": "/data/fcos/ALBUTREPENONACOG ALFA.json"
+  },
+  {
+    "name": "ALCACHOFA",
+    "file": "/data/fcos/ALCACHOFA.json"
+  },
+  {
+    "name": "ALCANFOR",
+    "file": "/data/fcos/ALCANFOR.json"
+  },
+  {
+    "name": "ALCOHOL ETILICO",
+    "file": "/data/fcos/ALCOHOL ETILICO.json"
+  },
+  {
+    "name": "ALDESLEUKINA",
+    "file": "/data/fcos/ALDESLEUKINA.json"
+  },
+  {
+    "name": "ALECTINIB",
+    "file": "/data/fcos/ALECTINIB.json"
+  },
+  {
+    "name": "ALEMTUZUMAB",
+    "file": "/data/fcos/ALEMTUZUMAB.json"
+  },
+  {
+    "name": "ALENDRONICO, ACIDO",
+    "file": "/data/fcos/ALENDRONICO, ACIDO.json"
+  },
+  {
+    "name": "ALFA-1-ANTITRIPSINA",
+    "file": "/data/fcos/ALFA-1-ANTITRIPSINA.json"
+  },
+  {
+    "name": "ALFACALCIDOL",
+    "file": "/data/fcos/ALFACALCIDOL.json"
+  },
+  {
+    "name": "ALFUZOSINA",
+    "file": "/data/fcos/ALFUZOSINA.json"
+  },
+  {
+    "name": "ALGINICO, ACIDO",
+    "file": "/data/fcos/ALGINICO, ACIDO.json"
+  },
+  {
+    "name": "ALGLUCOSIDASA ALFA",
+    "file": "/data/fcos/ALGLUCOSIDASA ALFA.json"
+  },
+  {
+    "name": "ALIMEMAZINA",
+    "file": "/data/fcos/ALIMEMAZINA.json"
+  },
+  {
+    "name": "ALIROCUMAB",
+    "file": "/data/fcos/ALIROCUMAB.json"
+  },
+  {
+    "name": "ALISKIREN",
+    "file": "/data/fcos/ALISKIREN.json"
+  },
+  {
+    "name": "ALITRETINOINA",
+    "file": "/data/fcos/ALITRETINOINA.json"
+  },
+  {
+    "name": "ALMAGATO",
+    "file": "/data/fcos/ALMAGATO.json"
+  },
+  {
+    "name": "ALMIDON",
+    "file": "/data/fcos/ALMIDON.json"
+  },
+  {
+    "name": "ALMOTRIPTAN",
+    "file": "/data/fcos/ALMOTRIPTAN.json"
+  },
+  {
+    "name": "ALOE",
+    "file": "/data/fcos/ALOE.json"
+  },
+  {
+    "name": "ALOGLIPTINA",
+    "file": "/data/fcos/ALOGLIPTINA.json"
+  },
+  {
+    "name": "ALOPURINOL",
+    "file": "/data/fcos/ALOPURINOL.json"
+  },
+  {
+    "name": "ALPELISIB",
+    "file": "/data/fcos/ALPELISIB.json"
+  },
+  {
+    "name": "ALPRAZOLAM",
+    "file": "/data/fcos/ALPRAZOLAM.json"
+  },
+  {
+    "name": "ALPROSTADILO (CARDIOLOGIA)",
+    "file": "/data/fcos/ALPROSTADILO (CARDIOLOGIA).json"
+  },
+  {
+    "name": "ALPROSTADILO (UROLOGIA)",
+    "file": "/data/fcos/ALPROSTADILO (UROLOGIA).json"
+  },
+  {
+    "name": "ALTEA",
+    "file": "/data/fcos/ALTEA.json"
+  },
+  {
+    "name": "ALTEPLASA",
+    "file": "/data/fcos/ALTEPLASA.json"
+  },
+  {
+    "name": "ALTIZIDA",
+    "file": "/data/fcos/ALTIZIDA.json"
+  },
+  {
+    "name": "AMANTADINA",
+    "file": "/data/fcos/AMANTADINA.json"
+  },
+  {
+    "name": "AMAPOLA DE CALIFORNIA",
+    "file": "/data/fcos/AMAPOLA DE CALIFORNIA.json"
+  },
+  {
+    "name": "AMBRISENTAN",
+    "file": "/data/fcos/AMBRISENTAN.json"
+  },
+  {
+    "name": "AMBROXOL",
+    "file": "/data/fcos/AMBROXOL.json"
+  },
+  {
+    "name": "AMFOTERICINA B (LIPOSOMAS)",
+    "file": "/data/fcos/AMFOTERICINA B (LIPOSOMAS).json"
+  },
+  {
+    "name": "AMFOTERICINA B (PARENTERAL)",
+    "file": "/data/fcos/AMFOTERICINA B (PARENTERAL).json"
+  },
+  {
+    "name": "AMIDOTRIZOATO DE CALCIO",
+    "file": "/data/fcos/AMIDOTRIZOATO DE CALCIO.json"
+  },
+  {
+    "name": "AMIDOTRIZOATO DE SODIO",
+    "file": "/data/fcos/AMIDOTRIZOATO DE SODIO.json"
+  },
+  {
+    "name": "AMIKACINA",
+    "file": "/data/fcos/AMIKACINA.json"
+  },
+  {
+    "name": "AMILASA ALFA",
+    "file": "/data/fcos/AMILASA ALFA.json"
+  },
+  {
+    "name": "AMILMETACRESOL",
+    "file": "/data/fcos/AMILMETACRESOL.json"
+  },
+  {
+    "name": "AMILORIDA",
+    "file": "/data/fcos/AMILORIDA.json"
+  },
+  {
+    "name": "AMINOLEVULINATO DE HEXILO",
+    "file": "/data/fcos/AMINOLEVULINATO DE HEXILO.json"
+  },
+  {
+    "name": "AMINOLEVULINATO DE METILO",
+    "file": "/data/fcos/AMINOLEVULINATO DE METILO.json"
+  },
+  {
+    "name": "AMIODARONA",
+    "file": "/data/fcos/AMIODARONA.json"
+  },
+  {
+    "name": "AMISULPRIDA",
+    "file": "/data/fcos/AMISULPRIDA.json"
+  },
+  {
+    "name": "AMITRIPTILINA",
+    "file": "/data/fcos/AMITRIPTILINA.json"
+  },
+  {
+    "name": "AMLODIPINO",
+    "file": "/data/fcos/AMLODIPINO.json"
+  },
+  {
+    "name": "AMOROLFINA",
+    "file": "/data/fcos/AMOROLFINA.json"
+  },
+  {
+    "name": "AMOXICILINA",
+    "file": "/data/fcos/AMOXICILINA.json"
+  },
+  {
+    "name": "AMPICILINA",
+    "file": "/data/fcos/AMPICILINA.json"
+  },
+  {
+    "name": "ANAGRELIDA",
+    "file": "/data/fcos/ANAGRELIDA.json"
+  },
+  {
+    "name": "ANAKINRA",
+    "file": "/data/fcos/ANAKINRA.json"
+  },
+  {
+    "name": "ANASTROZOL",
+    "file": "/data/fcos/ANASTROZOL.json"
+  },
+  {
+    "name": "ANDUSOMERAN",
+    "file": "/data/fcos/ANDUSOMERAN.json"
+  },
+  {
+    "name": "ANGELICA",
+    "file": "/data/fcos/ANGELICA.json"
+  },
+  {
+    "name": "ANGIOTENSINA II",
+    "file": "/data/fcos/ANGIOTENSINA II.json"
+  },
+  {
+    "name": "ANIDULAFUNGINA",
+    "file": "/data/fcos/ANIDULAFUNGINA.json"
+  },
+  {
+    "name": "ANIFROLUMAB",
+    "file": "/data/fcos/ANIFROLUMAB.json"
+  },
+  {
+    "name": "ANIS VERDE",
+    "file": "/data/fcos/ANIS VERDE.json"
+  },
+  {
+    "name": "ANTAZOLINA (OFTALMICO)",
+    "file": "/data/fcos/ANTAZOLINA (OFTALMICO).json"
+  },
+  {
+    "name": "ANTITROMBINA III HUMANA",
+    "file": "/data/fcos/ANTITROMBINA III HUMANA.json"
+  },
+  {
+    "name": "ANTRAQUINONICOS, GLUCOSIDOS",
+    "file": "/data/fcos/ANTRAQUINONICOS, GLUCOSIDOS.json"
+  },
+  {
+    "name": "APALUTAMIDA",
+    "file": "/data/fcos/APALUTAMIDA.json"
+  },
+  {
+    "name": "APIXABAN",
+    "file": "/data/fcos/APIXABAN.json"
+  },
+  {
+    "name": "APOMORFINA",
+    "file": "/data/fcos/APOMORFINA.json"
+  },
+  {
+    "name": "APRACLONIDINA",
+    "file": "/data/fcos/APRACLONIDINA.json"
+  },
+  {
+    "name": "APREMILAST",
+    "file": "/data/fcos/APREMILAST.json"
+  },
+  {
+    "name": "APREPITANT",
+    "file": "/data/fcos/APREPITANT.json"
+  },
+  {
+    "name": "APROTININA",
+    "file": "/data/fcos/APROTININA.json"
+  },
+  {
+    "name": "ARANDANO ROJO",
+    "file": "/data/fcos/ARANDANO ROJO.json"
+  },
+  {
+    "name": "ARENARIA ROJA",
+    "file": "/data/fcos/ARENARIA ROJA.json"
+  },
+  {
+    "name": "ARGATROBAN",
+    "file": "/data/fcos/ARGATROBAN.json"
+  },
+  {
+    "name": "ARGININA, ASPARTATO",
+    "file": "/data/fcos/ARGININA, ASPARTATO.json"
+  },
+  {
+    "name": "ARGININA",
+    "file": "/data/fcos/ARGININA.json"
+  },
+  {
+    "name": "ARGIPRESINA",
+    "file": "/data/fcos/ARGIPRESINA.json"
+  },
+  {
+    "name": "ARIPIPRAZOL",
+    "file": "/data/fcos/ARIPIPRAZOL.json"
+  },
+  {
+    "name": "ARNICA",
+    "file": "/data/fcos/ARNICA.json"
+  },
+  {
+    "name": "ARSENICO, TRIOXIDO",
+    "file": "/data/fcos/ARSENICO, TRIOXIDO.json"
+  },
+  {
+    "name": "ARTICAINA",
+    "file": "/data/fcos/ARTICAINA.json"
+  },
+  {
+    "name": "ASCIMINIB",
+    "file": "/data/fcos/ASCIMINIB.json"
+  },
+  {
+    "name": "ASCORBICO, ACIDO",
+    "file": "/data/fcos/ASCORBICO, ACIDO.json"
+  },
+  {
+    "name": "ASENAPINA",
+    "file": "/data/fcos/ASENAPINA.json"
+  },
+  {
+    "name": "ASPARAGINASA",
+    "file": "/data/fcos/ASPARAGINASA.json"
+  },
+  {
+    "name": "ASPARRAGINA",
+    "file": "/data/fcos/ASPARRAGINA.json"
+  },
+  {
+    "name": "ASPARTICO, ACIDO",
+    "file": "/data/fcos/ASPARTICO, ACIDO.json"
+  },
+  {
+    "name": "ATAZANAVIR",
+    "file": "/data/fcos/ATAZANAVIR.json"
+  },
+  {
+    "name": "ATENOLOL",
+    "file": "/data/fcos/ATENOLOL.json"
+  },
+  {
+    "name": "ATEZOLIZUMAB",
+    "file": "/data/fcos/ATEZOLIZUMAB.json"
+  },
+  {
+    "name": "ATIDARSAGEN AUTOTEMCEL",
+    "file": "/data/fcos/ATIDARSAGEN AUTOTEMCEL.json"
+  },
+  {
+    "name": "ATOGEPANT",
+    "file": "/data/fcos/ATOGEPANT.json"
+  },
+  {
+    "name": "ATOMOXETINA",
+    "file": "/data/fcos/ATOMOXETINA.json"
+  },
+  {
+    "name": "ATORVASTATINA",
+    "file": "/data/fcos/ATORVASTATINA.json"
+  },
+  {
+    "name": "ATOSIBAN",
+    "file": "/data/fcos/ATOSIBAN.json"
+  },
+  {
+    "name": "ATOVACUONA",
+    "file": "/data/fcos/ATOVACUONA.json"
+  },
+  {
+    "name": "ATRACURIO",
+    "file": "/data/fcos/ATRACURIO.json"
+  },
+  {
+    "name": "ATROPINA (OFTALMICO)",
+    "file": "/data/fcos/ATROPINA (OFTALMICO).json"
+  },
+  {
+    "name": "ATROPINA",
+    "file": "/data/fcos/ATROPINA.json"
+  },
+  {
+    "name": "AVACOPAN",
+    "file": "/data/fcos/AVACOPAN.json"
+  },
+  {
+    "name": "AVALGLUCOSIDASA ALFA",
+    "file": "/data/fcos/AVALGLUCOSIDASA ALFA.json"
+  },
+  {
+    "name": "AVANAFILO",
+    "file": "/data/fcos/AVANAFILO.json"
+  },
+  {
+    "name": "AVAPRITINIB",
+    "file": "/data/fcos/AVAPRITINIB.json"
+  },
+  {
+    "name": "AVATROMBOPAG",
+    "file": "/data/fcos/AVATROMBOPAG.json"
+  },
+  {
+    "name": "AVELUMAB",
+    "file": "/data/fcos/AVELUMAB.json"
+  },
+  {
+    "name": "AVIBACTAM",
+    "file": "/data/fcos/AVIBACTAM.json"
+  },
+  {
+    "name": "AXICABTAGEN CILOLEUCEL",
+    "file": "/data/fcos/AXICABTAGEN CILOLEUCEL.json"
+  },
+  {
+    "name": "AXITINIB",
+    "file": "/data/fcos/AXITINIB.json"
+  },
+  {
+    "name": "AZACITIDINA",
+    "file": "/data/fcos/AZACITIDINA.json"
+  },
+  {
+    "name": "AZATIOPRINA",
+    "file": "/data/fcos/AZATIOPRINA.json"
+  },
+  {
+    "name": "AZELAICO, ACIDO",
+    "file": "/data/fcos/AZELAICO, ACIDO.json"
+  },
+  {
+    "name": "AZELASTINA (NASAL)",
+    "file": "/data/fcos/AZELASTINA (NASAL).json"
+  },
+  {
+    "name": "AZELASTINA (OFTALMICO)",
+    "file": "/data/fcos/AZELASTINA (OFTALMICO).json"
+  },
+  {
+    "name": "AZITROMICINA (OFTALMICO)",
+    "file": "/data/fcos/AZITROMICINA (OFTALMICO).json"
+  },
+  {
+    "name": "AZITROMICINA",
+    "file": "/data/fcos/AZITROMICINA.json"
+  },
+  {
+    "name": "AZTREONAM",
+    "file": "/data/fcos/AZTREONAM.json"
+  },
+  {
+    "name": "AZUFRE, HEXAFLUORURO",
+    "file": "/data/fcos/AZUFRE, HEXAFLUORURO.json"
+  },
+  {
+    "name": "BACITRACINA",
+    "file": "/data/fcos/BACITRACINA.json"
+  },
+  {
+    "name": "BACLOFENO",
+    "file": "/data/fcos/BACLOFENO.json"
+  },
+  {
+    "name": "BALSAMO DE TOLU",
+    "file": "/data/fcos/BALSAMO DE TOLU.json"
+  },
+  {
+    "name": "BALSAMO DEL PERU",
+    "file": "/data/fcos/BALSAMO DEL PERU.json"
+  },
+  {
+    "name": "BARDANA",
+    "file": "/data/fcos/BARDANA.json"
+  },
+  {
+    "name": "BARICITINIB",
+    "file": "/data/fcos/BARICITINIB.json"
+  },
+  {
+    "name": "BARIO, SULFATO",
+    "file": "/data/fcos/BARIO, SULFATO.json"
+  },
+  {
+    "name": "BARNIDIPINO",
+    "file": "/data/fcos/BARNIDIPINO.json"
+  },
+  {
+    "name": "BASILIXIMAB",
+    "file": "/data/fcos/BASILIXIMAB.json"
+  },
+  {
+    "name": "BAZEDOXIFENO",
+    "file": "/data/fcos/BAZEDOXIFENO.json"
+  },
+  {
+    "name": "BECLOMETASONA (INHALADO)",
+    "file": "/data/fcos/BECLOMETASONA (INHALADO).json"
+  },
+  {
+    "name": "BECLOMETASONA (NASAL)",
+    "file": "/data/fcos/BECLOMETASONA (NASAL).json"
+  },
+  {
+    "name": "BECLOMETASONA (ORAL)",
+    "file": "/data/fcos/BECLOMETASONA (ORAL).json"
+  },
+  {
+    "name": "BECLOMETASONA (OTICO)",
+    "file": "/data/fcos/BECLOMETASONA (OTICO).json"
+  },
+  {
+    "name": "BECLOMETASONA (RECTAL)",
+    "file": "/data/fcos/BECLOMETASONA (RECTAL).json"
+  },
+  {
+    "name": "BECLOMETASONA (TOPICO)",
+    "file": "/data/fcos/BECLOMETASONA (TOPICO).json"
+  },
+  {
+    "name": "BEDAQUILINA",
+    "file": "/data/fcos/BEDAQUILINA.json"
+  },
+  {
+    "name": "BELATACEPT",
+    "file": "/data/fcos/BELATACEPT.json"
+  },
+  {
+    "name": "BELIMUMAB",
+    "file": "/data/fcos/BELIMUMAB.json"
+  },
+  {
+    "name": "BELLADONA",
+    "file": "/data/fcos/BELLADONA.json"
+  },
+  {
+    "name": "BEMIPARINA",
+    "file": "/data/fcos/BEMIPARINA.json"
+  },
+  {
+    "name": "BEMPEDOICO, ACIDO",
+    "file": "/data/fcos/BEMPEDOICO, ACIDO.json"
+  },
+  {
+    "name": "BENCIDAMINA (ESTOMATOLOGICO)",
+    "file": "/data/fcos/BENCIDAMINA (ESTOMATOLOGICO).json"
+  },
+  {
+    "name": "BENCIDAMINA (GINECOLOGICO)",
+    "file": "/data/fcos/BENCIDAMINA (GINECOLOGICO).json"
+  },
+  {
+    "name": "BENCIDAMINA (TOPICO)",
+    "file": "/data/fcos/BENCIDAMINA (TOPICO).json"
+  },
+  {
+    "name": "BENCILPENICILINA BENZATINA",
+    "file": "/data/fcos/BENCILPENICILINA BENZATINA.json"
+  },
+  {
+    "name": "BENCILPENICILINA PROCAINA",
+    "file": "/data/fcos/BENCILPENICILINA PROCAINA.json"
+  },
+  {
+    "name": "BENCILPENICILINA",
+    "file": "/data/fcos/BENCILPENICILINA.json"
+  },
+  {
+    "name": "BENDAMUSTINA",
+    "file": "/data/fcos/BENDAMUSTINA.json"
+  },
+  {
+    "name": "BENRALIZUMAB",
+    "file": "/data/fcos/BENRALIZUMAB.json"
+  },
+  {
+    "name": "BENSERAZIDA",
+    "file": "/data/fcos/BENSERAZIDA.json"
+  },
+  {
+    "name": "BENZALCONIO, CLORURO",
+    "file": "/data/fcos/BENZALCONIO, CLORURO.json"
+  },
+  {
+    "name": "BENZBROMARONA",
+    "file": "/data/fcos/BENZBROMARONA.json"
+  },
+  {
+    "name": "BENZOCAINA (ESTOMATOLOGICA)",
+    "file": "/data/fcos/BENZOCAINA (ESTOMATOLOGICA).json"
+  },
+  {
+    "name": "BENZOCAINA (RECTAL)",
+    "file": "/data/fcos/BENZOCAINA (RECTAL).json"
+  },
+  {
+    "name": "BENZOCAINA (TOPICO)",
+    "file": "/data/fcos/BENZOCAINA (TOPICO).json"
+  },
+  {
+    "name": "BENZOILO, PEROXIDO",
+    "file": "/data/fcos/BENZOILO, PEROXIDO.json"
+  },
+  {
+    "name": "BEROTRALSTAT",
+    "file": "/data/fcos/BEROTRALSTAT.json"
+  },
+  {
+    "name": "BETAHISTINA",
+    "file": "/data/fcos/BETAHISTINA.json"
+  },
+  {
+    "name": "BETAINA",
+    "file": "/data/fcos/BETAINA.json"
+  },
+  {
+    "name": "BETAMETASONA (TOPICO)",
+    "file": "/data/fcos/BETAMETASONA (TOPICO).json"
+  },
+  {
+    "name": "BETAMETASONA",
+    "file": "/data/fcos/BETAMETASONA.json"
+  },
+  {
+    "name": "BETAXOLOL (OFTALMICO)",
+    "file": "/data/fcos/BETAXOLOL (OFTALMICO).json"
+  },
+  {
+    "name": "BEVACIZUMAB",
+    "file": "/data/fcos/BEVACIZUMAB.json"
+  },
+  {
+    "name": "BEXAROTENO",
+    "file": "/data/fcos/BEXAROTENO.json"
+  },
+  {
+    "name": "BEZAFIBRATO",
+    "file": "/data/fcos/BEZAFIBRATO.json"
+  },
+  {
+    "name": "BIBROCATOL",
+    "file": "/data/fcos/BIBROCATOL.json"
+  },
+  {
+    "name": "BICALUTAMIDA",
+    "file": "/data/fcos/BICALUTAMIDA.json"
+  },
+  {
+    "name": "BICTEGRAVIR",
+    "file": "/data/fcos/BICTEGRAVIR.json"
+  },
+  {
+    "name": "BIFONAZOL",
+    "file": "/data/fcos/BIFONAZOL.json"
+  },
+  {
+    "name": "BILASTINA (OFTALMICO)",
+    "file": "/data/fcos/BILASTINA (OFTALMICO).json"
+  },
+  {
+    "name": "BILASTINA",
+    "file": "/data/fcos/BILASTINA.json"
+  },
+  {
+    "name": "BILIS DE BUEY, EXTRACTO DE",
+    "file": "/data/fcos/BILIS DE BUEY, EXTRACTO DE.json"
+  },
+  {
+    "name": "BIMATOPROST",
+    "file": "/data/fcos/BIMATOPROST.json"
+  },
+  {
+    "name": "BIMEKIZUMAB",
+    "file": "/data/fcos/BIMEKIZUMAB.json"
+  },
+  {
+    "name": "BINIMETINIB",
+    "file": "/data/fcos/BINIMETINIB.json"
+  },
+  {
+    "name": "BIOTINA",
+    "file": "/data/fcos/BIOTINA.json"
+  },
+  {
+    "name": "BIPERIDENO",
+    "file": "/data/fcos/BIPERIDENO.json"
+  },
+  {
+    "name": "BISACODILO",
+    "file": "/data/fcos/BISACODILO.json"
+  },
+  {
+    "name": "BISMUTO, SUBCITRATO",
+    "file": "/data/fcos/BISMUTO, SUBCITRATO.json"
+  },
+  {
+    "name": "BISOPROLOL",
+    "file": "/data/fcos/BISOPROLOL.json"
+  },
+  {
+    "name": "BIVALIRUDINA",
+    "file": "/data/fcos/BIVALIRUDINA.json"
+  },
+  {
+    "name": "BLEOMICINA",
+    "file": "/data/fcos/BLEOMICINA.json"
+  },
+  {
+    "name": "BLINATUMOMAB",
+    "file": "/data/fcos/BLINATUMOMAB.json"
+  },
+  {
+    "name": "BOLDO",
+    "file": "/data/fcos/BOLDO.json"
+  },
+  {
+    "name": "BORDETELLA PERTUSSIS, ANTIGENOS PURIFICADOS",
+    "file": "/data/fcos/BORDETELLA PERTUSSIS, ANTIGENOS PURIFICADOS.json"
+  },
+  {
+    "name": "BORTEZOMIB",
+    "file": "/data/fcos/BORTEZOMIB.json"
+  },
+  {
+    "name": "BOSENTAN",
+    "file": "/data/fcos/BOSENTAN.json"
+  },
+  {
+    "name": "BOSUTINIB",
+    "file": "/data/fcos/BOSUTINIB.json"
+  },
+  {
+    "name": "BREA DE HULLA",
+    "file": "/data/fcos/BREA DE HULLA.json"
+  },
+  {
+    "name": "BRENTUXIMAB VEDOTIN",
+    "file": "/data/fcos/BRENTUXIMAB VEDOTIN.json"
+  },
+  {
+    "name": "BREXPIPRAZOL",
+    "file": "/data/fcos/BREXPIPRAZOL.json"
+  },
+  {
+    "name": "BREXUCABTAGEN AUTOLEUCEL",
+    "file": "/data/fcos/BREXUCABTAGEN AUTOLEUCEL.json"
+  },
+  {
+    "name": "BRIGATINIB",
+    "file": "/data/fcos/BRIGATINIB.json"
+  },
+  {
+    "name": "BRIMONIDINA (OFTALMICO)",
+    "file": "/data/fcos/BRIMONIDINA (OFTALMICO).json"
+  },
+  {
+    "name": "BRIMONIDINA (TOPICO)",
+    "file": "/data/fcos/BRIMONIDINA (TOPICO).json"
+  },
+  {
+    "name": "BRINZOLAMIDA",
+    "file": "/data/fcos/BRINZOLAMIDA.json"
+  },
+  {
+    "name": "BRIVARACETAM",
+    "file": "/data/fcos/BRIVARACETAM.json"
+  },
+  {
+    "name": "BRIVUDINA",
+    "file": "/data/fcos/BRIVUDINA.json"
+  },
+  {
+    "name": "BRODALUMAB",
+    "file": "/data/fcos/BRODALUMAB.json"
+  },
+  {
+    "name": "BROLUCIZUMAB",
+    "file": "/data/fcos/BROLUCIZUMAB.json"
+  },
+  {
+    "name": "BROMAZEPAM",
+    "file": "/data/fcos/BROMAZEPAM.json"
+  },
+  {
+    "name": "BROMFENACO",
+    "file": "/data/fcos/BROMFENACO.json"
+  },
+  {
+    "name": "BROMFENIRAMINA",
+    "file": "/data/fcos/BROMFENIRAMINA.json"
+  },
+  {
+    "name": "BROMHEXINA",
+    "file": "/data/fcos/BROMHEXINA.json"
+  },
+  {
+    "name": "BROMOCRIPTINA (GINECOLOGICO)",
+    "file": "/data/fcos/BROMOCRIPTINA (GINECOLOGICO).json"
+  },
+  {
+    "name": "BROMOCRIPTINA",
+    "file": "/data/fcos/BROMOCRIPTINA.json"
+  },
+  {
+    "name": "BROTIZOLAM",
+    "file": "/data/fcos/BROTIZOLAM.json"
+  },
+  {
+    "name": "BUDESONIDA (A07EA)",
+    "file": "/data/fcos/BUDESONIDA (A07EA).json"
+  },
+  {
+    "name": "BUDESONIDA (INHALADO)",
+    "file": "/data/fcos/BUDESONIDA (INHALADO).json"
+  },
+  {
+    "name": "BUDESONIDA (NASAL)",
+    "file": "/data/fcos/BUDESONIDA (NASAL).json"
+  },
+  {
+    "name": "BULEVIRTIDA",
+    "file": "/data/fcos/BULEVIRTIDA.json"
+  },
+  {
+    "name": "BUMETANIDA",
+    "file": "/data/fcos/BUMETANIDA.json"
+  },
+  {
+    "name": "BUPIVACAINA",
+    "file": "/data/fcos/BUPIVACAINA.json"
+  },
+  {
+    "name": "BUPRENORFINA",
+    "file": "/data/fcos/BUPRENORFINA.json"
+  },
+  {
+    "name": "BUPROPION (ANTIDEPRESIVO)",
+    "file": "/data/fcos/BUPROPION (ANTIDEPRESIVO).json"
+  },
+  {
+    "name": "BUPROPION (ANTITABAQUICO)",
+    "file": "/data/fcos/BUPROPION (ANTITABAQUICO).json"
+  },
+  {
+    "name": "BUROSUMAB",
+    "file": "/data/fcos/BUROSUMAB.json"
+  },
+  {
+    "name": "BUSERELINA",
+    "file": "/data/fcos/BUSERELINA.json"
+  },
+  {
+    "name": "BUSULFANO",
+    "file": "/data/fcos/BUSULFANO.json"
+  },
+  {
+    "name": "BUTILESCOPOLAMINA",
+    "file": "/data/fcos/BUTILESCOPOLAMINA.json"
+  },
+  {
+    "name": "CABAZITAXEL",
+    "file": "/data/fcos/CABAZITAXEL.json"
+  },
+  {
+    "name": "CABERGOLINA (GINECOLOGICO)",
+    "file": "/data/fcos/CABERGOLINA (GINECOLOGICO).json"
+  },
+  {
+    "name": "CABERGOLINA",
+    "file": "/data/fcos/CABERGOLINA.json"
+  },
+  {
+    "name": "CABOTEGRAVIR",
+    "file": "/data/fcos/CABOTEGRAVIR.json"
+  },
+  {
+    "name": "CABOZANTINIB",
+    "file": "/data/fcos/CABOZANTINIB.json"
+  },
+  {
+    "name": "CAFEINA",
+    "file": "/data/fcos/CAFEINA.json"
+  },
+  {
+    "name": "CALAMINA",
+    "file": "/data/fcos/CALAMINA.json"
+  },
+  {
+    "name": "CALCIFEDIOL",
+    "file": "/data/fcos/CALCIFEDIOL.json"
+  },
+  {
+    "name": "CALCIO, ACETATO",
+    "file": "/data/fcos/CALCIO, ACETATO.json"
+  },
+  {
+    "name": "CALCIO, CARBONATO (ANTIACIDO)",
+    "file": "/data/fcos/CALCIO, CARBONATO (ANTIACIDO).json"
+  },
+  {
+    "name": "CALCIO, CARBONATO",
+    "file": "/data/fcos/CALCIO, CARBONATO.json"
+  },
+  {
+    "name": "CALCIO, CITRATO",
+    "file": "/data/fcos/CALCIO, CITRATO.json"
+  },
+  {
+    "name": "CALCIO, CLORURO",
+    "file": "/data/fcos/CALCIO, CLORURO.json"
+  },
+  {
+    "name": "CALCIO, FOSFATO",
+    "file": "/data/fcos/CALCIO, FOSFATO.json"
+  },
+  {
+    "name": "CALCIO, GLUCONATO",
+    "file": "/data/fcos/CALCIO, GLUCONATO.json"
+  },
+  {
+    "name": "CALCIO, LACTATO",
+    "file": "/data/fcos/CALCIO, LACTATO.json"
+  },
+  {
+    "name": "CALCIO, PIDOLATO",
+    "file": "/data/fcos/CALCIO, PIDOLATO.json"
+  },
+  {
+    "name": "CALCIO, SACARATO",
+    "file": "/data/fcos/CALCIO, SACARATO.json"
+  },
+  {
+    "name": "CALCIPOTRIOL",
+    "file": "/data/fcos/CALCIPOTRIOL.json"
+  },
+  {
+    "name": "CALCITONINA",
+    "file": "/data/fcos/CALCITONINA.json"
+  },
+  {
+    "name": "CALCITRIOL (TOPICO)",
+    "file": "/data/fcos/CALCITRIOL (TOPICO).json"
+  },
+  {
+    "name": "CALCITRIOL",
+    "file": "/data/fcos/CALCITRIOL.json"
+  },
+  {
+    "name": "CANAGLIFLOZINA",
+    "file": "/data/fcos/CANAGLIFLOZINA.json"
+  },
+  {
+    "name": "CANDESARTAN",
+    "file": "/data/fcos/CANDESARTAN.json"
+  },
+  {
+    "name": "CANELA",
+    "file": "/data/fcos/CANELA.json"
+  },
+  {
+    "name": "CANGRELOR",
+    "file": "/data/fcos/CANGRELOR.json"
+  },
+  {
+    "name": "CANNABIDIOL",
+    "file": "/data/fcos/CANNABIDIOL.json"
+  },
+  {
+    "name": "CAPECITABINA",
+    "file": "/data/fcos/CAPECITABINA.json"
+  },
+  {
+    "name": "CAPLACIZUMAB",
+    "file": "/data/fcos/CAPLACIZUMAB.json"
+  },
+  {
+    "name": "CAPMATINIB",
+    "file": "/data/fcos/CAPMATINIB.json"
+  },
+  {
+    "name": "CAPSAICINA (ANESTESICO)",
+    "file": "/data/fcos/CAPSAICINA (ANESTESICO).json"
+  },
+  {
+    "name": "CAPSAICINA",
+    "file": "/data/fcos/CAPSAICINA.json"
+  },
+  {
+    "name": "CAPSICUM FRUTESCENS",
+    "file": "/data/fcos/CAPSICUM FRUTESCENS.json"
+  },
+  {
+    "name": "CAPTOPRIL",
+    "file": "/data/fcos/CAPTOPRIL.json"
+  },
+  {
+    "name": "CARBAMAZEPINA",
+    "file": "/data/fcos/CARBAMAZEPINA.json"
+  },
+  {
+    "name": "CARBETOCINA",
+    "file": "/data/fcos/CARBETOCINA.json"
+  },
+  {
+    "name": "CARBIDOPA",
+    "file": "/data/fcos/CARBIDOPA.json"
+  },
+  {
+    "name": "CARBIMAZOL",
+    "file": "/data/fcos/CARBIMAZOL.json"
+  },
+  {
+    "name": "CARBOCISTEINA",
+    "file": "/data/fcos/CARBOCISTEINA.json"
+  },
+  {
+    "name": "CARBOMERO",
+    "file": "/data/fcos/CARBOMERO.json"
+  },
+  {
+    "name": "CARBON ADSORBENTE",
+    "file": "/data/fcos/CARBON ADSORBENTE.json"
+  },
+  {
+    "name": "CARBOPLATINO",
+    "file": "/data/fcos/CARBOPLATINO.json"
+  },
+  {
+    "name": "CARDO BENDITO",
+    "file": "/data/fcos/CARDO BENDITO.json"
+  },
+  {
+    "name": "CARDO MARIANO",
+    "file": "/data/fcos/CARDO MARIANO.json"
+  },
+  {
+    "name": "CARFILZOMIB",
+    "file": "/data/fcos/CARFILZOMIB.json"
+  },
+  {
+    "name": "CARGLUMICO, ACIDO",
+    "file": "/data/fcos/CARGLUMICO, ACIDO.json"
+  },
+  {
+    "name": "CARIPRAZINA",
+    "file": "/data/fcos/CARIPRAZINA.json"
+  },
+  {
+    "name": "CARMELOSA (OFTALMICO)",
+    "file": "/data/fcos/CARMELOSA (OFTALMICO).json"
+  },
+  {
+    "name": "CARMUSTINA",
+    "file": "/data/fcos/CARMUSTINA.json"
+  },
+  {
+    "name": "CARNITINA",
+    "file": "/data/fcos/CARNITINA.json"
+  },
+  {
+    "name": "CARRAGAEN",
+    "file": "/data/fcos/CARRAGAEN.json"
+  },
+  {
+    "name": "CARRASPIQUE BLANCO",
+    "file": "/data/fcos/CARRASPIQUE BLANCO.json"
+  },
+  {
+    "name": "CARTEOLOL (OFTALMICO)",
+    "file": "/data/fcos/CARTEOLOL (OFTALMICO).json"
+  },
+  {
+    "name": "CARVEDILOL",
+    "file": "/data/fcos/CARVEDILOL.json"
+  },
+  {
+    "name": "CASCARA SAGRADA",
+    "file": "/data/fcos/CASCARA SAGRADA.json"
+  },
+  {
+    "name": "CASPOFUNGINA",
+    "file": "/data/fcos/CASPOFUNGINA.json"
+  },
+  {
+    "name": "CATRIDECACOG",
+    "file": "/data/fcos/CATRIDECACOG.json"
+  },
+  {
+    "name": "CEDAZURIDINA",
+    "file": "/data/fcos/CEDAZURIDINA.json"
+  },
+  {
+    "name": "CEFADROXILO",
+    "file": "/data/fcos/CEFADROXILO.json"
+  },
+  {
+    "name": "CEFALEXINA",
+    "file": "/data/fcos/CEFALEXINA.json"
+  },
+  {
+    "name": "CEFAZOLINA",
+    "file": "/data/fcos/CEFAZOLINA.json"
+  },
+  {
+    "name": "CEFDITORENO",
+    "file": "/data/fcos/CEFDITORENO.json"
+  },
+  {
+    "name": "CEFEPIMA",
+    "file": "/data/fcos/CEFEPIMA.json"
+  },
+  {
+    "name": "CEFIDEROCOL",
+    "file": "/data/fcos/CEFIDEROCOL.json"
+  },
+  {
+    "name": "CEFIXIMA",
+    "file": "/data/fcos/CEFIXIMA.json"
+  },
+  {
+    "name": "CEFOTAXIMA",
+    "file": "/data/fcos/CEFOTAXIMA.json"
+  },
+  {
+    "name": "CEFOXITINA",
+    "file": "/data/fcos/CEFOXITINA.json"
+  },
+  {
+    "name": "CEFTAROLINA FOSAMIL",
+    "file": "/data/fcos/CEFTAROLINA FOSAMIL.json"
+  },
+  {
+    "name": "CEFTAZIDIMA",
+    "file": "/data/fcos/CEFTAZIDIMA.json"
+  },
+  {
+    "name": "CEFTOBIPROL",
+    "file": "/data/fcos/CEFTOBIPROL.json"
+  },
+  {
+    "name": "CEFTOLOZANO",
+    "file": "/data/fcos/CEFTOLOZANO.json"
+  },
+  {
+    "name": "CEFTRIAXONA",
+    "file": "/data/fcos/CEFTRIAXONA.json"
+  },
+  {
+    "name": "CEFUROXIMA (OFTALMICO)",
+    "file": "/data/fcos/CEFUROXIMA (OFTALMICO).json"
+  },
+  {
+    "name": "CEFUROXIMA",
+    "file": "/data/fcos/CEFUROXIMA.json"
+  },
+  {
+    "name": "CELECOXIB",
+    "file": "/data/fcos/CELECOXIB.json"
+  },
+  {
+    "name": "CELIDONIA",
+    "file": "/data/fcos/CELIDONIA.json"
+  },
+  {
+    "name": "CELULAS MESENQUIMALES TRONCALES AUTOLOGAS DE MEDULA OSEA",
+    "file": "/data/fcos/CELULAS MESENQUIMALES TRONCALES AUTOLOGAS DE MEDULA OSEA.json"
+  },
+  {
+    "name": "CELULASA",
+    "file": "/data/fcos/CELULASA.json"
+  },
+  {
+    "name": "CEMIPLIMAB",
+    "file": "/data/fcos/CEMIPLIMAB.json"
+  },
+  {
+    "name": "CENOBAMATO",
+    "file": "/data/fcos/CENOBAMATO.json"
+  },
+  {
+    "name": "CENTAUREA MENOR",
+    "file": "/data/fcos/CENTAUREA MENOR.json"
+  },
+  {
+    "name": "CENTELLA (TOPICO)",
+    "file": "/data/fcos/CENTELLA (TOPICO).json"
+  },
+  {
+    "name": "CERIO, NITRATO",
+    "file": "/data/fcos/CERIO, NITRATO.json"
+  },
+  {
+    "name": "CERLIPONASA ALFA",
+    "file": "/data/fcos/CERLIPONASA ALFA.json"
+  },
+  {
+    "name": "CERTOLIZUMAB PEGOL",
+    "file": "/data/fcos/CERTOLIZUMAB PEGOL.json"
+  },
+  {
+    "name": "CETILPIRIDINIO",
+    "file": "/data/fcos/CETILPIRIDINIO.json"
+  },
+  {
+    "name": "CETIRIZINA",
+    "file": "/data/fcos/CETIRIZINA.json"
+  },
+  {
+    "name": "CETRIMONIO, BROMURO",
+    "file": "/data/fcos/CETRIMONIO, BROMURO.json"
+  },
+  {
+    "name": "CETRORELIX",
+    "file": "/data/fcos/CETRORELIX.json"
+  },
+  {
+    "name": "CETUXIMAB",
+    "file": "/data/fcos/CETUXIMAB.json"
+  },
+  {
+    "name": "CIANOCOBALAMINA (OFTALMICO)",
+    "file": "/data/fcos/CIANOCOBALAMINA (OFTALMICO).json"
+  },
+  {
+    "name": "CIANOCOBALAMINA",
+    "file": "/data/fcos/CIANOCOBALAMINA.json"
+  },
+  {
+    "name": "CICLESONIDA (INHALADO)",
+    "file": "/data/fcos/CICLESONIDA (INHALADO).json"
+  },
+  {
+    "name": "CICLOBENZAPRINA",
+    "file": "/data/fcos/CICLOBENZAPRINA.json"
+  },
+  {
+    "name": "CICLOFOSFAMIDA",
+    "file": "/data/fcos/CICLOFOSFAMIDA.json"
+  },
+  {
+    "name": "CICLOPENTOLATO",
+    "file": "/data/fcos/CICLOPENTOLATO.json"
+  },
+  {
+    "name": "CICLOPIROX (GINECOLOGICO)",
+    "file": "/data/fcos/CICLOPIROX (GINECOLOGICO).json"
+  },
+  {
+    "name": "CICLOPIROX (TOPICO)",
+    "file": "/data/fcos/CICLOPIROX (TOPICO).json"
+  },
+  {
+    "name": "CICLOSILICATO DE SODIO Y ZIRCONIO",
+    "file": "/data/fcos/CICLOSILICATO DE SODIO Y ZIRCONIO.json"
+  },
+  {
+    "name": "CICLOSPORINA (OFTALMICO)",
+    "file": "/data/fcos/CICLOSPORINA (OFTALMICO).json"
+  },
+  {
+    "name": "CICLOSPORINA",
+    "file": "/data/fcos/CICLOSPORINA.json"
+  },
+  {
+    "name": "CIDOFOVIR",
+    "file": "/data/fcos/CIDOFOVIR.json"
+  },
+  {
+    "name": "CILASTATINA",
+    "file": "/data/fcos/CILASTATINA.json"
+  },
+  {
+    "name": "CILAZAPRIL",
+    "file": "/data/fcos/CILAZAPRIL.json"
+  },
+  {
+    "name": "CILOSTAZOL",
+    "file": "/data/fcos/CILOSTAZOL.json"
+  },
+  {
+    "name": "CILTACABTAGEN AUTOLEUCEL",
+    "file": "/data/fcos/CILTACABTAGEN AUTOLEUCEL.json"
+  },
+  {
+    "name": "CIMICIFUGA",
+    "file": "/data/fcos/CIMICIFUGA.json"
+  },
+  {
+    "name": "CINACALCET",
+    "file": "/data/fcos/CINACALCET.json"
+  },
+  {
+    "name": "CINARIZINA",
+    "file": "/data/fcos/CINARIZINA.json"
+  },
+  {
+    "name": "CINEOL",
+    "file": "/data/fcos/CINEOL.json"
+  },
+  {
+    "name": "CINITAPRIDA",
+    "file": "/data/fcos/CINITAPRIDA.json"
+  },
+  {
+    "name": "CIPAGLUCOSIDA ALFA",
+    "file": "/data/fcos/CIPAGLUCOSIDA ALFA.json"
+  },
+  {
+    "name": "CIPROFLOXACINO (OFTALMICO)",
+    "file": "/data/fcos/CIPROFLOXACINO (OFTALMICO).json"
+  },
+  {
+    "name": "CIPROFLOXACINO (OTICO)",
+    "file": "/data/fcos/CIPROFLOXACINO (OTICO).json"
+  },
+  {
+    "name": "CIPROFLOXACINO",
+    "file": "/data/fcos/CIPROFLOXACINO.json"
+  },
+  {
+    "name": "CIPROHEPTADINA",
+    "file": "/data/fcos/CIPROHEPTADINA.json"
+  },
+  {
+    "name": "CIPROTERONA",
+    "file": "/data/fcos/CIPROTERONA.json"
+  },
+  {
+    "name": "CISATRACURIO",
+    "file": "/data/fcos/CISATRACURIO.json"
+  },
+  {
+    "name": "CISPLATINO",
+    "file": "/data/fcos/CISPLATINO.json"
+  },
+  {
+    "name": "CISTEINA",
+    "file": "/data/fcos/CISTEINA.json"
+  },
+  {
+    "name": "CISTINA",
+    "file": "/data/fcos/CISTINA.json"
+  },
+  {
+    "name": "CITALOPRAM",
+    "file": "/data/fcos/CITALOPRAM.json"
+  },
+  {
+    "name": "CITARABINA",
+    "file": "/data/fcos/CITARABINA.json"
+  },
+  {
+    "name": "CITICOLINA",
+    "file": "/data/fcos/CITICOLINA.json"
+  },
+  {
+    "name": "CITIDINA MONOFOSFATO",
+    "file": "/data/fcos/CITIDINA MONOFOSFATO.json"
+  },
+  {
+    "name": "CITISINICLINA",
+    "file": "/data/fcos/CITISINICLINA.json"
+  },
+  {
+    "name": "CITRICO, ACIDO",
+    "file": "/data/fcos/CITRICO, ACIDO.json"
+  },
+  {
+    "name": "CITRULINA",
+    "file": "/data/fcos/CITRULINA.json"
+  },
+  {
+    "name": "CLADRIBINA (ORAL)",
+    "file": "/data/fcos/CLADRIBINA (ORAL).json"
+  },
+  {
+    "name": "CLADRIBINA (PARENTERAL)",
+    "file": "/data/fcos/CLADRIBINA (PARENTERAL).json"
+  },
+  {
+    "name": "CLARITROMICINA",
+    "file": "/data/fcos/CLARITROMICINA.json"
+  },
+  {
+    "name": "CLAVO",
+    "file": "/data/fcos/CLAVO.json"
+  },
+  {
+    "name": "CLAVULANICO, ACIDO",
+    "file": "/data/fcos/CLAVULANICO, ACIDO.json"
+  },
+  {
+    "name": "CLEBOPRIDA",
+    "file": "/data/fcos/CLEBOPRIDA.json"
+  },
+  {
+    "name": "CLEVIDIPINO",
+    "file": "/data/fcos/CLEVIDIPINO.json"
+  },
+  {
+    "name": "CLINDAMICINA (GINECOLOGICO)",
+    "file": "/data/fcos/CLINDAMICINA (GINECOLOGICO).json"
+  },
+  {
+    "name": "CLINDAMICINA (TOPICO)",
+    "file": "/data/fcos/CLINDAMICINA (TOPICO).json"
+  },
+  {
+    "name": "CLINDAMICINA",
+    "file": "/data/fcos/CLINDAMICINA.json"
+  },
+  {
+    "name": "CLIOQUINOL",
+    "file": "/data/fcos/CLIOQUINOL.json"
+  },
+  {
+    "name": "CLOBAZAM",
+    "file": "/data/fcos/CLOBAZAM.json"
+  },
+  {
+    "name": "CLOBETASOL",
+    "file": "/data/fcos/CLOBETASOL.json"
+  },
+  {
+    "name": "CLOCINIZINA",
+    "file": "/data/fcos/CLOCINIZINA.json"
+  },
+  {
+    "name": "CLOFARABINA",
+    "file": "/data/fcos/CLOFARABINA.json"
+  },
+  {
+    "name": "CLOMETIAZOL",
+    "file": "/data/fcos/CLOMETIAZOL.json"
+  },
+  {
+    "name": "CLOMIFENO",
+    "file": "/data/fcos/CLOMIFENO.json"
+  },
+  {
+    "name": "CLOMIPRAMINA",
+    "file": "/data/fcos/CLOMIPRAMINA.json"
+  },
+  {
+    "name": "CLONAZEPAM",
+    "file": "/data/fcos/CLONAZEPAM.json"
+  },
+  {
+    "name": "CLONIDINA",
+    "file": "/data/fcos/CLONIDINA.json"
+  },
+  {
+    "name": "CLONIXINO",
+    "file": "/data/fcos/CLONIXINO.json"
+  },
+  {
+    "name": "CLOPERASTINA",
+    "file": "/data/fcos/CLOPERASTINA.json"
+  },
+  {
+    "name": "CLOPIDOGREL",
+    "file": "/data/fcos/CLOPIDOGREL.json"
+  },
+  {
+    "name": "CLORAMBUCILO",
+    "file": "/data/fcos/CLORAMBUCILO.json"
+  },
+  {
+    "name": "CLORANFENICOL (OFTALMICO)",
+    "file": "/data/fcos/CLORANFENICOL (OFTALMICO).json"
+  },
+  {
+    "name": "CLORANFENICOL",
+    "file": "/data/fcos/CLORANFENICOL.json"
+  },
+  {
+    "name": "CLORAZEPICO, ACIDO",
+    "file": "/data/fcos/CLORAZEPICO, ACIDO.json"
+  },
+  {
+    "name": "CLORDIAZEPOXIDO",
+    "file": "/data/fcos/CLORDIAZEPOXIDO.json"
+  },
+  {
+    "name": "CLORFENAMINA",
+    "file": "/data/fcos/CLORFENAMINA.json"
+  },
+  {
+    "name": "CLORHEXIDINA (ESTOMATOLOGICO)",
+    "file": "/data/fcos/CLORHEXIDINA (ESTOMATOLOGICO).json"
+  },
+  {
+    "name": "CLORHEXIDINA",
+    "file": "/data/fcos/CLORHEXIDINA.json"
+  },
+  {
+    "name": "CLORMADINONA",
+    "file": "/data/fcos/CLORMADINONA.json"
+  },
+  {
+    "name": "CLORMETINA",
+    "file": "/data/fcos/CLORMETINA.json"
+  },
+  {
+    "name": "CLOROBUTANOL",
+    "file": "/data/fcos/CLOROBUTANOL.json"
+  },
+  {
+    "name": "CLOROQUINA",
+    "file": "/data/fcos/CLOROQUINA.json"
+  },
+  {
+    "name": "CLORPROCAINA",
+    "file": "/data/fcos/CLORPROCAINA.json"
+  },
+  {
+    "name": "CLORPROMAZINA",
+    "file": "/data/fcos/CLORPROMAZINA.json"
+  },
+  {
+    "name": "CLORTALIDONA",
+    "file": "/data/fcos/CLORTALIDONA.json"
+  },
+  {
+    "name": "CLORTETRACICLINA (OFTALMICO)",
+    "file": "/data/fcos/CLORTETRACICLINA (OFTALMICO).json"
+  },
+  {
+    "name": "CLORTETRACICLINA (TOPICO)",
+    "file": "/data/fcos/CLORTETRACICLINA (TOPICO).json"
+  },
+  {
+    "name": "CLOSTRIDIOPEPTIDASA A",
+    "file": "/data/fcos/CLOSTRIDIOPEPTIDASA A.json"
+  },
+  {
+    "name": "CLOTIAPINA",
+    "file": "/data/fcos/CLOTIAPINA.json"
+  },
+  {
+    "name": "CLOTRIMAZOL (GINECOLOGICO)",
+    "file": "/data/fcos/CLOTRIMAZOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "CLOTRIMAZOL (TOPICO)",
+    "file": "/data/fcos/CLOTRIMAZOL (TOPICO).json"
+  },
+  {
+    "name": "CLOXACILINA",
+    "file": "/data/fcos/CLOXACILINA.json"
+  },
+  {
+    "name": "CLOZAPINA",
+    "file": "/data/fcos/CLOZAPINA.json"
+  },
+  {
+    "name": "COBICISTAT",
+    "file": "/data/fcos/COBICISTAT.json"
+  },
+  {
+    "name": "COBIMETINIB",
+    "file": "/data/fcos/COBIMETINIB.json"
+  },
+  {
+    "name": "COBRE, CLORURO",
+    "file": "/data/fcos/COBRE, CLORURO.json"
+  },
+  {
+    "name": "COBRE, SULFATO",
+    "file": "/data/fcos/COBRE, SULFATO.json"
+  },
+  {
+    "name": "COCARBOXILASA",
+    "file": "/data/fcos/COCARBOXILASA.json"
+  },
+  {
+    "name": "CODEINA",
+    "file": "/data/fcos/CODEINA.json"
+  },
+  {
+    "name": "COLA DE CABALLO",
+    "file": "/data/fcos/COLA DE CABALLO.json"
+  },
+  {
+    "name": "COLCHICINA",
+    "file": "/data/fcos/COLCHICINA.json"
+  },
+  {
+    "name": "COLECALCIFEROL",
+    "file": "/data/fcos/COLECALCIFEROL.json"
+  },
+  {
+    "name": "COLERA INACTIVADO, CELULAS ENTERAS",
+    "file": "/data/fcos/COLERA INACTIVADO, CELULAS ENTERAS.json"
+  },
+  {
+    "name": "COLERA, VIVO ATENUADO",
+    "file": "/data/fcos/COLERA, VIVO ATENUADO.json"
+  },
+  {
+    "name": "COLESEVELAM",
+    "file": "/data/fcos/COLESEVELAM.json"
+  },
+  {
+    "name": "COLESTIRAMINA",
+    "file": "/data/fcos/COLESTIRAMINA.json"
+  },
+  {
+    "name": "COLICO, ACIDO",
+    "file": "/data/fcos/COLICO, ACIDO.json"
+  },
+  {
+    "name": "COLISTIMETATO DE SODIO",
+    "file": "/data/fcos/COLISTIMETATO DE SODIO.json"
+  },
+  {
+    "name": "COMINO DE PRADO",
+    "file": "/data/fcos/COMINO DE PRADO.json"
+  },
+  {
+    "name": "COMPLEJO COAGULANTE ANTIINHIBIDOR",
+    "file": "/data/fcos/COMPLEJO COAGULANTE ANTIINHIBIDOR.json"
+  },
+  {
+    "name": "CONDROITIN SULFATO (CARDIOVASCULAR)",
+    "file": "/data/fcos/CONDROITIN SULFATO (CARDIOVASCULAR).json"
+  },
+  {
+    "name": "CONDROITIN SULFATO (OSTEOMUSCULAR)",
+    "file": "/data/fcos/CONDROITIN SULFATO (OSTEOMUSCULAR).json"
+  },
+  {
+    "name": "CONESTAT ALFA",
+    "file": "/data/fcos/CONESTAT ALFA.json"
+  },
+  {
+    "name": "CORIANDRO",
+    "file": "/data/fcos/CORIANDRO.json"
+  },
+  {
+    "name": "CORIFOLITROPINA ALFA",
+    "file": "/data/fcos/CORIFOLITROPINA ALFA.json"
+  },
+  {
+    "name": "CORIOGONADOTROPINA ALFA",
+    "file": "/data/fcos/CORIOGONADOTROPINA ALFA.json"
+  },
+  {
+    "name": "CRIZOTINIB",
+    "file": "/data/fcos/CRIZOTINIB.json"
+  },
+  {
+    "name": "CROMO, CLORURO",
+    "file": "/data/fcos/CROMO, CLORURO.json"
+  },
+  {
+    "name": "CROMOGLICICO, ACIDO (A07EB)",
+    "file": "/data/fcos/CROMOGLICICO, ACIDO (A07EB).json"
+  },
+  {
+    "name": "CROVALIMAB",
+    "file": "/data/fcos/CROVALIMAB.json"
+  },
+  {
+    "name": "DABIGATRAN",
+    "file": "/data/fcos/DABIGATRAN.json"
+  },
+  {
+    "name": "DABRAFENIB",
+    "file": "/data/fcos/DABRAFENIB.json"
+  },
+  {
+    "name": "DACARBAZINA",
+    "file": "/data/fcos/DACARBAZINA.json"
+  },
+  {
+    "name": "DACOMITINIB",
+    "file": "/data/fcos/DACOMITINIB.json"
+  },
+  {
+    "name": "DALBAVANCINA",
+    "file": "/data/fcos/DALBAVANCINA.json"
+  },
+  {
+    "name": "DALTEPARINA",
+    "file": "/data/fcos/DALTEPARINA.json"
+  },
+  {
+    "name": "DAMOCTOCOG ALFA PEGOL",
+    "file": "/data/fcos/DAMOCTOCOG ALFA PEGOL.json"
+  },
+  {
+    "name": "DANAPAROIDE",
+    "file": "/data/fcos/DANAPAROIDE.json"
+  },
+  {
+    "name": "DANAZOL",
+    "file": "/data/fcos/DANAZOL.json"
+  },
+  {
+    "name": "DANICOPAN",
+    "file": "/data/fcos/DANICOPAN.json"
+  },
+  {
+    "name": "DANTROLENO",
+    "file": "/data/fcos/DANTROLENO.json"
+  },
+  {
+    "name": "DAPAGLIFLOZINA",
+    "file": "/data/fcos/DAPAGLIFLOZINA.json"
+  },
+  {
+    "name": "DAPOXETINA",
+    "file": "/data/fcos/DAPOXETINA.json"
+  },
+  {
+    "name": "DAPTOMICINA",
+    "file": "/data/fcos/DAPTOMICINA.json"
+  },
+  {
+    "name": "DARATUMUMAB",
+    "file": "/data/fcos/DARATUMUMAB.json"
+  },
+  {
+    "name": "DARBEPOETINA ALFA",
+    "file": "/data/fcos/DARBEPOETINA ALFA.json"
+  },
+  {
+    "name": "DARIDOREXANT",
+    "file": "/data/fcos/DARIDOREXANT.json"
+  },
+  {
+    "name": "DAROLUTAMIDA",
+    "file": "/data/fcos/DAROLUTAMIDA.json"
+  },
+  {
+    "name": "DARUNAVIR",
+    "file": "/data/fcos/DARUNAVIR.json"
+  },
+  {
+    "name": "DASATINIB",
+    "file": "/data/fcos/DASATINIB.json"
+  },
+  {
+    "name": "DAUNORUBICINA (LIPOSOMAS)",
+    "file": "/data/fcos/DAUNORUBICINA (LIPOSOMAS).json"
+  },
+  {
+    "name": "DAUNORUBICINA",
+    "file": "/data/fcos/DAUNORUBICINA.json"
+  },
+  {
+    "name": "DECITABINA",
+    "file": "/data/fcos/DECITABINA.json"
+  },
+  {
+    "name": "DECUALINIO, CLORURO",
+    "file": "/data/fcos/DECUALINIO, CLORURO.json"
+  },
+  {
+    "name": "DEFERASIROX",
+    "file": "/data/fcos/DEFERASIROX.json"
+  },
+  {
+    "name": "DEFERIPRONA",
+    "file": "/data/fcos/DEFERIPRONA.json"
+  },
+  {
+    "name": "DEFEROXAMINA",
+    "file": "/data/fcos/DEFEROXAMINA.json"
+  },
+  {
+    "name": "DEFLAZACORT",
+    "file": "/data/fcos/DEFLAZACORT.json"
+  },
+  {
+    "name": "DEGARELIX",
+    "file": "/data/fcos/DEGARELIX.json"
+  },
+  {
+    "name": "DELAFLOXACINO",
+    "file": "/data/fcos/DELAFLOXACINO.json"
+  },
+  {
+    "name": "DELAMANID",
+    "file": "/data/fcos/DELAMANID.json"
+  },
+  {
+    "name": "DELAPRIL",
+    "file": "/data/fcos/DELAPRIL.json"
+  },
+  {
+    "name": "DENOSUMAB",
+    "file": "/data/fcos/DENOSUMAB.json"
+  },
+  {
+    "name": "DERMATOPHAGOIDES, EXTRACTO ALERGENICO",
+    "file": "/data/fcos/DERMATOPHAGOIDES, EXTRACTO ALERGENICO.json"
+  },
+  {
+    "name": "DESFESOTERODINA",
+    "file": "/data/fcos/DESFESOTERODINA.json"
+  },
+  {
+    "name": "DESFLURANO",
+    "file": "/data/fcos/DESFLURANO.json"
+  },
+  {
+    "name": "DESLORATADINA",
+    "file": "/data/fcos/DESLORATADINA.json"
+  },
+  {
+    "name": "DESMOPRESINA",
+    "file": "/data/fcos/DESMOPRESINA.json"
+  },
+  {
+    "name": "DESOGESTREL",
+    "file": "/data/fcos/DESOGESTREL.json"
+  },
+  {
+    "name": "DESOXICOLICO, ACIDO",
+    "file": "/data/fcos/DESOXICOLICO, ACIDO.json"
+  },
+  {
+    "name": "DESVENLAFAXINA",
+    "file": "/data/fcos/DESVENLAFAXINA.json"
+  },
+  {
+    "name": "DEUCRAVACITINIB",
+    "file": "/data/fcos/DEUCRAVACITINIB.json"
+  },
+  {
+    "name": "DEXAMETASONA (ESTOMATOLOGICO)",
+    "file": "/data/fcos/DEXAMETASONA (ESTOMATOLOGICO).json"
+  },
+  {
+    "name": "DEXAMETASONA (H02AB)",
+    "file": "/data/fcos/DEXAMETASONA (H02AB).json"
+  },
+  {
+    "name": "DEXAMETASONA (OFTALMICO)",
+    "file": "/data/fcos/DEXAMETASONA (OFTALMICO).json"
+  },
+  {
+    "name": "DEXAMETASONA (OTICO)",
+    "file": "/data/fcos/DEXAMETASONA (OTICO).json"
+  },
+  {
+    "name": "DEXCLORFENIRAMINA",
+    "file": "/data/fcos/DEXCLORFENIRAMINA.json"
+  },
+  {
+    "name": "DEXIBUPROFENO",
+    "file": "/data/fcos/DEXIBUPROFENO.json"
+  },
+  {
+    "name": "DEXKETOPROFENO (TOPICO)",
+    "file": "/data/fcos/DEXKETOPROFENO (TOPICO).json"
+  },
+  {
+    "name": "DEXKETOPROFENO",
+    "file": "/data/fcos/DEXKETOPROFENO.json"
+  },
+  {
+    "name": "DEXMEDETOMIDINA",
+    "file": "/data/fcos/DEXMEDETOMIDINA.json"
+  },
+  {
+    "name": "DEXPANTENOL",
+    "file": "/data/fcos/DEXPANTENOL.json"
+  },
+  {
+    "name": "DEXRAZOXANO",
+    "file": "/data/fcos/DEXRAZOXANO.json"
+  },
+  {
+    "name": "DEXTROMETORFANO",
+    "file": "/data/fcos/DEXTROMETORFANO.json"
+  },
+  {
+    "name": "DIAZEPAM",
+    "file": "/data/fcos/DIAZEPAM.json"
+  },
+  {
+    "name": "DIBOTERMINA ALFA",
+    "file": "/data/fcos/DIBOTERMINA ALFA.json"
+  },
+  {
+    "name": "DIBUCAINA",
+    "file": "/data/fcos/DIBUCAINA.json"
+  },
+  {
+    "name": "DICICLOVERINA",
+    "file": "/data/fcos/DICICLOVERINA.json"
+  },
+  {
+    "name": "DICLOFENACO (ANTIINFLAMATORIO TOPICO)",
+    "file": "/data/fcos/DICLOFENACO (ANTIINFLAMATORIO TOPICO).json"
+  },
+  {
+    "name": "DICLOFENACO (OFTALMICO)",
+    "file": "/data/fcos/DICLOFENACO (OFTALMICO).json"
+  },
+  {
+    "name": "DICLOFENACO (TOPICO)",
+    "file": "/data/fcos/DICLOFENACO (TOPICO).json"
+  },
+  {
+    "name": "DICLOFENACO",
+    "file": "/data/fcos/DICLOFENACO.json"
+  },
+  {
+    "name": "DICLOROBENCILICO, ALCOHOL",
+    "file": "/data/fcos/DICLOROBENCILICO, ALCOHOL.json"
+  },
+  {
+    "name": "DIENOGEST",
+    "file": "/data/fcos/DIENOGEST.json"
+  },
+  {
+    "name": "DIENTE DE LEON",
+    "file": "/data/fcos/DIENTE DE LEON.json"
+  },
+  {
+    "name": "DIFELICEFALINA",
+    "file": "/data/fcos/DIFELICEFALINA.json"
+  },
+  {
+    "name": "DIFENHIDRAMINA (TOPICO)",
+    "file": "/data/fcos/DIFENHIDRAMINA (TOPICO).json"
+  },
+  {
+    "name": "DIFENHIDRAMINA",
+    "file": "/data/fcos/DIFENHIDRAMINA.json"
+  },
+  {
+    "name": "DIFLUCORTOLONA",
+    "file": "/data/fcos/DIFLUCORTOLONA.json"
+  },
+  {
+    "name": "DIGOXINA",
+    "file": "/data/fcos/DIGOXINA.json"
+  },
+  {
+    "name": "DIHIDROARTEMISININA",
+    "file": "/data/fcos/DIHIDROARTEMISININA.json"
+  },
+  {
+    "name": "DIHIDROCODEINA",
+    "file": "/data/fcos/DIHIDROCODEINA.json"
+  },
+  {
+    "name": "DIHIDROERGOCRISTINA",
+    "file": "/data/fcos/DIHIDROERGOCRISTINA.json"
+  },
+  {
+    "name": "DIHIDROGENOFOSFATO DE SODIO",
+    "file": "/data/fcos/DIHIDROGENOFOSFATO DE SODIO.json"
+  },
+  {
+    "name": "DILTIAZEM",
+    "file": "/data/fcos/DILTIAZEM.json"
+  },
+  {
+    "name": "DIMENHIDRINATO",
+    "file": "/data/fcos/DIMENHIDRINATO.json"
+  },
+  {
+    "name": "DIMETICONA",
+    "file": "/data/fcos/DIMETICONA.json"
+  },
+  {
+    "name": "DIMETIL FUMARATO (ESCLEROSIS MULTIPLE)",
+    "file": "/data/fcos/DIMETIL FUMARATO (ESCLEROSIS MULTIPLE).json"
+  },
+  {
+    "name": "DIMETIL FUMARATO (PSORIASIS)",
+    "file": "/data/fcos/DIMETIL FUMARATO (PSORIASIS).json"
+  },
+  {
+    "name": "DIMETILSULFOXIDO",
+    "file": "/data/fcos/DIMETILSULFOXIDO.json"
+  },
+  {
+    "name": "DIMETINDENO (TOPICO)",
+    "file": "/data/fcos/DIMETINDENO (TOPICO).json"
+  },
+  {
+    "name": "DINOPROSTONA",
+    "file": "/data/fcos/DINOPROSTONA.json"
+  },
+  {
+    "name": "DINUTUXIMAB BETA",
+    "file": "/data/fcos/DINUTUXIMAB BETA.json"
+  },
+  {
+    "name": "DIOSMINA",
+    "file": "/data/fcos/DIOSMINA.json"
+  },
+  {
+    "name": "DIPIRIDAMOL",
+    "file": "/data/fcos/DIPIRIDAMOL.json"
+  },
+  {
+    "name": "DIPROFILINA",
+    "file": "/data/fcos/DIPROFILINA.json"
+  },
+  {
+    "name": "DIROXIMEL, FUMARATO",
+    "file": "/data/fcos/DIROXIMEL, FUMARATO.json"
+  },
+  {
+    "name": "DISOPIRAMIDA",
+    "file": "/data/fcos/DISOPIRAMIDA.json"
+  },
+  {
+    "name": "DISULFIRAMO",
+    "file": "/data/fcos/DISULFIRAMO.json"
+  },
+  {
+    "name": "DOBESILATO CALCICO",
+    "file": "/data/fcos/DOBESILATO CALCICO.json"
+  },
+  {
+    "name": "DOBUTAMINA",
+    "file": "/data/fcos/DOBUTAMINA.json"
+  },
+  {
+    "name": "DOCETAXEL",
+    "file": "/data/fcos/DOCETAXEL.json"
+  },
+  {
+    "name": "DOCUSATO SODICO",
+    "file": "/data/fcos/DOCUSATO SODICO.json"
+  },
+  {
+    "name": "DOLUTEGRAVIR",
+    "file": "/data/fcos/DOLUTEGRAVIR.json"
+  },
+  {
+    "name": "DOMPERIDONA",
+    "file": "/data/fcos/DOMPERIDONA.json"
+  },
+  {
+    "name": "DONEPEZILO",
+    "file": "/data/fcos/DONEPEZILO.json"
+  },
+  {
+    "name": "DOPAMINA",
+    "file": "/data/fcos/DOPAMINA.json"
+  },
+  {
+    "name": "DORAVIRINA",
+    "file": "/data/fcos/DORAVIRINA.json"
+  },
+  {
+    "name": "DORNASA ALFA",
+    "file": "/data/fcos/DORNASA ALFA.json"
+  },
+  {
+    "name": "DORZOLAMIDA",
+    "file": "/data/fcos/DORZOLAMIDA.json"
+  },
+  {
+    "name": "DOSTARLIMAB",
+    "file": "/data/fcos/DOSTARLIMAB.json"
+  },
+  {
+    "name": "DOXAZOSINA",
+    "file": "/data/fcos/DOXAZOSINA.json"
+  },
+  {
+    "name": "DOXEPINA",
+    "file": "/data/fcos/DOXEPINA.json"
+  },
+  {
+    "name": "DOXICICLINA (SISTEMICO)",
+    "file": "/data/fcos/DOXICICLINA (SISTEMICO).json"
+  },
+  {
+    "name": "DOXILAMINA",
+    "file": "/data/fcos/DOXILAMINA.json"
+  },
+  {
+    "name": "DOXORUBICINA (LIPOSOMAS)",
+    "file": "/data/fcos/DOXORUBICINA (LIPOSOMAS).json"
+  },
+  {
+    "name": "DOXORUBICINA",
+    "file": "/data/fcos/DOXORUBICINA.json"
+  },
+  {
+    "name": "DRONABINOL",
+    "file": "/data/fcos/DRONABINOL.json"
+  },
+  {
+    "name": "DRONEDARONA",
+    "file": "/data/fcos/DRONEDARONA.json"
+  },
+  {
+    "name": "DROPERIDOL",
+    "file": "/data/fcos/DROPERIDOL.json"
+  },
+  {
+    "name": "DROSPIRENONA",
+    "file": "/data/fcos/DROSPIRENONA.json"
+  },
+  {
+    "name": "DULAGLUTIDA",
+    "file": "/data/fcos/DULAGLUTIDA.json"
+  },
+  {
+    "name": "DULOXETINA",
+    "file": "/data/fcos/DULOXETINA.json"
+  },
+  {
+    "name": "DUPILUMAB",
+    "file": "/data/fcos/DUPILUMAB.json"
+  },
+  {
+    "name": "DURVALUMAB",
+    "file": "/data/fcos/DURVALUMAB.json"
+  },
+  {
+    "name": "DUTASTERIDA",
+    "file": "/data/fcos/DUTASTERIDA.json"
+  },
+  {
+    "name": "EBASTINA",
+    "file": "/data/fcos/EBASTINA.json"
+  },
+  {
+    "name": "EBERCONAZOL",
+    "file": "/data/fcos/EBERCONAZOL.json"
+  },
+  {
+    "name": "ECULIZUMAB",
+    "file": "/data/fcos/ECULIZUMAB.json"
+  },
+  {
+    "name": "EDOXABAN",
+    "file": "/data/fcos/EDOXABAN.json"
+  },
+  {
+    "name": "EDROFONIO",
+    "file": "/data/fcos/EDROFONIO.json"
+  },
+  {
+    "name": "EFANESOCTOCOG ALFA",
+    "file": "/data/fcos/EFANESOCTOCOG ALFA.json"
+  },
+  {
+    "name": "EFAVIRENZ",
+    "file": "/data/fcos/EFAVIRENZ.json"
+  },
+  {
+    "name": "EFEDRINA (CARDIOLOGIA)",
+    "file": "/data/fcos/EFEDRINA (CARDIOLOGIA).json"
+  },
+  {
+    "name": "EFEDRINA",
+    "file": "/data/fcos/EFEDRINA.json"
+  },
+  {
+    "name": "EFGARTIGIMOD ALFA",
+    "file": "/data/fcos/EFGARTIGIMOD ALFA.json"
+  },
+  {
+    "name": "EFLORNITINA",
+    "file": "/data/fcos/EFLORNITINA.json"
+  },
+  {
+    "name": "EFMOROCTOCOG ALFA",
+    "file": "/data/fcos/EFMOROCTOCOG ALFA.json"
+  },
+  {
+    "name": "EFTRENONACOG ALFA",
+    "file": "/data/fcos/EFTRENONACOG ALFA.json"
+  },
+  {
+    "name": "ELAFIBRANOR",
+    "file": "/data/fcos/ELAFIBRANOR.json"
+  },
+  {
+    "name": "ELASOMERAN",
+    "file": "/data/fcos/ELASOMERAN.json"
+  },
+  {
+    "name": "ELETRIPTAN",
+    "file": "/data/fcos/ELETRIPTAN.json"
+  },
+  {
+    "name": "ELEXACAFTOR",
+    "file": "/data/fcos/ELEXACAFTOR.json"
+  },
+  {
+    "name": "ELIGLUSTAT",
+    "file": "/data/fcos/ELIGLUSTAT.json"
+  },
+  {
+    "name": "ELOTUZUMAB",
+    "file": "/data/fcos/ELOTUZUMAB.json"
+  },
+  {
+    "name": "ELRANATAMAB",
+    "file": "/data/fcos/ELRANATAMAB.json"
+  },
+  {
+    "name": "ELTROMBOPAG",
+    "file": "/data/fcos/ELTROMBOPAG.json"
+  },
+  {
+    "name": "ELVITEGRAVIR",
+    "file": "/data/fcos/ELVITEGRAVIR.json"
+  },
+  {
+    "name": "EMEDASTINA",
+    "file": "/data/fcos/EMEDASTINA.json"
+  },
+  {
+    "name": "EMICIZUMAB",
+    "file": "/data/fcos/EMICIZUMAB.json"
+  },
+  {
+    "name": "EMPAGLIFLOZINA",
+    "file": "/data/fcos/EMPAGLIFLOZINA.json"
+  },
+  {
+    "name": "EMTRICITABINA",
+    "file": "/data/fcos/EMTRICITABINA.json"
+  },
+  {
+    "name": "ENALAPRIL",
+    "file": "/data/fcos/ENALAPRIL.json"
+  },
+  {
+    "name": "ENCORAFENIB",
+    "file": "/data/fcos/ENCORAFENIB.json"
+  },
+  {
+    "name": "ENFORTUMAB VEDOTINA",
+    "file": "/data/fcos/ENFORTUMAB VEDOTINA.json"
+  },
+  {
+    "name": "ENFUVIRTIDA",
+    "file": "/data/fcos/ENFUVIRTIDA.json"
+  },
+  {
+    "name": "ENMETAZOBACTAM",
+    "file": "/data/fcos/ENMETAZOBACTAM.json"
+  },
+  {
+    "name": "ENOXAPARINA",
+    "file": "/data/fcos/ENOXAPARINA.json"
+  },
+  {
+    "name": "ENOXOLONA",
+    "file": "/data/fcos/ENOXOLONA.json"
+  },
+  {
+    "name": "ENTACAPONA",
+    "file": "/data/fcos/ENTACAPONA.json"
+  },
+  {
+    "name": "ENTECAVIR",
+    "file": "/data/fcos/ENTECAVIR.json"
+  },
+  {
+    "name": "ENTRECTINIB",
+    "file": "/data/fcos/ENTRECTINIB.json"
+  },
+  {
+    "name": "ENZALUTAMIDA",
+    "file": "/data/fcos/ENZALUTAMIDA.json"
+  },
+  {
+    "name": "EPCORITAMAB",
+    "file": "/data/fcos/EPCORITAMAB.json"
+  },
+  {
+    "name": "EPINASTINA",
+    "file": "/data/fcos/EPINASTINA.json"
+  },
+  {
+    "name": "EPINEFRINA",
+    "file": "/data/fcos/EPINEFRINA.json"
+  },
+  {
+    "name": "EPIRUBICINA",
+    "file": "/data/fcos/EPIRUBICINA.json"
+  },
+  {
+    "name": "EPLERENONA",
+    "file": "/data/fcos/EPLERENONA.json"
+  },
+  {
+    "name": "EPLONTERSEN",
+    "file": "/data/fcos/EPLONTERSEN.json"
+  },
+  {
+    "name": "EPOETINA ALFA",
+    "file": "/data/fcos/EPOETINA ALFA.json"
+  },
+  {
+    "name": "EPOETINA BETA, METOXI-POLIETILENGLICOL",
+    "file": "/data/fcos/EPOETINA BETA, METOXI-POLIETILENGLICOL.json"
+  },
+  {
+    "name": "EPOETINA BETA",
+    "file": "/data/fcos/EPOETINA BETA.json"
+  },
+  {
+    "name": "EPOETINA DELTA",
+    "file": "/data/fcos/EPOETINA DELTA.json"
+  },
+  {
+    "name": "EPOETINA THETA",
+    "file": "/data/fcos/EPOETINA THETA.json"
+  },
+  {
+    "name": "EPOPROSTENOL",
+    "file": "/data/fcos/EPOPROSTENOL.json"
+  },
+  {
+    "name": "EPROSARTAN",
+    "file": "/data/fcos/EPROSARTAN.json"
+  },
+  {
+    "name": "EPTACOG ALFA ACTIVADO",
+    "file": "/data/fcos/EPTACOG ALFA ACTIVADO.json"
+  },
+  {
+    "name": "EPTACOG BETA ACTIVADO",
+    "file": "/data/fcos/EPTACOG BETA ACTIVADO.json"
+  },
+  {
+    "name": "EPTINEZUMAB",
+    "file": "/data/fcos/EPTINEZUMAB.json"
+  },
+  {
+    "name": "EQUINACEA",
+    "file": "/data/fcos/EQUINACEA.json"
+  },
+  {
+    "name": "ERAVACICLINA",
+    "file": "/data/fcos/ERAVACICLINA.json"
+  },
+  {
+    "name": "ERBIO (169-ER), CITRATO COLOIDAL",
+    "file": "/data/fcos/ERBIO (169-ER), CITRATO COLOIDAL.json"
+  },
+  {
+    "name": "ERDAFITINIB",
+    "file": "/data/fcos/ERDAFITINIB.json"
+  },
+  {
+    "name": "ERENUMAB",
+    "file": "/data/fcos/ERENUMAB.json"
+  },
+  {
+    "name": "ERGOCALCIFEROL",
+    "file": "/data/fcos/ERGOCALCIFEROL.json"
+  },
+  {
+    "name": "ERGOTAMINA",
+    "file": "/data/fcos/ERGOTAMINA.json"
+  },
+  {
+    "name": "ERIBULINA",
+    "file": "/data/fcos/ERIBULINA.json"
+  },
+  {
+    "name": "ERITROMICINA (OFTALMICO)",
+    "file": "/data/fcos/ERITROMICINA (OFTALMICO).json"
+  },
+  {
+    "name": "ERITROMICINA (TOPICO)",
+    "file": "/data/fcos/ERITROMICINA (TOPICO).json"
+  },
+  {
+    "name": "ERITROMICINA",
+    "file": "/data/fcos/ERITROMICINA.json"
+  },
+  {
+    "name": "ERLOTINIB",
+    "file": "/data/fcos/ERLOTINIB.json"
+  },
+  {
+    "name": "ERTAPENEM",
+    "file": "/data/fcos/ERTAPENEM.json"
+  },
+  {
+    "name": "ERTUGLIFLOZINA",
+    "file": "/data/fcos/ERTUGLIFLOZINA.json"
+  },
+  {
+    "name": "ESCINA",
+    "file": "/data/fcos/ESCINA.json"
+  },
+  {
+    "name": "ESCITALOPRAM",
+    "file": "/data/fcos/ESCITALOPRAM.json"
+  },
+  {
+    "name": "ESKETAMINA",
+    "file": "/data/fcos/ESKETAMINA.json"
+  },
+  {
+    "name": "ESLICARBAZEPINA",
+    "file": "/data/fcos/ESLICARBAZEPINA.json"
+  },
+  {
+    "name": "ESMOLOL",
+    "file": "/data/fcos/ESMOLOL.json"
+  },
+  {
+    "name": "ESOMEPRAZOL",
+    "file": "/data/fcos/ESOMEPRAZOL.json"
+  },
+  {
+    "name": "ESPAGLUMICO, ACIDO",
+    "file": "/data/fcos/ESPAGLUMICO, ACIDO.json"
+  },
+  {
+    "name": "ESPESOLIMAB",
+    "file": "/data/fcos/ESPESOLIMAB.json"
+  },
+  {
+    "name": "ESPINO BLANCO",
+    "file": "/data/fcos/ESPINO BLANCO.json"
+  },
+  {
+    "name": "ESPIRAMICINA",
+    "file": "/data/fcos/ESPIRAMICINA.json"
+  },
+  {
+    "name": "ESPIRONOLACTONA",
+    "file": "/data/fcos/ESPIRONOLACTONA.json"
+  },
+  {
+    "name": "ESTETROL",
+    "file": "/data/fcos/ESTETROL.json"
+  },
+  {
+    "name": "ESTIRIPENTOL",
+    "file": "/data/fcos/ESTIRIPENTOL.json"
+  },
+  {
+    "name": "ESTRADIOL",
+    "file": "/data/fcos/ESTRADIOL.json"
+  },
+  {
+    "name": "ESTREPTODORNASA",
+    "file": "/data/fcos/ESTREPTODORNASA.json"
+  },
+  {
+    "name": "ESTREPTOMICINA",
+    "file": "/data/fcos/ESTREPTOMICINA.json"
+  },
+  {
+    "name": "ESTREPTOQUINASA",
+    "file": "/data/fcos/ESTREPTOQUINASA.json"
+  },
+  {
+    "name": "ESTRIOL",
+    "file": "/data/fcos/ESTRIOL.json"
+  },
+  {
+    "name": "ESTROGENOS CONJUGADOS",
+    "file": "/data/fcos/ESTROGENOS CONJUGADOS.json"
+  },
+  {
+    "name": "ETAMBUTOL",
+    "file": "/data/fcos/ETAMBUTOL.json"
+  },
+  {
+    "name": "ETANERCEPT",
+    "file": "/data/fcos/ETANERCEPT.json"
+  },
+  {
+    "name": "ETELCALCETIDA",
+    "file": "/data/fcos/ETELCALCETIDA.json"
+  },
+  {
+    "name": "ETILEFRINA",
+    "file": "/data/fcos/ETILEFRINA.json"
+  },
+  {
+    "name": "ETINILESTRADIOL",
+    "file": "/data/fcos/ETINILESTRADIOL.json"
+  },
+  {
+    "name": "ETOFENAMATO (TOPICO)",
+    "file": "/data/fcos/ETOFENAMATO (TOPICO).json"
+  },
+  {
+    "name": "ETOMIDATO",
+    "file": "/data/fcos/ETOMIDATO.json"
+  },
+  {
+    "name": "ETONOGESTREL",
+    "file": "/data/fcos/ETONOGESTREL.json"
+  },
+  {
+    "name": "ETOPOSIDO",
+    "file": "/data/fcos/ETOPOSIDO.json"
+  },
+  {
+    "name": "ETORICOXIB",
+    "file": "/data/fcos/ETORICOXIB.json"
+  },
+  {
+    "name": "ETOSUXIMIDA",
+    "file": "/data/fcos/ETOSUXIMIDA.json"
+  },
+  {
+    "name": "ETRANACOGEN DEZAPARVOVEC",
+    "file": "/data/fcos/ETRANACOGEN DEZAPARVOVEC.json"
+  },
+  {
+    "name": "ETRASIMOD",
+    "file": "/data/fcos/ETRASIMOD.json"
+  },
+  {
+    "name": "ETRAVIRINA",
+    "file": "/data/fcos/ETRAVIRINA.json"
+  },
+  {
+    "name": "EUCALIPTO",
+    "file": "/data/fcos/EUCALIPTO.json"
+  },
+  {
+    "name": "EVEROLIMUS (ANTINEOPLASICO)",
+    "file": "/data/fcos/EVEROLIMUS (ANTINEOPLASICO).json"
+  },
+  {
+    "name": "EVEROLIMUS (INMUNOSUPRESOR)",
+    "file": "/data/fcos/EVEROLIMUS (INMUNOSUPRESOR).json"
+  },
+  {
+    "name": "EVINACUMAB",
+    "file": "/data/fcos/EVINACUMAB.json"
+  },
+  {
+    "name": "EVOLOCUMAB",
+    "file": "/data/fcos/EVOLOCUMAB.json"
+  },
+  {
+    "name": "EXEMESTANO",
+    "file": "/data/fcos/EXEMESTANO.json"
+  },
+  {
+    "name": "EZETIMIBA",
+    "file": "/data/fcos/EZETIMIBA.json"
+  },
+  {
+    "name": "FACTOR IX",
+    "file": "/data/fcos/FACTOR IX.json"
+  },
+  {
+    "name": "FACTOR VIII",
+    "file": "/data/fcos/FACTOR VIII.json"
+  },
+  {
+    "name": "FACTOR VII",
+    "file": "/data/fcos/FACTOR VII.json"
+  },
+  {
+    "name": "FACTOR VON WILLEBRAND",
+    "file": "/data/fcos/FACTOR VON WILLEBRAND.json"
+  },
+  {
+    "name": "FACTOR XIII",
+    "file": "/data/fcos/FACTOR XIII.json"
+  },
+  {
+    "name": "FACTOR X",
+    "file": "/data/fcos/FACTOR X.json"
+  },
+  {
+    "name": "FAMCICLOVIR",
+    "file": "/data/fcos/FAMCICLOVIR.json"
+  },
+  {
+    "name": "FAMOTIDINA",
+    "file": "/data/fcos/FAMOTIDINA.json"
+  },
+  {
+    "name": "FAMPRIDINA",
+    "file": "/data/fcos/FAMPRIDINA.json"
+  },
+  {
+    "name": "FARICIMAB",
+    "file": "/data/fcos/FARICIMAB.json"
+  },
+  {
+    "name": "FEBUXOSTAT",
+    "file": "/data/fcos/FEBUXOSTAT.json"
+  },
+  {
+    "name": "FEDRATINIB",
+    "file": "/data/fcos/FEDRATINIB.json"
+  },
+  {
+    "name": "FELODIPINO",
+    "file": "/data/fcos/FELODIPINO.json"
+  },
+  {
+    "name": "FENFLURAMINA",
+    "file": "/data/fcos/FENFLURAMINA.json"
+  },
+  {
+    "name": "FENILALANINA",
+    "file": "/data/fcos/FENILALANINA.json"
+  },
+  {
+    "name": "FENILBUTAZONA",
+    "file": "/data/fcos/FENILBUTAZONA.json"
+  },
+  {
+    "name": "FENILBUTIRATO DE GLICERILO",
+    "file": "/data/fcos/FENILBUTIRATO DE GLICERILO.json"
+  },
+  {
+    "name": "FENILBUTIRICO, ACIDO",
+    "file": "/data/fcos/FENILBUTIRICO, ACIDO.json"
+  },
+  {
+    "name": "FENILEFRINA (NASAL)",
+    "file": "/data/fcos/FENILEFRINA (NASAL).json"
+  },
+  {
+    "name": "FENILEFRINA (OFTALMICO)",
+    "file": "/data/fcos/FENILEFRINA (OFTALMICO).json"
+  },
+  {
+    "name": "FENILEFRINA",
+    "file": "/data/fcos/FENILEFRINA.json"
+  },
+  {
+    "name": "FENILPROPANOLAMINA",
+    "file": "/data/fcos/FENILPROPANOLAMINA.json"
+  },
+  {
+    "name": "FENITOINA (ANTIARRITMICO)",
+    "file": "/data/fcos/FENITOINA (ANTIARRITMICO).json"
+  },
+  {
+    "name": "FENITOINA (ANTIEPILEPTICO)",
+    "file": "/data/fcos/FENITOINA (ANTIEPILEPTICO).json"
+  },
+  {
+    "name": "FENOBARBITAL",
+    "file": "/data/fcos/FENOBARBITAL.json"
+  },
+  {
+    "name": "FENOFIBRATO",
+    "file": "/data/fcos/FENOFIBRATO.json"
+  },
+  {
+    "name": "FENOL",
+    "file": "/data/fcos/FENOL.json"
+  },
+  {
+    "name": "FENOXIETANOL",
+    "file": "/data/fcos/FENOXIETANOL.json"
+  },
+  {
+    "name": "FENOXIMETILPENICILINA BENZATINA",
+    "file": "/data/fcos/FENOXIMETILPENICILINA BENZATINA.json"
+  },
+  {
+    "name": "FENOXIMETILPENICILINA",
+    "file": "/data/fcos/FENOXIMETILPENICILINA.json"
+  },
+  {
+    "name": "FENTANILO (ANESTESICO)",
+    "file": "/data/fcos/FENTANILO (ANESTESICO).json"
+  },
+  {
+    "name": "FENTANILO (BUCAL)",
+    "file": "/data/fcos/FENTANILO (BUCAL).json"
+  },
+  {
+    "name": "FENTANILO (NASAL)",
+    "file": "/data/fcos/FENTANILO (NASAL).json"
+  },
+  {
+    "name": "FENTANILO (TRANSDERMICO)",
+    "file": "/data/fcos/FENTANILO (TRANSDERMICO).json"
+  },
+  {
+    "name": "FENTICONAZOL (GINECOLOGICO)",
+    "file": "/data/fcos/FENTICONAZOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "FENTICONAZOL (TOPICO)",
+    "file": "/data/fcos/FENTICONAZOL (TOPICO).json"
+  },
+  {
+    "name": "FERRIMANITOL OVOALBUMINA",
+    "file": "/data/fcos/FERRIMANITOL OVOALBUMINA.json"
+  },
+  {
+    "name": "FERROGLICINA, SULFATO",
+    "file": "/data/fcos/FERROGLICINA, SULFATO.json"
+  },
+  {
+    "name": "FESOTERODINA",
+    "file": "/data/fcos/FESOTERODINA.json"
+  },
+  {
+    "name": "FEXOFENADINA",
+    "file": "/data/fcos/FEXOFENADINA.json"
+  },
+  {
+    "name": "FEZOLINETANT",
+    "file": "/data/fcos/FEZOLINETANT.json"
+  },
+  {
+    "name": "FIBRINOGENO HUMANO",
+    "file": "/data/fcos/FIBRINOGENO HUMANO.json"
+  },
+  {
+    "name": "FIDAXOMICINA",
+    "file": "/data/fcos/FIDAXOMICINA.json"
+  },
+  {
+    "name": "FILGOTINIB",
+    "file": "/data/fcos/FILGOTINIB.json"
+  },
+  {
+    "name": "FILGRASTIM",
+    "file": "/data/fcos/FILGRASTIM.json"
+  },
+  {
+    "name": "FINASTERIDA (ANTIADENOMA PROSTATICO)",
+    "file": "/data/fcos/FINASTERIDA (ANTIADENOMA PROSTATICO).json"
+  },
+  {
+    "name": "FINASTERIDA (ANTIALOPECICO)",
+    "file": "/data/fcos/FINASTERIDA (ANTIALOPECICO).json"
+  },
+  {
+    "name": "FINERENONA",
+    "file": "/data/fcos/FINERENONA.json"
+  },
+  {
+    "name": "FINGOLIMOD",
+    "file": "/data/fcos/FINGOLIMOD.json"
+  },
+  {
+    "name": "FITOMENADIONA",
+    "file": "/data/fcos/FITOMENADIONA.json"
+  },
+  {
+    "name": "FLAVOXATO",
+    "file": "/data/fcos/FLAVOXATO.json"
+  },
+  {
+    "name": "FLECAINIDA",
+    "file": "/data/fcos/FLECAINIDA.json"
+  },
+  {
+    "name": "FLORBETABEN (18-F)",
+    "file": "/data/fcos/FLORBETABEN (18-F).json"
+  },
+  {
+    "name": "FLOROGLUCINOL",
+    "file": "/data/fcos/FLOROGLUCINOL.json"
+  },
+  {
+    "name": "FLUCICLOVINA (18F)",
+    "file": "/data/fcos/FLUCICLOVINA (18F).json"
+  },
+  {
+    "name": "FLUCONAZOL",
+    "file": "/data/fcos/FLUCONAZOL.json"
+  },
+  {
+    "name": "FLUDARABINA",
+    "file": "/data/fcos/FLUDARABINA.json"
+  },
+  {
+    "name": "FLUDESOXIGLUCOSA (18-F)",
+    "file": "/data/fcos/FLUDESOXIGLUCOSA (18-F).json"
+  },
+  {
+    "name": "FLUDROCORTISONA",
+    "file": "/data/fcos/FLUDROCORTISONA.json"
+  },
+  {
+    "name": "FLUFENAMICO, ACIDO",
+    "file": "/data/fcos/FLUFENAMICO, ACIDO.json"
+  },
+  {
+    "name": "FLUMAZENILO",
+    "file": "/data/fcos/FLUMAZENILO.json"
+  },
+  {
+    "name": "FLUNARIZINA",
+    "file": "/data/fcos/FLUNARIZINA.json"
+  },
+  {
+    "name": "FLUOCINOLONA, ACETONIDO (OFTALMICO)",
+    "file": "/data/fcos/FLUOCINOLONA, ACETONIDO (OFTALMICO).json"
+  },
+  {
+    "name": "FLUOCINOLONA, ACETONIDO (OTICO)",
+    "file": "/data/fcos/FLUOCINOLONA, ACETONIDO (OTICO).json"
+  },
+  {
+    "name": "FLUOCINOLONA, ACETONIDO (RECTAL)",
+    "file": "/data/fcos/FLUOCINOLONA, ACETONIDO (RECTAL).json"
+  },
+  {
+    "name": "FLUOCINOLONA, ACETONIDO (TOPICO)",
+    "file": "/data/fcos/FLUOCINOLONA, ACETONIDO (TOPICO).json"
+  },
+  {
+    "name": "FLUOCINONIDO (RECTAL)",
+    "file": "/data/fcos/FLUOCINONIDO (RECTAL).json"
+  },
+  {
+    "name": "FLUOCINONIDO (TOPICO)",
+    "file": "/data/fcos/FLUOCINONIDO (TOPICO).json"
+  },
+  {
+    "name": "FLUORESCEINA",
+    "file": "/data/fcos/FLUORESCEINA.json"
+  },
+  {
+    "name": "FLUORODOPA (18F)",
+    "file": "/data/fcos/FLUORODOPA (18F).json"
+  },
+  {
+    "name": "FLUOROMETILCOLINA (18F)",
+    "file": "/data/fcos/FLUOROMETILCOLINA (18F).json"
+  },
+  {
+    "name": "FLUOROMETOLONA (OFTALMICO)",
+    "file": "/data/fcos/FLUOROMETOLONA (OFTALMICO).json"
+  },
+  {
+    "name": "FLUOROURACILO (PARENTERAL)",
+    "file": "/data/fcos/FLUOROURACILO (PARENTERAL).json"
+  },
+  {
+    "name": "FLUOROURACILO (TOPICO)",
+    "file": "/data/fcos/FLUOROURACILO (TOPICO).json"
+  },
+  {
+    "name": "FLUORURO DE SODIO",
+    "file": "/data/fcos/FLUORURO DE SODIO.json"
+  },
+  {
+    "name": "FLUOXETINA",
+    "file": "/data/fcos/FLUOXETINA.json"
+  },
+  {
+    "name": "FLUPENTIXOL",
+    "file": "/data/fcos/FLUPENTIXOL.json"
+  },
+  {
+    "name": "FLURAZEPAM",
+    "file": "/data/fcos/FLURAZEPAM.json"
+  },
+  {
+    "name": "FLURBIPROFENO (BUCAL)",
+    "file": "/data/fcos/FLURBIPROFENO (BUCAL).json"
+  },
+  {
+    "name": "FLUTAMIDA",
+    "file": "/data/fcos/FLUTAMIDA.json"
+  },
+  {
+    "name": "FLUTEMETAMOL (18-F)",
+    "file": "/data/fcos/FLUTEMETAMOL (18-F).json"
+  },
+  {
+    "name": "FLUTICASONA, FUROATO (NASAL)",
+    "file": "/data/fcos/FLUTICASONA, FUROATO (NASAL).json"
+  },
+  {
+    "name": "FLUTICASONA (INHALADO)",
+    "file": "/data/fcos/FLUTICASONA (INHALADO).json"
+  },
+  {
+    "name": "FLUTICASONA, PROPIONATO (NASAL)",
+    "file": "/data/fcos/FLUTICASONA, PROPIONATO (NASAL).json"
+  },
+  {
+    "name": "FLUTICASONA, PROPIONATO (TOPICO)",
+    "file": "/data/fcos/FLUTICASONA, PROPIONATO (TOPICO).json"
+  },
+  {
+    "name": "FLUTRIMAZOL (TOPICO)",
+    "file": "/data/fcos/FLUTRIMAZOL (TOPICO).json"
+  },
+  {
+    "name": "FLUVASTATINA",
+    "file": "/data/fcos/FLUVASTATINA.json"
+  },
+  {
+    "name": "FLUVOXAMINA",
+    "file": "/data/fcos/FLUVOXAMINA.json"
+  },
+  {
+    "name": "FOLICO, ACIDO",
+    "file": "/data/fcos/FOLICO, ACIDO.json"
+  },
+  {
+    "name": "FOLINATO CALCICO",
+    "file": "/data/fcos/FOLINATO CALCICO.json"
+  },
+  {
+    "name": "FOLITROPINA ALFA",
+    "file": "/data/fcos/FOLITROPINA ALFA.json"
+  },
+  {
+    "name": "FOLITROPINA BETA",
+    "file": "/data/fcos/FOLITROPINA BETA.json"
+  },
+  {
+    "name": "FOLITROPINA DELTA",
+    "file": "/data/fcos/FOLITROPINA DELTA.json"
+  },
+  {
+    "name": "FONDAPARINUX",
+    "file": "/data/fcos/FONDAPARINUX.json"
+  },
+  {
+    "name": "FORMOTEROL",
+    "file": "/data/fcos/FORMOTEROL.json"
+  },
+  {
+    "name": "FOSAPREPITANT",
+    "file": "/data/fcos/FOSAPREPITANT.json"
+  },
+  {
+    "name": "FOSCARBIDOPA",
+    "file": "/data/fcos/FOSCARBIDOPA.json"
+  },
+  {
+    "name": "FOSCARNET",
+    "file": "/data/fcos/FOSCARNET.json"
+  },
+  {
+    "name": "FOSFOMICINA",
+    "file": "/data/fcos/FOSFOMICINA.json"
+  },
+  {
+    "name": "FOSINOPRIL",
+    "file": "/data/fcos/FOSINOPRIL.json"
+  },
+  {
+    "name": "FOSLEVODOPA",
+    "file": "/data/fcos/FOSLEVODOPA.json"
+  },
+  {
+    "name": "FOSTAMATINIB",
+    "file": "/data/fcos/FOSTAMATINIB.json"
+  },
+  {
+    "name": "FOSTEMSAVIR",
+    "file": "/data/fcos/FOSTEMSAVIR.json"
+  },
+  {
+    "name": "FRAMICETINA",
+    "file": "/data/fcos/FRAMICETINA.json"
+  },
+  {
+    "name": "FRANGULA",
+    "file": "/data/fcos/FRANGULA.json"
+  },
+  {
+    "name": "FREMANEZUMAB",
+    "file": "/data/fcos/FREMANEZUMAB.json"
+  },
+  {
+    "name": "FRUQUINTINIB",
+    "file": "/data/fcos/FRUQUINTINIB.json"
+  },
+  {
+    "name": "FUCUS",
+    "file": "/data/fcos/FUCUS.json"
+  },
+  {
+    "name": "FULVESTRANT",
+    "file": "/data/fcos/FULVESTRANT.json"
+  },
+  {
+    "name": "FUROSEMIDA",
+    "file": "/data/fcos/FUROSEMIDA.json"
+  },
+  {
+    "name": "FUSIDICO, ACIDO (OFTALMICO)",
+    "file": "/data/fcos/FUSIDICO, ACIDO (OFTALMICO).json"
+  },
+  {
+    "name": "FUSIDICO, ACIDO (ORAL)",
+    "file": "/data/fcos/FUSIDICO, ACIDO (ORAL).json"
+  },
+  {
+    "name": "FUSIDICO, ACIDO (TOPICO)",
+    "file": "/data/fcos/FUSIDICO, ACIDO (TOPICO).json"
+  },
+  {
+    "name": "FUTIBATINIB",
+    "file": "/data/fcos/FUTIBATINIB.json"
+  },
+  {
+    "name": "GABA",
+    "file": "/data/fcos/GABA.json"
+  },
+  {
+    "name": "GABAPENTINA",
+    "file": "/data/fcos/GABAPENTINA.json"
+  },
+  {
+    "name": "GABOB",
+    "file": "/data/fcos/GABOB.json"
+  },
+  {
+    "name": "GADOBENICO, ACIDO",
+    "file": "/data/fcos/GADOBENICO, ACIDO.json"
+  },
+  {
+    "name": "GADOBUTROL",
+    "file": "/data/fcos/GADOBUTROL.json"
+  },
+  {
+    "name": "GADOPICLENOL",
+    "file": "/data/fcos/GADOPICLENOL.json"
+  },
+  {
+    "name": "GADOTERICO, ACIDO",
+    "file": "/data/fcos/GADOTERICO, ACIDO.json"
+  },
+  {
+    "name": "GADOTERIDOL",
+    "file": "/data/fcos/GADOTERIDOL.json"
+  },
+  {
+    "name": "GADOXETICO, ACIDO",
+    "file": "/data/fcos/GADOXETICO, ACIDO.json"
+  },
+  {
+    "name": "GALANTAMINA",
+    "file": "/data/fcos/GALANTAMINA.json"
+  },
+  {
+    "name": "GALCANEZUMAB",
+    "file": "/data/fcos/GALCANEZUMAB.json"
+  },
+  {
+    "name": "GALIO (67-GA), CITRATO",
+    "file": "/data/fcos/GALIO (67-GA), CITRATO.json"
+  },
+  {
+    "name": "GALIO (68-GA), EDOTREOTIDA",
+    "file": "/data/fcos/GALIO (68-GA), EDOTREOTIDA.json"
+  },
+  {
+    "name": "GALSULFASA",
+    "file": "/data/fcos/GALSULFASA.json"
+  },
+  {
+    "name": "GANCICLOVIR (OFTALMICO)",
+    "file": "/data/fcos/GANCICLOVIR (OFTALMICO).json"
+  },
+  {
+    "name": "GANCICLOVIR",
+    "file": "/data/fcos/GANCICLOVIR.json"
+  },
+  {
+    "name": "GANIRELIX",
+    "file": "/data/fcos/GANIRELIX.json"
+  },
+  {
+    "name": "GAXILOSA",
+    "file": "/data/fcos/GAXILOSA.json"
+  },
+  {
+    "name": "GAYUBA",
+    "file": "/data/fcos/GAYUBA.json"
+  },
+  {
+    "name": "GEFAPIXANT",
+    "file": "/data/fcos/GEFAPIXANT.json"
+  },
+  {
+    "name": "GEFITINIB",
+    "file": "/data/fcos/GEFITINIB.json"
+  },
+  {
+    "name": "GELATINA",
+    "file": "/data/fcos/GELATINA.json"
+  },
+  {
+    "name": "GEMCITABINA",
+    "file": "/data/fcos/GEMCITABINA.json"
+  },
+  {
+    "name": "GEMFIBROZILO",
+    "file": "/data/fcos/GEMFIBROZILO.json"
+  },
+  {
+    "name": "GEMTUZUMAB OZOGAMICINA",
+    "file": "/data/fcos/GEMTUZUMAB OZOGAMICINA.json"
+  },
+  {
+    "name": "GENCIANA",
+    "file": "/data/fcos/GENCIANA.json"
+  },
+  {
+    "name": "GENTAMICINA (OFTALMICO)",
+    "file": "/data/fcos/GENTAMICINA (OFTALMICO).json"
+  },
+  {
+    "name": "GENTAMICINA (TOPICO)",
+    "file": "/data/fcos/GENTAMICINA (TOPICO).json"
+  },
+  {
+    "name": "GENTAMICINA",
+    "file": "/data/fcos/GENTAMICINA.json"
+  },
+  {
+    "name": "GERMANIO (68-GE), CLORURO",
+    "file": "/data/fcos/GERMANIO (68-GE), CLORURO.json"
+  },
+  {
+    "name": "GESTODENO",
+    "file": "/data/fcos/GESTODENO.json"
+  },
+  {
+    "name": "GILTERITINIB",
+    "file": "/data/fcos/GILTERITINIB.json"
+  },
+  {
+    "name": "GINKGO",
+    "file": "/data/fcos/GINKGO.json"
+  },
+  {
+    "name": "GINSENG",
+    "file": "/data/fcos/GINSENG.json"
+  },
+  {
+    "name": "GIVOSIRAN",
+    "file": "/data/fcos/GIVOSIRAN.json"
+  },
+  {
+    "name": "GLATIRAMERO",
+    "file": "/data/fcos/GLATIRAMERO.json"
+  },
+  {
+    "name": "GLECAPREVIR",
+    "file": "/data/fcos/GLECAPREVIR.json"
+  },
+  {
+    "name": "GLIBENCLAMIDA",
+    "file": "/data/fcos/GLIBENCLAMIDA.json"
+  },
+  {
+    "name": "GLICEROFOSFATO SODICO",
+    "file": "/data/fcos/GLICEROFOSFATO SODICO.json"
+  },
+  {
+    "name": "GLICEROL",
+    "file": "/data/fcos/GLICEROL.json"
+  },
+  {
+    "name": "GLICINA",
+    "file": "/data/fcos/GLICINA.json"
+  },
+  {
+    "name": "GLICLAZIDA",
+    "file": "/data/fcos/GLICLAZIDA.json"
+  },
+  {
+    "name": "GLICOPIRRONIO (INHALADO)",
+    "file": "/data/fcos/GLICOPIRRONIO (INHALADO).json"
+  },
+  {
+    "name": "GLICOPIRRONIO (TOPICO)",
+    "file": "/data/fcos/GLICOPIRRONIO (TOPICO).json"
+  },
+  {
+    "name": "GLIMEPIRIDA",
+    "file": "/data/fcos/GLIMEPIRIDA.json"
+  },
+  {
+    "name": "GLIPIZIDA",
+    "file": "/data/fcos/GLIPIZIDA.json"
+  },
+  {
+    "name": "GLOFITAMAB",
+    "file": "/data/fcos/GLOFITAMAB.json"
+  },
+  {
+    "name": "GLUCAGON",
+    "file": "/data/fcos/GLUCAGON.json"
+  },
+  {
+    "name": "GLUCARPIDASA",
+    "file": "/data/fcos/GLUCARPIDASA.json"
+  },
+  {
+    "name": "GLUCOSA",
+    "file": "/data/fcos/GLUCOSA.json"
+  },
+  {
+    "name": "GLUCOSAMINAGLUCONATO, POLISULFATO",
+    "file": "/data/fcos/GLUCOSAMINAGLUCONATO, POLISULFATO.json"
+  },
+  {
+    "name": "GLUCOSAMINA",
+    "file": "/data/fcos/GLUCOSAMINA.json"
+  },
+  {
+    "name": "GLUTAMATO MAGNESICO",
+    "file": "/data/fcos/GLUTAMATO MAGNESICO.json"
+  },
+  {
+    "name": "GLUTAMICO, ACIDO",
+    "file": "/data/fcos/GLUTAMICO, ACIDO.json"
+  },
+  {
+    "name": "GLUTAMINA",
+    "file": "/data/fcos/GLUTAMINA.json"
+  },
+  {
+    "name": "GLUTATION",
+    "file": "/data/fcos/GLUTATION.json"
+  },
+  {
+    "name": "GOLIMUMAB",
+    "file": "/data/fcos/GOLIMUMAB.json"
+  },
+  {
+    "name": "GOMA GUAR",
+    "file": "/data/fcos/GOMA GUAR.json"
+  },
+  {
+    "name": "GOMENOL",
+    "file": "/data/fcos/GOMENOL.json"
+  },
+  {
+    "name": "GONADOTROFINA CORIONICA HUMANA",
+    "file": "/data/fcos/GONADOTROFINA CORIONICA HUMANA.json"
+  },
+  {
+    "name": "GOSERELINA",
+    "file": "/data/fcos/GOSERELINA.json"
+  },
+  {
+    "name": "GRAMA",
+    "file": "/data/fcos/GRAMA.json"
+  },
+  {
+    "name": "GRAMICIDINA",
+    "file": "/data/fcos/GRAMICIDINA.json"
+  },
+  {
+    "name": "GRANISETRON",
+    "file": "/data/fcos/GRANISETRON.json"
+  },
+  {
+    "name": "GUAIFENESINA",
+    "file": "/data/fcos/GUAIFENESINA.json"
+  },
+  {
+    "name": "GUANFACINA",
+    "file": "/data/fcos/GUANFACINA.json"
+  },
+  {
+    "name": "GUSELKUMAB",
+    "file": "/data/fcos/GUSELKUMAB.json"
+  },
+  {
+    "name": "HAEMOPHILUS INFLUENZAE B, POLISACARIDO CONJUGADO",
+    "file": "/data/fcos/HAEMOPHILUS INFLUENZAE B, POLISACARIDO CONJUGADO.json"
+  },
+  {
+    "name": "HALOPERIDOL",
+    "file": "/data/fcos/HALOPERIDOL.json"
+  },
+  {
+    "name": "HAMAMELIS (OFTALMOLOGICO)",
+    "file": "/data/fcos/HAMAMELIS (OFTALMOLOGICO).json"
+  },
+  {
+    "name": "HAMAMELIS",
+    "file": "/data/fcos/HAMAMELIS.json"
+  },
+  {
+    "name": "HARPAGOFITO",
+    "file": "/data/fcos/HARPAGOFITO.json"
+  },
+  {
+    "name": "HEMINA",
+    "file": "/data/fcos/HEMINA.json"
+  },
+  {
+    "name": "HEPARINA (TOPICO)",
+    "file": "/data/fcos/HEPARINA (TOPICO).json"
+  },
+  {
+    "name": "HEPARINA",
+    "file": "/data/fcos/HEPARINA.json"
+  },
+  {
+    "name": "HESPERIDINA",
+    "file": "/data/fcos/HESPERIDINA.json"
+  },
+  {
+    "name": "HESPERIDINA-METIL-CHALCONA",
+    "file": "/data/fcos/HESPERIDINA-METIL-CHALCONA.json"
+  },
+  {
+    "name": "HEXETIDINA",
+    "file": "/data/fcos/HEXETIDINA.json"
+  },
+  {
+    "name": "HIALURONICO, ACIDO",
+    "file": "/data/fcos/HIALURONICO, ACIDO.json"
+  },
+  {
+    "name": "HIDRALAZINA",
+    "file": "/data/fcos/HIDRALAZINA.json"
+  },
+  {
+    "name": "HIDROCLOROTIAZIDA",
+    "file": "/data/fcos/HIDROCLOROTIAZIDA.json"
+  },
+  {
+    "name": "HIDROCORTISONA, ACEPONATO",
+    "file": "/data/fcos/HIDROCORTISONA, ACEPONATO.json"
+  },
+  {
+    "name": "HIDROCORTISONA, BUTEPRATO",
+    "file": "/data/fcos/HIDROCORTISONA, BUTEPRATO.json"
+  },
+  {
+    "name": "HIDROCORTISONA (ESTOMATOLOGICO)",
+    "file": "/data/fcos/HIDROCORTISONA (ESTOMATOLOGICO).json"
+  },
+  {
+    "name": "HIDROCORTISONA (H02AB)",
+    "file": "/data/fcos/HIDROCORTISONA (H02AB).json"
+  },
+  {
+    "name": "HIDROCORTISONA (OFTALMICO)",
+    "file": "/data/fcos/HIDROCORTISONA (OFTALMICO).json"
+  },
+  {
+    "name": "HIDROCORTISONA (OTICO)",
+    "file": "/data/fcos/HIDROCORTISONA (OTICO).json"
+  },
+  {
+    "name": "HIDROCORTISONA (RECTAL)",
+    "file": "/data/fcos/HIDROCORTISONA (RECTAL).json"
+  },
+  {
+    "name": "HIDROCORTISONA (TOPICO)",
+    "file": "/data/fcos/HIDROCORTISONA (TOPICO).json"
+  },
+  {
+    "name": "HIDROGENO FOSFATO DE DISODIO",
+    "file": "/data/fcos/HIDROGENO FOSFATO DE DISODIO.json"
+  },
+  {
+    "name": "HIDROMORFONA",
+    "file": "/data/fcos/HIDROMORFONA.json"
+  },
+  {
+    "name": "HIDROQUINIDINA",
+    "file": "/data/fcos/HIDROQUINIDINA.json"
+  },
+  {
+    "name": "HIDROQUINONA",
+    "file": "/data/fcos/HIDROQUINONA.json"
+  },
+  {
+    "name": "HIDROSMINA",
+    "file": "/data/fcos/HIDROSMINA.json"
+  },
+  {
+    "name": "HIDROXIAPATITA - OSEINA, COMPLEJO",
+    "file": "/data/fcos/HIDROXIAPATITA - OSEINA, COMPLEJO.json"
+  },
+  {
+    "name": "HIDROXICARBAMIDA",
+    "file": "/data/fcos/HIDROXICARBAMIDA.json"
+  },
+  {
+    "name": "HIDROXICLOROQUINA",
+    "file": "/data/fcos/HIDROXICLOROQUINA.json"
+  },
+  {
+    "name": "HIDROXIZINA",
+    "file": "/data/fcos/HIDROXIZINA.json"
+  },
+  {
+    "name": "HIDROXOCOBALAMINA (ANTIDOTO)",
+    "file": "/data/fcos/HIDROXOCOBALAMINA (ANTIDOTO).json"
+  },
+  {
+    "name": "HIDROXOCOBALAMINA",
+    "file": "/data/fcos/HIDROXOCOBALAMINA.json"
+  },
+  {
+    "name": "HIEDRA",
+    "file": "/data/fcos/HIEDRA.json"
+  },
+  {
+    "name": "HIERBALUISA",
+    "file": "/data/fcos/HIERBALUISA.json"
+  },
+  {
+    "name": "HIERRO (II), CARBONATO",
+    "file": "/data/fcos/HIERRO (II), CARBONATO.json"
+  },
+  {
+    "name": "HIERRO (II), CLORURO",
+    "file": "/data/fcos/HIERRO (II), CLORURO.json"
+  },
+  {
+    "name": "HIERRO (II), FUMARATO",
+    "file": "/data/fcos/HIERRO (II), FUMARATO.json"
+  },
+  {
+    "name": "HIERRO (II), GLUCONATO",
+    "file": "/data/fcos/HIERRO (II), GLUCONATO.json"
+  },
+  {
+    "name": "HIERRO (II), SULFATO",
+    "file": "/data/fcos/HIERRO (II), SULFATO.json"
+  },
+  {
+    "name": "HIERRO (III), CARBOXIMALTOSA",
+    "file": "/data/fcos/HIERRO (III), CARBOXIMALTOSA.json"
+  },
+  {
+    "name": "HIERRO (III), OXIHIDROXIDO SUCROFERRICO",
+    "file": "/data/fcos/HIERRO (III), OXIHIDROXIDO SUCROFERRICO.json"
+  },
+  {
+    "name": "HIERRO (III), PROTEINSUCCINILATO",
+    "file": "/data/fcos/HIERRO (III), PROTEINSUCCINILATO.json"
+  },
+  {
+    "name": "HIERRO (III), SACAROSA",
+    "file": "/data/fcos/HIERRO (III), SACAROSA.json"
+  },
+  {
+    "name": "HIGO CHUMBO",
+    "file": "/data/fcos/HIGO CHUMBO.json"
+  },
+  {
+    "name": "HIPERICO",
+    "file": "/data/fcos/HIPERICO.json"
+  },
+  {
+    "name": "HIPROMELOSA",
+    "file": "/data/fcos/HIPROMELOSA.json"
+  },
+  {
+    "name": "HISOPO",
+    "file": "/data/fcos/HISOPO.json"
+  },
+  {
+    "name": "HISTIDINA",
+    "file": "/data/fcos/HISTIDINA.json"
+  },
+  {
+    "name": "HORMONA FOLICULO ESTIMULANTE",
+    "file": "/data/fcos/HORMONA FOLICULO ESTIMULANTE.json"
+  },
+  {
+    "name": "HORMONA LUTEINIZANTE",
+    "file": "/data/fcos/HORMONA LUTEINIZANTE.json"
+  },
+  {
+    "name": "IBANDRONICO, ACIDO",
+    "file": "/data/fcos/IBANDRONICO, ACIDO.json"
+  },
+  {
+    "name": "IBRITUMOMAB TIUXETAN ITRIO-90 (90-Y)",
+    "file": "/data/fcos/IBRITUMOMAB TIUXETAN ITRIO-90 (90-Y).json"
+  },
+  {
+    "name": "IBRUTINIB",
+    "file": "/data/fcos/IBRUTINIB.json"
+  },
+  {
+    "name": "IBUPROFENO (CARDIOLOGIA)",
+    "file": "/data/fcos/IBUPROFENO (CARDIOLOGIA).json"
+  },
+  {
+    "name": "IBUPROFENO (TOPICO)",
+    "file": "/data/fcos/IBUPROFENO (TOPICO).json"
+  },
+  {
+    "name": "IBUPROFENO",
+    "file": "/data/fcos/IBUPROFENO.json"
+  },
+  {
+    "name": "ICATIBANT",
+    "file": "/data/fcos/ICATIBANT.json"
+  },
+  {
+    "name": "ICODEXTRINA",
+    "file": "/data/fcos/ICODEXTRINA.json"
+  },
+  {
+    "name": "IDARUBICINA",
+    "file": "/data/fcos/IDARUBICINA.json"
+  },
+  {
+    "name": "IDARUCIZUMAB",
+    "file": "/data/fcos/IDARUCIZUMAB.json"
+  },
+  {
+    "name": "IDECABTAGEN VICLEUCEL",
+    "file": "/data/fcos/IDECABTAGEN VICLEUCEL.json"
+  },
+  {
+    "name": "IDELALISIB",
+    "file": "/data/fcos/IDELALISIB.json"
+  },
+  {
+    "name": "IDOXURIDINA",
+    "file": "/data/fcos/IDOXURIDINA.json"
+  },
+  {
+    "name": "IDURSULFASA",
+    "file": "/data/fcos/IDURSULFASA.json"
+  },
+  {
+    "name": "IFOSFAMIDA",
+    "file": "/data/fcos/IFOSFAMIDA.json"
+  },
+  {
+    "name": "ILOPROST (INHALADO)",
+    "file": "/data/fcos/ILOPROST (INHALADO).json"
+  },
+  {
+    "name": "ILOPROST (PARENTERAL)",
+    "file": "/data/fcos/ILOPROST (PARENTERAL).json"
+  },
+  {
+    "name": "IMATINIB",
+    "file": "/data/fcos/IMATINIB.json"
+  },
+  {
+    "name": "IMIDAPRIL",
+    "file": "/data/fcos/IMIDAPRIL.json"
+  },
+  {
+    "name": "IMIGLUCERASA",
+    "file": "/data/fcos/IMIGLUCERASA.json"
+  },
+  {
+    "name": "IMIPENEM",
+    "file": "/data/fcos/IMIPENEM.json"
+  },
+  {
+    "name": "IMIPRAMINA",
+    "file": "/data/fcos/IMIPRAMINA.json"
+  },
+  {
+    "name": "IMIQUIMOD",
+    "file": "/data/fcos/IMIQUIMOD.json"
+  },
+  {
+    "name": "IMLIFIDASA",
+    "file": "/data/fcos/IMLIFIDASA.json"
+  },
+  {
+    "name": "INCLISIRAN",
+    "file": "/data/fcos/INCLISIRAN.json"
+  },
+  {
+    "name": "INDACATEROL",
+    "file": "/data/fcos/INDACATEROL.json"
+  },
+  {
+    "name": "INDAPAMIDA",
+    "file": "/data/fcos/INDAPAMIDA.json"
+  },
+  {
+    "name": "INDIO (111-IN), CLORURO",
+    "file": "/data/fcos/INDIO (111-IN), CLORURO.json"
+  },
+  {
+    "name": "INDIO (111-IN), OXINATO CELULAS MARCADAS",
+    "file": "/data/fcos/INDIO (111-IN), OXINATO CELULAS MARCADAS.json"
+  },
+  {
+    "name": "INDIO (111-IN), PENTETATO",
+    "file": "/data/fcos/INDIO (111-IN), PENTETATO.json"
+  },
+  {
+    "name": "INDIO (111-IN), PENTETREOTIDO",
+    "file": "/data/fcos/INDIO (111-IN), PENTETREOTIDO.json"
+  },
+  {
+    "name": "INDOMETACINA (TOPICO)",
+    "file": "/data/fcos/INDOMETACINA (TOPICO).json"
+  },
+  {
+    "name": "INDOMETACINA",
+    "file": "/data/fcos/INDOMETACINA.json"
+  },
+  {
+    "name": "INEBILIZUMAB",
+    "file": "/data/fcos/INEBILIZUMAB.json"
+  },
+  {
+    "name": "INFLIXIMAB",
+    "file": "/data/fcos/INFLIXIMAB.json"
+  },
+  {
+    "name": "INHIBIDOR C1 ESTERASA",
+    "file": "/data/fcos/INHIBIDOR C1 ESTERASA.json"
+  },
+  {
+    "name": "INMUNOGLOBULINA ANTICITOMEGALOVIRUS",
+    "file": "/data/fcos/INMUNOGLOBULINA ANTICITOMEGALOVIRUS.json"
+  },
+  {
+    "name": "INMUNOGLOBULINA ANTIHEPATITIS B",
+    "file": "/data/fcos/INMUNOGLOBULINA ANTIHEPATITIS B.json"
+  },
+  {
+    "name": "INMUNOGLOBULINA ANTILINFOCITOS T (CONEJO)",
+    "file": "/data/fcos/INMUNOGLOBULINA ANTILINFOCITOS T (CONEJO).json"
+  },
+  {
+    "name": "INMUNOGLOBULINA ANTI-RH",
+    "file": "/data/fcos/INMUNOGLOBULINA ANTI-RH.json"
+  },
+  {
+    "name": "INMUNOGLOBULINA ANTITETANICA",
+    "file": "/data/fcos/INMUNOGLOBULINA ANTITETANICA.json"
+  },
+  {
+    "name": "INMUNOGLOBULINA ANTITIMOCITICA (CONEJO)",
+    "file": "/data/fcos/INMUNOGLOBULINA ANTITIMOCITICA (CONEJO).json"
+  },
+  {
+    "name": "INMUNOGLOBULINA",
+    "file": "/data/fcos/INMUNOGLOBULINA.json"
+  },
+  {
+    "name": "INOTERSEN",
+    "file": "/data/fcos/INOTERSEN.json"
+  },
+  {
+    "name": "INOTUZUMAB OZOGAMICINA",
+    "file": "/data/fcos/INOTUZUMAB OZOGAMICINA.json"
+  },
+  {
+    "name": "INSULINA ASPART PROTAMINA",
+    "file": "/data/fcos/INSULINA ASPART PROTAMINA.json"
+  },
+  {
+    "name": "INSULINA ASPART",
+    "file": "/data/fcos/INSULINA ASPART.json"
+  },
+  {
+    "name": "INSULINA DEGLUDEC",
+    "file": "/data/fcos/INSULINA DEGLUDEC.json"
+  },
+  {
+    "name": "INSULINA DETEMIR",
+    "file": "/data/fcos/INSULINA DETEMIR.json"
+  },
+  {
+    "name": "INSULINA GLARGINA",
+    "file": "/data/fcos/INSULINA GLARGINA.json"
+  },
+  {
+    "name": "INSULINA GLULISINA",
+    "file": "/data/fcos/INSULINA GLULISINA.json"
+  },
+  {
+    "name": "INSULINA ISOFANICA",
+    "file": "/data/fcos/INSULINA ISOFANICA.json"
+  },
+  {
+    "name": "INSULINA LISPRO PROTAMINA",
+    "file": "/data/fcos/INSULINA LISPRO PROTAMINA.json"
+  },
+  {
+    "name": "INSULINA LISPRO",
+    "file": "/data/fcos/INSULINA LISPRO.json"
+  },
+  {
+    "name": "INSULINA",
+    "file": "/data/fcos/INSULINA.json"
+  },
+  {
+    "name": "INTERFERON BETA-1A",
+    "file": "/data/fcos/INTERFERON BETA-1A.json"
+  },
+  {
+    "name": "INTERFERON BETA-1B",
+    "file": "/data/fcos/INTERFERON BETA-1B.json"
+  },
+  {
+    "name": "INTERFERON GAMMA-1B",
+    "file": "/data/fcos/INTERFERON GAMMA-1B.json"
+  },
+  {
+    "name": "IOBITRIDOL",
+    "file": "/data/fcos/IOBITRIDOL.json"
+  },
+  {
+    "name": "IODIXANOL",
+    "file": "/data/fcos/IODIXANOL.json"
+  },
+  {
+    "name": "IODO (123-I), IOBENGUANO",
+    "file": "/data/fcos/IODO (123-I), IOBENGUANO.json"
+  },
+  {
+    "name": "IODO (123-I), IOFLUPANO",
+    "file": "/data/fcos/IODO (123-I), IOFLUPANO.json"
+  },
+  {
+    "name": "IODO (131-I), NORCOLESTEROL",
+    "file": "/data/fcos/IODO (131-I), NORCOLESTEROL.json"
+  },
+  {
+    "name": "IODO",
+    "file": "/data/fcos/IODO.json"
+  },
+  {
+    "name": "IODURO (123-I) SODICO",
+    "file": "/data/fcos/IODURO (123-I) SODICO.json"
+  },
+  {
+    "name": "IODURO (131-I) SODICO (TRATAMIENTO)",
+    "file": "/data/fcos/IODURO (131-I) SODICO (TRATAMIENTO).json"
+  },
+  {
+    "name": "IOHEXOL",
+    "file": "/data/fcos/IOHEXOL.json"
+  },
+  {
+    "name": "IOMEPROL",
+    "file": "/data/fcos/IOMEPROL.json"
+  },
+  {
+    "name": "IOPAMIDOL",
+    "file": "/data/fcos/IOPAMIDOL.json"
+  },
+  {
+    "name": "IOPROMIDA",
+    "file": "/data/fcos/IOPROMIDA.json"
+  },
+  {
+    "name": "IOVERSOL",
+    "file": "/data/fcos/IOVERSOL.json"
+  },
+  {
+    "name": "IPILIMUMAB",
+    "file": "/data/fcos/IPILIMUMAB.json"
+  },
+  {
+    "name": "IPRATROPIO, BROMURO (INHALADO)",
+    "file": "/data/fcos/IPRATROPIO, BROMURO (INHALADO).json"
+  },
+  {
+    "name": "IPRATROPIO, BROMURO (NASAL)",
+    "file": "/data/fcos/IPRATROPIO, BROMURO (NASAL).json"
+  },
+  {
+    "name": "IPTACOPAN",
+    "file": "/data/fcos/IPTACOPAN.json"
+  },
+  {
+    "name": "IRBESARTAN",
+    "file": "/data/fcos/IRBESARTAN.json"
+  },
+  {
+    "name": "IRINOTECAN",
+    "file": "/data/fcos/IRINOTECAN.json"
+  },
+  {
+    "name": "ISATUXIMAB",
+    "file": "/data/fcos/ISATUXIMAB.json"
+  },
+  {
+    "name": "ISAVUCONAZOL",
+    "file": "/data/fcos/ISAVUCONAZOL.json"
+  },
+  {
+    "name": "ISOFLURANO",
+    "file": "/data/fcos/ISOFLURANO.json"
+  },
+  {
+    "name": "ISOLEUCINA",
+    "file": "/data/fcos/ISOLEUCINA.json"
+  },
+  {
+    "name": "ISONIAZIDA",
+    "file": "/data/fcos/ISONIAZIDA.json"
+  },
+  {
+    "name": "ISOPRENALINA",
+    "file": "/data/fcos/ISOPRENALINA.json"
+  },
+  {
+    "name": "ISOPROPILICO, ALCOHOL",
+    "file": "/data/fcos/ISOPROPILICO, ALCOHOL.json"
+  },
+  {
+    "name": "ISOSORBIDA, MONONITRATO",
+    "file": "/data/fcos/ISOSORBIDA, MONONITRATO.json"
+  },
+  {
+    "name": "ISOTRETINOINA",
+    "file": "/data/fcos/ISOTRETINOINA.json"
+  },
+  {
+    "name": "ISPAGULA",
+    "file": "/data/fcos/ISPAGULA.json"
+  },
+  {
+    "name": "ITRACONAZOL",
+    "file": "/data/fcos/ITRACONAZOL.json"
+  },
+  {
+    "name": "ITRIO (90-Y), CITRATO COLOIDAL",
+    "file": "/data/fcos/ITRIO (90-Y), CITRATO COLOIDAL.json"
+  },
+  {
+    "name": "ITRIO (90-Y), CLORURO",
+    "file": "/data/fcos/ITRIO (90-Y), CLORURO.json"
+  },
+  {
+    "name": "IVABRADINA",
+    "file": "/data/fcos/IVABRADINA.json"
+  },
+  {
+    "name": "IVACAFTOR",
+    "file": "/data/fcos/IVACAFTOR.json"
+  },
+  {
+    "name": "IVERMECTINA (ORAL)",
+    "file": "/data/fcos/IVERMECTINA (ORAL).json"
+  },
+  {
+    "name": "IVERMECTINA (TOPICO)",
+    "file": "/data/fcos/IVERMECTINA (TOPICO).json"
+  },
+  {
+    "name": "IVOSIDENIB",
+    "file": "/data/fcos/IVOSIDENIB.json"
+  },
+  {
+    "name": "IXEKIZUMAB",
+    "file": "/data/fcos/IXEKIZUMAB.json"
+  },
+  {
+    "name": "KETAMINA",
+    "file": "/data/fcos/KETAMINA.json"
+  },
+  {
+    "name": "KETAZOLAM",
+    "file": "/data/fcos/KETAZOLAM.json"
+  },
+  {
+    "name": "KETOCONAZOL (GINECOLOGICO)",
+    "file": "/data/fcos/KETOCONAZOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "KETOCONAZOL (TOPICO)",
+    "file": "/data/fcos/KETOCONAZOL (TOPICO).json"
+  },
+  {
+    "name": "KETOCONAZOL",
+    "file": "/data/fcos/KETOCONAZOL.json"
+  },
+  {
+    "name": "KETOPROFENO (TOPICO)",
+    "file": "/data/fcos/KETOPROFENO (TOPICO).json"
+  },
+  {
+    "name": "KETOPROFENO",
+    "file": "/data/fcos/KETOPROFENO.json"
+  },
+  {
+    "name": "KETOROLACO (OFTALMICO)",
+    "file": "/data/fcos/KETOROLACO (OFTALMICO).json"
+  },
+  {
+    "name": "KETOROLACO",
+    "file": "/data/fcos/KETOROLACO.json"
+  },
+  {
+    "name": "KETOTIFENO (OFTALMICO)",
+    "file": "/data/fcos/KETOTIFENO (OFTALMICO).json"
+  },
+  {
+    "name": "KETOTIFENO",
+    "file": "/data/fcos/KETOTIFENO.json"
+  },
+  {
+    "name": "LABETALOL",
+    "file": "/data/fcos/LABETALOL.json"
+  },
+  {
+    "name": "LACIDIPINO",
+    "file": "/data/fcos/LACIDIPINO.json"
+  },
+  {
+    "name": "LACOSAMIDA",
+    "file": "/data/fcos/LACOSAMIDA.json"
+  },
+  {
+    "name": "LACTICO, ACIDO",
+    "file": "/data/fcos/LACTICO, ACIDO.json"
+  },
+  {
+    "name": "LACTITOL",
+    "file": "/data/fcos/LACTITOL.json"
+  },
+  {
+    "name": "LACTOBACILLUS ACIDOPHILLUS",
+    "file": "/data/fcos/LACTOBACILLUS ACIDOPHILLUS.json"
+  },
+  {
+    "name": "LACTOBACILLUS BIPHIDUS",
+    "file": "/data/fcos/LACTOBACILLUS BIPHIDUS.json"
+  },
+  {
+    "name": "LACTOBACILLUS GASSERI",
+    "file": "/data/fcos/LACTOBACILLUS GASSERI.json"
+  },
+  {
+    "name": "LACTOBACILLUS PLANTARUM",
+    "file": "/data/fcos/LACTOBACILLUS PLANTARUM.json"
+  },
+  {
+    "name": "LACTOBACILLUS RHAMNOSUS",
+    "file": "/data/fcos/LACTOBACILLUS RHAMNOSUS.json"
+  },
+  {
+    "name": "LACTOBIONICO, ACIDO",
+    "file": "/data/fcos/LACTOBIONICO, ACIDO.json"
+  },
+  {
+    "name": "LACTULOSA",
+    "file": "/data/fcos/LACTULOSA.json"
+  },
+  {
+    "name": "LAMIVUDINA",
+    "file": "/data/fcos/LAMIVUDINA.json"
+  },
+  {
+    "name": "LAMOTRIGINA",
+    "file": "/data/fcos/LAMOTRIGINA.json"
+  },
+  {
+    "name": "LANADELUMAB",
+    "file": "/data/fcos/LANADELUMAB.json"
+  },
+  {
+    "name": "LANDIOLOL",
+    "file": "/data/fcos/LANDIOLOL.json"
+  },
+  {
+    "name": "LANOLINA",
+    "file": "/data/fcos/LANOLINA.json"
+  },
+  {
+    "name": "LANREOTIDA",
+    "file": "/data/fcos/LANREOTIDA.json"
+  },
+  {
+    "name": "LANSOPRAZOL",
+    "file": "/data/fcos/LANSOPRAZOL.json"
+  },
+  {
+    "name": "LANTANO, CARBONATO",
+    "file": "/data/fcos/LANTANO, CARBONATO.json"
+  },
+  {
+    "name": "LAPATINIB",
+    "file": "/data/fcos/LAPATINIB.json"
+  },
+  {
+    "name": "LARONIDASA",
+    "file": "/data/fcos/LARONIDASA.json"
+  },
+  {
+    "name": "LAROTRECTINIB",
+    "file": "/data/fcos/LAROTRECTINIB.json"
+  },
+  {
+    "name": "LASMIDITAN",
+    "file": "/data/fcos/LASMIDITAN.json"
+  },
+  {
+    "name": "LATANOPROST",
+    "file": "/data/fcos/LATANOPROST.json"
+  },
+  {
+    "name": "LAURILSULFATO SODICO",
+    "file": "/data/fcos/LAURILSULFATO SODICO.json"
+  },
+  {
+    "name": "LAUROMACROGOL 400",
+    "file": "/data/fcos/LAUROMACROGOL 400.json"
+  },
+  {
+    "name": "LAVANDA",
+    "file": "/data/fcos/LAVANDA.json"
+  },
+  {
+    "name": "LEBRIKIZUMAB",
+    "file": "/data/fcos/LEBRIKIZUMAB.json"
+  },
+  {
+    "name": "LEDIPASVIR",
+    "file": "/data/fcos/LEDIPASVIR.json"
+  },
+  {
+    "name": "LEFLUNOMIDA",
+    "file": "/data/fcos/LEFLUNOMIDA.json"
+  },
+  {
+    "name": "LENACAPAVIR",
+    "file": "/data/fcos/LENACAPAVIR.json"
+  },
+  {
+    "name": "LENALIDOMIDA",
+    "file": "/data/fcos/LENALIDOMIDA.json"
+  },
+  {
+    "name": "LENVATINIB",
+    "file": "/data/fcos/LENVATINIB.json"
+  },
+  {
+    "name": "LERCANIDIPINO",
+    "file": "/data/fcos/LERCANIDIPINO.json"
+  },
+  {
+    "name": "LETERMOVIR",
+    "file": "/data/fcos/LETERMOVIR.json"
+  },
+  {
+    "name": "LETROZOL",
+    "file": "/data/fcos/LETROZOL.json"
+  },
+  {
+    "name": "LEUCINA",
+    "file": "/data/fcos/LEUCINA.json"
+  },
+  {
+    "name": "LEUPRORELINA",
+    "file": "/data/fcos/LEUPRORELINA.json"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "file": "/data/fcos/LEVETIRACETAM.json"
+  },
+  {
+    "name": "LEVOBUPIVACAINA",
+    "file": "/data/fcos/LEVOBUPIVACAINA.json"
+  },
+  {
+    "name": "LEVOCABASTINA (NASAL)",
+    "file": "/data/fcos/LEVOCABASTINA (NASAL).json"
+  },
+  {
+    "name": "LEVOCABASTINA (OFTALMICO)",
+    "file": "/data/fcos/LEVOCABASTINA (OFTALMICO).json"
+  },
+  {
+    "name": "LEVOCETIRIZINA",
+    "file": "/data/fcos/LEVOCETIRIZINA.json"
+  },
+  {
+    "name": "LEVODOPA",
+    "file": "/data/fcos/LEVODOPA.json"
+  },
+  {
+    "name": "LEVODROPROPIZINA",
+    "file": "/data/fcos/LEVODROPROPIZINA.json"
+  },
+  {
+    "name": "LEVOFLOXACINO (OFTALMICO)",
+    "file": "/data/fcos/LEVOFLOXACINO (OFTALMICO).json"
+  },
+  {
+    "name": "LEVOFLOXACINO",
+    "file": "/data/fcos/LEVOFLOXACINO.json"
+  },
+  {
+    "name": "LEVOFOLINATO CALCICO",
+    "file": "/data/fcos/LEVOFOLINATO CALCICO.json"
+  },
+  {
+    "name": "LEVOMEPROMAZINA",
+    "file": "/data/fcos/LEVOMEPROMAZINA.json"
+  },
+  {
+    "name": "LEVONORGESTREL (ANTICONCEPTIVO EMERGENCIA)",
+    "file": "/data/fcos/LEVONORGESTREL (ANTICONCEPTIVO EMERGENCIA).json"
+  },
+  {
+    "name": "LEVONORGESTREL (INTRAUTERINO)",
+    "file": "/data/fcos/LEVONORGESTREL (INTRAUTERINO).json"
+  },
+  {
+    "name": "LEVONORGESTREL",
+    "file": "/data/fcos/LEVONORGESTREL.json"
+  },
+  {
+    "name": "LEVOSIMENDAN",
+    "file": "/data/fcos/LEVOSIMENDAN.json"
+  },
+  {
+    "name": "LEVOSULPIRIDA",
+    "file": "/data/fcos/LEVOSULPIRIDA.json"
+  },
+  {
+    "name": "LEVOTIROXINA",
+    "file": "/data/fcos/LEVOTIROXINA.json"
+  },
+  {
+    "name": "LIDAMIDINA",
+    "file": "/data/fcos/LIDAMIDINA.json"
+  },
+  {
+    "name": "LIDOCAINA (ESTOMATOLOGICA)",
+    "file": "/data/fcos/LIDOCAINA (ESTOMATOLOGICA).json"
+  },
+  {
+    "name": "LIDOCAINA (OFTALMICO)",
+    "file": "/data/fcos/LIDOCAINA (OFTALMICO).json"
+  },
+  {
+    "name": "LIDOCAINA (TOPICO)",
+    "file": "/data/fcos/LIDOCAINA (TOPICO).json"
+  },
+  {
+    "name": "LIDOCAINA",
+    "file": "/data/fcos/LIDOCAINA.json"
+  },
+  {
+    "name": "LINACLOTIDA",
+    "file": "/data/fcos/LINACLOTIDA.json"
+  },
+  {
+    "name": "LINAGLIPTINA",
+    "file": "/data/fcos/LINAGLIPTINA.json"
+  },
+  {
+    "name": "LINCOMICINA",
+    "file": "/data/fcos/LINCOMICINA.json"
+  },
+  {
+    "name": "LINEZOLID",
+    "file": "/data/fcos/LINEZOLID.json"
+  },
+  {
+    "name": "LINO",
+    "file": "/data/fcos/LINO.json"
+  },
+  {
+    "name": "LINZAGOLIX",
+    "file": "/data/fcos/LINZAGOLIX.json"
+  },
+  {
+    "name": "LIPASA",
+    "file": "/data/fcos/LIPASA.json"
+  },
+  {
+    "name": "LIPEGFILGRASTIM",
+    "file": "/data/fcos/LIPEGFILGRASTIM.json"
+  },
+  {
+    "name": "LIRAGLUTIDA",
+    "file": "/data/fcos/LIRAGLUTIDA.json"
+  },
+  {
+    "name": "LISDEXANFETAMINA",
+    "file": "/data/fcos/LISDEXANFETAMINA.json"
+  },
+  {
+    "name": "LISINA",
+    "file": "/data/fcos/LISINA.json"
+  },
+  {
+    "name": "LISINOPRIL",
+    "file": "/data/fcos/LISINOPRIL.json"
+  },
+  {
+    "name": "LISOZIMA",
+    "file": "/data/fcos/LISOZIMA.json"
+  },
+  {
+    "name": "LITIO, CARBONATO",
+    "file": "/data/fcos/LITIO, CARBONATO.json"
+  },
+  {
+    "name": "LLANTEN",
+    "file": "/data/fcos/LLANTEN.json"
+  },
+  {
+    "name": "LOMITAPIDA",
+    "file": "/data/fcos/LOMITAPIDA.json"
+  },
+  {
+    "name": "LONOCTOCOG ALFA",
+    "file": "/data/fcos/LONOCTOCOG ALFA.json"
+  },
+  {
+    "name": "LOPERAMIDA",
+    "file": "/data/fcos/LOPERAMIDA.json"
+  },
+  {
+    "name": "LOPINAVIR",
+    "file": "/data/fcos/LOPINAVIR.json"
+  },
+  {
+    "name": "LOPRAZOLAM",
+    "file": "/data/fcos/LOPRAZOLAM.json"
+  },
+  {
+    "name": "LORATADINA",
+    "file": "/data/fcos/LORATADINA.json"
+  },
+  {
+    "name": "LORAZEPAM",
+    "file": "/data/fcos/LORAZEPAM.json"
+  },
+  {
+    "name": "LORLATINIB",
+    "file": "/data/fcos/LORLATINIB.json"
+  },
+  {
+    "name": "LORMETAZEPAM",
+    "file": "/data/fcos/LORMETAZEPAM.json"
+  },
+  {
+    "name": "LORNOXICAM",
+    "file": "/data/fcos/LORNOXICAM.json"
+  },
+  {
+    "name": "LOSARTAN",
+    "file": "/data/fcos/LOSARTAN.json"
+  },
+  {
+    "name": "LOVASTATINA",
+    "file": "/data/fcos/LOVASTATINA.json"
+  },
+  {
+    "name": "LOXAPINA",
+    "file": "/data/fcos/LOXAPINA.json"
+  },
+  {
+    "name": "LUMACAFTOR",
+    "file": "/data/fcos/LUMACAFTOR.json"
+  },
+  {
+    "name": "LUMASIRAN",
+    "file": "/data/fcos/LUMASIRAN.json"
+  },
+  {
+    "name": "LUPULO",
+    "file": "/data/fcos/LUPULO.json"
+  },
+  {
+    "name": "LURASIDONA",
+    "file": "/data/fcos/LURASIDONA.json"
+  },
+  {
+    "name": "LUSPATERCEPT",
+    "file": "/data/fcos/LUSPATERCEPT.json"
+  },
+  {
+    "name": "LUSUTROMBOPAG",
+    "file": "/data/fcos/LUSUTROMBOPAG.json"
+  },
+  {
+    "name": "LUTECIO (177-LU), OXODOTREOTIDA",
+    "file": "/data/fcos/LUTECIO (177-LU), OXODOTREOTIDA.json"
+  },
+  {
+    "name": "LUTROPINA ALFA",
+    "file": "/data/fcos/LUTROPINA ALFA.json"
+  },
+  {
+    "name": "MACIMORELINA",
+    "file": "/data/fcos/MACIMORELINA.json"
+  },
+  {
+    "name": "MACITENTAN",
+    "file": "/data/fcos/MACITENTAN.json"
+  },
+  {
+    "name": "MACROGOL 3350",
+    "file": "/data/fcos/MACROGOL 3350.json"
+  },
+  {
+    "name": "MACROGOL 4000",
+    "file": "/data/fcos/MACROGOL 4000.json"
+  },
+  {
+    "name": "MAGALDRATO",
+    "file": "/data/fcos/MAGALDRATO.json"
+  },
+  {
+    "name": "MAGNESIO, ACETATO",
+    "file": "/data/fcos/MAGNESIO, ACETATO.json"
+  },
+  {
+    "name": "MAGNESIO, BROMURO",
+    "file": "/data/fcos/MAGNESIO, BROMURO.json"
+  },
+  {
+    "name": "MAGNESIO, CARBONATO",
+    "file": "/data/fcos/MAGNESIO, CARBONATO.json"
+  },
+  {
+    "name": "MAGNESIO, CITRATO",
+    "file": "/data/fcos/MAGNESIO, CITRATO.json"
+  },
+  {
+    "name": "MAGNESIO, CLORURO",
+    "file": "/data/fcos/MAGNESIO, CLORURO.json"
+  },
+  {
+    "name": "MAGNESIO, FLUORURO",
+    "file": "/data/fcos/MAGNESIO, FLUORURO.json"
+  },
+  {
+    "name": "MAGNESIO, HIDROXIDO",
+    "file": "/data/fcos/MAGNESIO, HIDROXIDO.json"
+  },
+  {
+    "name": "MAGNESIO, LACTATO",
+    "file": "/data/fcos/MAGNESIO, LACTATO.json"
+  },
+  {
+    "name": "MAGNESIO, OXIDO",
+    "file": "/data/fcos/MAGNESIO, OXIDO.json"
+  },
+  {
+    "name": "MAGNESIO, PIDOLATO",
+    "file": "/data/fcos/MAGNESIO, PIDOLATO.json"
+  },
+  {
+    "name": "MAGNESIO, SULFATO",
+    "file": "/data/fcos/MAGNESIO, SULFATO.json"
+  },
+  {
+    "name": "MALICO, ACIDO",
+    "file": "/data/fcos/MALICO, ACIDO.json"
+  },
+  {
+    "name": "MANGANESO, CLORURO",
+    "file": "/data/fcos/MANGANESO, CLORURO.json"
+  },
+  {
+    "name": "MANGANESO, SULFATO",
+    "file": "/data/fcos/MANGANESO, SULFATO.json"
+  },
+  {
+    "name": "MANIDIPINO",
+    "file": "/data/fcos/MANIDIPINO.json"
+  },
+  {
+    "name": "MANITOL (DIAGNOSTICO)",
+    "file": "/data/fcos/MANITOL (DIAGNOSTICO).json"
+  },
+  {
+    "name": "MANITOL",
+    "file": "/data/fcos/MANITOL.json"
+  },
+  {
+    "name": "MANTECA DE KARITE,",
+    "file": "/data/fcos/MANTECA DE KARITE,.json"
+  },
+  {
+    "name": "MANZANILLA COMUN",
+    "file": "/data/fcos/MANZANILLA COMUN.json"
+  },
+  {
+    "name": "MANZANO",
+    "file": "/data/fcos/MANZANO.json"
+  },
+  {
+    "name": "MAPROTILINA",
+    "file": "/data/fcos/MAPROTILINA.json"
+  },
+  {
+    "name": "MARALIXIBAT",
+    "file": "/data/fcos/MARALIXIBAT.json"
+  },
+  {
+    "name": "MARAVIROC",
+    "file": "/data/fcos/MARAVIROC.json"
+  },
+  {
+    "name": "MARIBAVIR",
+    "file": "/data/fcos/MARIBAVIR.json"
+  },
+  {
+    "name": "MAVACAMTEN",
+    "file": "/data/fcos/MAVACAMTEN.json"
+  },
+  {
+    "name": "MEBENDAZOL",
+    "file": "/data/fcos/MEBENDAZOL.json"
+  },
+  {
+    "name": "MEBEVERINA",
+    "file": "/data/fcos/MEBEVERINA.json"
+  },
+  {
+    "name": "MECASERMINA",
+    "file": "/data/fcos/MECASERMINA.json"
+  },
+  {
+    "name": "MECLOZINA",
+    "file": "/data/fcos/MECLOZINA.json"
+  },
+  {
+    "name": "MEDAZEPAM",
+    "file": "/data/fcos/MEDAZEPAM.json"
+  },
+  {
+    "name": "MEDROXIPROGESTERONA",
+    "file": "/data/fcos/MEDROXIPROGESTERONA.json"
+  },
+  {
+    "name": "MEFENAMICO, ACIDO",
+    "file": "/data/fcos/MEFENAMICO, ACIDO.json"
+  },
+  {
+    "name": "MEGESTROL",
+    "file": "/data/fcos/MEGESTROL.json"
+  },
+  {
+    "name": "MEGLUMINA, AMIDOTRIZOATO",
+    "file": "/data/fcos/MEGLUMINA, AMIDOTRIZOATO.json"
+  },
+  {
+    "name": "MEGLUMINA, ANTIMONIATO",
+    "file": "/data/fcos/MEGLUMINA, ANTIMONIATO.json"
+  },
+  {
+    "name": "MELATONINA",
+    "file": "/data/fcos/MELATONINA.json"
+  },
+  {
+    "name": "MELFALAN FLUFENAMIDA",
+    "file": "/data/fcos/MELFALAN FLUFENAMIDA.json"
+  },
+  {
+    "name": "MELFALAN",
+    "file": "/data/fcos/MELFALAN.json"
+  },
+  {
+    "name": "MELISA",
+    "file": "/data/fcos/MELISA.json"
+  },
+  {
+    "name": "MELITRACENO",
+    "file": "/data/fcos/MELITRACENO.json"
+  },
+  {
+    "name": "MELOXICAM",
+    "file": "/data/fcos/MELOXICAM.json"
+  },
+  {
+    "name": "MEMANTINA",
+    "file": "/data/fcos/MEMANTINA.json"
+  },
+  {
+    "name": "MENINGOCOCO A, POLISACARIDO",
+    "file": "/data/fcos/MENINGOCOCO A, POLISACARIDO.json"
+  },
+  {
+    "name": "MENINGOCOCO B, VACUNA MULTICOMPONENTE",
+    "file": "/data/fcos/MENINGOCOCO B, VACUNA MULTICOMPONENTE.json"
+  },
+  {
+    "name": "MENINGOCOCO C, POLISACARIDO",
+    "file": "/data/fcos/MENINGOCOCO C, POLISACARIDO.json"
+  },
+  {
+    "name": "MENINGOCOCO W135, POLISACARIDO",
+    "file": "/data/fcos/MENINGOCOCO W135, POLISACARIDO.json"
+  },
+  {
+    "name": "MENINGOCOCO Y, POLISACARIDO",
+    "file": "/data/fcos/MENINGOCOCO Y, POLISACARIDO.json"
+  },
+  {
+    "name": "MENOTROPINA",
+    "file": "/data/fcos/MENOTROPINA.json"
+  },
+  {
+    "name": "MENTA",
+    "file": "/data/fcos/MENTA.json"
+  },
+  {
+    "name": "MENTOL",
+    "file": "/data/fcos/MENTOL.json"
+  },
+  {
+    "name": "MEPIRAMINA",
+    "file": "/data/fcos/MEPIRAMINA.json"
+  },
+  {
+    "name": "MEPIVACAINA",
+    "file": "/data/fcos/MEPIVACAINA.json"
+  },
+  {
+    "name": "MEPOLIZUMAB",
+    "file": "/data/fcos/MEPOLIZUMAB.json"
+  },
+  {
+    "name": "MERCAPTAMINA",
+    "file": "/data/fcos/MERCAPTAMINA.json"
+  },
+  {
+    "name": "MERCAPTOPURINA",
+    "file": "/data/fcos/MERCAPTOPURINA.json"
+  },
+  {
+    "name": "MERCUROCROMO",
+    "file": "/data/fcos/MERCUROCROMO.json"
+  },
+  {
+    "name": "MEROPENEM",
+    "file": "/data/fcos/MEROPENEM.json"
+  },
+  {
+    "name": "MESALAZINA",
+    "file": "/data/fcos/MESALAZINA.json"
+  },
+  {
+    "name": "MESNA (ANTIDOTO)",
+    "file": "/data/fcos/MESNA (ANTIDOTO).json"
+  },
+  {
+    "name": "MESNA",
+    "file": "/data/fcos/MESNA.json"
+  },
+  {
+    "name": "MESTEROLONA",
+    "file": "/data/fcos/MESTEROLONA.json"
+  },
+  {
+    "name": "METACOLINA",
+    "file": "/data/fcos/METACOLINA.json"
+  },
+  {
+    "name": "METADONA",
+    "file": "/data/fcos/METADONA.json"
+  },
+  {
+    "name": "METAMIZOL",
+    "file": "/data/fcos/METAMIZOL.json"
+  },
+  {
+    "name": "METENOLONA",
+    "file": "/data/fcos/METENOLONA.json"
+  },
+  {
+    "name": "METFORMINA",
+    "file": "/data/fcos/METFORMINA.json"
+  },
+  {
+    "name": "METILDIGOXINA",
+    "file": "/data/fcos/METILDIGOXINA.json"
+  },
+  {
+    "name": "METILDOPA",
+    "file": "/data/fcos/METILDOPA.json"
+  },
+  {
+    "name": "METILERGOMETRINA",
+    "file": "/data/fcos/METILERGOMETRINA.json"
+  },
+  {
+    "name": "METILFENIDATO",
+    "file": "/data/fcos/METILFENIDATO.json"
+  },
+  {
+    "name": "METILNALTREXONA, BROMURO",
+    "file": "/data/fcos/METILNALTREXONA, BROMURO.json"
+  },
+  {
+    "name": "METILPREDNISOLONA, ACEPONATO (TOPICO)",
+    "file": "/data/fcos/METILPREDNISOLONA, ACEPONATO (TOPICO).json"
+  },
+  {
+    "name": "METILPREDNISOLONA",
+    "file": "/data/fcos/METILPREDNISOLONA.json"
+  },
+  {
+    "name": "METIONINA",
+    "file": "/data/fcos/METIONINA.json"
+  },
+  {
+    "name": "METIRAPONA",
+    "file": "/data/fcos/METIRAPONA.json"
+  },
+  {
+    "name": "METOCARBAMOL",
+    "file": "/data/fcos/METOCARBAMOL.json"
+  },
+  {
+    "name": "METOCLOPRAMIDA",
+    "file": "/data/fcos/METOCLOPRAMIDA.json"
+  },
+  {
+    "name": "METOPROLOL",
+    "file": "/data/fcos/METOPROLOL.json"
+  },
+  {
+    "name": "METOTREXATO (ANTINEOPLASICO)",
+    "file": "/data/fcos/METOTREXATO (ANTINEOPLASICO).json"
+  },
+  {
+    "name": "METOTREXATO (INMUNOSUPRESOR)",
+    "file": "/data/fcos/METOTREXATO (INMUNOSUPRESOR).json"
+  },
+  {
+    "name": "METRONIDAZOL (GINECOLOGICO)",
+    "file": "/data/fcos/METRONIDAZOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "METRONIDAZOL (ORAL)",
+    "file": "/data/fcos/METRONIDAZOL (ORAL).json"
+  },
+  {
+    "name": "METRONIDAZOL (PARENTERAL)",
+    "file": "/data/fcos/METRONIDAZOL (PARENTERAL).json"
+  },
+  {
+    "name": "METRONIDAZOL (TOPICO)",
+    "file": "/data/fcos/METRONIDAZOL (TOPICO).json"
+  },
+  {
+    "name": "MEXILETINA",
+    "file": "/data/fcos/MEXILETINA.json"
+  },
+  {
+    "name": "MIANSERINA",
+    "file": "/data/fcos/MIANSERINA.json"
+  },
+  {
+    "name": "MICAFUNGINA",
+    "file": "/data/fcos/MICAFUNGINA.json"
+  },
+  {
+    "name": "MICOFENOLICO, ACIDO",
+    "file": "/data/fcos/MICOFENOLICO, ACIDO.json"
+  },
+  {
+    "name": "MICONAZOL (ESTOMATOLOGICO)",
+    "file": "/data/fcos/MICONAZOL (ESTOMATOLOGICO).json"
+  },
+  {
+    "name": "MICONAZOL (GINECOLOGICO)",
+    "file": "/data/fcos/MICONAZOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "MICONAZOL (TOPICO)",
+    "file": "/data/fcos/MICONAZOL (TOPICO).json"
+  },
+  {
+    "name": "MICROESFERAS ALBUMINA HUMANA",
+    "file": "/data/fcos/MICROESFERAS ALBUMINA HUMANA.json"
+  },
+  {
+    "name": "MIDAZOLAM",
+    "file": "/data/fcos/MIDAZOLAM.json"
+  },
+  {
+    "name": "MIDODRINA",
+    "file": "/data/fcos/MIDODRINA.json"
+  },
+  {
+    "name": "MIDOSTAURINA",
+    "file": "/data/fcos/MIDOSTAURINA.json"
+  },
+  {
+    "name": "MIFAMURTIDA",
+    "file": "/data/fcos/MIFAMURTIDA.json"
+  },
+  {
+    "name": "MIFEPRISTONA",
+    "file": "/data/fcos/MIFEPRISTONA.json"
+  },
+  {
+    "name": "MIGALASTAT",
+    "file": "/data/fcos/MIGALASTAT.json"
+  },
+  {
+    "name": "MIGLUSTAT",
+    "file": "/data/fcos/MIGLUSTAT.json"
+  },
+  {
+    "name": "MILENRAMA",
+    "file": "/data/fcos/MILENRAMA.json"
+  },
+  {
+    "name": "MILRINONA",
+    "file": "/data/fcos/MILRINONA.json"
+  },
+  {
+    "name": "MINOCICLINA",
+    "file": "/data/fcos/MINOCICLINA.json"
+  },
+  {
+    "name": "MINOXIDIL (TOPICO)",
+    "file": "/data/fcos/MINOXIDIL (TOPICO).json"
+  },
+  {
+    "name": "MINOXIDIL",
+    "file": "/data/fcos/MINOXIDIL.json"
+  },
+  {
+    "name": "MIRABEGRON",
+    "file": "/data/fcos/MIRABEGRON.json"
+  },
+  {
+    "name": "MIRIKIZUMAB",
+    "file": "/data/fcos/MIRIKIZUMAB.json"
+  },
+  {
+    "name": "MIRTAZAPINA",
+    "file": "/data/fcos/MIRTAZAPINA.json"
+  },
+  {
+    "name": "MIRTECAINA",
+    "file": "/data/fcos/MIRTECAINA.json"
+  },
+  {
+    "name": "MISOPROSTOL (GINECOLOGICO)",
+    "file": "/data/fcos/MISOPROSTOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "MISOPROSTOL",
+    "file": "/data/fcos/MISOPROSTOL.json"
+  },
+  {
+    "name": "MITOMICINA",
+    "file": "/data/fcos/MITOMICINA.json"
+  },
+  {
+    "name": "MITOTANO",
+    "file": "/data/fcos/MITOTANO.json"
+  },
+  {
+    "name": "MIZOLASTINA",
+    "file": "/data/fcos/MIZOLASTINA.json"
+  },
+  {
+    "name": "MOCLOBEMIDA",
+    "file": "/data/fcos/MOCLOBEMIDA.json"
+  },
+  {
+    "name": "MODAFINILO",
+    "file": "/data/fcos/MODAFINILO.json"
+  },
+  {
+    "name": "MOGAMULIZUMAB",
+    "file": "/data/fcos/MOGAMULIZUMAB.json"
+  },
+  {
+    "name": "MOLNUPIRAVIR",
+    "file": "/data/fcos/MOLNUPIRAVIR.json"
+  },
+  {
+    "name": "MOLSIDOMINA",
+    "file": "/data/fcos/MOLSIDOMINA.json"
+  },
+  {
+    "name": "MOMELOTINIB",
+    "file": "/data/fcos/MOMELOTINIB.json"
+  },
+  {
+    "name": "MOMETASONA (INHALADO)",
+    "file": "/data/fcos/MOMETASONA (INHALADO).json"
+  },
+  {
+    "name": "MOMETASONA (NASAL)",
+    "file": "/data/fcos/MOMETASONA (NASAL).json"
+  },
+  {
+    "name": "MOMETASONA",
+    "file": "/data/fcos/MOMETASONA.json"
+  },
+  {
+    "name": "MONTELUKAST",
+    "file": "/data/fcos/MONTELUKAST.json"
+  },
+  {
+    "name": "MORFINA (ANTIDIARREICO)",
+    "file": "/data/fcos/MORFINA (ANTIDIARREICO).json"
+  },
+  {
+    "name": "MORFINA",
+    "file": "/data/fcos/MORFINA.json"
+  },
+  {
+    "name": "MOROCTOCOG ALFA",
+    "file": "/data/fcos/MOROCTOCOG ALFA.json"
+  },
+  {
+    "name": "MOSUNETUZUMAB",
+    "file": "/data/fcos/MOSUNETUZUMAB.json"
+  },
+  {
+    "name": "MOXIFLOXACINO (OFTALMICO)",
+    "file": "/data/fcos/MOXIFLOXACINO (OFTALMICO).json"
+  },
+  {
+    "name": "MOXIFLOXACINO",
+    "file": "/data/fcos/MOXIFLOXACINO.json"
+  },
+  {
+    "name": "MOXONIDINA",
+    "file": "/data/fcos/MOXONIDINA.json"
+  },
+  {
+    "name": "MUPIROCINA",
+    "file": "/data/fcos/MUPIROCINA.json"
+  },
+  {
+    "name": "MYCOBACTERIUM BOVIS, ATENUADO (INMUNOESTIMULANTE)",
+    "file": "/data/fcos/MYCOBACTERIUM BOVIS, ATENUADO (INMUNOESTIMULANTE).json"
+  },
+  {
+    "name": "MYCOBACTERIUM BOVIS, ATENUADO (VACUNA)",
+    "file": "/data/fcos/MYCOBACTERIUM BOVIS, ATENUADO (VACUNA).json"
+  },
+  {
+    "name": "MYCOBACTERIUM TUBERCULOSIS",
+    "file": "/data/fcos/MYCOBACTERIUM TUBERCULOSIS.json"
+  },
+  {
+    "name": "NABUMETONA",
+    "file": "/data/fcos/NABUMETONA.json"
+  },
+  {
+    "name": "NADIFLOXACINO",
+    "file": "/data/fcos/NADIFLOXACINO.json"
+  },
+  {
+    "name": "NAFARELINA",
+    "file": "/data/fcos/NAFARELINA.json"
+  },
+  {
+    "name": "NAFAZOLINA (OFTALMICO)",
+    "file": "/data/fcos/NAFAZOLINA (OFTALMICO).json"
+  },
+  {
+    "name": "NALDEMEDINA",
+    "file": "/data/fcos/NALDEMEDINA.json"
+  },
+  {
+    "name": "NALMEFENO",
+    "file": "/data/fcos/NALMEFENO.json"
+  },
+  {
+    "name": "NALOXEGOL",
+    "file": "/data/fcos/NALOXEGOL.json"
+  },
+  {
+    "name": "NALOXONA",
+    "file": "/data/fcos/NALOXONA.json"
+  },
+  {
+    "name": "NALTREXONA",
+    "file": "/data/fcos/NALTREXONA.json"
+  },
+  {
+    "name": "NAPROXENO",
+    "file": "/data/fcos/NAPROXENO.json"
+  },
+  {
+    "name": "NARATRIPTAN",
+    "file": "/data/fcos/NARATRIPTAN.json"
+  },
+  {
+    "name": "NATALIZUMAB",
+    "file": "/data/fcos/NATALIZUMAB.json"
+  },
+  {
+    "name": "NEBIVOLOL",
+    "file": "/data/fcos/NEBIVOLOL.json"
+  },
+  {
+    "name": "NEDOCROMILO (OFTALMICO)",
+    "file": "/data/fcos/NEDOCROMILO (OFTALMICO).json"
+  },
+  {
+    "name": "NELARABINA",
+    "file": "/data/fcos/NELARABINA.json"
+  },
+  {
+    "name": "NEOMICINA (OFTALMICO)",
+    "file": "/data/fcos/NEOMICINA (OFTALMICO).json"
+  },
+  {
+    "name": "NEOMICINA (TOPICA)",
+    "file": "/data/fcos/NEOMICINA (TOPICA).json"
+  },
+  {
+    "name": "NEOMICINA",
+    "file": "/data/fcos/NEOMICINA.json"
+  },
+  {
+    "name": "NEOSTIGMINA",
+    "file": "/data/fcos/NEOSTIGMINA.json"
+  },
+  {
+    "name": "NEPAFENACO",
+    "file": "/data/fcos/NEPAFENACO.json"
+  },
+  {
+    "name": "NERATINIB",
+    "file": "/data/fcos/NERATINIB.json"
+  },
+  {
+    "name": "NETARSUDIL",
+    "file": "/data/fcos/NETARSUDIL.json"
+  },
+  {
+    "name": "NETILMICINA",
+    "file": "/data/fcos/NETILMICINA.json"
+  },
+  {
+    "name": "NETUPITANT",
+    "file": "/data/fcos/NETUPITANT.json"
+  },
+  {
+    "name": "NEVIRAPINA",
+    "file": "/data/fcos/NEVIRAPINA.json"
+  },
+  {
+    "name": "NICARDIPINO",
+    "file": "/data/fcos/NICARDIPINO.json"
+  },
+  {
+    "name": "NICERGOLINA",
+    "file": "/data/fcos/NICERGOLINA.json"
+  },
+  {
+    "name": "NICOTINA",
+    "file": "/data/fcos/NICOTINA.json"
+  },
+  {
+    "name": "NICOTINAMIDA",
+    "file": "/data/fcos/NICOTINAMIDA.json"
+  },
+  {
+    "name": "NICOTINATO DE METILO",
+    "file": "/data/fcos/NICOTINATO DE METILO.json"
+  },
+  {
+    "name": "NIFEDIPINO (GINECOLOGICO)",
+    "file": "/data/fcos/NIFEDIPINO (GINECOLOGICO).json"
+  },
+  {
+    "name": "NIFEDIPINO",
+    "file": "/data/fcos/NIFEDIPINO.json"
+  },
+  {
+    "name": "NIFLUMICO, ACIDO",
+    "file": "/data/fcos/NIFLUMICO, ACIDO.json"
+  },
+  {
+    "name": "NIFUROXAZIDA",
+    "file": "/data/fcos/NIFUROXAZIDA.json"
+  },
+  {
+    "name": "NILOTINIB",
+    "file": "/data/fcos/NILOTINIB.json"
+  },
+  {
+    "name": "NIMODIPINO",
+    "file": "/data/fcos/NIMODIPINO.json"
+  },
+  {
+    "name": "NINTEDANIB",
+    "file": "/data/fcos/NINTEDANIB.json"
+  },
+  {
+    "name": "NIRAPARIB",
+    "file": "/data/fcos/NIRAPARIB.json"
+  },
+  {
+    "name": "NIRMATRELVIR",
+    "file": "/data/fcos/NIRMATRELVIR.json"
+  },
+  {
+    "name": "NIRSEVIMAB",
+    "file": "/data/fcos/NIRSEVIMAB.json"
+  },
+  {
+    "name": "NISTATINA (ORAL)",
+    "file": "/data/fcos/NISTATINA (ORAL).json"
+  },
+  {
+    "name": "NISTATINA (TOPICO)",
+    "file": "/data/fcos/NISTATINA (TOPICO).json"
+  },
+  {
+    "name": "NITISINONA",
+    "file": "/data/fcos/NITISINONA.json"
+  },
+  {
+    "name": "NITRENDIPINO",
+    "file": "/data/fcos/NITRENDIPINO.json"
+  },
+  {
+    "name": "NITROFURAL",
+    "file": "/data/fcos/NITROFURAL.json"
+  },
+  {
+    "name": "NITROFURANTOINA",
+    "file": "/data/fcos/NITROFURANTOINA.json"
+  },
+  {
+    "name": "NITROGLICERINA (RECTAL)",
+    "file": "/data/fcos/NITROGLICERINA (RECTAL).json"
+  },
+  {
+    "name": "NITROGLICERINA",
+    "file": "/data/fcos/NITROGLICERINA.json"
+  },
+  {
+    "name": "NITROPRUSIATO SODICO",
+    "file": "/data/fcos/NITROPRUSIATO SODICO.json"
+  },
+  {
+    "name": "NIVOLUMAB",
+    "file": "/data/fcos/NIVOLUMAB.json"
+  },
+  {
+    "name": "NOGAL",
+    "file": "/data/fcos/NOGAL.json"
+  },
+  {
+    "name": "NOMEGESTROL",
+    "file": "/data/fcos/NOMEGESTROL.json"
+  },
+  {
+    "name": "NONACOG ALFA",
+    "file": "/data/fcos/NONACOG ALFA.json"
+  },
+  {
+    "name": "NONACOG BETA PEGOL",
+    "file": "/data/fcos/NONACOG BETA PEGOL.json"
+  },
+  {
+    "name": "NONACOG GAMMA",
+    "file": "/data/fcos/NONACOG GAMMA.json"
+  },
+  {
+    "name": "NORELGESTROMINA",
+    "file": "/data/fcos/NORELGESTROMINA.json"
+  },
+  {
+    "name": "NOREPINEFRINA",
+    "file": "/data/fcos/NOREPINEFRINA.json"
+  },
+  {
+    "name": "NORETISTERONA",
+    "file": "/data/fcos/NORETISTERONA.json"
+  },
+  {
+    "name": "NORFLOXACINO",
+    "file": "/data/fcos/NORFLOXACINO.json"
+  },
+  {
+    "name": "NORGESTIMATO",
+    "file": "/data/fcos/NORGESTIMATO.json"
+  },
+  {
+    "name": "NORGESTREL",
+    "file": "/data/fcos/NORGESTREL.json"
+  },
+  {
+    "name": "NORTRIPTILINA",
+    "file": "/data/fcos/NORTRIPTILINA.json"
+  },
+  {
+    "name": "NOSCAPINA",
+    "file": "/data/fcos/NOSCAPINA.json"
+  },
+  {
+    "name": "NUEZ MOSCADA",
+    "file": "/data/fcos/NUEZ MOSCADA.json"
+  },
+  {
+    "name": "NUSINERSEN",
+    "file": "/data/fcos/NUSINERSEN.json"
+  },
+  {
+    "name": "OBINUTUZUMAB",
+    "file": "/data/fcos/OBINUTUZUMAB.json"
+  },
+  {
+    "name": "OCRELIZUMAB",
+    "file": "/data/fcos/OCRELIZUMAB.json"
+  },
+  {
+    "name": "OCTIL METOXICINAMATO",
+    "file": "/data/fcos/OCTIL METOXICINAMATO.json"
+  },
+  {
+    "name": "OCTOCOG ALFA",
+    "file": "/data/fcos/OCTOCOG ALFA.json"
+  },
+  {
+    "name": "OCTREOTIDA",
+    "file": "/data/fcos/OCTREOTIDA.json"
+  },
+  {
+    "name": "ODEVIXIBAT",
+    "file": "/data/fcos/ODEVIXIBAT.json"
+  },
+  {
+    "name": "OFATUMUMAB",
+    "file": "/data/fcos/OFATUMUMAB.json"
+  },
+  {
+    "name": "OFLOXACINO (OFTALMICO)",
+    "file": "/data/fcos/OFLOXACINO (OFTALMICO).json"
+  },
+  {
+    "name": "OFLOXACINO",
+    "file": "/data/fcos/OFLOXACINO.json"
+  },
+  {
+    "name": "OLANZAPINA",
+    "file": "/data/fcos/OLANZAPINA.json"
+  },
+  {
+    "name": "OLAPARIB",
+    "file": "/data/fcos/OLAPARIB.json"
+  },
+  {
+    "name": "OLIPUDASA ALFA",
+    "file": "/data/fcos/OLIPUDASA ALFA.json"
+  },
+  {
+    "name": "OLMESARTAN",
+    "file": "/data/fcos/OLMESARTAN.json"
+  },
+  {
+    "name": "OLODATEROL",
+    "file": "/data/fcos/OLODATEROL.json"
+  },
+  {
+    "name": "OLOPATADINA",
+    "file": "/data/fcos/OLOPATADINA.json"
+  },
+  {
+    "name": "OMALIZUMAB",
+    "file": "/data/fcos/OMALIZUMAB.json"
+  },
+  {
+    "name": "OMEGA 3 ESTERES ETILICOS, ACIDOS",
+    "file": "/data/fcos/OMEGA 3 ESTERES ETILICOS, ACIDOS.json"
+  },
+  {
+    "name": "OMEPRAZOL",
+    "file": "/data/fcos/OMEPRAZOL.json"
+  },
+  {
+    "name": "ONASEMNOGEN ABEPARVOVEC",
+    "file": "/data/fcos/ONASEMNOGEN ABEPARVOVEC.json"
+  },
+  {
+    "name": "ONDANSETRON",
+    "file": "/data/fcos/ONDANSETRON.json"
+  },
+  {
+    "name": "OPICAPONA",
+    "file": "/data/fcos/OPICAPONA.json"
+  },
+  {
+    "name": "ORITAVANCINA",
+    "file": "/data/fcos/ORITAVANCINA.json"
+  },
+  {
+    "name": "ORLISTAT",
+    "file": "/data/fcos/ORLISTAT.json"
+  },
+  {
+    "name": "ORNITINA",
+    "file": "/data/fcos/ORNITINA.json"
+  },
+  {
+    "name": "ORTIGA",
+    "file": "/data/fcos/ORTIGA.json"
+  },
+  {
+    "name": "OSELTAMIVIR",
+    "file": "/data/fcos/OSELTAMIVIR.json"
+  },
+  {
+    "name": "OSILODROSTAT",
+    "file": "/data/fcos/OSILODROSTAT.json"
+  },
+  {
+    "name": "OSIMERTINIB",
+    "file": "/data/fcos/OSIMERTINIB.json"
+  },
+  {
+    "name": "OSPEMIFENO",
+    "file": "/data/fcos/OSPEMIFENO.json"
+  },
+  {
+    "name": "OTILONIO",
+    "file": "/data/fcos/OTILONIO.json"
+  },
+  {
+    "name": "OXALIPLATINO",
+    "file": "/data/fcos/OXALIPLATINO.json"
+  },
+  {
+    "name": "OXCARBAZEPINA",
+    "file": "/data/fcos/OXCARBAZEPINA.json"
+  },
+  {
+    "name": "OXIBATO SODICO",
+    "file": "/data/fcos/OXIBATO SODICO.json"
+  },
+  {
+    "name": "OXIBENZONA",
+    "file": "/data/fcos/OXIBENZONA.json"
+  },
+  {
+    "name": "OXIBUPROCAINA",
+    "file": "/data/fcos/OXIBUPROCAINA.json"
+  },
+  {
+    "name": "OXIBUTININA",
+    "file": "/data/fcos/OXIBUTININA.json"
+  },
+  {
+    "name": "OXICODONA",
+    "file": "/data/fcos/OXICODONA.json"
+  },
+  {
+    "name": "OXIDO NITROSO",
+    "file": "/data/fcos/OXIDO NITROSO.json"
+  },
+  {
+    "name": "OXIGENO",
+    "file": "/data/fcos/OXIGENO.json"
+  },
+  {
+    "name": "OXIMETAZOLINA (NASAL)",
+    "file": "/data/fcos/OXIMETAZOLINA (NASAL).json"
+  },
+  {
+    "name": "OXITETRACICLINA (OFTALMICO)",
+    "file": "/data/fcos/OXITETRACICLINA (OFTALMICO).json"
+  },
+  {
+    "name": "OXITETRACICLINA (TOPICO)",
+    "file": "/data/fcos/OXITETRACICLINA (TOPICO).json"
+  },
+  {
+    "name": "OXITOCINA",
+    "file": "/data/fcos/OXITOCINA.json"
+  },
+  {
+    "name": "OZANIMOD",
+    "file": "/data/fcos/OZANIMOD.json"
+  },
+  {
+    "name": "OZENOXACINO",
+    "file": "/data/fcos/OZENOXACINO.json"
+  },
+  {
+    "name": "PACLITAXEL",
+    "file": "/data/fcos/PACLITAXEL.json"
+  },
+  {
+    "name": "PADIMATO O",
+    "file": "/data/fcos/PADIMATO O.json"
+  },
+  {
+    "name": "PALBOCICLIB",
+    "file": "/data/fcos/PALBOCICLIB.json"
+  },
+  {
+    "name": "PALIPERIDONA",
+    "file": "/data/fcos/PALIPERIDONA.json"
+  },
+  {
+    "name": "PALONOSETRON",
+    "file": "/data/fcos/PALONOSETRON.json"
+  },
+  {
+    "name": "PALOPEGTERIPARATIDA",
+    "file": "/data/fcos/PALOPEGTERIPARATIDA.json"
+  },
+  {
+    "name": "PAMIDRONICO, ACIDO",
+    "file": "/data/fcos/PAMIDRONICO, ACIDO.json"
+  },
+  {
+    "name": "PANCREATINA",
+    "file": "/data/fcos/PANCREATINA.json"
+  },
+  {
+    "name": "PANITUMUMAB",
+    "file": "/data/fcos/PANITUMUMAB.json"
+  },
+  {
+    "name": "PANTOPRAZOL",
+    "file": "/data/fcos/PANTOPRAZOL.json"
+  },
+  {
+    "name": "PANTOTENICO, ACIDO",
+    "file": "/data/fcos/PANTOTENICO, ACIDO.json"
+  },
+  {
+    "name": "PARACETAMOL",
+    "file": "/data/fcos/PARACETAMOL.json"
+  },
+  {
+    "name": "PARAFINA LIQUIDA",
+    "file": "/data/fcos/PARAFINA LIQUIDA.json"
+  },
+  {
+    "name": "PARECOXIB",
+    "file": "/data/fcos/PARECOXIB.json"
+  },
+  {
+    "name": "PARICALCITOL",
+    "file": "/data/fcos/PARICALCITOL.json"
+  },
+  {
+    "name": "PAROMOMICINA",
+    "file": "/data/fcos/PAROMOMICINA.json"
+  },
+  {
+    "name": "PAROXETINA",
+    "file": "/data/fcos/PAROXETINA.json"
+  },
+  {
+    "name": "PARSOL MCX",
+    "file": "/data/fcos/PARSOL MCX.json"
+  },
+  {
+    "name": "PASIFLORA",
+    "file": "/data/fcos/PASIFLORA.json"
+  },
+  {
+    "name": "PASIREOTIDA",
+    "file": "/data/fcos/PASIREOTIDA.json"
+  },
+  {
+    "name": "PATIROMERO CALCICO",
+    "file": "/data/fcos/PATIROMERO CALCICO.json"
+  },
+  {
+    "name": "PATISIRAN",
+    "file": "/data/fcos/PATISIRAN.json"
+  },
+  {
+    "name": "PAZOPANIB",
+    "file": "/data/fcos/PAZOPANIB.json"
+  },
+  {
+    "name": "PEGASPARGASA",
+    "file": "/data/fcos/PEGASPARGASA.json"
+  },
+  {
+    "name": "PEGCETACOPLAN",
+    "file": "/data/fcos/PEGCETACOPLAN.json"
+  },
+  {
+    "name": "PEGFILGRASTIM",
+    "file": "/data/fcos/PEGFILGRASTIM.json"
+  },
+  {
+    "name": "PEGINTERFERON ALFA-2A",
+    "file": "/data/fcos/PEGINTERFERON ALFA-2A.json"
+  },
+  {
+    "name": "PEGINTERFERON BETA-1A",
+    "file": "/data/fcos/PEGINTERFERON BETA-1A.json"
+  },
+  {
+    "name": "PEGUNIGALSIDASA ALFA",
+    "file": "/data/fcos/PEGUNIGALSIDASA ALFA.json"
+  },
+  {
+    "name": "PEGVISOMANT",
+    "file": "/data/fcos/PEGVISOMANT.json"
+  },
+  {
+    "name": "PEGZILARGINASA",
+    "file": "/data/fcos/PEGZILARGINASA.json"
+  },
+  {
+    "name": "PELARGONIUM",
+    "file": "/data/fcos/PELARGONIUM.json"
+  },
+  {
+    "name": "PEMBROLIZUMAB",
+    "file": "/data/fcos/PEMBROLIZUMAB.json"
+  },
+  {
+    "name": "PEMETREXED",
+    "file": "/data/fcos/PEMETREXED.json"
+  },
+  {
+    "name": "PEMIGATINIB",
+    "file": "/data/fcos/PEMIGATINIB.json"
+  },
+  {
+    "name": "PENCICLOVIR (TOPICO)",
+    "file": "/data/fcos/PENCICLOVIR (TOPICO).json"
+  },
+  {
+    "name": "PENICILAMINA",
+    "file": "/data/fcos/PENICILAMINA.json"
+  },
+  {
+    "name": "PENTAMIDINA",
+    "file": "/data/fcos/PENTAMIDINA.json"
+  },
+  {
+    "name": "PENTOSANO POLISULFATO SODICO",
+    "file": "/data/fcos/PENTOSANO POLISULFATO SODICO.json"
+  },
+  {
+    "name": "PENTOSTATINA",
+    "file": "/data/fcos/PENTOSTATINA.json"
+  },
+  {
+    "name": "PENTOXIFILINA",
+    "file": "/data/fcos/PENTOXIFILINA.json"
+  },
+  {
+    "name": "PERAMPANEL",
+    "file": "/data/fcos/PERAMPANEL.json"
+  },
+  {
+    "name": "PERFENAZINA",
+    "file": "/data/fcos/PERFENAZINA.json"
+  },
+  {
+    "name": "PERICIAZINA",
+    "file": "/data/fcos/PERICIAZINA.json"
+  },
+  {
+    "name": "PERINDOPRIL",
+    "file": "/data/fcos/PERINDOPRIL.json"
+  },
+  {
+    "name": "PERMETRINA",
+    "file": "/data/fcos/PERMETRINA.json"
+  },
+  {
+    "name": "PEROXIDO DE HIDROGENO",
+    "file": "/data/fcos/PEROXIDO DE HIDROGENO.json"
+  },
+  {
+    "name": "PERTUZUMAB",
+    "file": "/data/fcos/PERTUZUMAB.json"
+  },
+  {
+    "name": "PETIDINA",
+    "file": "/data/fcos/PETIDINA.json"
+  },
+  {
+    "name": "PIBRENTASVIR",
+    "file": "/data/fcos/PIBRENTASVIR.json"
+  },
+  {
+    "name": "PICOSULFATO SODICO",
+    "file": "/data/fcos/PICOSULFATO SODICO.json"
+  },
+  {
+    "name": "PIDOTIMOD",
+    "file": "/data/fcos/PIDOTIMOD.json"
+  },
+  {
+    "name": "PIFLUFOLASTAT (18F)",
+    "file": "/data/fcos/PIFLUFOLASTAT (18F).json"
+  },
+  {
+    "name": "PIKETOPROFENO",
+    "file": "/data/fcos/PIKETOPROFENO.json"
+  },
+  {
+    "name": "PILOCARPINA (OFTALMICO)",
+    "file": "/data/fcos/PILOCARPINA (OFTALMICO).json"
+  },
+  {
+    "name": "PILOCARPINA",
+    "file": "/data/fcos/PILOCARPINA.json"
+  },
+  {
+    "name": "PIMECROLIMUS",
+    "file": "/data/fcos/PIMECROLIMUS.json"
+  },
+  {
+    "name": "PIMOZIDA",
+    "file": "/data/fcos/PIMOZIDA.json"
+  },
+  {
+    "name": "PINAVERIO",
+    "file": "/data/fcos/PINAVERIO.json"
+  },
+  {
+    "name": "PIOGLITAZONA",
+    "file": "/data/fcos/PIOGLITAZONA.json"
+  },
+  {
+    "name": "PIPERACILINA",
+    "file": "/data/fcos/PIPERACILINA.json"
+  },
+  {
+    "name": "PIPERAQUINA",
+    "file": "/data/fcos/PIPERAQUINA.json"
+  },
+  {
+    "name": "PIRACETAM",
+    "file": "/data/fcos/PIRACETAM.json"
+  },
+  {
+    "name": "PIRANTEL",
+    "file": "/data/fcos/PIRANTEL.json"
+  },
+  {
+    "name": "PIRAZINAMIDA",
+    "file": "/data/fcos/PIRAZINAMIDA.json"
+  },
+  {
+    "name": "PIRFENIDONA",
+    "file": "/data/fcos/PIRFENIDONA.json"
+  },
+  {
+    "name": "PIRIDOSTIGMINA",
+    "file": "/data/fcos/PIRIDOSTIGMINA.json"
+  },
+  {
+    "name": "PIRIDOXINA",
+    "file": "/data/fcos/PIRIDOXINA.json"
+  },
+  {
+    "name": "PIRIMETAMINA",
+    "file": "/data/fcos/PIRIMETAMINA.json"
+  },
+  {
+    "name": "PIROXICAM (TOPICO)",
+    "file": "/data/fcos/PIROXICAM (TOPICO).json"
+  },
+  {
+    "name": "PIROXICAM",
+    "file": "/data/fcos/PIROXICAM.json"
+  },
+  {
+    "name": "PIRTOBRUTINIB",
+    "file": "/data/fcos/PIRTOBRUTINIB.json"
+  },
+  {
+    "name": "PITAVASTATINA",
+    "file": "/data/fcos/PITAVASTATINA.json"
+  },
+  {
+    "name": "PITOLISANT",
+    "file": "/data/fcos/PITOLISANT.json"
+  },
+  {
+    "name": "PIZOTIFENO",
+    "file": "/data/fcos/PIZOTIFENO.json"
+  },
+  {
+    "name": "PLATA, NITRATO",
+    "file": "/data/fcos/PLATA, NITRATO.json"
+  },
+  {
+    "name": "PLERIXAFOR",
+    "file": "/data/fcos/PLERIXAFOR.json"
+  },
+  {
+    "name": "PODOFILOTOXINA",
+    "file": "/data/fcos/PODOFILOTOXINA.json"
+  },
+  {
+    "name": "POLATUZUMAB VEDOTINA",
+    "file": "/data/fcos/POLATUZUMAB VEDOTINA.json"
+  },
+  {
+    "name": "POLEN DE GRAMINEAS",
+    "file": "/data/fcos/POLEN DE GRAMINEAS.json"
+  },
+  {
+    "name": "POLEN DE PHLEUM PRATENSE (DIAGNOSTICO)",
+    "file": "/data/fcos/POLEN DE PHLEUM PRATENSE (DIAGNOSTICO).json"
+  },
+  {
+    "name": "POLEN DE PHLEUM PRATENSE (TRATAMIENTO)",
+    "file": "/data/fcos/POLEN DE PHLEUM PRATENSE (TRATAMIENTO).json"
+  },
+  {
+    "name": "POLIESTIRENSULFONATO CALCICO",
+    "file": "/data/fcos/POLIESTIRENSULFONATO CALCICO.json"
+  },
+  {
+    "name": "POLIESTIRENSULFONATO SODICO",
+    "file": "/data/fcos/POLIESTIRENSULFONATO SODICO.json"
+  },
+  {
+    "name": "POLIHEXANIDA",
+    "file": "/data/fcos/POLIHEXANIDA.json"
+  },
+  {
+    "name": "POLIMIXINA B",
+    "file": "/data/fcos/POLIMIXINA B.json"
+  },
+  {
+    "name": "POLYPODIUM LEUCOTOMOS",
+    "file": "/data/fcos/POLYPODIUM LEUCOTOMOS.json"
+  },
+  {
+    "name": "POMALIDOMIDA",
+    "file": "/data/fcos/POMALIDOMIDA.json"
+  },
+  {
+    "name": "PONATINIB",
+    "file": "/data/fcos/PONATINIB.json"
+  },
+  {
+    "name": "PONESIMOD",
+    "file": "/data/fcos/PONESIMOD.json"
+  },
+  {
+    "name": "POSACONAZOL",
+    "file": "/data/fcos/POSACONAZOL.json"
+  },
+  {
+    "name": "POTASIO, ACETATO",
+    "file": "/data/fcos/POTASIO, ACETATO.json"
+  },
+  {
+    "name": "POTASIO, BICARBONATO",
+    "file": "/data/fcos/POTASIO, BICARBONATO.json"
+  },
+  {
+    "name": "POTASIO, CITRATO",
+    "file": "/data/fcos/POTASIO, CITRATO.json"
+  },
+  {
+    "name": "POTASIO, CLORATO",
+    "file": "/data/fcos/POTASIO, CLORATO.json"
+  },
+  {
+    "name": "POTASIO, CLORURO (ORAL)",
+    "file": "/data/fcos/POTASIO, CLORURO (ORAL).json"
+  },
+  {
+    "name": "POTASIO, CLORURO (PARENTERAL)",
+    "file": "/data/fcos/POTASIO, CLORURO (PARENTERAL).json"
+  },
+  {
+    "name": "POTASIO, FOSFATO DIBASICO",
+    "file": "/data/fcos/POTASIO, FOSFATO DIBASICO.json"
+  },
+  {
+    "name": "POTASIO, HIDROXIDO",
+    "file": "/data/fcos/POTASIO, HIDROXIDO.json"
+  },
+  {
+    "name": "POTASIO, IODURO",
+    "file": "/data/fcos/POTASIO, IODURO.json"
+  },
+  {
+    "name": "POTASIO, SULFATO",
+    "file": "/data/fcos/POTASIO, SULFATO.json"
+  },
+  {
+    "name": "POVIDONA IODADA (ESTOMATOLOGICO)",
+    "file": "/data/fcos/POVIDONA IODADA (ESTOMATOLOGICO).json"
+  },
+  {
+    "name": "POVIDONA IODADA (GINECOLOGICO)",
+    "file": "/data/fcos/POVIDONA IODADA (GINECOLOGICO).json"
+  },
+  {
+    "name": "POVIDONA IODADA (TOPICO)",
+    "file": "/data/fcos/POVIDONA IODADA (TOPICO).json"
+  },
+  {
+    "name": "POVIDONA (OFTALMICO)",
+    "file": "/data/fcos/POVIDONA (OFTALMICO).json"
+  },
+  {
+    "name": "PRAMIPEXOL",
+    "file": "/data/fcos/PRAMIPEXOL.json"
+  },
+  {
+    "name": "PRAMOCAINA",
+    "file": "/data/fcos/PRAMOCAINA.json"
+  },
+  {
+    "name": "PRASTERONA",
+    "file": "/data/fcos/PRASTERONA.json"
+  },
+  {
+    "name": "PRASUGREL",
+    "file": "/data/fcos/PRASUGREL.json"
+  },
+  {
+    "name": "PRAVASTATINA",
+    "file": "/data/fcos/PRAVASTATINA.json"
+  },
+  {
+    "name": "PRAZOSINA",
+    "file": "/data/fcos/PRAZOSINA.json"
+  },
+  {
+    "name": "PREDNICARBATO",
+    "file": "/data/fcos/PREDNICARBATO.json"
+  },
+  {
+    "name": "PREDNISOLONA (NASAL)",
+    "file": "/data/fcos/PREDNISOLONA (NASAL).json"
+  },
+  {
+    "name": "PREDNISOLONA (OFTALMICO)",
+    "file": "/data/fcos/PREDNISOLONA (OFTALMICO).json"
+  },
+  {
+    "name": "PREDNISOLONA",
+    "file": "/data/fcos/PREDNISOLONA.json"
+  },
+  {
+    "name": "PREDNISONA (OFTALMICO)",
+    "file": "/data/fcos/PREDNISONA (OFTALMICO).json"
+  },
+  {
+    "name": "PREDNISONA",
+    "file": "/data/fcos/PREDNISONA.json"
+  },
+  {
+    "name": "PREGABALINA",
+    "file": "/data/fcos/PREGABALINA.json"
+  },
+  {
+    "name": "PRILOCAINA",
+    "file": "/data/fcos/PRILOCAINA.json"
+  },
+  {
+    "name": "PRIMIDONA",
+    "file": "/data/fcos/PRIMIDONA.json"
+  },
+  {
+    "name": "PROCAINA",
+    "file": "/data/fcos/PROCAINA.json"
+  },
+  {
+    "name": "PROCAINAMIDA",
+    "file": "/data/fcos/PROCAINAMIDA.json"
+  },
+  {
+    "name": "PROCARBAZINA",
+    "file": "/data/fcos/PROCARBAZINA.json"
+  },
+  {
+    "name": "PROCICLIDINA",
+    "file": "/data/fcos/PROCICLIDINA.json"
+  },
+  {
+    "name": "PROGESTERONA (TOPICO)",
+    "file": "/data/fcos/PROGESTERONA (TOPICO).json"
+  },
+  {
+    "name": "PROGESTERONA",
+    "file": "/data/fcos/PROGESTERONA.json"
+  },
+  {
+    "name": "PROGUANIL",
+    "file": "/data/fcos/PROGUANIL.json"
+  },
+  {
+    "name": "PROLINA",
+    "file": "/data/fcos/PROLINA.json"
+  },
+  {
+    "name": "PROMESTRIENO",
+    "file": "/data/fcos/PROMESTRIENO.json"
+  },
+  {
+    "name": "PROMETAZINA (TOPICO)",
+    "file": "/data/fcos/PROMETAZINA (TOPICO).json"
+  },
+  {
+    "name": "PROMETAZINA",
+    "file": "/data/fcos/PROMETAZINA.json"
+  },
+  {
+    "name": "PROPAFENONA",
+    "file": "/data/fcos/PROPAFENONA.json"
+  },
+  {
+    "name": "PROPANOCAINA",
+    "file": "/data/fcos/PROPANOCAINA.json"
+  },
+  {
+    "name": "PROPIFENAZONA",
+    "file": "/data/fcos/PROPIFENAZONA.json"
+  },
+  {
+    "name": "PROPIVERINA",
+    "file": "/data/fcos/PROPIVERINA.json"
+  },
+  {
+    "name": "PROPOFOL",
+    "file": "/data/fcos/PROPOFOL.json"
+  },
+  {
+    "name": "PROPRANOLOL",
+    "file": "/data/fcos/PROPRANOLOL.json"
+  },
+  {
+    "name": "PROTAMINA",
+    "file": "/data/fcos/PROTAMINA.json"
+  },
+  {
+    "name": "PROTEASA",
+    "file": "/data/fcos/PROTEASA.json"
+  },
+  {
+    "name": "PROTEINA C HUMANA",
+    "file": "/data/fcos/PROTEINA C HUMANA.json"
+  },
+  {
+    "name": "PROTEINA S",
+    "file": "/data/fcos/PROTEINA S.json"
+  },
+  {
+    "name": "PROTROMBINA",
+    "file": "/data/fcos/PROTROMBINA.json"
+  },
+  {
+    "name": "PRUCALOPRIDA",
+    "file": "/data/fcos/PRUCALOPRIDA.json"
+  },
+  {
+    "name": "PSEUDOEFEDRINA",
+    "file": "/data/fcos/PSEUDOEFEDRINA.json"
+  },
+  {
+    "name": "PYGEUM AFRICANUM",
+    "file": "/data/fcos/PYGEUM AFRICANUM.json"
+  },
+  {
+    "name": "QUETIAPINA",
+    "file": "/data/fcos/QUETIAPINA.json"
+  },
+  {
+    "name": "QUINAPRIL",
+    "file": "/data/fcos/QUINAPRIL.json"
+  },
+  {
+    "name": "QUIZARTINIB",
+    "file": "/data/fcos/QUIZARTINIB.json"
+  },
+  {
+    "name": "RABEPRAZOL",
+    "file": "/data/fcos/RABEPRAZOL.json"
+  },
+  {
+    "name": "RABO DE GATO",
+    "file": "/data/fcos/RABO DE GATO.json"
+  },
+  {
+    "name": "RACECADOTRILO",
+    "file": "/data/fcos/RACECADOTRILO.json"
+  },
+  {
+    "name": "RADIO (223-RA), DICLORURO",
+    "file": "/data/fcos/RADIO (223-RA), DICLORURO.json"
+  },
+  {
+    "name": "RALOXIFENO",
+    "file": "/data/fcos/RALOXIFENO.json"
+  },
+  {
+    "name": "RALTEGRAVIR",
+    "file": "/data/fcos/RALTEGRAVIR.json"
+  },
+  {
+    "name": "RALTITREXED",
+    "file": "/data/fcos/RALTITREXED.json"
+  },
+  {
+    "name": "RAMIPRIL",
+    "file": "/data/fcos/RAMIPRIL.json"
+  },
+  {
+    "name": "RAMUCIRUMAB",
+    "file": "/data/fcos/RAMUCIRUMAB.json"
+  },
+  {
+    "name": "RANIBIZUMAB",
+    "file": "/data/fcos/RANIBIZUMAB.json"
+  },
+  {
+    "name": "RANOLAZINA",
+    "file": "/data/fcos/RANOLAZINA.json"
+  },
+  {
+    "name": "RASAGILINA",
+    "file": "/data/fcos/RASAGILINA.json"
+  },
+  {
+    "name": "RASBURICASA",
+    "file": "/data/fcos/RASBURICASA.json"
+  },
+  {
+    "name": "RAVULIZUMAB",
+    "file": "/data/fcos/RAVULIZUMAB.json"
+  },
+  {
+    "name": "RAXTOZINAMERAN",
+    "file": "/data/fcos/RAXTOZINAMERAN.json"
+  },
+  {
+    "name": "REBOXETINA",
+    "file": "/data/fcos/REBOXETINA.json"
+  },
+  {
+    "name": "REGADENOSON",
+    "file": "/data/fcos/REGADENOSON.json"
+  },
+  {
+    "name": "REGALIZ",
+    "file": "/data/fcos/REGALIZ.json"
+  },
+  {
+    "name": "REGORAFENIB",
+    "file": "/data/fcos/REGORAFENIB.json"
+  },
+  {
+    "name": "RELEBACTAM",
+    "file": "/data/fcos/RELEBACTAM.json"
+  },
+  {
+    "name": "RELUGOLIX",
+    "file": "/data/fcos/RELUGOLIX.json"
+  },
+  {
+    "name": "REMDESIVIR",
+    "file": "/data/fcos/REMDESIVIR.json"
+  },
+  {
+    "name": "REMIFENTANILO",
+    "file": "/data/fcos/REMIFENTANILO.json"
+  },
+  {
+    "name": "RENIO (186-RE), SULFURO COLOIDAL",
+    "file": "/data/fcos/RENIO (186-RE), SULFURO COLOIDAL.json"
+  },
+  {
+    "name": "REPAGLINIDA",
+    "file": "/data/fcos/REPAGLINIDA.json"
+  },
+  {
+    "name": "RESLIZUMAB",
+    "file": "/data/fcos/RESLIZUMAB.json"
+  },
+  {
+    "name": "RESORCINOL",
+    "file": "/data/fcos/RESORCINOL.json"
+  },
+  {
+    "name": "RETINOL (NASAL)",
+    "file": "/data/fcos/RETINOL (NASAL).json"
+  },
+  {
+    "name": "RETINOL",
+    "file": "/data/fcos/RETINOL.json"
+  },
+  {
+    "name": "REZAFUNGINA",
+    "file": "/data/fcos/REZAFUNGINA.json"
+  },
+  {
+    "name": "RIBAVIRINA",
+    "file": "/data/fcos/RIBAVIRINA.json"
+  },
+  {
+    "name": "RIBOCICLIB",
+    "file": "/data/fcos/RIBOCICLIB.json"
+  },
+  {
+    "name": "RIBOFLAVINA",
+    "file": "/data/fcos/RIBOFLAVINA.json"
+  },
+  {
+    "name": "RICINO",
+    "file": "/data/fcos/RICINO.json"
+  },
+  {
+    "name": "RIFABUTINA",
+    "file": "/data/fcos/RIFABUTINA.json"
+  },
+  {
+    "name": "RIFAMPICINA",
+    "file": "/data/fcos/RIFAMPICINA.json"
+  },
+  {
+    "name": "RIFAXIMINA",
+    "file": "/data/fcos/RIFAXIMINA.json"
+  },
+  {
+    "name": "RILPIVIRINA",
+    "file": "/data/fcos/RILPIVIRINA.json"
+  },
+  {
+    "name": "RILUZOL",
+    "file": "/data/fcos/RILUZOL.json"
+  },
+  {
+    "name": "RIMEGEPANT",
+    "file": "/data/fcos/RIMEGEPANT.json"
+  },
+  {
+    "name": "RIOCIGUAT",
+    "file": "/data/fcos/RIOCIGUAT.json"
+  },
+  {
+    "name": "RIPRETINIB",
+    "file": "/data/fcos/RIPRETINIB.json"
+  },
+  {
+    "name": "RISANKIZUMAB",
+    "file": "/data/fcos/RISANKIZUMAB.json"
+  },
+  {
+    "name": "RISDIPLAM",
+    "file": "/data/fcos/RISDIPLAM.json"
+  },
+  {
+    "name": "RISEDRONICO, ACIDO",
+    "file": "/data/fcos/RISEDRONICO, ACIDO.json"
+  },
+  {
+    "name": "RISPERIDONA",
+    "file": "/data/fcos/RISPERIDONA.json"
+  },
+  {
+    "name": "RITLECITINIB",
+    "file": "/data/fcos/RITLECITINIB.json"
+  },
+  {
+    "name": "RITODRINA",
+    "file": "/data/fcos/RITODRINA.json"
+  },
+  {
+    "name": "RITONAVIR",
+    "file": "/data/fcos/RITONAVIR.json"
+  },
+  {
+    "name": "RITUXIMAB",
+    "file": "/data/fcos/RITUXIMAB.json"
+  },
+  {
+    "name": "RIVAROXABAN",
+    "file": "/data/fcos/RIVAROXABAN.json"
+  },
+  {
+    "name": "RIVASTIGMINA",
+    "file": "/data/fcos/RIVASTIGMINA.json"
+  },
+  {
+    "name": "RIZATRIPTAN",
+    "file": "/data/fcos/RIZATRIPTAN.json"
+  },
+  {
+    "name": "ROBLE",
+    "file": "/data/fcos/ROBLE.json"
+  },
+  {
+    "name": "ROCURONIO",
+    "file": "/data/fcos/ROCURONIO.json"
+  },
+  {
+    "name": "RODIOLA",
+    "file": "/data/fcos/RODIOLA.json"
+  },
+  {
+    "name": "ROFLUMILAST",
+    "file": "/data/fcos/ROFLUMILAST.json"
+  },
+  {
+    "name": "ROMERO",
+    "file": "/data/fcos/ROMERO.json"
+  },
+  {
+    "name": "ROMIPLOSTIM",
+    "file": "/data/fcos/ROMIPLOSTIM.json"
+  },
+  {
+    "name": "ROMOSOZUMAB",
+    "file": "/data/fcos/ROMOSOZUMAB.json"
+  },
+  {
+    "name": "ROPINIROL",
+    "file": "/data/fcos/ROPINIROL.json"
+  },
+  {
+    "name": "ROPIVACAINA",
+    "file": "/data/fcos/ROPIVACAINA.json"
+  },
+  {
+    "name": "ROSUVASTATINA",
+    "file": "/data/fcos/ROSUVASTATINA.json"
+  },
+  {
+    "name": "ROTAVIRUS, ATENUADO",
+    "file": "/data/fcos/ROTAVIRUS, ATENUADO.json"
+  },
+  {
+    "name": "ROTIGOTINA",
+    "file": "/data/fcos/ROTIGOTINA.json"
+  },
+  {
+    "name": "ROXADUSTAT",
+    "file": "/data/fcos/ROXADUSTAT.json"
+  },
+  {
+    "name": "ROXITROMICINA",
+    "file": "/data/fcos/ROXITROMICINA.json"
+  },
+  {
+    "name": "ROZANOLIXIZUMAB",
+    "file": "/data/fcos/ROZANOLIXIZUMAB.json"
+  },
+  {
+    "name": "RUCAPARIB",
+    "file": "/data/fcos/RUCAPARIB.json"
+  },
+  {
+    "name": "RUFINAMIDA",
+    "file": "/data/fcos/RUFINAMIDA.json"
+  },
+  {
+    "name": "RUPATADINA",
+    "file": "/data/fcos/RUPATADINA.json"
+  },
+  {
+    "name": "RURIOCTOCOG ALFA PEGOL",
+    "file": "/data/fcos/RURIOCTOCOG ALFA PEGOL.json"
+  },
+  {
+    "name": "RUSCOGENINA",
+    "file": "/data/fcos/RUSCOGENINA.json"
+  },
+  {
+    "name": "RUSCO",
+    "file": "/data/fcos/RUSCO.json"
+  },
+  {
+    "name": "RUXOLITINIB (TOPICO)",
+    "file": "/data/fcos/RUXOLITINIB (TOPICO).json"
+  },
+  {
+    "name": "RUXOLITINIB",
+    "file": "/data/fcos/RUXOLITINIB.json"
+  },
+  {
+    "name": "SACCHAROMYCES BOULARDII",
+    "file": "/data/fcos/SACCHAROMYCES BOULARDII.json"
+  },
+  {
+    "name": "SACITUZUMAB GOVITECAN",
+    "file": "/data/fcos/SACITUZUMAB GOVITECAN.json"
+  },
+  {
+    "name": "SACUBITRILO",
+    "file": "/data/fcos/SACUBITRILO.json"
+  },
+  {
+    "name": "SAFINAMIDA",
+    "file": "/data/fcos/SAFINAMIDA.json"
+  },
+  {
+    "name": "SALBUTAMOL (INHALADO)",
+    "file": "/data/fcos/SALBUTAMOL (INHALADO).json"
+  },
+  {
+    "name": "SALBUTAMOL",
+    "file": "/data/fcos/SALBUTAMOL.json"
+  },
+  {
+    "name": "SALICILAMIDA",
+    "file": "/data/fcos/SALICILAMIDA.json"
+  },
+  {
+    "name": "SALICILATO DE DIETILAMINA",
+    "file": "/data/fcos/SALICILATO DE DIETILAMINA.json"
+  },
+  {
+    "name": "SALICILATO DE METILO",
+    "file": "/data/fcos/SALICILATO DE METILO.json"
+  },
+  {
+    "name": "SALICILATO DE TROLAMINA",
+    "file": "/data/fcos/SALICILATO DE TROLAMINA.json"
+  },
+  {
+    "name": "SALICILICO, ACIDO",
+    "file": "/data/fcos/SALICILICO, ACIDO.json"
+  },
+  {
+    "name": "SALMETEROL",
+    "file": "/data/fcos/SALMETEROL.json"
+  },
+  {
+    "name": "SALMONELLA TYPHI, ATENUADA",
+    "file": "/data/fcos/SALMONELLA TYPHI, ATENUADA.json"
+  },
+  {
+    "name": "SALMONELLA TYPHI, POLISACARIDO CAPSULAR VI",
+    "file": "/data/fcos/SALMONELLA TYPHI, POLISACARIDO CAPSULAR VI.json"
+  },
+  {
+    "name": "SALVIA",
+    "file": "/data/fcos/SALVIA.json"
+  },
+  {
+    "name": "SAMARIO (153-SM), LEXIDRONAM",
+    "file": "/data/fcos/SAMARIO (153-SM), LEXIDRONAM.json"
+  },
+  {
+    "name": "SAPROPTERINA",
+    "file": "/data/fcos/SAPROPTERINA.json"
+  },
+  {
+    "name": "SARILUMAB",
+    "file": "/data/fcos/SARILUMAB.json"
+  },
+  {
+    "name": "SATRALIZUMAB",
+    "file": "/data/fcos/SATRALIZUMAB.json"
+  },
+  {
+    "name": "SAUCO",
+    "file": "/data/fcos/SAUCO.json"
+  },
+  {
+    "name": "SAUZGATILLO",
+    "file": "/data/fcos/SAUZGATILLO.json"
+  },
+  {
+    "name": "SAXAGLIPTINA",
+    "file": "/data/fcos/SAXAGLIPTINA.json"
+  },
+  {
+    "name": "SEBELIPASA ALFA",
+    "file": "/data/fcos/SEBELIPASA ALFA.json"
+  },
+  {
+    "name": "SECUKINUMAB",
+    "file": "/data/fcos/SECUKINUMAB.json"
+  },
+  {
+    "name": "SELADELPAR",
+    "file": "/data/fcos/SELADELPAR.json"
+  },
+  {
+    "name": "SELEGILINA",
+    "file": "/data/fcos/SELEGILINA.json"
+  },
+  {
+    "name": "SELENIO (75-SE), TAUROSELCOLICO ACIDO",
+    "file": "/data/fcos/SELENIO (75-SE), TAUROSELCOLICO ACIDO.json"
+  },
+  {
+    "name": "SELENIO, SULFURO",
+    "file": "/data/fcos/SELENIO, SULFURO.json"
+  },
+  {
+    "name": "SELEXIPAG",
+    "file": "/data/fcos/SELEXIPAG.json"
+  },
+  {
+    "name": "SELINEXOR",
+    "file": "/data/fcos/SELINEXOR.json"
+  },
+  {
+    "name": "SELPERCATINIB",
+    "file": "/data/fcos/SELPERCATINIB.json"
+  },
+  {
+    "name": "SELUMETINIB",
+    "file": "/data/fcos/SELUMETINIB.json"
+  },
+  {
+    "name": "SEMAGLUTIDA",
+    "file": "/data/fcos/SEMAGLUTIDA.json"
+  },
+  {
+    "name": "SENA, GLUCOSIDOS",
+    "file": "/data/fcos/SENA, GLUCOSIDOS.json"
+  },
+  {
+    "name": "SEN",
+    "file": "/data/fcos/SEN.json"
+  },
+  {
+    "name": "SERENOA REPENS",
+    "file": "/data/fcos/SERENOA REPENS.json"
+  },
+  {
+    "name": "SERINA",
+    "file": "/data/fcos/SERINA.json"
+  },
+  {
+    "name": "SERTACONAZOL (GINECOLOGICO)",
+    "file": "/data/fcos/SERTACONAZOL (GINECOLOGICO).json"
+  },
+  {
+    "name": "SERTACONAZOL (TOPICO)",
+    "file": "/data/fcos/SERTACONAZOL (TOPICO).json"
+  },
+  {
+    "name": "SERTINDOL",
+    "file": "/data/fcos/SERTINDOL.json"
+  },
+  {
+    "name": "SERTRALINA",
+    "file": "/data/fcos/SERTRALINA.json"
+  },
+  {
+    "name": "SETMELANOTIDA",
+    "file": "/data/fcos/SETMELANOTIDA.json"
+  },
+  {
+    "name": "SEVELAMER",
+    "file": "/data/fcos/SEVELAMER.json"
+  },
+  {
+    "name": "SEVOFLURANO",
+    "file": "/data/fcos/SEVOFLURANO.json"
+  },
+  {
+    "name": "SILDENAFILO (ANTIHIPERTENSIVO)",
+    "file": "/data/fcos/SILDENAFILO (ANTIHIPERTENSIVO).json"
+  },
+  {
+    "name": "SILDENAFILO (UROLOGIA)",
+    "file": "/data/fcos/SILDENAFILO (UROLOGIA).json"
+  },
+  {
+    "name": "SILIBININA",
+    "file": "/data/fcos/SILIBININA.json"
+  },
+  {
+    "name": "SILIMARINA",
+    "file": "/data/fcos/SILIMARINA.json"
+  },
+  {
+    "name": "SILODOSINA",
+    "file": "/data/fcos/SILODOSINA.json"
+  },
+  {
+    "name": "SILTUXIMAB",
+    "file": "/data/fcos/SILTUXIMAB.json"
+  },
+  {
+    "name": "SIMETICONA",
+    "file": "/data/fcos/SIMETICONA.json"
+  },
+  {
+    "name": "SIMOCTOCOG ALFA",
+    "file": "/data/fcos/SIMOCTOCOG ALFA.json"
+  },
+  {
+    "name": "SIMVASTATINA",
+    "file": "/data/fcos/SIMVASTATINA.json"
+  },
+  {
+    "name": "SINECATEQUINAS",
+    "file": "/data/fcos/SINECATEQUINAS.json"
+  },
+  {
+    "name": "SIPONIMOD",
+    "file": "/data/fcos/SIPONIMOD.json"
+  },
+  {
+    "name": "SIROLIMUS",
+    "file": "/data/fcos/SIROLIMUS.json"
+  },
+  {
+    "name": "SITAGLIPTINA",
+    "file": "/data/fcos/SITAGLIPTINA.json"
+  },
+  {
+    "name": "SODIO, ACETATO",
+    "file": "/data/fcos/SODIO, ACETATO.json"
+  },
+  {
+    "name": "SODIO, ASCORBATO",
+    "file": "/data/fcos/SODIO, ASCORBATO.json"
+  },
+  {
+    "name": "SODIO, BENZOATO",
+    "file": "/data/fcos/SODIO, BENZOATO.json"
+  },
+  {
+    "name": "SODIO, BICARBONATO (ORAL)",
+    "file": "/data/fcos/SODIO, BICARBONATO (ORAL).json"
+  },
+  {
+    "name": "SODIO, BICARBONATO (PARENTERAL)",
+    "file": "/data/fcos/SODIO, BICARBONATO (PARENTERAL).json"
+  },
+  {
+    "name": "SODIO, CITRATO",
+    "file": "/data/fcos/SODIO, CITRATO.json"
+  },
+  {
+    "name": "SODIO, CLORURO (NASAL)",
+    "file": "/data/fcos/SODIO, CLORURO (NASAL).json"
+  },
+  {
+    "name": "SODIO, CLORURO (OFTALMICO)",
+    "file": "/data/fcos/SODIO, CLORURO (OFTALMICO).json"
+  },
+  {
+    "name": "SODIO, CLORURO",
+    "file": "/data/fcos/SODIO, CLORURO.json"
+  },
+  {
+    "name": "SODIO, FOSFATO",
+    "file": "/data/fcos/SODIO, FOSFATO.json"
+  },
+  {
+    "name": "SODIO, GLUCONATO",
+    "file": "/data/fcos/SODIO, GLUCONATO.json"
+  },
+  {
+    "name": "SODIO, HIDROXIDO",
+    "file": "/data/fcos/SODIO, HIDROXIDO.json"
+  },
+  {
+    "name": "SODIO, LACTATO",
+    "file": "/data/fcos/SODIO, LACTATO.json"
+  },
+  {
+    "name": "SODIO, MOLIBDATO",
+    "file": "/data/fcos/SODIO, MOLIBDATO.json"
+  },
+  {
+    "name": "SODIO, SELENITO",
+    "file": "/data/fcos/SODIO, SELENITO.json"
+  },
+  {
+    "name": "SODIO, SULFATO",
+    "file": "/data/fcos/SODIO, SULFATO.json"
+  },
+  {
+    "name": "SOFOSBUVIR",
+    "file": "/data/fcos/SOFOSBUVIR.json"
+  },
+  {
+    "name": "SOLIFENACINA",
+    "file": "/data/fcos/SOLIFENACINA.json"
+  },
+  {
+    "name": "SOLRIAMFETOL",
+    "file": "/data/fcos/SOLRIAMFETOL.json"
+  },
+  {
+    "name": "SOMATOSTATINA",
+    "file": "/data/fcos/SOMATOSTATINA.json"
+  },
+  {
+    "name": "SOMATROGON",
+    "file": "/data/fcos/SOMATROGON.json"
+  },
+  {
+    "name": "SOMATROPINA",
+    "file": "/data/fcos/SOMATROPINA.json"
+  },
+  {
+    "name": "SONIDEGIB",
+    "file": "/data/fcos/SONIDEGIB.json"
+  },
+  {
+    "name": "SORAFENIB",
+    "file": "/data/fcos/SORAFENIB.json"
+  },
+  {
+    "name": "SOTALOL",
+    "file": "/data/fcos/SOTALOL.json"
+  },
+  {
+    "name": "SOTATERCEPT",
+    "file": "/data/fcos/SOTATERCEPT.json"
+  },
+  {
+    "name": "SOTORASIB",
+    "file": "/data/fcos/SOTORASIB.json"
+  },
+  {
+    "name": "SOTROVIMAB",
+    "file": "/data/fcos/SOTROVIMAB.json"
+  },
+  {
+    "name": "STREPTOCOCCUS PNEUMONIAE, POLISACARIDO CONJUGADO",
+    "file": "/data/fcos/STREPTOCOCCUS PNEUMONIAE, POLISACARIDO CONJUGADO.json"
+  },
+  {
+    "name": "STREPTOCOCCUS PNEUMONIAE, POLISACARIDO",
+    "file": "/data/fcos/STREPTOCOCCUS PNEUMONIAE, POLISACARIDO.json"
+  },
+  {
+    "name": "SUFENTANILO",
+    "file": "/data/fcos/SUFENTANILO.json"
+  },
+  {
+    "name": "SUGAMMADEX",
+    "file": "/data/fcos/SUGAMMADEX.json"
+  },
+  {
+    "name": "SULBACTAM",
+    "file": "/data/fcos/SULBACTAM.json"
+  },
+  {
+    "name": "SULBUTIAMINA",
+    "file": "/data/fcos/SULBUTIAMINA.json"
+  },
+  {
+    "name": "SULFADIAZINA, PLATA",
+    "file": "/data/fcos/SULFADIAZINA, PLATA.json"
+  },
+  {
+    "name": "SULFADIAZINA",
+    "file": "/data/fcos/SULFADIAZINA.json"
+  },
+  {
+    "name": "SULFAMETOXAZOL",
+    "file": "/data/fcos/SULFAMETOXAZOL.json"
+  },
+  {
+    "name": "SULFASALAZINA",
+    "file": "/data/fcos/SULFASALAZINA.json"
+  },
+  {
+    "name": "SULFOGUAYACOL",
+    "file": "/data/fcos/SULFOGUAYACOL.json"
+  },
+  {
+    "name": "SULODEXIDA",
+    "file": "/data/fcos/SULODEXIDA.json"
+  },
+  {
+    "name": "SULPIRIDA",
+    "file": "/data/fcos/SULPIRIDA.json"
+  },
+  {
+    "name": "SUMATRIPTAN",
+    "file": "/data/fcos/SUMATRIPTAN.json"
+  },
+  {
+    "name": "SUNITINIB",
+    "file": "/data/fcos/SUNITINIB.json"
+  },
+  {
+    "name": "SURFACTANTE PULMONAR PORCINO",
+    "file": "/data/fcos/SURFACTANTE PULMONAR PORCINO.json"
+  },
+  {
+    "name": "SUXAMETONIO",
+    "file": "/data/fcos/SUXAMETONIO.json"
+  },
+  {
+    "name": "TACROLIMUS (TOPICO)",
+    "file": "/data/fcos/TACROLIMUS (TOPICO).json"
+  },
+  {
+    "name": "TACROLIMUS",
+    "file": "/data/fcos/TACROLIMUS.json"
+  },
+  {
+    "name": "TADALAFILO (ANTIHIPERTENSIVO)",
+    "file": "/data/fcos/TADALAFILO (ANTIHIPERTENSIVO).json"
+  },
+  {
+    "name": "TADALAFILO (UROLOGIA)",
+    "file": "/data/fcos/TADALAFILO (UROLOGIA).json"
+  },
+  {
+    "name": "TAFAMIDIS",
+    "file": "/data/fcos/TAFAMIDIS.json"
+  },
+  {
+    "name": "TAFASITAMAB",
+    "file": "/data/fcos/TAFASITAMAB.json"
+  },
+  {
+    "name": "TAFLUPROST",
+    "file": "/data/fcos/TAFLUPROST.json"
+  },
+  {
+    "name": "TALAZOPARIB",
+    "file": "/data/fcos/TALAZOPARIB.json"
+  },
+  {
+    "name": "TALCO",
+    "file": "/data/fcos/TALCO.json"
+  },
+  {
+    "name": "TALIDOMIDA",
+    "file": "/data/fcos/TALIDOMIDA.json"
+  },
+  {
+    "name": "TALIO (201-TL), CLORURO",
+    "file": "/data/fcos/TALIO (201-TL), CLORURO.json"
+  },
+  {
+    "name": "TALQUETAMAB",
+    "file": "/data/fcos/TALQUETAMAB.json"
+  },
+  {
+    "name": "TAMOXIFENO",
+    "file": "/data/fcos/TAMOXIFENO.json"
+  },
+  {
+    "name": "TAMSULOSINA",
+    "file": "/data/fcos/TAMSULOSINA.json"
+  },
+  {
+    "name": "TANINO",
+    "file": "/data/fcos/TANINO.json"
+  },
+  {
+    "name": "TAPENTADOL",
+    "file": "/data/fcos/TAPENTADOL.json"
+  },
+  {
+    "name": "TARTARICO, ACIDO",
+    "file": "/data/fcos/TARTARICO, ACIDO.json"
+  },
+  {
+    "name": "TASONERMINA",
+    "file": "/data/fcos/TASONERMINA.json"
+  },
+  {
+    "name": "TAURINA",
+    "file": "/data/fcos/TAURINA.json"
+  },
+  {
+    "name": "TAZOBACTAM",
+    "file": "/data/fcos/TAZOBACTAM.json"
+  },
+  {
+    "name": "TEBENTAFUSP",
+    "file": "/data/fcos/TEBENTAFUSP.json"
+  },
+  {
+    "name": "TECLISTAMAB",
+    "file": "/data/fcos/TECLISTAMAB.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), BESILESOMAB",
+    "file": "/data/fcos/TECNECIO (99M-TC), BESILESOMAB.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), BICISATO",
+    "file": "/data/fcos/TECNECIO (99M-TC), BICISATO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), BUTEDRONATO",
+    "file": "/data/fcos/TECNECIO (99M-TC), BUTEDRONATO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), EXAMETAZIMA",
+    "file": "/data/fcos/TECNECIO (99M-TC), EXAMETAZIMA.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), HINIO OCTREOTIDA",
+    "file": "/data/fcos/TECNECIO (99M-TC), HINIO OCTREOTIDA.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), MERTIATIDA",
+    "file": "/data/fcos/TECNECIO (99M-TC), MERTIATIDA.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), NANOCOLOIDE",
+    "file": "/data/fcos/TECNECIO (99M-TC), NANOCOLOIDE.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), OXIDRONATO",
+    "file": "/data/fcos/TECNECIO (99M-TC), OXIDRONATO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), PENTETATO",
+    "file": "/data/fcos/TECNECIO (99M-TC), PENTETATO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), PERTECNETATO",
+    "file": "/data/fcos/TECNECIO (99M-TC), PERTECNETATO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), PIROFOSFATO",
+    "file": "/data/fcos/TECNECIO (99M-TC), PIROFOSFATO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), SESTAMIBI",
+    "file": "/data/fcos/TECNECIO (99M-TC), SESTAMIBI.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), SUCCIMERO",
+    "file": "/data/fcos/TECNECIO (99M-TC), SUCCIMERO.json"
+  },
+  {
+    "name": "TECNECIO (99M-TC), TETROFOSMINA",
+    "file": "/data/fcos/TECNECIO (99M-TC), TETROFOSMINA.json"
+  },
+  {
+    "name": "TEDIZOLID",
+    "file": "/data/fcos/TEDIZOLID.json"
+  },
+  {
+    "name": "TEDUGLUTIDA",
+    "file": "/data/fcos/TEDUGLUTIDA.json"
+  },
+  {
+    "name": "TEGAFUR",
+    "file": "/data/fcos/TEGAFUR.json"
+  },
+  {
+    "name": "TEICOPLANINA",
+    "file": "/data/fcos/TEICOPLANINA.json"
+  },
+  {
+    "name": "TE",
+    "file": "/data/fcos/TE.json"
+  },
+  {
+    "name": "TELMISARTAN",
+    "file": "/data/fcos/TELMISARTAN.json"
+  },
+  {
+    "name": "TELOTRISTAT",
+    "file": "/data/fcos/TELOTRISTAT.json"
+  },
+  {
+    "name": "TEMOZOLOMIDA",
+    "file": "/data/fcos/TEMOZOLOMIDA.json"
+  },
+  {
+    "name": "TEMSIROLIMUS",
+    "file": "/data/fcos/TEMSIROLIMUS.json"
+  },
+  {
+    "name": "TENECTEPLASA",
+    "file": "/data/fcos/TENECTEPLASA.json"
+  },
+  {
+    "name": "TENOFOVIR ALAFENAMIDA",
+    "file": "/data/fcos/TENOFOVIR ALAFENAMIDA.json"
+  },
+  {
+    "name": "TENOFOVIR DISOPROXIL",
+    "file": "/data/fcos/TENOFOVIR DISOPROXIL.json"
+  },
+  {
+    "name": "TENOXICAM",
+    "file": "/data/fcos/TENOXICAM.json"
+  },
+  {
+    "name": "TEOFILINA",
+    "file": "/data/fcos/TEOFILINA.json"
+  },
+  {
+    "name": "TEPOTINIB",
+    "file": "/data/fcos/TEPOTINIB.json"
+  },
+  {
+    "name": "TERAZOSINA",
+    "file": "/data/fcos/TERAZOSINA.json"
+  },
+  {
+    "name": "TERBINAFINA (TOPICO)",
+    "file": "/data/fcos/TERBINAFINA (TOPICO).json"
+  },
+  {
+    "name": "TERBINAFINA",
+    "file": "/data/fcos/TERBINAFINA.json"
+  },
+  {
+    "name": "TERBUTALINA (INHALADO)",
+    "file": "/data/fcos/TERBUTALINA (INHALADO).json"
+  },
+  {
+    "name": "TERBUTALINA",
+    "file": "/data/fcos/TERBUTALINA.json"
+  },
+  {
+    "name": "TERIFLUNOMIDA",
+    "file": "/data/fcos/TERIFLUNOMIDA.json"
+  },
+  {
+    "name": "TERIPARATIDA",
+    "file": "/data/fcos/TERIPARATIDA.json"
+  },
+  {
+    "name": "TERLIPRESINA",
+    "file": "/data/fcos/TERLIPRESINA.json"
+  },
+  {
+    "name": "TESTOSTERONA (TOPICO)",
+    "file": "/data/fcos/TESTOSTERONA (TOPICO).json"
+  },
+  {
+    "name": "TESTOSTERONA",
+    "file": "/data/fcos/TESTOSTERONA.json"
+  },
+  {
+    "name": "TETRABENAZINA",
+    "file": "/data/fcos/TETRABENAZINA.json"
+  },
+  {
+    "name": "TETRACAINA (TOPICO)",
+    "file": "/data/fcos/TETRACAINA (TOPICO).json"
+  },
+  {
+    "name": "TETRACAINA",
+    "file": "/data/fcos/TETRACAINA.json"
+  },
+  {
+    "name": "TETRACICLINA",
+    "file": "/data/fcos/TETRACICLINA.json"
+  },
+  {
+    "name": "TETRADECILSULFATO DE SODIO",
+    "file": "/data/fcos/TETRADECILSULFATO DE SODIO.json"
+  },
+  {
+    "name": "TETRIZOLINA",
+    "file": "/data/fcos/TETRIZOLINA.json"
+  },
+  {
+    "name": "TEZACAFTOR",
+    "file": "/data/fcos/TEZACAFTOR.json"
+  },
+  {
+    "name": "TEZEPELUMAB",
+    "file": "/data/fcos/TEZEPELUMAB.json"
+  },
+  {
+    "name": "TIAGABINA",
+    "file": "/data/fcos/TIAGABINA.json"
+  },
+  {
+    "name": "TIAMAZOL",
+    "file": "/data/fcos/TIAMAZOL.json"
+  },
+  {
+    "name": "TIAMINA",
+    "file": "/data/fcos/TIAMINA.json"
+  },
+  {
+    "name": "TIANEPTINA",
+    "file": "/data/fcos/TIANEPTINA.json"
+  },
+  {
+    "name": "TIAPRIDA",
+    "file": "/data/fcos/TIAPRIDA.json"
+  },
+  {
+    "name": "TIBOLONA",
+    "file": "/data/fcos/TIBOLONA.json"
+  },
+  {
+    "name": "TICAGRELOR",
+    "file": "/data/fcos/TICAGRELOR.json"
+  },
+  {
+    "name": "TICLOPIDINA",
+    "file": "/data/fcos/TICLOPIDINA.json"
+  },
+  {
+    "name": "TIGECICLINA",
+    "file": "/data/fcos/TIGECICLINA.json"
+  },
+  {
+    "name": "TILA",
+    "file": "/data/fcos/TILA.json"
+  },
+  {
+    "name": "TILDRAKIZUMAB",
+    "file": "/data/fcos/TILDRAKIZUMAB.json"
+  },
+  {
+    "name": "TIMOL",
+    "file": "/data/fcos/TIMOL.json"
+  },
+  {
+    "name": "TIMOLOL (OFTALMICO)",
+    "file": "/data/fcos/TIMOLOL (OFTALMICO).json"
+  },
+  {
+    "name": "TINIDAZOL",
+    "file": "/data/fcos/TINIDAZOL.json"
+  },
+  {
+    "name": "TINZAPARINA",
+    "file": "/data/fcos/TINZAPARINA.json"
+  },
+  {
+    "name": "TIOCOLCHICOSIDO",
+    "file": "/data/fcos/TIOCOLCHICOSIDO.json"
+  },
+  {
+    "name": "TIOCONAZOL (TOPICO)",
+    "file": "/data/fcos/TIOCONAZOL (TOPICO).json"
+  },
+  {
+    "name": "TIOGUANINA",
+    "file": "/data/fcos/TIOGUANINA.json"
+  },
+  {
+    "name": "TIOPENTAL",
+    "file": "/data/fcos/TIOPENTAL.json"
+  },
+  {
+    "name": "TIOTEPA",
+    "file": "/data/fcos/TIOTEPA.json"
+  },
+  {
+    "name": "TIOTROPIO",
+    "file": "/data/fcos/TIOTROPIO.json"
+  },
+  {
+    "name": "TIPIRACILO",
+    "file": "/data/fcos/TIPIRACILO.json"
+  },
+  {
+    "name": "TIRBANIBULINA",
+    "file": "/data/fcos/TIRBANIBULINA.json"
+  },
+  {
+    "name": "TIROFIBAN",
+    "file": "/data/fcos/TIROFIBAN.json"
+  },
+  {
+    "name": "TIROSINA",
+    "file": "/data/fcos/TIROSINA.json"
+  },
+  {
+    "name": "TIROTRICINA",
+    "file": "/data/fcos/TIROTRICINA.json"
+  },
+  {
+    "name": "TIROTROPINA ALFA",
+    "file": "/data/fcos/TIROTROPINA ALFA.json"
+  },
+  {
+    "name": "TIRZEPATIDA",
+    "file": "/data/fcos/TIRZEPATIDA.json"
+  },
+  {
+    "name": "TISAGENLECLEUCEL",
+    "file": "/data/fcos/TISAGENLECLEUCEL.json"
+  },
+  {
+    "name": "TISLELIZUMAB",
+    "file": "/data/fcos/TISLELIZUMAB.json"
+  },
+  {
+    "name": "TITANIO (IV), DIOXIDO",
+    "file": "/data/fcos/TITANIO (IV), DIOXIDO.json"
+  },
+  {
+    "name": "TIVOZANIB",
+    "file": "/data/fcos/TIVOZANIB.json"
+  },
+  {
+    "name": "TIZANIDINA",
+    "file": "/data/fcos/TIZANIDINA.json"
+  },
+  {
+    "name": "TOBRAMICINA (OFTALMICO)",
+    "file": "/data/fcos/TOBRAMICINA (OFTALMICO).json"
+  },
+  {
+    "name": "TOBRAMICINA",
+    "file": "/data/fcos/TOBRAMICINA.json"
+  },
+  {
+    "name": "TOCILIZUMAB",
+    "file": "/data/fcos/TOCILIZUMAB.json"
+  },
+  {
+    "name": "TOCOFEROL",
+    "file": "/data/fcos/TOCOFEROL.json"
+  },
+  {
+    "name": "TOCOFERSOLAN",
+    "file": "/data/fcos/TOCOFERSOLAN.json"
+  },
+  {
+    "name": "TOFACITINIB",
+    "file": "/data/fcos/TOFACITINIB.json"
+  },
+  {
+    "name": "TOFERSEN",
+    "file": "/data/fcos/TOFERSEN.json"
+  },
+  {
+    "name": "TOLCAPONA",
+    "file": "/data/fcos/TOLCAPONA.json"
+  },
+  {
+    "name": "TOLNAFTATO (TOPICO)",
+    "file": "/data/fcos/TOLNAFTATO (TOPICO).json"
+  },
+  {
+    "name": "TOLTERODINA",
+    "file": "/data/fcos/TOLTERODINA.json"
+  },
+  {
+    "name": "TOLVAPTAN",
+    "file": "/data/fcos/TOLVAPTAN.json"
+  },
+  {
+    "name": "TOMILLO",
+    "file": "/data/fcos/TOMILLO.json"
+  },
+  {
+    "name": "TOPIRAMATO",
+    "file": "/data/fcos/TOPIRAMATO.json"
+  },
+  {
+    "name": "TOPOTECAN",
+    "file": "/data/fcos/TOPOTECAN.json"
+  },
+  {
+    "name": "TORASEMIDA",
+    "file": "/data/fcos/TORASEMIDA.json"
+  },
+  {
+    "name": "TOXINA BOTULINICA TIPO A",
+    "file": "/data/fcos/TOXINA BOTULINICA TIPO A.json"
+  },
+  {
+    "name": "TOXINA DEL COLERA SUBUNIDAD B (TCBR)",
+    "file": "/data/fcos/TOXINA DEL COLERA SUBUNIDAD B (TCBR).json"
+  },
+  {
+    "name": "TOXOIDE DIFTERICO",
+    "file": "/data/fcos/TOXOIDE DIFTERICO.json"
+  },
+  {
+    "name": "TOXOIDE TETANICO",
+    "file": "/data/fcos/TOXOIDE TETANICO.json"
+  },
+  {
+    "name": "TOZINAMERAN",
+    "file": "/data/fcos/TOZINAMERAN.json"
+  },
+  {
+    "name": "TRABECTEDINA",
+    "file": "/data/fcos/TRABECTEDINA.json"
+  },
+  {
+    "name": "TRALOKINUMAB",
+    "file": "/data/fcos/TRALOKINUMAB.json"
+  },
+  {
+    "name": "TRAMADOL",
+    "file": "/data/fcos/TRAMADOL.json"
+  },
+  {
+    "name": "TRAMAZOLINA",
+    "file": "/data/fcos/TRAMAZOLINA.json"
+  },
+  {
+    "name": "TRAMETINIB",
+    "file": "/data/fcos/TRAMETINIB.json"
+  },
+  {
+    "name": "TRANDOLAPRIL",
+    "file": "/data/fcos/TRANDOLAPRIL.json"
+  },
+  {
+    "name": "TRANEXAMICO, ACIDO",
+    "file": "/data/fcos/TRANEXAMICO, ACIDO.json"
+  },
+  {
+    "name": "TRASTUZUMAB DERUXTECAN",
+    "file": "/data/fcos/TRASTUZUMAB DERUXTECAN.json"
+  },
+  {
+    "name": "TRASTUZUMAB EMTANSINA",
+    "file": "/data/fcos/TRASTUZUMAB EMTANSINA.json"
+  },
+  {
+    "name": "TRASTUZUMAB",
+    "file": "/data/fcos/TRASTUZUMAB.json"
+  },
+  {
+    "name": "TRAVOPROST",
+    "file": "/data/fcos/TRAVOPROST.json"
+  },
+  {
+    "name": "TRAZODONA",
+    "file": "/data/fcos/TRAZODONA.json"
+  },
+  {
+    "name": "TREMELIMUMAB",
+    "file": "/data/fcos/TREMELIMUMAB.json"
+  },
+  {
+    "name": "TREMENTINA",
+    "file": "/data/fcos/TREMENTINA.json"
+  },
+  {
+    "name": "TREONINA",
+    "file": "/data/fcos/TREONINA.json"
+  },
+  {
+    "name": "TREOSULFANO",
+    "file": "/data/fcos/TREOSULFANO.json"
+  },
+  {
+    "name": "TREPROSTINILO",
+    "file": "/data/fcos/TREPROSTINILO.json"
+  },
+  {
+    "name": "TRETINOINA (TOPICO)",
+    "file": "/data/fcos/TRETINOINA (TOPICO).json"
+  },
+  {
+    "name": "TRETINOINA",
+    "file": "/data/fcos/TRETINOINA.json"
+  },
+  {
+    "name": "TRIAMCINOLONA (NASAL)",
+    "file": "/data/fcos/TRIAMCINOLONA (NASAL).json"
+  },
+  {
+    "name": "TRIAMCINOLONA (PARENTERAL)",
+    "file": "/data/fcos/TRIAMCINOLONA (PARENTERAL).json"
+  },
+  {
+    "name": "TRIAMCINOLONA (RECTAL)",
+    "file": "/data/fcos/TRIAMCINOLONA (RECTAL).json"
+  },
+  {
+    "name": "TRIAMCINOLONA (TOPICO)",
+    "file": "/data/fcos/TRIAMCINOLONA (TOPICO).json"
+  },
+  {
+    "name": "TRIAMTERENO",
+    "file": "/data/fcos/TRIAMTERENO.json"
+  },
+  {
+    "name": "TRIAZOLAM",
+    "file": "/data/fcos/TRIAZOLAM.json"
+  },
+  {
+    "name": "TRIENTINA",
+    "file": "/data/fcos/TRIENTINA.json"
+  },
+  {
+    "name": "TRIFAROTENO",
+    "file": "/data/fcos/TRIFAROTENO.json"
+  },
+  {
+    "name": "TRIFLURIDINA",
+    "file": "/data/fcos/TRIFLURIDINA.json"
+  },
+  {
+    "name": "TRIFLUSAL",
+    "file": "/data/fcos/TRIFLUSAL.json"
+  },
+  {
+    "name": "TRIGLICERIDOS DE CADENA MEDIA",
+    "file": "/data/fcos/TRIGLICERIDOS DE CADENA MEDIA.json"
+  },
+  {
+    "name": "TRIGLICERIDOS",
+    "file": "/data/fcos/TRIGLICERIDOS.json"
+  },
+  {
+    "name": "TRIGO GERMEN",
+    "file": "/data/fcos/TRIGO GERMEN.json"
+  },
+  {
+    "name": "TRIHEXIFENIDILO",
+    "file": "/data/fcos/TRIHEXIFENIDILO.json"
+  },
+  {
+    "name": "TRIMEBUTINA",
+    "file": "/data/fcos/TRIMEBUTINA.json"
+  },
+  {
+    "name": "TRIMETAZIDINA",
+    "file": "/data/fcos/TRIMETAZIDINA.json"
+  },
+  {
+    "name": "TRIMETOPRIMA",
+    "file": "/data/fcos/TRIMETOPRIMA.json"
+  },
+  {
+    "name": "TRIMIPRAMINA",
+    "file": "/data/fcos/TRIMIPRAMINA.json"
+  },
+  {
+    "name": "TRIPELENAMINA",
+    "file": "/data/fcos/TRIPELENAMINA.json"
+  },
+  {
+    "name": "TRIPROLIDINA",
+    "file": "/data/fcos/TRIPROLIDINA.json"
+  },
+  {
+    "name": "TRIPTOFANO",
+    "file": "/data/fcos/TRIPTOFANO.json"
+  },
+  {
+    "name": "TRIPTORELINA",
+    "file": "/data/fcos/TRIPTORELINA.json"
+  },
+  {
+    "name": "TROMBINA",
+    "file": "/data/fcos/TROMBINA.json"
+  },
+  {
+    "name": "TROMETAMOL",
+    "file": "/data/fcos/TROMETAMOL.json"
+  },
+  {
+    "name": "TROPICAMIDA",
+    "file": "/data/fcos/TROPICAMIDA.json"
+  },
+  {
+    "name": "TROSPIO, CLORURO",
+    "file": "/data/fcos/TROSPIO, CLORURO.json"
+  },
+  {
+    "name": "TROXERUTINA",
+    "file": "/data/fcos/TROXERUTINA.json"
+  },
+  {
+    "name": "TUBERCULINA",
+    "file": "/data/fcos/TUBERCULINA.json"
+  },
+  {
+    "name": "TUCATINIB",
+    "file": "/data/fcos/TUCATINIB.json"
+  },
+  {
+    "name": "TUROCTOCOG ALFA PEGOL",
+    "file": "/data/fcos/TUROCTOCOG ALFA PEGOL.json"
+  },
+  {
+    "name": "TUROCTOCOG ALFA",
+    "file": "/data/fcos/TUROCTOCOG ALFA.json"
+  },
+  {
+    "name": "UBLITUXIMAB",
+    "file": "/data/fcos/UBLITUXIMAB.json"
+  },
+  {
+    "name": "ULIPRISTAL (ANTICONCEPTIVO)",
+    "file": "/data/fcos/ULIPRISTAL (ANTICONCEPTIVO).json"
+  },
+  {
+    "name": "UMECLIDINIO",
+    "file": "/data/fcos/UMECLIDINIO.json"
+  },
+  {
+    "name": "UPADACITINIB",
+    "file": "/data/fcos/UPADACITINIB.json"
+  },
+  {
+    "name": "URAPIDILO",
+    "file": "/data/fcos/URAPIDILO.json"
+  },
+  {
+    "name": "UREA (13M-C)",
+    "file": "/data/fcos/UREA (13M-C).json"
+  },
+  {
+    "name": "UREA",
+    "file": "/data/fcos/UREA.json"
+  },
+  {
+    "name": "URIDILICO, ACIDO",
+    "file": "/data/fcos/URIDILICO, ACIDO.json"
+  },
+  {
+    "name": "URIDIN-5-TRIFOSFATO TRISODICO",
+    "file": "/data/fcos/URIDIN-5-TRIFOSFATO TRISODICO.json"
+  },
+  {
+    "name": "URIDINA, DIFOSFATO",
+    "file": "/data/fcos/URIDINA, DIFOSFATO.json"
+  },
+  {
+    "name": "URIDINA, TRIFOSFATO",
+    "file": "/data/fcos/URIDINA, TRIFOSFATO.json"
+  },
+  {
+    "name": "UROFOLITROPINA",
+    "file": "/data/fcos/UROFOLITROPINA.json"
+  },
+  {
+    "name": "UROQUINASA",
+    "file": "/data/fcos/UROQUINASA.json"
+  },
+  {
+    "name": "URSODESOXICOLICO, ACIDO",
+    "file": "/data/fcos/URSODESOXICOLICO, ACIDO.json"
+  },
+  {
+    "name": "USTEKINUMAB",
+    "file": "/data/fcos/USTEKINUMAB.json"
+  },
+  {
+    "name": "VABORBACTAM",
+    "file": "/data/fcos/VABORBACTAM.json"
+  },
+  {
+    "name": "VALACICLOVIR",
+    "file": "/data/fcos/VALACICLOVIR.json"
+  },
+  {
+    "name": "VALERIANA",
+    "file": "/data/fcos/VALERIANA.json"
+  },
+  {
+    "name": "VALGANCICLOVIR",
+    "file": "/data/fcos/VALGANCICLOVIR.json"
+  },
+  {
+    "name": "VALINA",
+    "file": "/data/fcos/VALINA.json"
+  },
+  {
+    "name": "VALPROICO, ACIDO",
+    "file": "/data/fcos/VALPROICO, ACIDO.json"
+  },
+  {
+    "name": "VALSARTAN",
+    "file": "/data/fcos/VALSARTAN.json"
+  },
+  {
+    "name": "VANCOMICINA",
+    "file": "/data/fcos/VANCOMICINA.json"
+  },
+  {
+    "name": "VANDETANIB",
+    "file": "/data/fcos/VANDETANIB.json"
+  },
+  {
+    "name": "VARA DE ORO",
+    "file": "/data/fcos/VARA DE ORO.json"
+  },
+  {
+    "name": "VARDENAFILO",
+    "file": "/data/fcos/VARDENAFILO.json"
+  },
+  {
+    "name": "VARENICLINA",
+    "file": "/data/fcos/VARENICLINA.json"
+  },
+  {
+    "name": "VASELINA (TOPICO)",
+    "file": "/data/fcos/VASELINA (TOPICO).json"
+  },
+  {
+    "name": "VEDOLIZUMAB",
+    "file": "/data/fcos/VEDOLIZUMAB.json"
+  },
+  {
+    "name": "VELAGLUCERASA ALFA",
+    "file": "/data/fcos/VELAGLUCERASA ALFA.json"
+  },
+  {
+    "name": "VELMANASA ALFA",
+    "file": "/data/fcos/VELMANASA ALFA.json"
+  },
+  {
+    "name": "VELPATASVIR",
+    "file": "/data/fcos/VELPATASVIR.json"
+  },
+  {
+    "name": "VEMURAFENIB",
+    "file": "/data/fcos/VEMURAFENIB.json"
+  },
+  {
+    "name": "VENENO APIS MELLIFERA",
+    "file": "/data/fcos/VENENO APIS MELLIFERA.json"
+  },
+  {
+    "name": "VENENO VESPULA",
+    "file": "/data/fcos/VENENO VESPULA.json"
+  },
+  {
+    "name": "VENETOCLAX",
+    "file": "/data/fcos/VENETOCLAX.json"
+  },
+  {
+    "name": "VENLAFAXINA",
+    "file": "/data/fcos/VENLAFAXINA.json"
+  },
+  {
+    "name": "VERAPAMILO",
+    "file": "/data/fcos/VERAPAMILO.json"
+  },
+  {
+    "name": "VERICIGUAT",
+    "file": "/data/fcos/VERICIGUAT.json"
+  },
+  {
+    "name": "VERNAKALANT",
+    "file": "/data/fcos/VERNAKALANT.json"
+  },
+  {
+    "name": "VERTEPORFINA",
+    "file": "/data/fcos/VERTEPORFINA.json"
+  },
+  {
+    "name": "VESTRONIDASA ALFA",
+    "file": "/data/fcos/VESTRONIDASA ALFA.json"
+  },
+  {
+    "name": "VIBEGRON",
+    "file": "/data/fcos/VIBEGRON.json"
+  },
+  {
+    "name": "VID ROJA",
+    "file": "/data/fcos/VID ROJA.json"
+  },
+  {
+    "name": "VIGABATRINA",
+    "file": "/data/fcos/VIGABATRINA.json"
+  },
+  {
+    "name": "VILANTEROL",
+    "file": "/data/fcos/VILANTEROL.json"
+  },
+  {
+    "name": "VILDAGLIPTINA",
+    "file": "/data/fcos/VILDAGLIPTINA.json"
+  },
+  {
+    "name": "VINBLASTINA",
+    "file": "/data/fcos/VINBLASTINA.json"
+  },
+  {
+    "name": "VINCAMINA",
+    "file": "/data/fcos/VINCAMINA.json"
+  },
+  {
+    "name": "VINCRISTINA",
+    "file": "/data/fcos/VINCRISTINA.json"
+  },
+  {
+    "name": "VINFLUNINA",
+    "file": "/data/fcos/VINFLUNINA.json"
+  },
+  {
+    "name": "VINORELBINA",
+    "file": "/data/fcos/VINORELBINA.json"
+  },
+  {
+    "name": "VINPOCETINA",
+    "file": "/data/fcos/VINPOCETINA.json"
+  },
+  {
+    "name": "VIRUS COVID-19, VACUNA RECOMBINANTE DE LA ESPICULA FRENTE A COVID-19",
+    "file": "/data/fcos/VIRUS COVID-19, VACUNA RECOMBINANTE DE LA ESPICULA FRENTE A COVID-19.json"
+  },
+  {
+    "name": "VIRUS COVID-19, VACUNA RECOMBINANTE HETERODIMEROS RBD",
+    "file": "/data/fcos/VIRUS COVID-19, VACUNA RECOMBINANTE HETERODIMEROS RBD.json"
+  },
+  {
+    "name": "VIRUS DENGUE, ATENUADO",
+    "file": "/data/fcos/VIRUS DENGUE, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS ENCEFALITIS JAPONESA, INACTIVADO",
+    "file": "/data/fcos/VIRUS ENCEFALITIS JAPONESA, INACTIVADO.json"
+  },
+  {
+    "name": "VIRUS FIEBRE AMARILLA, ATENUADO",
+    "file": "/data/fcos/VIRUS FIEBRE AMARILLA, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS GRIPE, ANTIGENO SUPERFICIE",
+    "file": "/data/fcos/VIRUS GRIPE, ANTIGENO SUPERFICIE.json"
+  },
+  {
+    "name": "VIRUS GRIPE, ATENUADO",
+    "file": "/data/fcos/VIRUS GRIPE, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS GRIPE, INACTIVADO FRACCIONADO",
+    "file": "/data/fcos/VIRUS GRIPE, INACTIVADO FRACCIONADO.json"
+  },
+  {
+    "name": "VIRUS HEPATITIS A, ANTIGENO",
+    "file": "/data/fcos/VIRUS HEPATITIS A, ANTIGENO.json"
+  },
+  {
+    "name": "VIRUS HEPATITIS B, ANTIGENO SUPERFICIE",
+    "file": "/data/fcos/VIRUS HEPATITIS B, ANTIGENO SUPERFICIE.json"
+  },
+  {
+    "name": "VIRUS PAPILOMA HUMANO, PROTEINA L1",
+    "file": "/data/fcos/VIRUS PAPILOMA HUMANO, PROTEINA L1.json"
+  },
+  {
+    "name": "VIRUS PAROTIDITIS, ATENUADO",
+    "file": "/data/fcos/VIRUS PAROTIDITIS, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS POLIOMIELITIS, INACTIVADO",
+    "file": "/data/fcos/VIRUS POLIOMIELITIS, INACTIVADO.json"
+  },
+  {
+    "name": "VIRUS RABIA, INACTIVADO",
+    "file": "/data/fcos/VIRUS RABIA, INACTIVADO.json"
+  },
+  {
+    "name": "VIRUS RESPIRATORIO SINCITIAL, ANTIGENO VRSPreF3",
+    "file": "/data/fcos/VIRUS RESPIRATORIO SINCITIAL, ANTIGENO VRSPreF3.json"
+  },
+  {
+    "name": "VIRUS RESPIRATORIO SINCITIAL, INACTIVADO",
+    "file": "/data/fcos/VIRUS RESPIRATORIO SINCITIAL, INACTIVADO.json"
+  },
+  {
+    "name": "VIRUS RUBEOLA, ATENUADO",
+    "file": "/data/fcos/VIRUS RUBEOLA, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS SARAMPION, ATENUADO",
+    "file": "/data/fcos/VIRUS SARAMPION, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS VARICELA, ATENUADO",
+    "file": "/data/fcos/VIRUS VARICELA, ATENUADO.json"
+  },
+  {
+    "name": "VIRUS VARICELA-ZOSTER, ANTIGENO PURIFICADO",
+    "file": "/data/fcos/VIRUS VARICELA-ZOSTER, ANTIGENO PURIFICADO.json"
+  },
+  {
+    "name": "VISMODEGIB",
+    "file": "/data/fcos/VISMODEGIB.json"
+  },
+  {
+    "name": "VOCLOSPORINA",
+    "file": "/data/fcos/VOCLOSPORINA.json"
+  },
+  {
+    "name": "VOLANESORSEN",
+    "file": "/data/fcos/VOLANESORSEN.json"
+  },
+  {
+    "name": "VORETIGEN NEPARVOVEC",
+    "file": "/data/fcos/VORETIGEN NEPARVOVEC.json"
+  },
+  {
+    "name": "VORICONAZOL",
+    "file": "/data/fcos/VORICONAZOL.json"
+  },
+  {
+    "name": "VORTIOXETINA",
+    "file": "/data/fcos/VORTIOXETINA.json"
+  },
+  {
+    "name": "VOSORITIDA",
+    "file": "/data/fcos/VOSORITIDA.json"
+  },
+  {
+    "name": "VOXILAPREVIR",
+    "file": "/data/fcos/VOXILAPREVIR.json"
+  },
+  {
+    "name": "VUTRISIRAN",
+    "file": "/data/fcos/VUTRISIRAN.json"
+  },
+  {
+    "name": "WARFARINA",
+    "file": "/data/fcos/WARFARINA.json"
+  },
+  {
+    "name": "XILOMETAZOLINA",
+    "file": "/data/fcos/XILOMETAZOLINA.json"
+  },
+  {
+    "name": "XIPAMIDA",
+    "file": "/data/fcos/XIPAMIDA.json"
+  },
+  {
+    "name": "ZANAMIVIR",
+    "file": "/data/fcos/ZANAMIVIR.json"
+  },
+  {
+    "name": "ZANUBRUTINIB",
+    "file": "/data/fcos/ZANUBRUTINIB.json"
+  },
+  {
+    "name": "ZICONOTIDA",
+    "file": "/data/fcos/ZICONOTIDA.json"
+  },
+  {
+    "name": "ZIDOVUDINA",
+    "file": "/data/fcos/ZIDOVUDINA.json"
+  },
+  {
+    "name": "ZILUCOPLAN",
+    "file": "/data/fcos/ZILUCOPLAN.json"
+  },
+  {
+    "name": "ZINC, ACETATO",
+    "file": "/data/fcos/ZINC, ACETATO.json"
+  },
+  {
+    "name": "ZINC, ACEXAMATO",
+    "file": "/data/fcos/ZINC, ACEXAMATO.json"
+  },
+  {
+    "name": "ZINC, CLORURO",
+    "file": "/data/fcos/ZINC, CLORURO.json"
+  },
+  {
+    "name": "ZINC, OXIDO",
+    "file": "/data/fcos/ZINC, OXIDO.json"
+  },
+  {
+    "name": "ZINC, SULFATO",
+    "file": "/data/fcos/ZINC, SULFATO.json"
+  },
+  {
+    "name": "ZIPRASIDONA",
+    "file": "/data/fcos/ZIPRASIDONA.json"
+  },
+  {
+    "name": "ZOLEDRONICO, ACIDO",
+    "file": "/data/fcos/ZOLEDRONICO, ACIDO.json"
+  },
+  {
+    "name": "ZOLMITRIPTAN",
+    "file": "/data/fcos/ZOLMITRIPTAN.json"
+  },
+  {
+    "name": "ZOLPIDEM",
+    "file": "/data/fcos/ZOLPIDEM.json"
+  },
+  {
+    "name": "ZONISAMIDA",
+    "file": "/data/fcos/ZONISAMIDA.json"
+  },
+  {
+    "name": "ZOPICLONA",
+    "file": "/data/fcos/ZOPICLONA.json"
+  },
+  {
+    "name": "ZUCLOPENTIXOL",
+    "file": "/data/fcos/ZUCLOPENTIXOL.json"
+  }
+]

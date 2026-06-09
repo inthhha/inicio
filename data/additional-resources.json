@@ -1,0 +1,228 @@
+{
+  "additionalResourcesData": [
+    {
+      "href": "https://www.araucaniasur.cl/",
+      "img": "images/ssas.webp",
+      "alt": "Logo SSAS",
+      "label": "Servicio Araucanía Sur"
+    },
+    {
+      "href": "https://www.superdesalud.gob.cl/difusion/665/w3-propertyvalue-1962.html",
+      "img": "images/ges.webp",
+      "alt": "Logo GES",
+      "label": "Garantías Explícitas en Salud"
+    },
+    {
+      "href": "https://www.superdesalud.gob.cl/difusion/665/w3-propertyvalue-6088.html",
+      "img": "images/ley_ricarte.webp",
+      "alt": "Logo Ley Ricarte Soto",
+      "label": "Ley Ricarte Soto"
+    },
+    {
+      "href": "https://redcronicas.minsal.cl/",
+      "img": "images/ssasur.webp",
+      "alt": "Icono Red Crónicas",
+      "label": "Red Patologías Crónicas"
+    },
+    {
+      "href": "https://diprece.minsal.cl/le-informamos/auge/acceso-guias-clinicas/guias-clinicas-auge/",
+      "img": "images/ssasur.webp",
+      "alt": "Icono Guías Minsal",
+      "label": "Guías Clínicas MINSAL"
+    },
+    {
+      "href": "files/Orientaciones tecnicas SSASUR referencia.pdf",
+      "img": "images/derivaciones.webp",
+      "alt": "Icono Perfil",
+      "label": "Derivaciones SSASUR"
+    },
+    {
+      "href": "https://prescripcion-receta.minsal.cl/auth/login",
+      "img": "images/receta.webp",
+      "alt": "Icono Receta",
+      "label": "Receta Electrónica"
+    },
+    {
+      "href": "https://wlme.medipass.cl/WebPublic/index.php",
+      "img": "images/medipass.webp",
+      "alt": "Icono Farmacia",
+      "label": "Medipass"
+    },
+    {
+      "href": "https://www.crececontigo.gob.cl/",
+      "img": "images/chilecrece.webp",
+      "alt": "Logo Chile Crece Contigo",
+      "label": "Chile Crece Contigo"
+    },
+    {
+      "href": "https://epivigila.minsal.cl/",
+      "img": "images/epivigilia.webp",
+      "alt": "Logo EPIVIGILA",
+      "label": "EPIVIGILA" 
+    },
+    {
+      "href": "https://quemados.minsal.cl/",
+      "img": "images/quemados.webp",
+      "alt": "Icono Quemados",
+      "label": "RNQ (Quemados MINSAL)"
+    },
+    {
+      "href": "https://midas.minsal.cl/midas/index.php",
+      "img": "images/ssasur.webp",
+      "alt": "Icono MIDAS",
+      "label": "MIDAS"
+    },
+    {
+      "href": "https://controldegestion.araucaniasur.cl/",
+      "img": "images/control-gestion.webp",
+      "alt": "Icono Gestión",
+      "label": "Control Gestión SSASUR"
+    },
+    {
+      "href": "https://estadistica.araucaniasur.cl/",
+      "img": "images/estadisticas.webp",
+      "alt": "Icono Estadísticas",
+      "label": "Estadísticas SSASUR"
+    },
+    {
+      "href": "https://deis.minsal.cl/",
+      "img": "images/ssasur.webp",
+      "alt": "Icono DEIS",
+      "label": "Departamento Estadístico MINSAL"
+    }
+  ],
+  "linksPanelData": [
+    {
+      "title": "Links de Interés",
+      "links": [
+        {
+          "href": "https://app.bibguru.com/",
+          "label": "BibGuru"
+        },
+        {
+          "href": "https://dinfo.ufro.cl/eduroamufro/",
+          "label": "Eduroam"
+        },
+        {
+          "href": "https://www.ilovepdf.com/es",
+          "label": "iLovePDF"
+        },
+        {
+          "href": "https://drive.google.com/drive/u/0/my-drive",
+          "label": "Google Drive"
+        },
+        {
+          "href": "https://notebooklm.google.com/",
+          "label": "NotebookLM"
+        },
+        {
+          "href": "https://ufro.elogim.com/auth-meta/login.php?url=https://ovides.ufro.elogim.com/",
+          "label": "Ovid"
+        },
+        {
+          "href": "https://sci-hub.shop/",
+          "label": "Sci-Hub"
+        }
+      ]
+    },
+    {
+      "title": "Material de Interés",
+      "links": [
+        {
+          "href": "https://booksmedicos.org/",
+          "label": "Booksmedicos"
+        },
+        {
+          "href": "https://libgen.li/",
+          "label": "Library Genesis"
+        },
+        {
+          "href": "https://sintesis.med.uchile.cl/",
+          "label": "Síntesis UChile"
+        },
+        {
+          "href": "https://www.soymedicina.com/libros-de-medicina/",
+          "label": "SoyMedicina"
+        },
+        {
+          "href": "https://doctorpdf.org/",
+          "label": "DoctorPDF"
+        },
+        {
+          "href": "https://archive.org/",
+          "label": "Archive"
+        },
+        {
+          "href": "https://annas-archive.gl/",
+          "label": "Anna's Archive"
+        }
+      ]
+    },
+    {
+      "title": "Búsquedas de Interés",
+      "links": [
+        {
+          "href": "https://uptodate.ufro.elogim.com/contents/search",
+          "label": "UpToDate"
+        },
+        {
+          "href": "https://pubmed.ncbi.nlm.nih.gov",
+          "label": "PubMed"
+        },
+        {
+          "href": "https://ezproxy.ufro.cl:2321/student/",
+          "label": "Clinical Key Student"
+        },
+        {
+          "href": "https://www.dynamed.com",
+          "label": "DynaMed"
+        },
+        {
+          "href": "https://ebm.one/es/e-mibe-medicina-interna-basada-en-la-evidencia",
+          "label": "Manual MIBE"
+        },
+        {
+          "href": "https://www.msdmanuals.com/es/professional",
+          "label": "MdsManual"
+        },
+        {
+          "href": "https://www.ncbi.nlm.nih.gov/books/NBK430685/",
+          "label": "StatPearls"
+        }
+      ]
+    },
+    {
+      "title": "IAs de Interés",
+      "links": [
+        {
+          "href": "https://www.openevidence.com/",
+          "label": "OpenEvidence"
+        },
+        {
+          "href": "https://chatgpt.com/",
+          "label": "ChatGPT"
+        },
+        {
+          "href": "https://gemini.google.com/app?hl=es",
+          "label": "Gemini"
+        },
+        {
+          "href": "https://chat.deepseek.com/sign_in",
+          "label": "DeepSeek"
+        },
+        {
+          "href": "https://copilot.microsoft.com/",
+          "label": "Copilot"
+        },
+        {
+          "href": "https://www.perplexity.ai/",
+          "label": "Perplexity"
+        },
+        {
+          "href": "https://www.explainpaper.com/login",
+          "label": "Explainpaper"
+        }
+      ]
+    }
+  ]
+}

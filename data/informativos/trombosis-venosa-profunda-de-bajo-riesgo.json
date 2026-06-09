@@ -1,0 +1,11 @@
+{
+  "id": "trombosis-venosa-profunda-de-bajo-riesgo",
+  "diagnostico": "Trombosis venosa profunda de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Dolor de pecho, espalda o dificultad para respirar",
+    "Sensación de desmayo",
+    "Sangrados"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dolor-de-extremidad-de-bajo-riesgo",
+  "diagnostico": "Dolor de extremidad de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor intenso o intolerable",
+    "Inflamación local o aumento de volumen",
+    "Fiebre (temperatura superior a 38 °C)",
+    "Vómitos",
+    "Cambios en el color de la piel",
+    "Dolor en el pecho o dificultad para respirar",
+    "Alteración del estado mental (p. ej., dificultad para abrir los ojos, desorientación)"
+  ]
+}

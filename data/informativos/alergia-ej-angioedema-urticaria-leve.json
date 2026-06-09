@@ -1,0 +1,12 @@
+{
+  "id": "alergia-ej-angioedema-urticaria-leve",
+  "diagnostico": "Alergia (ej: Angioedema, Urticaria) leve",
+  "sintomasAlarma": [
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Dolor abdominal o diarrea o vómitos persistente",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación, lenguaje incoherente)",
+    "Fiebre (temperatura mayor a 38º)"
+  ]
+}

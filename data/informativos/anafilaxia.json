@@ -1,0 +1,12 @@
+{
+  "id": "anafilaxia",
+  "diagnostico": "Anafilaxia",
+  "sintomasAlarma": [
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Dolor abdominal o diarrea en aumento",
+    "Vómitos que no disminuyan con medicamentos",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación, lenguaje incoherente)"
+  ]
+}

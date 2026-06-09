@@ -1,0 +1,954 @@
+[
+  {
+    "title": "Resumenes Cirugía",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2023",
+    "url": "https://drive.google.com/file/d/1lzDN-092h3zXMzd4iTSJWoNPoFJwu2wP/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Cirugia Kika",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1c6U_L20f35Q7Sox5r57e1fmZjcfbpfZN/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Salvador Cirugía ROA",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2018",
+    "url": "https://drive.google.com/file/d/1PxzJZ2jZ3XKJhdM60f3fa1WOCnDKt0ap/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Cirugia PUC+Chile",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/1Q2nQ5k-ecQnC1VV8KhzYGbUykxQCX6wu/view?usp=sharing"
+  },
+  {
+    "title": "Manual Cirugía UChile",
+    "type": "manual",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/1_FVIY-VqBmsd5sUpF16d0msX7ugBofjS/view?usp=sharing"
+  },
+  {
+    "title": "Manual Cirugía PUC",
+    "type": "manual",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2014",
+    "url": "https://drive.google.com/file/d/1pNik7aOPIRaSeSUxst1QGvShYQAYbPWX/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Cirugía UAndes",
+    "type": "manual",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2016",
+    "url": "https://drive.google.com/file/d/10xUmDBwFKsebdX0GRNLlsc1FyTZFhdvF/view?usp=drive_link"
+  },
+  {
+    "title": "Tratado Sabiston 21° Edición",
+    "type": "libro",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2022",
+    "url": "https://drive.google.com/file/d/1dDY6segmQeI5_FydEt3d3B4k5260gqT_/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Cabeza y Cuello - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1VG-Nu2h1tnTZlWLGRMfAuCOblcIjY_EK/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Coloproctologia - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1dY_fVtNCuRtA1_s3oLoQgTHPZ4EeXTTA/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Digestivo - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1Hi6bzkuyPiR75JgE4mdTrUn113YcSXPK/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Hepatobiliopancreas - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1G5lDQAiXvpKui2vX64KOeRkfGRn35Elb/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Plástica - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1vR9m3SaqBV8yqBqXIB5joXXxbb5N6B9y/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Tórax - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/173O1G2XXK3o1yHnxibHa1dPDNUYdmXJa/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Vascular - Becados",
+    "type": "becados",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1-fHLCed-gYU3pBAQNxgmxN_wkkSwgmmC/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Cabeza y Cuello",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1_EcTpr63e-Oz7gm2EwDo0ORYbWGtSkw9/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Coloproctologia",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1vkB1c2YvNEeJgdnFmWMCIC3cuDeyr-Bw/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Digestivo",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1xAS3QRCG4jInWVd2qTg3UEjZrGZzhcEw/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Hepatobiliopancreas",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1sH0MMBnoEtjCuk4Sb_tU6XCQVzu0zTF6/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Plástica",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1xAS3QRCG4jInWVd2qTg3UEjZrGZzhcEw/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Tórax",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/10O02993DI8eSaef9ZwJEmjayvUwJTpCh/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Rotación Vascular",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1HrH1mMzE-70dY8BQA-U7eVQDW1ffWvug/view?usp=drive_link"
+  },
+  {
+    "title": "Apuntes RCP",
+    "type": "RCP",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1ZRgQci4iFIeTqMnWIhw_eJtmbyFsASSG/view?usp=drive_link"
+  },
+  {
+    "title": "Algoritmos AHA 2020",
+    "type": "RCP",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/176q9h_R3P8D6_z_-_9kM2WHPoTMZCyZS/view?usp=drive_link"
+  },
+  {
+    "title": "ATLS 2025",
+    "type": "libro",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1cSRoEoDMeui_3m5oSsDBhwXwLcc3UQ_W/view?usp=sharing"
+  },
+  {
+    "title": "ATLS 2025 - Español",
+    "type": "libro",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1FrA1WjRFk8u0xG5L4Fijn9r99z0vxlZL/view?usp=sharing"
+  },
+  {
+    "title": "Algoritmos RCP",
+    "type": "RCP",
+    "format": "pdf",
+    "category": "cirugia",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1PBqa38fHFySlIIgSoEgIV0k1wDKG7Zyl/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Traumatología Kika",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "cirugia",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/1x0htGLzMIqaI9SNLtMaUbhBQ3-7uciCR/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Traumatología Solange",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "cirugia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1rzenEgMsE1gqq6Z1w11TEZB2k2tSA9kJ/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Traumatología",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "cirugia",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1BvTSvpb8FeNS8WxO6HNyJ-WVWX7UPXG3/view?usp=drive_link"
+  },
+  {
+    "title": "Cirugía Docente",
+    "type": "link",
+    "format": "link",
+    "category": "cirugia",
+    "year": "2025",
+    "url": "https://www.cirugiadocente.com/"
+  },
+  {
+    "title": "IA Cirugía",
+    "type": "link",
+    "format": "link",
+    "category": "cirugia",
+    "year": "2025",
+    "url": "https://notebooklm.google.com/notebook/9b90ed17-9d13-44c1-b92a-675f0d5ecce2"
+  },
+  {
+    "title": "Resumenes MedInt Kika",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1-8ipuFGxJ5k4en6UdbmiqMQDMoxUn9Xo/view?usp=sharing"
+  },
+  {
+    "title": "Resumenes Neurología Kika",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/10fTAJlFSxlz65bHY5OaqYq0Ck-E7PKtH/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Neurología Pauli",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1w9esRWgvrO8tdPQM_gy39zG9AUF-p5yG/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Psiquiatría Kika",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/19LaZYsO80U9WgLKnxXFwza3FaCsooiA5/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Cardiología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/131wrWNzKb9KKAvLvKtlCt3xJE5ahf77w/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Endocrinología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1W-HeSk4hZ01jEX5-8WTBGiuCNPoFnaOh/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Gastroenterología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1tXep6DPvOttg8WQr3BPoTsDnqwuIUtXd/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Hematología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1-BAeTN0dINqPdujUtW5hd1o_MAE3uxec/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Infectología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/196dF98pcY_8nyaIRpdXDexXc8Jn7Kwaf/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Nefrología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/136kSJRW23d4LxsoAR0BMCcRph8Exyu-E/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Respiratorio",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1JRNDF6NwC6ab1l5XlWTtq73IM-Hvigo1/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Reumatología",
+    "type": "Repartos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/11t2p-0O2-AF0jwvAN9s_LZuU1OQ18ZpE/view?usp=drive_link"
+  },
+  {
+    "title": "Harrison - Principios de Medicina Interna 21° Edición",
+    "type": "libro",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2022",
+    "url": "https://drive.google.com/file/d/1jdFli4BIsU8q2xGHR6MSyd3BP5_BoTR8/view?usp=drive_link"
+  },
+  {
+    "title": "Actualización en Medicina de Urgencias UFRO",
+    "type": "libro",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2024",
+    "url": "https://bibliotecadigital.ufro.cl/v2/files/original/36492cf1a67832ce4eb4d049fac73ed2bb04cd94.pdf"
+  },
+  {
+    "title": "Farreras - Medicina Interna 20° Edición",
+    "type": "libro",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/18aS0E4rmvYx1o2w7fYzUPOZ3417JMu64/view?usp=drive_link"
+  },
+  {
+    "title": "Manual de ATB y Control de Infecciones para uso Hospitalario - UC CHRISTUS",
+    "type": "libro",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1IZM08myfwlfBuOtbKTqRtu9CIeqT8YTU/view?usp=drive_link"
+  },
+  {
+    "title": "Enfermedades Transmisibles - EDF",
+    "type": "libro",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2023",
+    "url": "https://drive.google.com/file/d/1QBD-uR3pO_ZaiTulgNRtz1K4UV_OlG4e/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Empendium",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://empendium.com/manualmibe/"
+  },
+  {
+    "title": "Tutorías Medicina Interna",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://www.youtube.com/c/Tutor%C3%ADasMedicinaInterna"
+  },
+  {
+    "title": "Manejos Útiles Medicina Interna",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1Et_4IDq-Xmp4fjQ267gEkbJ9YDA55QNZ/view?usp=drive_link"
+  },
+  {
+    "title": "Protocolo Insulina NPH-IC",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/19ePicDyJN2_4mCp30JqztedErGy7YML5/view?usp=drive_link"
+  },
+  {
+    "title": "Protocolo BIC de Insulina",
+    "type": "protocolo",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1KPsnp5vmvUsz6Amsz7cifj-876VEDiUi/view?usp=drive_link"
+  },
+  {
+    "title": "Presentación de Pacientes",
+    "type": "Salas/Turnos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/drive/folders/1ZEzwTZ-fLdJGCvQGxESPTyHeNpLI9wYE?usp=sharing"
+  },
+  {
+    "title": "Planilla de Ingreso",
+    "type": "Salas/Turnos",
+    "format": "doc",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://docs.google.com/document/d/1OjOV7EL0brh3He2ls_4boTDMDG5J2ZQt/edit?usp=drive_link&ouid=113007826095177545501&rtpof=true&sd=true"
+  },
+  {
+    "title": "Score DRAS",
+    "type": "Salas/Turnos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1fmjvUIp2-I-fey38EJL9mIqHRwFfHj7y/view?usp=drive_link"
+  },
+  {
+    "title": "Entrega de Turno",
+    "type": "Salas/Turnos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1qZ3zPYXgIMDBAgKZBulioyDF4DH3KXuO/view?usp=drive_link"
+  },
+  {
+    "title": "Recetario",
+    "type": "Salas/Turnos",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1ob8MB10QQC8iPiCYyRQODMvyrxLyrOfh/view?usp=drive_link"
+  },
+  {
+    "title": "Resúmenes Examen Teórico",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1yNV3Q9hx_6DMS-yjrblkpsNq28hpyDtI/view?usp=drive_link"
+  },
+  {
+    "title": "Otros Resumenes",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/drive/folders/1UMILTu1-knzG1cIY9ELFaFaPR9eXx48X?usp=sharing"
+  },
+  {
+    "title": "Criterios de Beers 2019 - Geriatría",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1W26vYzNl3obSBBvobw5UoUbt1e98nuAf/view?usp=sharing"
+  },
+  {
+    "title": "Dermatología Medicina General",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/19ZhcVUHy1T-ZpACI3lv_2yM8Gm8_QG8E/view?usp=drive_link"
+  },
+  {
+    "title": "Virosis Cutáneas",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1eEjHSYaHmX3e31FIPRoLmcivnbjVqaaH/view?usp=drive_link"
+  },
+  {
+    "title": "Lesiones Cutáneas - Fotos",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1SAGB_HcltxfDc59_r3Do-NhYnQa_qzDN/view?usp=drive_link"
+  },
+  {
+    "title": "Recetario Magistral EDF: Dermatología",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1bdBk5EATxKBfm7NawQBppL4zMBtkUOsb/view?usp=drive_link"
+  },
+  {
+    "title": "Control Cardiovascular (PSCV)",
+    "type": "Otros recursos",
+    "format": "guia",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1fBdp_pRZBw1Esdz9uLNlD_Y13gurOsPI/view?usp=sharing"
+  },
+  {
+    "title": "IA Medicina Interna",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://notebooklm.google.com/notebook/3ffd6eff-8b19-4742-ac97-c0468a80d6e7"
+  },
+  {
+    "title": "IA Infectología",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://notebooklm.google.com/notebook/3e304c9b-0530-445c-82cb-151b49fb87db"
+  },
+  {
+    "title": "Calculadora RCV ACC",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://tools.acc.org/ascvd-risk-estimator-plus/#!/calculate/estimate/"
+  },
+  {
+    "title": "Calculadora RCV OPS",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://www.paho.org/cardioapp/web/#/howtobloodpressure"
+  },
+  {
+    "title": "Calculadora VFG SENEFRO",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://senefro.org/modules.php?name=calcfg"
+  },
+  {
+    "title": "LiverTOX NCBI",
+    "type": "link",
+    "format": "link",
+    "category": "medicina",
+    "year": "2025",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK547852/"
+  },
+  {
+    "title": "Resumenes Gineco-obstetricia Kika",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/14d6XVnIaiMC8nO06q1C5pd2U-WOlcfuv/view?usp=drive_link"
+  },
+  {
+    "title": "Flujogramas Ginecología PUC",
+    "type": "Diagramas de Flujos",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1auzJK2dUGRpvVGn2GULqqI2yn59aZjvL/view?usp=drive_link"
+  },
+  {
+    "title": "Flujogramas Obstetricia PUC",
+    "type": "Diagramas de Flujos",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1BF_UtqfirA2qi8Ehh2Ee4PqWWo3jkAzs/view?usp=drive_link"
+  },
+  {
+    "title": "Manual de Obstetricia y Ginecología PUC 2026",
+    "type": "libro",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "files/Manual Obstetricia y Ginecología 2026 Comprimido.pdf"
+  },
+  {
+    "title": "Libro Williams Ginecología",
+    "type": "libro",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "2022",
+    "url": "https://drive.google.com/drive/folders/1UPU7twF40-OoD2IxXRQEr1pvhORfnDUm?usp=sharing"
+  },
+  {
+    "title": "Libro Williams Obstetricia",
+    "type": "libro",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "2022",
+    "url": "https://drive.google.com/file/d/1nEfscubqEkLyB_iZl2C5LztaIF5Rsaxv/view?usp=drive_link"
+  },
+  {
+    "title": "Fetal Medicine Barcelona",
+    "type": "Poli-DAN",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://fetalmedicinebarcelona.org/calc/"
+  },
+  {
+    "title": "Risk for preeclampsia Fetal Medicine",
+    "type": "Poli-DAN",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://fetalmedicine.org/research/assess/preeclampsia/first-trimester"
+  },
+  {
+    "title": "Fetal Growth Calculator",
+    "type": "Poli-DAN",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://srhr.org/fetalgrowthcalculator/#/"
+  },
+  {
+    "title": "Guía Prenatal 2015",
+    "type": "Guias",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "antiguo",
+    "url": "http://www.repositoriodigital.minsal.cl/bitstream/handle/2015/436/GUIAPERINATAL_2015-PARA-PUBLICAR.pdf?sequence=1&isAllowed=y"
+  },
+  {
+    "title": "Medicamentos Embarazo 8° Ed",
+    "type": "Guias",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "2022",
+    "url": "https://www.araucaniasur.cl/wp-content/uploads/2023/01/GUIA-8-MEDICAMENTOS-EN-EMBARAZO-OK.pdf"
+  },
+  {
+    "title": "Manual de Fármacos ARO HHHA",
+    "type": "Guias",
+    "format": "pdf",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1WbOVTfWL_9kneTeE18W61FojMGftf0km/view"
+  },
+  {
+    "title": "Resúmenes Examen Teórico",
+    "type": "Otros recursos",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1dLD7y3iV52myP1rGwxQfarC0IaIkZRdf/view?usp=drive_link"
+  },
+  {
+    "title": "Otros Resumenes",
+    "type": "Otros recursos",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://drive.google.com/drive/folders/1EzQIAqWLM5VQrWVF_FnXGgmxnfe0EVDl?usp=drive_link"
+  },
+  {
+    "title": "PPT - Presentaciones",
+    "type": "Otros recursos",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://drive.google.com/drive/folders/1UOZgeew5aXIWd0hGwGRH78QhJkxaMy8M?usp=drive_link"
+  },
+  {
+    "title": "Entrega MMF (Jueves)",
+    "type": "MMF",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://docs.google.com/spreadsheets/d/1G8zlAm0PwOIPKJhUG5d6455r28ggkF1nPpewNuxlqF0/edit?gid=0#gid=0"
+  },
+  {
+    "title": "Para Hospitalizar",
+    "type": "MMF",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://docs.google.com/spreadsheets/d/17-qKZDAFIPpWSsaTpWg7aZaNRxuuJtXR/edit?gid=1673295739#gid=1673295739"
+  },
+  {
+    "title": "Estadísticas ARO",
+    "type": "MMF",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://docs.google.com/spreadsheets/d/1Sk29cUusIAn7hVk5m_UAaVxSkJJJ_Zr-/edit?gid=1592456355#gid=1592456355"
+  },
+  {
+    "title": "Calcula la edad gestacional",
+    "type": "link",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://www.clinicauandes.cl/maternidad/calculadora-fur"
+  },
+  {
+    "title": "IA Gineco-obstetricia",
+    "type": "link",
+    "format": "link",
+    "category": "ginecologia",
+    "year": "2025",
+    "url": "https://notebooklm.google.com/notebook/21bee4f0-83d3-4c04-b514-bf40bb7aef06"
+  },
+  {
+    "title": "Protocolos ARO",
+    "type": "Protocolos",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1cET2_cJRf_LjHwxtc38KocejoyLkqqHD?usp=drive_link"
+  },
+  {
+    "title": "Protocolos Ginecología",
+    "type": "Protocolos",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/13ybB4nvpIzcvVeidTO3JNBdLWoFY1TBV?usp=drive_link"
+  },
+  {
+    "title": "Protocolos Puerperio",
+    "type": "Protocolos",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/19e3KSTF-fY7gJ8IZTpevhjUiHmkXWWR9?usp=drive_link"
+  },
+  {
+    "title": "Protocolos Recien Nacido",
+    "type": "Protocolos",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1YdK054aSc5vc0819qPdzHJTmVofsjphR?usp=drive_link"
+  },
+  {
+    "title": "Protocolos-MMF",
+    "type": "Protocolos",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1iRu3Ai7Ja_cpNbxo7Qo5oNlj-Pa6PeM_?usp=drive_link"
+  },
+  {
+    "title": "Otros Protocolos",
+    "type": "Protocolos",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1N7NmTQ7tfX_43xMo2vW_6ofamDjz7mYh?usp=drive_link"
+  },
+  {
+    "title": "Formularios",
+    "type": "Formularios",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1FmIJGQyEkm6G3TEPSWxMHpF3u8GA6asV?usp=drive_link"
+  },
+  {
+    "title": "Pautas",
+    "type": "Pautas",
+    "format": "guia",
+    "category": "ginecologia",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1d5FDxuZnTKBNw2YAFNS8DQONNoin5n8x?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Pediatría Kika",
+    "type": "apunte",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/17JsCXeKyLS0k6J10-eUAKlGmuYAdWYoP/view?usp=drive_link"
+  },
+  {
+    "title": "Manual PUC 3° Edición",
+    "type": "libro",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/11CsnAMKqfFQXeCBHgYYRcLbtc2A8Rm3b/view?usp=drive_link"
+  },
+  {
+    "title": "Manual UDP 2020",
+    "type": "libro",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1lFcNE0TlJy9PqkvucNzx69kH1qYgjDog/view"
+  },
+  {
+    "title": "Menenghello - Pediatría Tomo I",
+    "type": "libro",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1l_LOEAz06Iwlvv-WTjUjm1wGbWaYr5FT/view?usp=sharing"
+  },
+  {
+    "title": "Menenghello - Pediatría Tomo II",
+    "type": "libro",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1Ai6eErVBkzhJa3RKzFDgGKK98zjEtJ1h/view?usp=sharing"
+  },
+  {
+    "title": "N. Supervisión 0 a 9 años en APS",
+    "type": "Guias",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2020",
+    "url": "https://www.crececontigo.gob.cl/wp-content/uploads/2015/11/Norma-Tecnica-para-la-supervision-de-ninos-y-ninas-de-0-a-9-en-APS.compressed.pdf"
+  },
+  {
+    "title": "Patrones de Crecimiento Minsal",
+    "type": "Guias",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2020",
+    "url": "https://diprece.minsal.cl/wp-content/uploads/2018/07/Patrones-de-Crecimiento-para-la-Evaluaci%C3%B3n-Nutrici%C3%B3n-de-ni%C3%B1os-ni%C3%B1as-y-adolescentes-desde-el-nacimiento-a-19-a%C3%B1os.pdf"
+  },
+  {
+    "title": "Fármacos/Dosis en Pediatría",
+    "type": "Guias",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/17J25ILfemORQLcsxvRsjgEpHEhmZsoQP/view?usp=drive_link"
+  },
+  {
+    "title": "Planilla de Ingreso",
+    "type": "Ingresos",
+    "format": "doc",
+    "category": "pediatria",
+    "year": "2024",
+    "url": "https://docs.google.com/document/d/1HDy0yukFfQnH_XW0Lald3emc45eB59j9PjvDZeiy6ss/edit?usp=sharing"
+  },
+  {
+    "title": "Antropometría",
+    "type": "Ingresos",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2024",
+    "url": "https://www.seghnp.org/nutricional/"
+  },
+  {
+    "title": "Manual de Urgencias",
+    "type": "Turnos",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1EGeJWRuPkVcxq2pV6wlLM8XbE1nsXnsC/view?usp=drive_link"
+  },
+  {
+    "title": "Antibióticos Comunes",
+    "type": "Turnos",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/15zN1p9jRa5iV6LOwehsIGXsJYbScmaGO/view?usp=drive_link"
+  },
+  {
+    "title": "Entrega de Turno Lactantes",
+    "type": "Turnos",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://docs.google.com/spreadsheets/d/1FOHAlRWDCAo0YZ_18aPODZWIB_gvhw9b12BY8YT8tkk/edit?usp=sharing"
+  },
+  {
+    "title": "Entrega de Turno Segunda Infancia",
+    "type": "Turnos",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://docs.google.com/spreadsheets/d/1mtJKr6PKZ3ITHcHP5PilxNrtghMcTTUwr0NmdRH-hUE/edit?usp=sharing"
+  },
+  {
+    "title": "Resúmenes Examen",
+    "type": "Otros recursos",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1AMtoSdi_U-Rk3K1s-nDFxlcGxm4V4T_6/view?usp=sharing"
+  },
+  {
+    "title": "Pediamécum",
+    "type": "link",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://www.aeped.es/comite-medicamentos/pediamecum"
+  },
+  {
+    "title": "Ped-Z",
+    "type": "link",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://www.pedz.de/de/pedz/main.html"
+  },
+  {
+    "title": "IA Pediatría",
+    "type": "link",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://notebooklm.google.com/notebook/35f1d53b-8ce4-418b-949d-fffdf65b3a5e"
+  }
+]

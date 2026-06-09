@@ -1,0 +1,16 @@
+{
+  "id": "orquitis-aguda-inflamacion-y-o-infeccion-testicular-de-bajo-riesgo",
+  "diagnostico": "Orquitis aguda (Inflamación y/o infección testicular) de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Vómitos",
+    "Dolor de espalda",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación, lenguaje incoherente)",
+    "Inflamación de la piel del abdomen o glúteos",
+    "Imposibilidad para orinar"
+  ]
+}

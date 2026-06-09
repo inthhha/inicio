@@ -1,0 +1,1034 @@
+[
+  {
+    "title": "Laboratorio - Muestras",
+    "category": "laboratorio",
+    "number": "N°: 9023/9024"
+  },
+  {
+    "title": "Hemograma y Coagulación",
+    "category": "laboratorio",
+    "number": "N°: 9025"
+  },
+  {
+    "title": "Bioquímico",
+    "category": "laboratorio",
+    "number": "N°: 9015/9026"
+  },
+  {
+    "title": "Orina y Urocultivos",
+    "category": "laboratorio",
+    "number": "N°: 6905"
+  },
+  {
+    "title": "Banco de Sangre - Transfusiones",
+    "category": "laboratorio",
+    "number": "N°: 8867"
+  },
+  {
+    "title": "Hemocultivos",
+    "category": "laboratorio",
+    "number": "N°: 9014"
+  },
+  {
+    "title": "Microbiológico",
+    "category": "laboratorio",
+    "number": "N°: 6903/6904"
+  },
+  {
+    "title": "Inmunología",
+    "category": "laboratorio",
+    "number": "N°: 9030/9020"
+  },
+  {
+    "title": "Toxicina botulínica y clostridium",
+    "category": "laboratorio",
+    "number": "N°: 9016"
+  },
+  {
+    "title": "Cultivos",
+    "category": "laboratorio",
+    "number": "N°: 9022"
+  },
+  {
+    "title": "Hematología",
+    "category": "laboratorio",
+    "number": "N°: 9017"
+  },
+  {
+    "title": "CAT (Níveles Mtx)",
+    "category": "laboratorio",
+    "number": "N°: 201056"
+  },
+  {
+    "title": "Biología Molecular",
+    "category": "laboratorio",
+    "number": "N°: 6708/6887"
+  },
+  {
+    "title": "Supervisor Lab",
+    "category": "laboratorio",
+    "number": "N°: 6637"
+  },
+  {
+    "title": "Tecnologo de turno",
+    "category": "laboratorio",
+    "number": "N°: 6871"
+  },
+  {
+    "title": "Tecnologo serología/derivación",
+    "category": "laboratorio",
+    "number": "N°: 9016"
+  },
+  {
+    "title": "Anatomía patológica",
+    "category": "laboratorio",
+    "number": "N°: 8827"
+  },
+  {
+    "title": "Anatopatología Lab",
+    "category": "laboratorio",
+    "number": "N°: 8833"
+  },
+  {
+    "title": "Secretaria Anatopato",
+    "category": [
+      "laboratorio",
+      "secretarias"
+    ],
+    "number": "N°: 8822"
+  },
+  {
+    "title": "Scanner",
+    "category": "imagenologia",
+    "number": "N°: 9447"
+  },
+  {
+    "title": "Medicina Nuclear",
+    "category": "imagenologia",
+    "number": "N°: 8754"
+  },
+  {
+    "title": "Recuperación imagen",
+    "category": "imagenologia",
+    "number": "N°: 6676"
+  },
+  {
+    "title": "Ecografía doppler",
+    "category": "imagenologia",
+    "number": "N°: 9357"
+  },
+  {
+    "title": "Ecografía convencional",
+    "category": "imagenologia",
+    "number": "N°: 9358"
+  },
+  {
+    "title": "Resonancia",
+    "category": "imagenologia",
+    "number": "N°: 9362/9361"
+  },
+  {
+    "title": "Rayos urgencia",
+    "category": "imagenologia",
+    "number": "N°: 9345/9346"
+  },
+  {
+    "title": "Informe Scanner",
+    "category": "imagenologia",
+    "number": "N°: 9346"
+  },
+  {
+    "title": "Seriógrafo",
+    "category": "imagenologia",
+    "number": "N°: 9344"
+  },
+  {
+    "title": "Radiografías",
+    "category": "imagenologia",
+    "number": "N°: 9353"
+  },
+  {
+    "title": "Radiografías portátiles",
+    "category": "imagenologia",
+    "number": "N°: 9348"
+  },
+  {
+    "title": "Secretaría de imagenología",
+    "category": [
+      "imagenologia",
+      "secretarias"
+    ],
+    "number": "N°: 9364"
+  },
+  {
+    "title": "Secretaría radiología intervencional",
+    "category": [
+      "imagenologia",
+      "secretarias"
+    ],
+    "number": "N°: 9364"
+  },
+  {
+    "title": "Recuperación Imagenología",
+    "category": "imagenologia",
+    "number": "N°: 6676"
+  },
+  {
+    "title": "Farmacia oncológica",
+    "category": "farmacia-inmunizaciones",
+    "number": "N°: 6828"
+  },
+  {
+    "title": "Farmacia unidosis",
+    "category": "farmacia-inmunizaciones",
+    "number": "N°: 8784 / 8783"
+  },
+  {
+    "title": "Farmacia central",
+    "category": "farmacia-inmunizaciones",
+    "number": "N°: 8782"
+  },
+  {
+    "title": "Farmacia CDT",
+    "category": "farmacia-inmunizaciones",
+    "number": "N°: 9036"
+  },
+  {
+    "title": "Inmunizaciones",
+    "category": "farmacia-inmunizaciones",
+    "number": "N°: 8911"
+  },
+  {
+    "title": "Químico farmacéutico",
+    "category": "qyf",
+    "number": "N°: 6608"
+  },
+  {
+    "title": "QF Yasna Betancurt",
+    "category": "qyf",
+    "number": "N°: 6608"
+  },
+  {
+    "title": "QF Domingo Velasquez",
+    "category": "qyf",
+    "number": "N°: 9499"
+  },
+  {
+    "title": "QF Graciela Ponce",
+    "category": "qyf",
+    "number": "N°: 8797"
+  },
+  {
+    "title": "Diálisis HHHA",
+    "category": "dialisis",
+    "number": "N°: 8838"
+  },
+  {
+    "title": "Diálisis Villarrica",
+    "category": "dialisis",
+    "number": "N°: 2410707"
+  },
+  {
+    "title": "Diálisis PLC",
+    "category": "dialisis",
+    "number": "N°: 2759733"
+  },
+  {
+    "title": "Diálisis Dinamarca",
+    "category": "dialisis",
+    "number": "N°: 204280"
+  },
+  {
+    "title": "Diálisis El Bosque",
+    "category": "dialisis",
+    "number": "N°: 452971000"
+  },
+  {
+    "title": "Priorización",
+    "category": "sua",
+    "number": "N°: 9279"
+  },
+  {
+    "title": "Neurocx",
+    "category": "sua",
+    "number": "N°: 6714"
+  },
+  {
+    "title": "Estación Pasillo A",
+    "category": "sua",
+    "number": "N°: 9252"
+  },
+  {
+    "title": "REA",
+    "category": "sua",
+    "number": "N°: 9254"
+  },
+  {
+    "title": "Traumato SUA",
+    "category": "sua",
+    "number": "N°: 9257"
+  },
+  {
+    "title": "Procedimientos",
+    "category": "sua",
+    "number": "N°: 9256"
+  },
+  {
+    "title": "Estar Médico A",
+    "category": "sua",
+    "number": "N°: 6250"
+  },
+  {
+    "title": "Observación",
+    "category": "sua",
+    "number": "N°: 9251"
+  },
+  {
+    "title": "Neurología SUA",
+    "category": "sua",
+    "number": "N°: 3682"
+  },
+  {
+    "title": "Estación Pasillo B",
+    "category": "sua",
+    "number": "N°: 9262"
+  },
+  {
+    "title": "SAR",
+    "category": "sua",
+    "number": "N°: 9450/3686"
+  },
+  {
+    "title": "Estar MDU",
+    "category": "sua",
+    "number": "N°: 3770"
+  },
+  {
+    "title": "VIP",
+    "category": "sua",
+    "number": "N°: 6917"
+  },
+  {
+    "title": "UTI 2° piso",
+    "category": "sua",
+    "number": "N°: 9312"
+  },
+  {
+    "title": "UTI 3° piso",
+    "category": "sua",
+    "number": "N°: 8941"
+  },
+  {
+    "title": "UTI Cardio",
+    "category": "sua",
+    "number": "N°: 8949"
+  },
+  {
+    "title": "UCI 2° piso",
+    "category": "sua",
+    "number": "N°: 9322"
+  },
+  {
+    "title": "UCI 3° piso",
+    "category": "sua",
+    "number": "N°: 8941"
+  },
+  {
+    "title": "Orientadores",
+    "category": "sua",
+    "number": "N°: 6946/6760"
+  },
+  {
+    "title": "Admisión",
+    "category": "sua",
+    "number": "N°: 8800"
+  },
+  {
+    "title": "Psicologa SUA",
+    "category": "sua",
+    "number": "N°: 3673"
+  },
+  {
+    "title": "Asistente Social SUA",
+    "category": "sua",
+    "number": "N°: 9275"
+  },
+  {
+    "title": "Dental SUA",
+    "category": "sua",
+    "number": "N°: 9264"
+  },
+  {
+    "title": "SUO",
+    "category": "sua",
+    "number": "N°: 9271/9272"
+  },
+  {
+    "title": "Carabineros",
+    "category": "sua",
+    "number": "N°: 9549"
+  },
+  {
+    "title": "Observación SUI",
+    "category": "sua",
+    "number": "N°: 3728/6918"
+  },
+  {
+    "title": "Box Infantil",
+    "category": "sua",
+    "number": "N°: 3728"
+  },
+  {
+    "title": "SUI",
+    "category": "sua",
+    "number": "N°: 6918"
+  },
+  {
+    "title": "Estar EU SUI",
+    "category": "sua",
+    "number": "N°: 9265"
+  },
+  {
+    "title": "Estar Médico SUI",
+    "category": "sua",
+    "number": "N°: 6645"
+  },
+  {
+    "title": "UCIP",
+    "category": "sua",
+    "number": "N°: 9340"
+  },
+  {
+    "title": "UTIP",
+    "category": "sua",
+    "number": "N°: 9326"
+  },
+  {
+    "title": "UCI Neo",
+    "category": "sua",
+    "number": "N°: 9290"
+  },
+  {
+    "title": "UTI Neo",
+    "category": "sua",
+    "number": "N°: 9309/9307"
+  },
+  {
+    "title": "Informática",
+    "category": "sua",
+    "number": "N°: 6700"
+  },
+  {
+    "title": "Centralizado",
+    "category": "sua",
+    "number": "N°: 9238"
+  },
+  {
+    "title": "Policlínico de Psiquiatría",
+    "category": "policlinicos",
+    "number": "N°: 9651"
+  },
+  {
+    "title": "Policlínico de Dermatología",
+    "category": "policlinicos",
+    "number": "N°: 8983"
+  },
+  {
+    "title": "Policlínico de Oftalmología",
+    "category": "policlinicos",
+    "number": "N°: 8966"
+  },
+  {
+    "title": "Policlínico de Oncología",
+    "category": "policlinicos",
+    "number": "N°: 9155/8916"
+  },
+  {
+    "title": "Policlínico de Oncología",
+    "category": "policlinicos",
+    "number": "N°: 9155/8916"
+  },
+  {
+    "title": "Policlínico de Infectología",
+    "category": "policlinicos",
+    "number": "N°: 7511/8725"
+  },
+  {
+    "title": "Policlínico de Neurología",
+    "category": "policlinicos",
+    "number": "N°: 8996"
+  },
+  {
+    "title": "Policlínico de Otorrinolaringología",
+    "category": "policlinicos",
+    "number": "N°: 6626/8966/9178"
+  },
+  {
+    "title": "Policlínico Oncologia Infantil EU",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 9487"
+  },
+  {
+    "title": "Policlínico Oncologia Infantil Med",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 9488"
+  },
+  {
+    "title": "Policlínico Quimio Ambulatoria",
+    "category": "policlinicos",
+    "number": "N°: 9121"
+  },
+  {
+    "title": "Policlínico EEG",
+    "category": "medico",
+    "number": "N°: 8996"
+  },
+  {
+    "title": "Policlínico Diabetes EU",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 6618"
+  },
+  {
+    "title": "Policlínico Odontopediatría",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 6780"
+  },
+  {
+    "title": "Policlínico Nutri",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 3715"
+  },
+  {
+    "title": "Módulo A CDT",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 9139"
+  },
+  {
+    "title": "Módulo D CDT",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 8966"
+  },
+  {
+    "title": "Vacunatorio",
+    "category": "policlinicos",
+    "number": "N°: 8977"
+  },
+  {
+    "title": "Test del Sudor",
+    "category": "policlinicos",
+    "number": "N°: 9119"
+  },
+  {
+    "title": "Angiógrafo",
+    "category": [
+      "cardiologia",
+      "quirurgico"
+    ],
+    "number": "N°: 9343"
+  },
+  {
+    "title": "EU angiógrafo",
+    "category": [
+      "cardiologia",
+      "quirurgico"
+    ],
+    "number": "N°: 9368"
+  },
+  {
+    "title": "Ecocardiografía",
+    "category": "cardiologia",
+    "number": "N°: 9156"
+  },
+  {
+    "title": "Electrofisiología",
+    "category": "cardiologia",
+    "number": "N°: 9070/8996"
+  },
+  {
+    "title": "Secretaría de cardiología",
+    "category": [
+      "cardiologia",
+      "secretarias"
+    ],
+    "number": "N°: 8954"
+  },
+  {
+    "title": "Holter",
+    "category": "cardiologia",
+    "number": "N°: 9158"
+  },
+  {
+    "title": "Hemodinamia",
+    "category": "cardiologia",
+    "number": "N°: 6901"
+  },
+  {
+    "title": "Secretaria hemodinamia",
+    "category": [
+      "cardiologia",
+      "secretarias"
+    ],
+    "number": "N°: 8945"
+  },
+  {
+    "title": "Policlínico Cardiología",
+    "category": [
+      "policlinicos",
+      "medico"
+    ],
+    "number": "N°: 9494/9115"
+  },
+  {
+    "title": "HODOM",
+    "category": "medico",
+    "number": "N°: 6922/6924"
+  },
+  {
+    "title": "Cuidados Paliativos",
+    "category": "medico",
+    "number": "N°: 9065"
+  },
+  {
+    "title": "LP Sector A",
+    "category": "medico",
+    "number": "N°: 8973"
+  },
+  {
+    "title": "LP Sector B",
+    "category": "medico",
+    "number": "N°: 9343"
+  },
+  {
+    "title": "Medicina Interna A",
+    "category": "medico",
+    "number": "N°: 8973"
+  },
+  {
+    "title": "Medicina Interna B",
+    "category": "medico",
+    "number": "N°: 9243"
+  },
+  {
+    "title": "Medicina Interna C",
+    "category": "medico",
+    "number": "N°: 6688"
+  },
+  {
+    "title": "Pediatría",
+    "category": "medico",
+    "number": "N°: 6665"
+  },
+  {
+    "title": "Secretaría de medicina interna",
+    "category": [
+      "medico",
+      "secretarias"
+    ],
+    "number": "N°: 8940"
+  },
+  {
+    "title": "Secretaría de CDT",
+    "category": [
+      "medico",
+      "secretarias"
+    ],
+    "number": "N°: 9510"
+  },
+  {
+    "title": "Lactantes",
+    "category": "medico",
+    "number": "N°: 8965"
+  },
+  {
+    "title": "Segunda infancia",
+    "category": "medico",
+    "number": "N°: 6686"
+  },
+  {
+    "title": "Hematoonco pediatrico",
+    "category": "medico",
+    "number": "N°: 9433"
+  },
+  {
+    "title": "CONILE",
+    "category": "medico",
+    "number": "N°: 230040"
+  },
+  {
+    "title": "EU Supervisora Pediatría",
+    "category": "medico",
+    "number": "N°: 8963/6908"
+  },
+  {
+    "title": "Sala de procedimientos",
+    "category": "quirurgico",
+    "number": "N°: 6821"
+  },
+  {
+    "title": "Endoscopía",
+    "category": "quirurgico",
+    "number": "N°: 9425"
+  },
+  {
+    "title": "Pabellón central",
+    "category": "quirurgico",
+    "number": "N°: 8880"
+  },
+  {
+    "title": "Pasillo pabellón",
+    "category": "quirurgico",
+    "number": "N°: 6723"
+  },
+  {
+    "title": "Recuperación",
+    "category": "quirurgico",
+    "number": "N°: 9284"
+  },
+  {
+    "title": "Pabellón de quemados",
+    "category": "quirurgico",
+    "number": "N°: 6850"
+  },
+  {
+    "title": "Pabellón cardiología",
+    "category": [
+      "quirurgico",
+      "cardiologia"
+    ],
+    "number": "N°: 8953"
+  },
+  {
+    "title": "Recuperación pabellón central",
+    "category": "quirurgico",
+    "number": "N°: 6722"
+  },
+  {
+    "title": "Recuperación maternidad",
+    "category": "quirurgico",
+    "number": "N°: 9248"
+  },
+  {
+    "title": "Cirugía EP-A",
+    "category": "quirurgico",
+    "number": "N°: 6681"
+  },
+  {
+    "title": "Cirugía EP-B",
+    "category": "quirurgico",
+    "number": "N°: 6842"
+  },
+  {
+    "title": "Cirugía EP-C 350",
+    "category": "quirurgico",
+    "number": "N°: 6750"
+  },
+  {
+    "title": "Cirugía EP-C 370",
+    "category": "quirurgico",
+    "number": "N°: 8920"
+  },
+  {
+    "title": "Traumatología",
+    "category": "quirurgico",
+    "number": "N°: 9191"
+  },
+  {
+    "title": "Urología",
+    "category": "quirurgico",
+    "number": "N°: 9483"
+  },
+  {
+    "title": "Neurocirugía",
+    "category": "quirurgico",
+    "number": "N°: 8913"
+  },
+  {
+    "title": "Oftalmología",
+    "category": "quirurgico",
+    "number": "N°: 9168"
+  },
+  {
+    "title": "Otorrinolaringología",
+    "category": "quirurgico",
+    "number": "N°: 9177"
+  },
+  {
+    "title": "Policlínico de urología",
+    "category": [
+      "quirurgico",
+      "policlinicos"
+    ],
+    "number": "N°: 9184/9483"
+  },
+  {
+    "title": "Policlínico de ginecología",
+    "category": [
+      "quirurgico",
+      "policlinicos"
+    ],
+    "number": "N°: 6735/9108"
+  },
+  {
+    "title": "Policlínico de maxilofacial",
+    "category": [
+      "quirurgico",
+      "policlinicos"
+    ],
+    "number": "N°: 6794"
+  },
+  {
+    "title": "Policlínico de ostomía",
+    "category": [
+      "quirurgico",
+      "policlinicos"
+    ],
+    "number": "N°: 8903"
+  },
+  {
+    "title": "Policlínico de traumatología",
+    "category": [
+      "quirurgico",
+      "policlinicos"
+    ],
+    "number": "N°: 9188/8935"
+  },
+  {
+    "title": "Secretaría de cirugía cardíaca",
+    "category": [
+      "quirurgico",
+      "cardiologia",
+      "secretarias"
+    ],
+    "number": "N°: 8979"
+  },
+  {
+    "title": "Secretaría de cirugía (Morelia)",
+    "category": [
+      "quirurgico",
+      "secretarias"
+    ],
+    "number": "N°: 8918"
+  },
+  {
+    "title": "Secretaría de pabellón",
+    "category": [
+      "quirurgico",
+      "secretarias"
+    ],
+    "number": "N°: 9430"
+  },
+  {
+    "title": "CMA",
+    "category": "quirurgico",
+    "number": "N°: 8999"
+  },
+  {
+    "title": "Ginecología y oncoginecología",
+    "category": "quirurgico",
+    "number": "N°: 3669"
+  },
+  {
+    "title": "Cirugía Infantil",
+    "category": "quirurgico",
+    "number": "N°: 8899"
+  },
+  {
+    "title": "Secretaria Cirugía Infantil",
+    "category": [
+      "quirurgico",
+      "secretarias"
+    ],
+    "number": "N°: 8899"
+  },
+  {
+    "title": "UPC HINI",
+    "category": "hospital",
+    "number": "N°: 7913/7920/8844"
+  },
+  {
+    "title": "UCI Lautaro",
+    "category": "hospital",
+    "number": "N°: 3462/3463"
+  },
+  {
+    "title": "UTI Lautaro",
+    "category": "hospital",
+    "number": "N°: 3456"
+  },
+  {
+    "title": "UPC Pitrufquén",
+    "category": "hospital",
+    "number": "N°: 3883/3884"
+  },
+  {
+    "title": "UCI CAPLC",
+    "category": "hospital",
+    "number": "N°: 0023/0022"
+  },
+  {
+    "title": "UTI CAPLC",
+    "category": "hospital",
+    "number": "N°: 0416/0359"
+  },
+  {
+    "title": "UCI Villarrica",
+    "category": "hospital",
+    "number": "N°: 4364"
+  },
+  {
+    "title": "UTI Villarrica",
+    "category": "hospital",
+    "number": "N°: 4361"
+  },
+  {
+    "title": "UCI Victoria",
+    "category": "hospital",
+    "number": "N°: 6056"
+  },
+  {
+    "title": "UTI Victoria",
+    "category": "hospital",
+    "number": "N°: 5958"
+  },
+  {
+    "title": "UCI Angol ",
+    "category": "hospital",
+    "number": "N°: 0648/0503 "
+  },
+  {
+    "title": "UTI Angol ",
+    "category": "hospital",
+    "number": "N°: 0858"
+  },
+  {
+    "title": "Urgencia CAPLC",
+    "category": "hospital",
+    "number": "N°: 0114/0370"
+  },
+  {
+    "title": "Urgencia Lautaro",
+    "category": "hospital",
+    "number": "N°: 3486/3487"
+  },
+  {
+    "title": "Urgencia Villarrica",
+    "category": "hospital",
+    "number": "N°: 5293"
+  },
+  {
+    "title": "Urgencia Pitrufquén",
+    "category": "hospital",
+    "number": "N°: 3812"
+  },
+  {
+    "title": "Urgencia HINI ",
+    "category": "hospital",
+    "number": "N°: 7947"
+  },
+  {
+    "title": "Urgencia Victoria",
+    "category": "hospital",
+    "number": "N°: 6001"
+  },
+  {
+    "title": "Medicina Makewe",
+    "category": "hospital",
+    "number": "N°: 1477/1506"
+  },
+  {
+    "title": "Urgencia Cunco ",
+    "category": "hospital",
+    "number": "N°: 2068"
+  },
+  {
+    "title": "Urgencia Vilcún",
+    "category": "hospital",
+    "number": "N°: 5472"
+  },
+  {
+    "title": "Urgencia Galvarino",
+    "category": "hospital",
+    "number": "N°: 2188"
+  },
+  {
+    "title": "Urgencia Loncoche",
+    "category": "hospital",
+    "number": "N°: 9241"
+  },
+  {
+    "title": "Urgencia Gorbea",
+    "category": "hospital",
+    "number": "N°: 1967"
+  },
+  {
+    "title": "Urgencia Toltén ",
+    "category": "hospital",
+    "number": "N°: 2266"
+  },
+  {
+    "title": "Urgencia Carahue",
+    "category": "hospital",
+    "number": "N°: 5109"
+  },
+  {
+    "title": "Urgencia Puerto Saavedra",
+    "category": "hospital",
+    "number": "N°: 8178"
+  },
+  {
+    "title": "SAR Miraflores",
+    "category": "hospital",
+    "number": "N°: 5049"
+  },
+  {
+    "title": "SAR Labranza",
+    "category": "hospital",
+    "number": "N°: 376675"
+  },
+  {
+    "title": "SAR PDV",
+    "category": "hospital",
+    "number": "N°: 8340"
+  },
+  {
+    "title": "SAR Cajón",
+    "category": "hospital",
+    "number": "N°: 371018"
+  },
+  {
+    "title": "SAR Lautaro",
+    "category": "hospital",
+    "number": "N°: 2750"
+  },
+  {
+    "title": "CITUC Tóxicos",
+    "category": "hospital",
+    "number": "N°: +562 26353800"
+  },
+  {
+    "title": "CITUC Químicos",
+    "category": "hospital",
+    "number": "N°: +562 22473600"
+  }
+]

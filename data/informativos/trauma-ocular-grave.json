@@ -1,0 +1,10 @@
+{
+  "id": "trauma-ocular-grave",
+  "diagnostico": "Trauma ocular grave",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Pérdida o alteración de la visión"
+  ]
+}

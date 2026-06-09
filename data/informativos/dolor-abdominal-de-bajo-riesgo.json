@@ -1,0 +1,12 @@
+{
+  "id": "dolor-abdominal-de-bajo-riesgo",
+  "diagnostico": "Dolor Abdominal de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos que no disminuyan con medicamentos o no permitan beber líquidos",
+    "Sensación de hinchazón abdominal sin eliminación de gases o deposiciones por más de 24 hrs",
+    "Vómitos con sangre, deposiciones negras o sanguinolentas",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Dificultad o molestias al orinar"
+  ]
+}

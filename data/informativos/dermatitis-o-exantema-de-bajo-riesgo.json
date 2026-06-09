@@ -1,0 +1,15 @@
+{
+  "id": "dermatitis-o-exantema-de-bajo-riesgo",
+  "diagnostico": "Dermatitis o exantema de bajo riesgo",
+  "sintomasAlarma": [
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Dolor abdominal o diarrea o vómitos",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación, lenguaje incoherente)",
+    "Aparición de heridas dentro de la boca o genitales",
+    "Fiebre (temperatura mayor a 38°)",
+    "Inflamación de la lengua o de los ojos",
+    "Descamación o pérdida de la capa superficial de la piel"
+  ]
+}

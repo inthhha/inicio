@@ -1,0 +1,10 @@
+{
+  "id": "hemorragia-digestiva-baja-no-complicada",
+  "diagnostico": "Hemorragia digestiva baja no complicada",
+  "sintomasAlarma": [
+    "Persistencia de sangrado por más de 48 hrs",
+    "Aparición de dolor abdominal o rectal posterior a la atención de urgencia",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Fiebre (temperatura mayor a 38°)"
+  ]
+}

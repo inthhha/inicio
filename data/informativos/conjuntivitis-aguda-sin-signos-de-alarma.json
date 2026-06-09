@@ -1,0 +1,12 @@
+{
+  "id": "conjuntivitis-aguda-sin-signos-de-alarma",
+  "diagnostico": "Conjuntivitis aguda, sin signos de alarma",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Pérdida o alteración de la visión",
+    "Fiebre (temperatura mayor a 38º) de más de 5 días de duración",
+    "Enrojecimiento de la piel sobre los párpados o el resto de la cara",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Dificultad o torpeza para mover manos o piernas"
+  ]
+}

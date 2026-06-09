@@ -1,0 +1,14 @@
+{
+  "id": "tec-leve-o-contusion-craneana",
+  "diagnostico": "TEC leve o contusión craneana",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos o náuseas que no disminuyan con medicamentos",
+    "Imposibilidad para mantenerse de pie",
+    "Torpeza para mover manos o piernas",
+    "Alteración del habla o lenguaje",
+    "Dificultad para recobrar conciencia",
+    "Sensación de adormecimiento de la mitad del cuerpo",
+    "Alteración de conciencia (ej: dificultad para despertar, desorientación)"
+  ]
+}

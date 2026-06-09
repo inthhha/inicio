@@ -1,0 +1,11 @@
+{
+  "id": "trombosis-venosa-superficial",
+  "diagnostico": "Trombosis venosa superficial",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Dolor de la pierna o brazo del lado contrario",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Dolor de pecho, espalda o dificultad para respirar",
+    "Sensación de desmayo"
+  ]
+}

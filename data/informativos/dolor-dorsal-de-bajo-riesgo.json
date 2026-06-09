@@ -1,0 +1,14 @@
+{
+  "id": "dolor-dorsal-de-bajo-riesgo",
+  "diagnostico": "Dolor dorsal de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Dolor abdominal",
+    "Fiebre (Temperatura mayor a 38°)",
+    "Síntomas urinarios o defecatorios",
+    "Pérdida de sensibilidad en la región genital o anal",
+    "Debilidad de ambas piernas",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Dificultad para respirar o tos"
+  ]
+}

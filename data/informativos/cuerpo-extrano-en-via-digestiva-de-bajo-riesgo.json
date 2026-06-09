@@ -1,0 +1,11 @@
+{
+  "id": "cuerpo-extrano-en-via-digestiva-de-bajo-riesgo",
+  "diagnostico": "Cuerpo extraño en vía digestiva, de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos",
+    "Sensación de hinchazón abdominal sin eliminación de gases o deposiciones por más de 24 hrs",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Dificultad o molestias al orinar"
+  ]
+}

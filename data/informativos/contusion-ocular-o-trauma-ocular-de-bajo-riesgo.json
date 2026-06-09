@@ -1,0 +1,10 @@
+{
+  "id": "contusion-ocular-o-trauma-ocular-de-bajo-riesgo",
+  "diagnostico": "Contusión ocular o trauma ocular de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Pérdida o alteración de la visión"
+  ]
+}

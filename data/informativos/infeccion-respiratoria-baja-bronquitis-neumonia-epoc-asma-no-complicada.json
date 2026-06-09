@@ -1,0 +1,11 @@
+{
+  "id": "infeccion-respiratoria-baja-bronquitis-neumonia-epoc-asma-no-complicada",
+  "diagnostico": "Infección respiratoria baja (bronquitis, neumonía, EPOC/ASMA), no complicada",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Sensación de dificultad respiratoria o falta de aire, en aumento",
+    "Coloración azulada de la piel o hundimiento de costillas al respirar",
+    "Fiebre (temperatura > 38°) de más de 3 días de duración pese a tratamiento antibiótico"
+  ]
+}

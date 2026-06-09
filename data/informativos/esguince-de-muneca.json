@@ -1,0 +1,9 @@
+{
+  "id": "esguince-de-muneca",
+  "diagnostico": "Esguince de muñeca",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Persistencia del dolor por más de 2 semanas",
+    "Fiebre (temperatura mayor a 38°C)"
+  ]
+}

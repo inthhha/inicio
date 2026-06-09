@@ -1,0 +1,12 @@
+{
+  "id": "hematoma-de-partes-blandas-no-complicado",
+  "diagnostico": "Hematoma de partes blandas, no complicado",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Vómitos",
+    "Enrojecimiento de piel que persiste o aumenta por más de 3 días desde inicio de tratamiento antibiótico",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Sensación de desmayo o dificultad para permanecer de pie"
+  ]
+}

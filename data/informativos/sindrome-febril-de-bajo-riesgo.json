@@ -1,0 +1,13 @@
+{
+  "id": "sindrome-febril-de-bajo-riesgo",
+  "diagnostico": "Síndrome febril de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor abdominal de alta intensidad o intolerable",
+    "Vómitos que no disminuyan con medicamentos o no permitan beber líquidos",
+    "Distensión abdominal sin eliminación de gases o deposiciones por más de 24 hrs",
+    "Dificultad o molestias para orinar",
+    "Dolor o heridas en piel",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Sìntomas respiratorios (ej: dolor de garganta, tos) o dificultad para respirar"
+  ]
+}

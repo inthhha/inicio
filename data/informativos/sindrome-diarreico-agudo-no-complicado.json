@@ -1,0 +1,11 @@
+{
+  "id": "sindrome-diarreico-agudo-no-complicado",
+  "diagnostico": "Síndrome diarreico agudo no complicado",
+  "sintomasAlarma": [
+    "Dolor abdominal de alta intensidad o intolerable",
+    "Vómitos que no disminuyan con medicamentos o no permitan beber líquidos",
+    "Distensión abdominal sin eliminación de gases o deposiciones por más de 24 hrs",
+    "Vómitos con sangre o sangrado en deposiciones, que aparecen posterior a consulta en urgencias",
+    "Sensación de desmayo o dificultad para permanecer de pie"
+  ]
+}

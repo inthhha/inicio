@@ -1,0 +1,12 @@
+{
+  "id": "infeccion-respiratoria-alta-no-complicada",
+  "diagnostico": "Infección respiratoria alta, no complicada",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Sensación de dificultad respiratoria o falta de aire, en aumento",
+    "Coloración azulada de la piel o hundimiento de costillas al respirar",
+    "Vómitos que no disminuyan con los medicamentos",
+    "Fiebre (temperatura > 38°) de más de 5 días de duración"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "infeccion-urinaria-alta",
+  "diagnostico": "Infección urinaria alta",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Vómitos que no disminuyan con medicamentos",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación, lenguaje incoherente)",
+    "Fiebre (temperatura mayor a 38°C) que persista más allá de 3 días desde el inicio de antibióticos"
+  ]
+}

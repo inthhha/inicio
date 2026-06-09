@@ -1,0 +1,13 @@
+{
+  "id": "dolor-toracico-de-bajo-riesgo",
+  "diagnostico": "Dolor torácico de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos que no disminuyan con medicamentos o no permitan beber líquidos",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Vómitos con sangre o deposiciones negras",
+    "Fiebre (Temperatura mayor a 38°)",
+    "Aparición de lesiones en piel"
+  ]
+}

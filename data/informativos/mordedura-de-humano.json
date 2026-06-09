@@ -1,0 +1,11 @@
+{
+  "id": "mordedura-de-humano",
+  "diagnostico": "Mordedura de humano",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Vómitos",
+    "Sangrado que no cede tras compresión de herida",
+    "Enrojecimiento doloroso de la piel cercana a la herida que avanza por más de 2 a 3 días"
+  ]
+}

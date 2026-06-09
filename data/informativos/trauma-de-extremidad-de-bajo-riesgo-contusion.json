@@ -1,0 +1,10 @@
+{
+  "id": "trauma-de-extremidad-de-bajo-riesgo-contusion",
+  "diagnostico": "Trauma de extremidad de bajo riesgo (Contusión)",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Persistencia del dolor por más de 2 semanas",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Náuseas o vómitos"
+  ]
+}

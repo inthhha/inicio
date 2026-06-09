@@ -1,0 +1,17 @@
+{
+  "id": "paralisis-facial-periferica",
+  "diagnostico": "Parálisis facial periférica",
+  "sintomasAlarma": [
+    "Dolor de la cara",
+    "Vómitos o náuseas",
+    "Imposibilidad para mantenerse de pie",
+    "Torpeza para mover manos o piernas",
+    "Alteración del habla o lenguaje",
+    "Sensación de adormecimiento de la mitad del cuerpo",
+    "Alteración de conciencia (ej: dificultad para despertar, desorientación)",
+    "Visión doble",
+    "Dificultad para tragar la comida",
+    "Fiebre (temperatura mayor a 38º)",
+    "Dolor de oído y/o secreción a través de éste."
+  ]
+}

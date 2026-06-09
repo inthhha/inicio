@@ -1,0 +1,13 @@
+{
+  "id": "cefalea-dolor-de-cabeza-de-bajo-riesgo",
+  "diagnostico": "Cefalea (dolor de cabeza) de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos que no disminuyan con medicamentos o no permitan beber líquidos",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Dificultad o torpeza para mover manos o piernas",
+    "Alteración del habla o lenguaje",
+    "Sensación de adormecimiento de la mitad del cuerpo",
+    "Fiebre (temperatura mayor a 38º)"
+  ]
+}

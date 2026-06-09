@@ -1,0 +1,12 @@
+{
+  "id": "epistaxis-sangrado-nasal-de-bajo-riesgo",
+  "diagnostico": "Epistaxis (sangrado nasal) de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Sangrado por nariz o boca que persiste tras realizar compresión de puente nasal por 15 minutos",
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de falta de aire",
+    "Fiebre (temperatura mayor a 38°C) > 5 días"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dolor-ocular-de-bajo-riesgo",
+  "diagnostico": "Dolor ocular de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Vómitos que no disminuyan con medicamentos, o que aparecen posterior a la consulta en urgencias",
+    "Torpeza para mover manos o piernas",
+    "Alteración del habla o lenguaje",
+    "Sensación de adormecimiento de la mitad del cuerpo",
+    "Alteración de la visión que aparece posterior a la consulta en urgencias",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Dificultad para masticar la comida"
+  ]
+}

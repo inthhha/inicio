@@ -1,0 +1,14 @@
+{
+  "id": "infeccion-urinaria-baja-o-cistitis-aguda",
+  "diagnostico": "Infección urinaria baja o cistitis aguda",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Fiebre (temperatura mayor a 38°C)",
+    "Imposibilidad para mantenerse de pie",
+    "Sensación de desmayo",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Vómitos",
+    "Dolor de espalda",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación, lenguaje incoherente)"
+  ]
+}

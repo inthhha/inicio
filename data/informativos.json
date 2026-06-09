@@ -1,0 +1,501 @@
+{
+  "defaultTemplate": "template",
+  "informativos": [
+  {
+    "id": "planilla",
+    "nombre": "Planilla",
+    "archivo": "/data/informativos/planilla.json"
+  },  
+  {
+    "id": "adenitis-adenopatias-ganglios-inflamatorios",
+    "nombre": "Adenitis / Adenopatías / Ganglios inflamatorios",
+    "archivo": "/data/informativos/adenitis-adenopatias-ganglios-inflamatorios.json"
+  },
+  {
+    "id": "alergia-ej-angioedema-urticaria-leve",
+    "nombre": "Alergia (ej: Angioedema, Urticaria) leve",
+    "archivo": "/data/informativos/alergia-ej-angioedema-urticaria-leve.json"
+  },
+  {
+    "id": "anafilaxia",
+    "nombre": "Anafilaxia",
+    "archivo": "/data/informativos/anafilaxia.json"
+  },
+  {
+    "id": "aumento-de-volumen-facial-de-bajo-riesgo",
+    "nombre": "Aumento de volumen facial, de bajo riesgo",
+    "archivo": "/data/informativos/aumento-de-volumen-facial-de-bajo-riesgo.json"
+  },
+  {
+    "id": "cefalea-dolor-de-cabeza-de-bajo-riesgo",
+    "nombre": "Cefalea (dolor de cabeza) de bajo riesgo",
+    "archivo": "/data/informativos/cefalea-dolor-de-cabeza-de-bajo-riesgo.json"
+  },
+  {
+    "id": "cervicalgia-dolor-de-cuello-de-bajo-riesgo",
+    "nombre": "Cervicalgia (dolor de cuello) de bajo riesgo",
+    "archivo": "/data/informativos/cervicalgia-dolor-de-cuello-de-bajo-riesgo.json"
+  },
+  {
+    "id": "cervicobraquialgia-dolor-de-cuello-y-extremidad-superior-de-bajo-riesgo",
+    "nombre": "Cervicobraquialgia (dolor de cuello y extremidad superior) de bajo riesgo",
+    "archivo": "/data/informativos/cervicobraquialgia-dolor-de-cuello-y-extremidad-superior-de-bajo-riesgo.json"
+  },
+  {
+    "id": "colico-renal-no-complicado",
+    "nombre": "Colico renal no complicado",
+    "archivo": "/data/informativos/colico-renal-no-complicado.json"
+  },
+  {
+    "id": "conjuntivitis-aguda-sin-signos-de-alarma",
+    "nombre": "Conjuntivitis aguda, sin signos de alarma",
+    "archivo": "/data/informativos/conjuntivitis-aguda-sin-signos-de-alarma.json"
+  },
+  {
+    "id": "contusion-ocular-o-trauma-ocular-de-bajo-riesgo",
+    "nombre": "Contusión ocular o trauma ocular de bajo riesgo",
+    "archivo": "/data/informativos/contusion-ocular-o-trauma-ocular-de-bajo-riesgo.json"
+  },
+  {
+    "id": "contusion-toracica-de-bajo-riesgo",
+    "nombre": "Contusión torácica de bajo riesgo",
+    "archivo": "/data/informativos/contusion-toracica-de-bajo-riesgo.json"
+  },
+  {
+    "id": "cuerpo-extrano-en-via-digestiva-de-bajo-riesgo",
+    "nombre": "Cuerpo extraño en vía digestiva, de bajo riesgo",
+    "archivo": "/data/informativos/cuerpo-extrano-en-via-digestiva-de-bajo-riesgo.json"
+  },
+  {
+    "id": "cuerpo-extrano-ocular-de-bajo-riesgo",
+    "nombre": "Cuerpo extraño ocular de bajo riesgo",
+    "archivo": "/data/informativos/cuerpo-extrano-ocular-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dermatitis-o-exantema-de-bajo-riesgo",
+    "nombre": "Dermatitis o exantema de bajo riesgo",
+    "archivo": "/data/informativos/dermatitis-o-exantema-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dolor-abdominal-de-bajo-riesgo",
+    "nombre": "Dolor Abdominal de bajo riesgo",
+    "archivo": "/data/informativos/dolor-abdominal-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dolor-de-extremidad-de-bajo-riesgo",
+    "nombre": "Dolor de extremidad de bajo riesgo",
+    "archivo": "/data/informativos/dolor-de-extremidad-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dolor-dorsal-de-bajo-riesgo",
+    "nombre": "Dolor dorsal de bajo riesgo",
+    "archivo": "/data/informativos/dolor-dorsal-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dolor-lumbar-de-bajo-riesgo",
+    "nombre": "Dolor lumbar de bajo riesgo",
+    "archivo": "/data/informativos/dolor-lumbar-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dolor-ocular-de-bajo-riesgo",
+    "nombre": "Dolor ocular de bajo riesgo",
+    "archivo": "/data/informativos/dolor-ocular-de-bajo-riesgo.json"
+  },
+  {
+    "id": "dolor-toracico-de-bajo-riesgo",
+    "nombre": "Dolor torácico de bajo riesgo",
+    "archivo": "/data/informativos/dolor-toracico-de-bajo-riesgo.json"
+  },
+  {
+    "id": "epistaxis-sangrado-nasal-de-bajo-riesgo",
+    "nombre": "Epistaxis (sangrado nasal) de bajo riesgo",
+    "archivo": "/data/informativos/epistaxis-sangrado-nasal-de-bajo-riesgo.json"
+  },
+  {
+    "id": "esguince-de-muneca",
+    "nombre": "Esguince de muñeca",
+    "archivo": "/data/informativos/esguince-de-muneca.json"
+  },
+  {
+    "id": "esguince-de-tobillo",
+    "nombre": "Esguince de tobillo",
+    "archivo": "/data/informativos/esguince-de-tobillo.json"
+  },
+  {
+    "id": "fractura-costal-no-complicada",
+    "nombre": "Fractura costal no complicada",
+    "archivo": "/data/informativos/fractura-costal-no-complicada.json"
+  },
+  {
+    "id": "hematoma-de-partes-blandas-no-complicado",
+    "nombre": "Hematoma de partes blandas, no complicado",
+    "archivo": "/data/informativos/hematoma-de-partes-blandas-no-complicado.json"
+  },
+  {
+    "id": "hemorragia-digestiva-baja-no-complicada",
+    "nombre": "Hemorragia digestiva baja no complicada",
+    "archivo": "/data/informativos/hemorragia-digestiva-baja-no-complicada.json"
+  },
+  {
+    "id": "hemorragia-subconjuntival",
+    "nombre": "Hemorragia subconjuntival",
+    "archivo": "/data/informativos/hemorragia-subconjuntival.json"
+  },
+  {
+    "id": "herida-de-cuero-cabelludo-no-complicada",
+    "nombre": "Herida de cuero cabelludo no complicada",
+    "archivo": "/data/informativos/herida-de-cuero-cabelludo-no-complicada.json"
+  },
+  {
+    "id": "hernia-de-pared-abdominal-o-inguinal",
+    "nombre": "Hernia de pared abdominal o inguinal",
+    "archivo": "/data/informativos/hernia-de-pared-abdominal-o-inguinal.json"
+  },
+  {
+    "id": "infeccion-de-partes-blandas-ej-celulitis",
+    "nombre": "Infección de partes blandas (ej: Celulitis)",
+    "archivo": "/data/informativos/infeccion-de-partes-blandas-ej-celulitis.json"
+  },
+  {
+    "id": "infeccion-ocular-o-parpados-de-bajo-riesgo",
+    "nombre": "Infección ocular o párpados, de bajo riesgo",
+    "archivo": "/data/informativos/infeccion-ocular-o-parpados-de-bajo-riesgo.json"
+  },
+  {
+    "id": "infeccion-respiratoria-alta-no-complicada",
+    "nombre": "Infección respiratoria alta, no complicada",
+    "archivo": "/data/informativos/infeccion-respiratoria-alta-no-complicada.json"
+  },
+  {
+    "id": "infeccion-respiratoria-baja-bronquitis-neumonia-epoc-asma-no-complicada",
+    "nombre": "Infección respiratoria baja (bronquitis, neumonía, EPOC/ASMA), no complicada",
+    "archivo": "/data/informativos/infeccion-respiratoria-baja-bronquitis-neumonia-epoc-asma-no-complicada.json"
+  },
+  {
+    "id": "infeccion-urinaria-alta",
+    "nombre": "Infección urinaria alta",
+    "archivo": "/data/informativos/infeccion-urinaria-alta.json"
+  },
+  {
+    "id": "infeccion-urinaria-baja-o-cistitis-aguda",
+    "nombre": "Infección urinaria baja o cistitis aguda",
+    "archivo": "/data/informativos/infeccion-urinaria-baja-o-cistitis-aguda.json"
+  },
+  {
+    "id": "loxocelismo-mordedura-de-arana-de-rincon-sin-complicaciones-de-gravedad",
+    "nombre": "Loxocelismo (mordedura de araña de rincón), sin complicaciones de gravedad",
+    "archivo": "/data/informativos/loxocelismo-mordedura-de-arana-de-rincon-sin-complicaciones-de-gravedad.json"
+  },
+  {
+    "id": "mordedura-de-animal",
+    "nombre": "Mordedura de animal",
+    "archivo": "/data/informativos/mordedura-de-animal.json"
+  },
+  {
+    "id": "mordedura-de-humano",
+    "nombre": "Mordedura de humano",
+    "archivo": "/data/informativos/mordedura-de-humano.json"
+  },
+  {
+    "id": "orquitis-aguda-inflamacion-y-o-infeccion-testicular-de-bajo-riesgo",
+    "nombre": "Orquitis aguda (Inflamación y/o infección testicular) de bajo riesgo",
+    "archivo": "/data/informativos/orquitis-aguda-inflamacion-y-o-infeccion-testicular-de-bajo-riesgo.json"
+  },
+  {
+    "id": "otitis-no-complicada-ej-otitis-media-otitis-externa",
+    "nombre": "Otitis no complicada (ej: Otitis media, otitis externa)",
+    "archivo": "/data/informativos/otitis-no-complicada-ej-otitis-media-otitis-externa.json"
+  },
+  {
+    "id": "paralisis-facial-periferica",
+    "nombre": "Parálisis facial periférica",
+    "archivo": "/data/informativos/paralisis-facial-periferica.json"
+  },
+  {
+    "id": "sincope-o-lipotimia-de-bajo-riesgo",
+    "nombre": "Síncope o lipotimia de bajo riesgo",
+    "archivo": "/data/informativos/sincope-o-lipotimia-de-bajo-riesgo.json"
+  },
+  {
+    "id": "sindrome-diarreico-agudo-no-complicado",
+    "nombre": "Síndrome diarreico agudo no complicado",
+    "archivo": "/data/informativos/sindrome-diarreico-agudo-no-complicado.json"
+  },
+  {
+    "id": "sindrome-febril-de-bajo-riesgo",
+    "nombre": "Síndrome febril de bajo riesgo",
+    "archivo": "/data/informativos/sindrome-febril-de-bajo-riesgo.json"
+  },
+  {
+    "id": "tec-leve-o-contusion-craneana",
+    "nombre": "TEC leve o contusión craneana",
+    "archivo": "/data/informativos/tec-leve-o-contusion-craneana.json"
+  },
+  {
+    "id": "trauma-de-extremidad-de-bajo-riesgo-contusion",
+    "nombre": "Trauma de extremidad de bajo riesgo (Contusión)",
+    "archivo": "/data/informativos/trauma-de-extremidad-de-bajo-riesgo-contusion.json"
+  },
+  {
+    "id": "trauma-lumbar-de-bajo-riesgo-contusion-lumbar",
+    "nombre": "Trauma lumbar de bajo riesgo (Contusión lumbar)",
+    "archivo": "/data/informativos/trauma-lumbar-de-bajo-riesgo-contusion-lumbar.json"
+  },
+  {
+    "id": "trauma-ocular-grave",
+    "nombre": "Trauma ocular grave",
+    "archivo": "/data/informativos/trauma-ocular-grave.json"
+  },
+  {
+    "id": "trombosis-venosa-profunda-de-bajo-riesgo",
+    "nombre": "Trombosis venosa profunda de bajo riesgo",
+    "archivo": "/data/informativos/trombosis-venosa-profunda-de-bajo-riesgo.json"
+  },
+  {
+    "id": "trombosis-venosa-superficial",
+    "nombre": "Trombosis venosa superficial",
+    "archivo": "/data/informativos/trombosis-venosa-superficial.json"
+  },
+  {
+    "id": "vertigo-o-mareo-de-bajo-riesgo",
+    "nombre": "Vértigo o mareo de bajo riesgo",
+    "archivo": "/data/informativos/vertigo-o-mareo-de-bajo-riesgo.json"
+  } 
+  ],
+  "establecimientos": [
+    "CECOSAM Temuco",
+    "CECOSF 21 de Mayo",
+    "CECOSF Arquenco",
+    "CECOSF Barros Arana",
+    "CECOSF Caburgua \"Küme Felen\"",
+    "CECOSF Carahue",
+    "CECOSF Cherquenco",
+    "CECOSF Dr. Maximino Beltran Mora",
+    "CECOSF El Alto",
+    "CECOSF El Bosque",
+    "CECOSF Guacolda",
+    "CECOSF Las Quilas",
+    "CECOSF Las Villas",
+    "CECOSF Pillanlelbún",
+    "CECOSF Pucón Oriente",
+    "CECOSF San Antonio",
+    "CECOSF Todos los Santos",
+    "CECOSF Ultraestación",
+    "CECOSF Villa el Salar",
+    "CECOSF Ñancul",
+    "Centro de Salud Docente Asistencial Monseñor Sergio Valech",
+    "Centro de Salud Intercultural Boroa Filulawen",
+    "CESFAM Amanecer",
+    "CESFAM Andrés Sandoval Calderón",
+    "CESFAM Cholchol",
+    "CESFAM Conun Huenu",
+    "CESFAM de Cajón",
+    "CESFAM El Carmen",
+    "CESFAM Freire",
+    "CESFAM Hualpín",
+    "CESFAM Labranza",
+    "CESFAM Las Colinas",
+    "CESFAM Lautaro",
+    "CESFAM Lican Ray",
+    "CESFAM Los Volcanes",
+    "CESFAM Melipeuco",
+    "CESFAM Metodista",
+    "CESFAM Miraflores (Temuco)",
+    "CESFAM Nueva Imperial",
+    "CESFAM Padre Las Casas",
+    "CESFAM Pedro de Valdivia (Temuco)",
+    "CESFAM Perquenco",
+    "CESFAM Pitrufquén",
+    "CESFAM Pueblo Nuevo",
+    "CESFAM Pulmahue",
+    "CESFAM Quepe",
+    "CESFAM Rural Pucón",
+    "CESFAM Santa Rosa",
+    "CESFAM Teodoro Schmidt",
+    "CESFAM Trovolhue",
+    "CESFAM Villa Alegre",
+    "CESFAM Villarrica",
+    "CGR Lastarria",
+    "Complejo Asistencial Padre Las Casas",
+    "Consultorio Curarrehue",
+    "Consultorio de Huiscapi",
+    "COSAM Amanecer",
+    "COSAM Padre las Casas",
+    "Hospital de Carahue",
+    "Hospital de Galvarino",
+    "Hospital de Gorbea",
+    "Hospital de Pitrufquén",
+    "Hospital de Toltén",
+    "Hospital de Vilcún",
+    "Hospital de Villarrica",
+    "Hospital Dr. Abraham Godoy Peña (Lautaro)",
+    "Hospital Dr. Arturo Hillerns Larrañaga (Saavedra)",
+    "Hospital Dr. Eduardo González Galeno (Cunco)",
+    "Hospital Dr. Hernán Henríquez Aravena (Temuco)",
+    "Hospital Familiar y Comunitario de Loncoche",
+    "Hospital Intercultural de Nueva Imperial",
+    "Hospital Makewe",
+    "Hospital San Francisco (Pucón)",
+    "PSR Agua Tendida",
+    "PSR Ailinco",
+    "PSR Allipén",
+    "PSR Alto Boroa",
+    "PSR Alto Carén",
+    "PSR Alto Yupehue",
+    "PSR Añilco",
+    "PSR Blanco Lepín",
+    "PSR Bochoco",
+    "PSR Boroa Sur",
+    "PSR Calof",
+    "PSR Caren-Trancura",
+    "PSR Catripulli (Carahue)",
+    "PSR Catripulli (Curarrehue)",
+    "PSR Cheucán",
+    "PSR Chivilcoyan",
+    "PSR Chucauco",
+    "PSR Codinhue",
+    "PSR Codopille",
+    "PSR Coi Coi",
+    "PSR Coihueco (Lautaro)",
+    "PSR Coipué (Freire)",
+    "PSR Collimallín",
+    "PSR Colonia Lautaro",
+    "PSR Comuy",
+    "PSR Conoco",
+    "PSR Copihuelpe",
+    "PSR Cuel Ñielol",
+    "PSR Cumcumllaque",
+    "PSR Deume",
+    "PSR Dollinco (Lautaro)",
+    "PSR El Escudo",
+    "PSR El Manzano (Carahue)",
+    "PSR El Temo",
+    "PSR Epeukura",
+    "PSR Faja Ricci",
+    "PSR Fortín Ñielol",
+    "PSR General López",
+    "PSR Guiñimo",
+    "PSR Huamaqui",
+    "PSR Huapi",
+    "PSR Huellanto Alto",
+    "PSR Huentelar",
+    "PSR Hueñalihuén",
+    "PSR Huilío",
+    "PSR La Cabaña",
+    "PSR La Esperanza",
+    "PSR La Paz",
+    "PSR La Piedra",
+    "PSR La Sierra",
+    "PSR Las Hortensias",
+    "PSR Las Quemas (Toltén)",
+    "PSR Laurel Huacho",
+    "PSR Leufuche",
+    "PSR Liuco (Gorbea)",
+    "PSR Liumalla",
+    "PSR Lliuco (Freire)",
+    "PSR Loncoyamo",
+    "PSR Los Galpones",
+    "PSR Los Placeres",
+    "PSR Mahuidanche",
+    "PSR Maite",
+    "PSR Malalche",
+    "PSR Manhue",
+    "PSR Matte y Sánchez",
+    "PSR Mañío Ducañán",
+    "PSR Metrenco",
+    "PSR Millahuín",
+    "PSR Miramar",
+    "PSR Molco (Loncoche)",
+    "PSR Molco (Nueva Imperial)",
+    "PSR Muco Chureo",
+    "PSR Nehuentué",
+    "PSR Nilpe",
+    "PSR Nohualhue",
+    "PSR Número Tres",
+    "PSR Paillaco",
+    "PSR Pangueco (Galvarino)",
+    "PSR Pedregoso (Cunco)",
+    "PSR Perquiñán",
+    "PSR Pichichelle",
+    "PSR Pidenco",
+    "PSR Piedra Alta",
+    "PSR Pitraco",
+    "PSR Pocoyan",
+    "PSR Polul Coicoma",
+    "PSR Porma",
+    "PSR Pto. Domínguez",
+    "PSR Puaucho(Saavedra)",
+    "PSR Pulmahue",
+    "PSR Pumalal",
+    "PSR Puralaco",
+    "PSR Puraquina",
+    "PSR Puyangue",
+    "PSR Quecheregue",
+    "PSR Quelhue",
+    "PSR Quetroco",
+    "PSR Queule",
+    "PSR Queupue",
+    "PSR Quifo",
+    "PSR Quillem",
+    "PSR Quintrilpe",
+    "PSR Quitratúe",
+    "PSR Quiñenahuín",
+    "PSR Radal",
+    "PSR Ranco",
+    "PSR Rapa - Mañiuco",
+    "PSR Reigolil",
+    "PSR Repocura",
+    "PSR Roble Huacho",
+    "PSR Romopulli",
+    "PSR Rucatraro",
+    "PSR Rulo",
+    "PSR San Patricio",
+    "PSR San Pedro de Pucón",
+    "PSR San Ramón",
+    "PSR Santa Carolina",
+    "PSR Santa Celia",
+    "PSR Santa María Llaima",
+    "PSR Santa Rosa",
+    "PSR Tranapuente",
+    "PSR Truf Truf",
+    "PSR Vega Larga",
+    "PSR Vega Redonda",
+    "PSR Villa Boldos",
+    "PSR Villa García",
+    "PSR Yenehue",
+    "PSR Ñereco",
+    "SAPU Amanecer",
+    "SAPU Freire",
+    "SAPU Nueva Imperial",
+    "SAPU Padre Las Casas",
+    "SAPU Pitrufquén",
+    "SAPU Pucón",
+    "SAPU Pueblo Nuevo",
+    "SAPU Santa Rosa",
+    "SAPU Villa Alegre",
+    "SAPU Villarica",
+    "SAR Cajón",
+    "SAR Conun Huenu",
+    "SAR Labranza",
+    "SAR Lautaro",
+    "SAR Los Volcanes",
+    "SAR Miraflores",
+    "SAR Pedro de Valdivia",
+    "SUR Caburgua",
+    "SUR Cholchol",
+    "SUR Curarrehue",
+    "SUR Haulpin",
+    "SUR Lastarria",
+    "SUR Lican Ray",
+    "SUR Los Laureles",
+    "SUR Makewe Pelale",
+    "SUR Melipeuco",
+    "SUR Monseñor Valech",
+    "SUR Perquenco",
+    "SUR Pillalelbun",
+    "SUR Quepe",
+    "SUR San Ramón",
+    "SUR Teodoro Schmidt",
+    "SUR Trovolhue"
+  ]
+}

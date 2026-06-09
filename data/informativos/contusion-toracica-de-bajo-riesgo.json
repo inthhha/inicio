@@ -1,0 +1,12 @@
+{
+  "id": "contusion-toracica-de-bajo-riesgo",
+  "diagnostico": "Contusión torácica de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Sensación de dificultad respiratoria o falta de aire",
+    "Sensación de desmayo o dificultad para permanecer de pie",
+    "Tos con sangre",
+    "Vómitos",
+    "Fiebre (Temperatura mayor a 38°)"
+  ]
+}

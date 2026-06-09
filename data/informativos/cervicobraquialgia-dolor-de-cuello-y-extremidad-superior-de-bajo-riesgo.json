@@ -1,0 +1,15 @@
+{
+  "id": "cervicobraquialgia-dolor-de-cuello-y-extremidad-superior-de-bajo-riesgo",
+  "diagnostico": "Cervicobraquialgia (dolor de cuello y extremidad superior) de bajo riesgo",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Dolor que avanza hacia otras zonas del cuerpo (ej: pecho)",
+    "Alteración de conciencia (ej: dificultad para abrir los ojos, desorientación)",
+    "Visión doble",
+    "Dificultad o torpeza para mover manos o piernas",
+    "Alteración del habla o lenguaje",
+    "Sensación de adormecimiento de la mitad del cuerpo",
+    "Sensación de falta de aire o dificultad para respirar",
+    "Fiebre (temperatura sobre 38°)"
+  ]
+}

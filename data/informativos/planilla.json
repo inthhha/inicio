@@ -1,0 +1,11 @@
+{
+  "id": "planilla",
+  "diagnostico": "Diagnóstico",
+  "sintomasAlarma": [
+    "Síntoma 1",
+    "Síntoma 2",
+    "Síntoma 3",
+    "Síntoma 4",
+    "Síntoma 5"
+  ]
+}

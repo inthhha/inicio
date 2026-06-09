@@ -1,0 +1,13 @@
+{
+  "id": "colico-renal-no-complicado",
+  "diagnostico": "Colico renal no complicado",
+  "sintomasAlarma": [
+    "Dolor de alta intensidad o intolerable",
+    "Fiebre (Temperatura mayor a 38°)",
+    "Síntomas defecatorios (ej: diarrea o sangrados)",
+    "Pérdida de sensibilidad en la región genital o anal",
+    "Debilidad de ambas piernas",
+    "Vómitos",
+    "Sensación de desmayo o dificultad para permanecer de pie"
+  ]
+}
