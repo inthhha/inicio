@@ -1,0 +1,31 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Antiflatulento. Dimetilpolisilosano de cadena de longitud variable. Act&uacute;a reduciendo la tensi&oacute;n superficial de las burbujas de gas, facilitando su disgregaci&oacute;n.<br></BODY></HTML></p>\n\nFarmacocinética:\n<p style='text-indent:0px;'>La dimeticona no se absorbe a través de la mucosa gastro-intestinal, eliminándose íntegramente por heces.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18538\"></HEAD><BODY>- <strong>FLATULENCIA</strong>, <strong>AEROFAGIA</strong>: Alivio sintom&aacute;tico de los gases.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17496\"></HEAD><BODY>Oral. <b>Adultos</b>: 80-125 mg/6-8 horas. Gotas: 20 gotas/6-8 horas. Dosis m&aacute;xima: 400 mg/d&iacute;a.<BR>Ni&ntilde;os: Lactantes y ni&ntilde;os: Mitad de la dosis del adulto. Gotas:10 gotas/6-8 horas. <BR>l&iacute;quido, puede administrarse tres o cuatro veces al d&iacute;a.<BR><b>Adultos</b>: tome 20 gotas tres o cuatro veces al d&iacute;a.<BR></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.17496\"></HEAD><BODY>Los comprimidos deber&aacute;n ser masticados completamente antes de tragarlos. Las gotas pueden administrarse solas o diluidas en cualquier l&iacute;quido. Ag&iacute;tese antes de usarlo. </BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Los efectos adversos de dimeticona son, en general, leves y transitorios.<br />- Digestivas: Frecuencia desconocida: <strong>ESTREÑIMIENTO</strong>, <strong>NAUSEAS</strong>, <strong>DOLOR ABDOMINAL</strong>. <br /><br />- Alérgicas/dermatógicas: Frecuencia desconocida:  <strong>ERUPCIONES CUTANEAS</strong>, <strong>PRURITO</strong>, <strong>REACCIONES DE HIPERSENSIBILIDAD</strong> como <strong>EDEMA</strong> facial y <strong>DISNEA</strong>.</p>",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: no se dispone de estudios adecuados y bien controlados en humanos. Generalmente se admite su uso en embarazadas, debido a la falta de absorci&oacute;n digestiva del f&aacute;rmaco por la madre. No est&aacute; recomendado durante el tercer trimestre. <br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Se ignora si este medicamento es excretado con la leche materna, no obstante, no se espera que haya excreci&oacute;n debido a la falta de absorci&oacute;n digestiva del f&aacute;rmaco por la madre. Uso generalmente aceptado.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: No se han descrito casos de sobredosificación. Aún en el caso de que se ingiera una cantidad muy superior a la indicada, es muy poco probable que se produzcan efectos adversos, debido a la falta de absorción digestiva del fármaco.<br />- Tratamiento: sintomático. No hay procedimiento especial recomendado.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIFLATULENTO"
+  ]
+}

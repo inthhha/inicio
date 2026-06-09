@@ -1,0 +1,36 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: Los estudios realizados en animales con artica&iacute;na no han mostrado efectos adversos en el embarazo, el desarrollo embrionario/fetal, el parto o el desarrollo posnatal. <br>Seguridad en humanos: No existe experiencia en el uso de artica&iacute;na en mujeres embarazadas, excepto durante el parto.La artica&iacute;na atraviesa la barrera placentaria, aunque la artica&iacute;na lo hace en menor medida que otros anest&eacute;sicos locales. Las concentraciones s&eacute;ricas de artica&iacute;na medidas en reci&eacute;n nacidos fueron aproximadamente del 30 % de los niveles maternos. <br>Efectos sobre la fertilidad: Los estudios realizados en animales con artica&iacute;na no han demostrado ning&uacute;n efecto sobre la fertilidad. En dosis terap&eacute;uticas, no se esperan efectos adversos sobre la fertilidad humana.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Como resultado del r&aacute;pido descenso de los niveles s&eacute;ricos y de la r&aacute;pida eliminaci&oacute;n, no se hallan cantidades cl&iacute;nicamente relevantes de artica&iacute;na en la leche materna. Normalmente, no es necesario suspender la lactancia durante un uso a corto plazo, empezando 5 horas despu&eacute;s de la anestesia.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANESTESICO LOCAL",
+    "BLOQUEANTE DE LOS CANALES DE SODIO"
+  ]
+}

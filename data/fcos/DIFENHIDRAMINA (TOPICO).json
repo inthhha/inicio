@@ -1,0 +1,276 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>- <strong>ANTIALERGICO</strong>,  <strong>ANTAGONISTA HISTAMINERGICO (H-1)</strong>. La difenhidramina es un derivado de la etanolamina, que bloquea de forma competitiva, reversible e inespecífica a los receptores H1, disminuyendo los efectos sistémicos de la histamina. Da lugar a vasoconstricción y disminución de la permeabilidad vascular, disminuyendo el enrojecimiento y el edema asociado a la alergia. Mitiga parcialmente síntomas asociados a los procesos alérgicos como enrojecimiento ocular o congestión nasal. Además produce una disminución del prurito dérmico.</p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Absorci&oacute;n: A la dosis recomendada solo se absorber&aacute; una cantidad muy peque&ntilde;a de los principios activos. La absorci&oacute;n percut&aacute;nea de la difenhidramina no ha sido cuantificada ni existen datos espec&iacute;ficos sobre su farmacocin&eacute;tica.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- Alivio sintomático del <strong>PRURITO</strong> de la piel debido a <strong>PICADURAS DE INSECTOS</strong>, contacto con medusas u ortigas, etc.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b> y ni&ntilde;os mayores de 6 a&ntilde;os; aplicar una peque&ntilde;a cantidad sobre la zona afectada hasta un m&aacute;ximo de 3-4 veces al d&iacute;a. Si los s&iacute;ntomas persisten m&aacute;s de 7 d&iacute;as o se agravan, interrumpir el tratamiento y consultar al m&eacute;dico.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Limpiar a fondo la zona afectada, dejar secar y esparcir suavemente una peque&ntilde;a cantidad de crema sobre la zona afectada de la piel. Lavarse las manos tras la aplicaci&oacute;n.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>- Podría potenciar los efectos fotosensibilizadores de otros principios activos que den lugar a reacciones de fotosensibilidad.</p>",
+    "detalle": [
+      {
+        "principio_activo": "CODEINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DEXTROMETORFANO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DIHIDROCODEINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (BUCAL)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "HIDROMORFONA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LOPERAMIDA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "METADONA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "MORFINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "OXICODONA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PETIDINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (ANESTESICO)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (TRANSDERMICO)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENTANILO (NASAL)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TAPENTADOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SUFENTANILO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BUPRENORFINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SUFENTANILO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TRAMADOL",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "REMIFENTANILO",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "NALDEMEDINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "MORFINA (ANTIDIARREICO)",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "ANALGESICOS OPIOIDES + DEPRESORES SNS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento del riesgo umenta el riesgo de sedaci&oacute;n, depresi&oacute;n respiratoria, coma o la muerte<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Cuando se contempla el uso de un tratamiento combinado de opioides con un depresor respiratorio o del SNC, se debe considerar reducir la dosis de uno o ambos medicamentos y se debe limitar la duraci&oacute;n del uso concomitante</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible potenciacion del efecto depresor aditivo del SNC.<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Mearrick PT. Aust NZ J Med 1974; 4: 144. <br>2. Baumann HW. Dig Dis Sci 1979; 24: 289. <br>3. Berkowitz DM. Clin Pharmacol Ther 1980; 27: 414. <br>4. Judd SJ. J Clin Endocrinol Metab 1976; 43: 313. <br>5. McCallum RW. J Clin Endocrinol Metab 1976; 42: 1148.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Los efectos secundarios de la difenhidramina suelen ser leves y transitorios, siendo m&aacute;s frecuentes durante los primeros d&iacute;as de tratamiento. Existe gran variabilidad interindividual con respecto a la frecuencia e intensidad de los s&iacute;ntomas, afectando sobre todo a ni&ntilde;os peque&ntilde;os y <b>ancianos</b>. <br>Las reacciones adversas m&aacute;s comunes son: <br>- Al&eacute;rgicas/dermatol&oacute;gicas. Rara vez pueden aparecer <strong>REACCIONES DE HIPERSENSIBILIDAD</strong> tras la administraci&oacute;n t&oacute;pica. Tambi&eacute;n pueden aparecer <strong>REACCIONES DE FOTOSENSIBILIDAD</strong> tras la exposici&oacute;n intensa a la luz solar, con <strong>DERMATITIS DE CONTACTO</strong>, <strong>PRURITO</strong>, <strong>ERUPCIONES CUTANEAS</strong> y <strong>ERITEMA</strong>.<br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a cualquier componente del medicamento. Pueden existir reacciones cruzadas con otros antihistamínicos, por lo que no se recomienda emplear ningún antihistamínico H1 en pacientes que hayan presentado hipersensibilidad a cualquier compuesto del grupo.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- Evitar su aplicación sobre la piel erosionada, sangrante, con <strong>AMPOLLAS</strong>, <strong>HERIDAS</strong> o exudados, ya que podría existir una absorción percutánea produciéndose efectos sistémicos.<br />- La difenhidramina podría dar lugar a <strong>REACCIONES DE FOTOSENSIBILIDAD</strong>, por lo que se recomienda no tomar el sol durante el tratamiento, y protegerse mediante filtros solares.<br />- <strong>PORFIRIA</strong>. Los antihistamínicos H1 se han asociado con la aparición de brotes porfíricos, por lo que no se consideran seguros en estos pacientes.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: se desconoce si la difenhidramina puede absorberse por v&iacute;a t&oacute;pica. No se han realizado estudios adecuados y bien controlados en humanos, por lo que el uso de este medicamento s&oacute;lo se acepta si los beneficios potenciales superan los posibles riesgos y siempre y cuando no existan alternativas terap&eacute;uticas m&aacute;s seguras. <br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: debido a la posible absorci&oacute;n sist&eacute;mica y el paso a la leche materna. Se debe decidir si es necesario interrumpir la lactancia o interrumpir/suspender el tratamiento tras considerar el beneficio de la lactancia para el ni&ntilde;o y el beneficio del tratamiento para la madre.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: La ingestión accidental o la excesiva absorción tópica a través de la piel puede producir signos relacionados con la toxicidad de la difenhidramina. Esto incluye sedación, somnolencia y síntomas anticolinérgicos. A dosis altas pueden aparecer coma, ataxia, aumento de los reflejos musculares y convulsiones.<br />- Tratamiento: Se debe proceder a la evacuación rápida del producto mediante un lavado o aspirado de estómago o induciendo al vómito. En caso de intoxicación aguda se debe emplear carbón activado. Las convulsiones pueden controlarse con diazepam.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Proteger la zona de aplicaci&oacute;n a los rayos solares para evitar reacciones de fotosensibilidad. <br>- Valoraci&oacute;n por parte del pediatra sobre el empleo de difenhidramina en ni&ntilde;os menores de 6 a&ntilde;os. <br>- Si los s&iacute;ntomas persisten m&aacute;s de 7 d&iacute;as o se agravan, interrumpir el tratamiento y consultar al m&eacute;dico. <br>- Utilizar s&oacute;lo para uso externo sobre la piel. No utilizar sobre &aacute;reas extensas para evitar la absorci&oacute;n sist&eacute;mica. <br>- Evitar el contacto con ojos y mucosas.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "FOTOSENSIBILIDAD",
+      "texto": "Este medicamento puede provocar reaccion de fotosensibilidad"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTAGONISTA HISTAMINERGICO (H-1)",
+    "ANESTESICO LOCAL"
+  ]
+}
