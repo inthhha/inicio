@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>La nistatina es un antibi&oacute;tico antif&uacute;ngico con acci&oacute;n fungist&aacute;tica, del grupo de los macr&oacute;lidos poli&eacute;nicos. Actua alterando la permeabilidad de la membrana del hongo, al formar canales i&oacute;nicos en la misma. Presenta un amplio espectro antif&uacute;ngico, incluyendo dermatofitos y levaduras (Candida, etc.), aunque su acci&oacute;n sobre dermatofitos es s&oacute;lo moderada.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>- Tratamiento t&oacute;pico de <strong>CANDIDIASIS DE LA PIEL</strong> y mucosas.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>V&iacute;a t&oacute;pica:. <br>- Una aplicaci&oacute;n/6-12 h, en la zona afectada. Continuar la aplicaci&oacute;n hasta curaci&oacute;n completa. <br>La fuente continua de reinfecci&oacute;n (reservorio de C. albicans en el tracto gastrointestinal) puede eliminarse instituyendo tratamiento simult&aacute;neo con nistatina oral.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Exti&eacute;ndase la cantidad necesaria de pomada en toda la zona afectada de modo que quede cubierta por una fina capa de la misma.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Los efectos adversos de este medicamento son, en general leves y transitorios. Los efectos secundarios m&aacute;s caracter&iacute;sticos son: <br>Ocasionalmente: alteraciones al&eacute;rgicas/dermatol&oacute;gicas (eritema, prurito, sensaci&oacute;n de quemaz&oacute;n; m&aacute;s raramente: dermatitis por contacto). <br>El tratamiento debe ser suspendido inmediatamente, en el caso de que el paciente experimente alg&uacute;n episodio de irritaci&oacute;n y/o hipersensibilidad.<br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>- Hipersensibilidad a los antif&uacute;ngicos poli&eacute;nicos.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>- Evitar el contacto con los ojos. <br>- Lavar y secar minuciosamente la zona a tratar. <br>- No utilizar ventajes oclusivos o que no dejen transpirar, ya que podr&iacute;an favorecer el desarrollo de levaduras y la consiguiente irritaci&oacute;n cut&aacute;nea.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIBACTERIANO",
+    "ANTIFUNGICO",
+    "MACROLIDO POLIENICO (GRUPO)",
+    "MODIFICADOR DE LA PERMEABILIDAD DE LA MEMBRANA CELULAR",
+    "ANTIINFECCIOSO",
+    "FUNGISTATICO"
+  ]
+}

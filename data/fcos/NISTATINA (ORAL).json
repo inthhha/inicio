@@ -1,0 +1,43 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Antif&uacute;ngico (fungist&aacute;tico). Pertenece al grupo de los macr&oacute;lidos poli&eacute;nicos. Act&uacute;a alterando la permeabilidad de las membranas del hongo, al formar canales i&oacute;nicos en las mismas. <br>Presenta un amplio espectro antif&uacute;ngico, incluyendo levaduras (Candida) y dermatofitos, aunque sobre estos &uacute;ltimos s&oacute;lo moderadamente.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>- Tratamiento de <strong>CANDIDIASIS ORAL</strong> y <strong>CANDIDIASIS INTESTINAL</strong>.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Candidiasis oral: <br>- <b>Adultos</b> y ni&ntilde;os mayores de 1 a&ntilde;o: 250000-500000 ui (1-2 cucharaditas de 2,5 ml)/6-12 h. <br>- Lactantes: 250000 ui (1 cucharadita)/6 h. <br>- Reci&eacute;n nacidos y lactantes con bajo peso al nacer: 100000 ui (1 ml)/6 h. <br>Candidiasis intestinal: <br>- <b>Adultos</b>: 500000-1000000 ui/6 h. <br>- Ni&ntilde;os: 250000-750000 ui/6 h (10-30 ml/d&iacute;a, repartido en cuatro tomas). <br>- Lactantes: 100000-300000 ui/6 h (5-15 ml/d&iacute;a, repartido en cuatro tomas).<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Agitar el frasco antes de extraer cada dosis. En candidiasis orofar&iacute;ngea realizara enjuagues durante el mayor tiempo posible antes de ingerirla. En lactantes y ni&ntilde;os peque&ntilde;os se aconseja extenderla sobre la zona afectada, para mejorar la eficacia y retrasar la ingesti&oacute;n. En candidiasis intestinal la suspensi&oacute;n puede administrarse sola o con agua u otro l&iacute;quido o alimento blando no &aacute;cido (ej: leche, miel, etc).<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>Los efectos adversos de nistatina son, en general, leves y transitorios. Las reacciones adversas m&aacute;s caracter&iacute;sticas son: <br>- Raramente (&lt;1%): alteraciones digestivas, como <strong>NAUSEAS</strong>, <strong>VOMITOS</strong> y <strong>DIARREA</strong> (especialmente con dosis altas).<br></BODY></HTML></p>",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: no se han realizado estudios adecuados y bien controlados en humanos. Su administraci&oacute;n s&oacute;lo se acepta si no existen alternativas terap&eacute;uticas m&aacute;s seguras, y los beneficios superan los posibles riesgos. <br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche. No se puede excluir el riesgo para los lactantes. Se debe decidir si es necesario interrumpir la lactancia o interrumpir/suspender el tratamiento tras considerar el beneficio de la lactancia para el ni&ntilde;o y el beneficio del tratamiento para la madre, ya que se sabe que la absorci&oacute;n gastrointestinal de nistatina es m&iacute;nima.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18057\"></HEAD><BODY>- Agitar la suspensi&oacute;n antes de usar. <br>- Suspensi&oacute;n: En candidiasis de la boca realizar enjuagues, reteniendo el enjuague el mayor tiempo posible y tragar el exceso. Puede mezclarse con agua u otro l&iacute;quido o alimento como leche o miel (evitar los &aacute;cidos). <br>- Tras la desaparici&oacute;n de los s&iacute;ntomas se recomienda prolongar el tratamiento al menos 48 horas. <br>- Si los signos y s&iacute;ntomas empeoran o persisten despu&eacute;s de 14 d&iacute;as de tratamiento, deber&aacute; reevaluarse al paciente y deber&aacute; considerarse la instauraci&oacute;n de un tratamiento alternativo.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIFUNGICO",
+    "MACROLIDO POLIENICO (GRUPO)",
+    "MODIFICADOR DE LA PERMEABILIDAD DE LA MEMBRANA CELULAR",
+    "ANTIINFECCIOSO",
+    "FUNGISTATICO"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "SUGAMMADEX",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "SUGAMMADEX + ANTICONCEPTIVOS HORMONALES",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18710\"></HEAD><BODY>Posible&nbsp;disminuci&oacute;n de la eficacia farmacol&oacute;gica de los anticonceptivos, con un mayor riesgo de embarazo.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18710\"></HEAD><BODY>La interacci&oacute;n ha sido constatada en t&eacute;rminos farmacocin&eacute;ticos <EM>in vitro</EM>, pero su relevancia cl&iacute;nica a&uacute;n debe confirmarse.<br>Algunos ensayos <EM>in vitro</EM> han demostrado que sugammadex se une&nbsp;a la progesterona y reduce la exposici&oacute;n plasm&aacute;tica a dicha hormona libre. Por tanto, la administraci&oacute;n intravenosa de una dosis de sugammadex se considera equivalente a saltarse la administraci&oacute;n de una dosis diaria de los anticonceptivos orales que contienen estr&oacute;genos o progest&aacute;genos, y habr&iacute;a que referirse a las recomendaciones en caso de olvido de una dosis del prospecto del anticonceptivo oral.<br>En caso de que el paciente est&eacute; en tratamiento con anticonceptivos hormonales&nbsp;orales, y&nbsp;se administre el mismo de&nbsp;forma concomitante&nbsp;con&nbsp;sugammadex (el mismo d&iacute;a),&nbsp;el paciente deber&iacute;a utilizar&nbsp;un m&eacute;todo anticonceptivo adicional y no-hormonal,&nbsp;o bien reforzar el m&eacute;todo anticonceptivo con el empleo de&nbsp;preservativos&nbsp;y espermicidas&nbsp;durante los siguientes 7 d&iacute;as.<br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18710\"></HEAD><BODY>Posible&nbsp;disminuci&oacute;n de las concentraciones plasm&aacute;ticas (libres) de los anticonceptivos hormonales orales, por uni&oacute;n de alta afinidad de sugammadex a los mismos. <br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18710\"></HEAD><BODY>1-2. Las fichas t&eacute;cnicas de Bridion&nbsp;preveen que la interacci&oacute;n entre sugammadex 4 mg/kg y el progest&aacute;geno produzca una disminuci&oacute;n en la exposici&oacute;n al progest&aacute;geno (34% de la AUC), similar a la disminuci&oacute;n que se observa si una dosis diaria de un anticonceptivo oral se toma con 12 horas de retraso, lo que puede conducir a una reducci&oacute;n de la efectividad. En el caso de los estr&oacute;genos, se espera que el efecto sea inferior.&nbsp;A pesar de&nbsp;esa reducci&oacute;n de la exposici&oacute;n plasm&aacute;tica del 34%, resulta dif&iacute;cil prever si la interacci&oacute;n tendr&aacute;&nbsp;relevancia cl&iacute;nica significativa, incluso con anticonceptivos de s&oacute;lo progest&aacute;genos.<br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18710\"></HEAD><BODY>1. Ficha t&eacute;cnica Bridion (Sugammadex), marzo 2012.<br>2. Ficha t&eacute;cnica EEUU - Bridion (sugammadex) Injection for intravenous use. Merck &amp; Co., Inc. 2015.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CITISINICLINA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "CITISINA + ANTICONCEPTIVOS HORMONALES",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de la eficacia de los anticonceptivos hormonales.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>El fabricante advierte del desconocimiento de citisina sobre la reducci&oacute;n de la eficacia de los anticonceptivos hormonales sist&eacute;micos. Como medida de precauci&oacute;n, se recomienda a&ntilde;adir un segundo m&eacute;todo de barrera adicional en aquellas mujeres que utilicen anticonceptivos hormonales y comiencen el tratamiento con citisina.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Desconocido.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante advierte de una posible interacci&oacute;n entre citisina y los anticonceptivos hormonales.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica Todacitan (citisina). Aflofarm Farmacia Polska SP ZOO, junio 2019.</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se requiere el uso de este f&aacute;rmaco. No se ha observado ning&uacute;n da&ntilde;o para la mujer, el curso de su embarazo o el feto si los anticonceptivos hormonales son usados accidentalmente durante el embarazo <br>Antes de comenzar el tratamiento, debe descartarse el embarazo. Si se produce un embarazo durante el uso de este medicamento, el tratamiento debe interrumpirse inmediatament<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: La lactancia puede verse afectada por los anticonceptivos hormonales combinados ya que pueden reducir la cantidad y cambiar la composici&oacute;n de la leche materna. Por lo tanto, no se recomienda el uso de este medicamento hasta que la madre haya dejado de amamantar a su hijo.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "HORMONA SEXUAL",
+    "AGONISTA PROGESTAGENICO (PROGESTAGENO)"
+  ]
+}

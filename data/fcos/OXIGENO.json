@@ -1,0 +1,49 @@
+{
+  "farmacologia": "",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>El tratamiento con Aire Medicinal Comprimido est&aacute; indicado como sustituto del aire atmosf&eacute;rico/ambiental siempre que sea necesario. Por ejemplo: <br>- Durante la terapia respiratoria y/o en anestesia, como parte del flujo de gas inhalado para crear una oxigenaci&oacute;n adecuada (FiO2). <br>- Como gas veh&iacute;culo en la terapia con nebulizador. <br>- Como aire limpio para pacientes con inmunidad reducida tras transplantes de c&eacute;lulas, &oacute;rganos o quemaduras graves.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La posolog&iacute;a depende del estado cl&iacute;nico del paciente.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "BLEOMICINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "BLEOMICINA + OXIGENOTERAPIA",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Mayor riesgo de toxicidad pulmonar grave (fibrosis pulmonar) y potencialmente mortal&nbsp;en pacientes en tratamiento con bleomicina y que reciben&nbsp;concentraciones convencionales de ox&iacute;geno puro durante la anestesia quir&uacute;rgica.<br></BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>La interacci&oacute;n parece s&oacute;lidamente constatada desde el punto de vista cl&iacute;nico. <br>Por la gravedad de las posibles consecuencias,&nbsp;se recomienda que cualquier paciente, que reciba bleomicina y que se someta a anestesia general, reciba concentraciones de ox&iacute;geno puro reducidas en, al menos, en un&nbsp;30%, tanto durante como despu&eacute;s de la operaci&oacute;n (en cualquier momento durante la hospitalizaci&oacute;n). Adem&aacute;s,&nbsp;la reposici&oacute;n de l&iacute;quidos se debe controlar cuidadosamente para minimizar la carga de cristaloides. Esto es claramente efectivo, tal y como se demostr&oacute; en un estudio en que se trat&oacute; a&nbsp;700 pacientes siguiendo estas pautas sin un solo caso de insuficiencia pulmonar&nbsp;[Goldiner PL.,1983.&nbsp;Editorial comment. J Urol (Baltimore) 130: 164].<br>Si se debe utilizar una concentraci&oacute;n de ox&iacute;geno igual o superior al 30%, se debe considerar el uso a corto plazo de corticosteroides profil&aacute;cticos.&nbsp; Los corticosteroides intravenosos se deben administrar de inmediato si&nbsp;hay sospecha de toxicidad por bleomicina.<br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Desconocido. Se ha propuesto&nbsp;que el tejido pulmonar lesionado por bleomicina es menos capaz de neutralizar los radicales libres de ox&iacute;geno, que a su vez pueden generar da&ntilde;o tisular.<br></BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18921\"></HEAD><BODY>1. Cinco pacientes que recibieron bleomicina, y estuvieron expuestos a concentraciones de ox&iacute;geno de entre el 35% y el 42% durante e inmediatamente despu&eacute;s de la anestesia, desarrollaron un s&iacute;ndrome de insuficiencia respiratoria mortal. Su autopsia demostr&oacute; que hab&iacute;an sufrido fibrosis pulmonar y&nbsp;neumonitis inducida por bleomicina. <br>2. Otro estudio comparativo demostr&oacute; que la dificultad respiratoria&nbsp;en pacientes <b>adultos</b>&nbsp;en tratamiento con&nbsp;bleomicina se reduc&iacute;a significativamente&nbsp;cuando se reduc&iacute;an las concentraciones de ox&iacute;geno administrado.<BR>&nbsp;<BR>3-7. Diversos informes de casos tambi&eacute;n han hecho referencia a la toxicidad pulmonar inducida por bleomicina, aparentemente relacionada con las concentraciones de ox&iacute;geno.<br>8-10. Los estudios en animales tambi&eacute;n han confirmado que la gravedad de la toxicidad pulmonar inducida por bleomicina aumenta con administraci&oacute;n concomitante ox&iacute;geno. <br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>1. Goldiner PL, Carlon GC, Cvitkovic E, Schweizer O, Howland WS. Factors influencing postoperative morbidity and mortality in patients treated with bleomycin. BMJ (1978) 1, 1664–7.<br>2. El-Baz N, Ivankovich AD, Faber LP, Logas WG. The incidence of bleomycin lung toxicity after anesthesia for pulmonary resection: a comparison between HFV and IPPV. Anesthesiology (1984) 61, A107.<br>3. Gilson AJ, Sahn SA. Reactivation of bleomycin lung toxicity following oxygen administration. A second response to corticosteroids. Chest (1985) 88, 304–6.<br>4. Cersosimo RJ, Matthews SJ, Hong WK. Bleomycin pneumonitis potentiated by oxygen administration. Drug Intell Clin Pharm (1985) 19, 921–3.<br>5. Hulbert JC, Grossman JE, Cummings KB. Risk factors of anesthesia and surgery in bleomycin-treated patients. J Urol (Baltimore) (1983) 130, 163–4.<br>6. Donohue JP, Rowland RG. Complications of retroperitoneal lymph node dissection. J Urol (Baltimore) (1981) 125, 338–40.<br>7. Ingrassia TS, Ryu JH, Trastek VF, Rosenow EC. Oxygen-exacerbated bleomycin pulmonary toxicity. Mayo Clin Proc (1991) 66, 173–8.<br>8. Toledo CH, Ross WE, Hood I, Block ER. Potentiation of bleomycin toxicity by oxygen. Cancer Treat Rep (1982) 66, 359–62.<br>9. Berend N. The effect of bleomycin and oxygen on rat lung. Pathology (1984) 16, 136–9.<br>10. Rinaldo J, Goldstein RH, Snider GL. Modification of oxygen toxicity after lung injury by bleomycin in hamsters. Am Rev Respir Dis (1982) 126, 1030–3.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Cuando el Aire Medicinal se utiliza junto con Ox&iacute;geno Medicinal debe tenerse en cuenta la concentraci&oacute;n de ox&iacute;geno final (FiO2) aportada por ambos gases.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La influencia sobre la capacidad para conducir y utilizar m&aacute;quinas es nula o insignificante.<br></BODY></HTML></p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Informa a tu m&eacute;dico si est&aacute;s embarazada, crees que puedes estarlo o tienes previsto hacerlo antes de iniciar el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s en periodo de lactancia antes de iniciar el tratamiento.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": []
+}
