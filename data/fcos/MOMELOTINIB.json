@@ -1,0 +1,683 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib y su metabolito humano mayoritario circulante (M21), son inhibidores de las quinasas asociadas a Janus 1 y 2 de tipo salvaje (JAK1/JAK2) y a la mutaci&oacute;n JAK2V617F, que contribuye a la transducci&oacute;n de se&ntilde;ales de varias citoquinas y factores de crecimiento que son importantes para la hematopoyesis y para la funci&oacute;n inmune. JAK1 y JAK2 reclutan y activan las prote&iacute;nas STAT (transductor de se&ntilde;al y activador de la transcripci&oacute;n, por sus siglas en ingl&eacute;s) que controlan la transcripci&oacute;n de genes que influyen en la inflamaci&oacute;n, hematopoyesis y la regulaci&oacute;n inmune. La mielofibrosis es una neoplasia mieloproliferativa asociada a una activaci&oacute;n constitutiva y la desregulaci&oacute;n de la transducci&oacute;n de se&ntilde;ales de la JAK que contribuye a una inflamaci&oacute;n e hiperactivaci&oacute;n elevada del receptor de la activina A tipo 1 (ACVR1), tambi&eacute;n conocido como activina del receptor tipo quinasa 2 (ALK-2). Adem&aacute;s, momelotinib y M21 son inhibidores directos de ACVR1, que regula a&uacute;n m&aacute;s la expresi&oacute;n de la hepcidina hep&aacute;tica, lo que resulta en una mayor disponibilidad de hierro y producci&oacute;n de gl&oacute;bulos rojos. Momelotinib y M21 inhiben potencialmente quinasas adicionales, como otros miembros de la familia JAK, inhibidores de la quinasa ?B (IKK), receptores de la interleuquina 1 asociados a quinasa 1 (IRAK 1) y otros.<br></BODY></HTML></p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Absorci&oacute;n: Momelotinib se absorbe r&aacute;pidamente tras la administraci&oacute;n oral, alcanz&aacute;ndose la concentraci&oacute;n plasm&aacute;tica m&aacute;xima (Cmax) dentro de las 3 horas tras la dosis, con un aumento de la exposici&oacute;n plasm&aacute;tica menor que el proporcional a la dosis, especialmente a dosis por encima de 200 mg. En un estudio cl&iacute;nico con dosis de 200 mg una vez al d&iacute;a en estado estacionario, la Cmax media (% CV) de momelotinib es de 479 ng/ml (61%) y el AUCtau es de 3 288 ng×h/ml (60%) en pacientes con mielofibrosis. <br>Tras una comida baja en grasa y alta en grasa en voluntarios sanos, la Cmax de momelotinib fue de 38% y 28% m&aacute;s alta, respectivamente, y el AUC fue de 16% y 28% m&aacute;s alta, respectivamente, en comparaci&oacute;n con aquellos en condiciones de ayuno. Estos cambios en la exposici&oacute;n no fueron cl&iacute;nicamente significativos. <br>- Distribuci&oacute;n: La uni&oacute;n a prote&iacute;nas plasm&aacute;ticas de momelotinib es de aproximadamente el 91% en humanos. En base a la farmacocin&eacute;tica poblacional, el volumen aparente medio de distribuci&oacute;n de momelotinib en estado estacionario fue de 984 l en pacientes con mielofibrosis que hab&iacute;an recibido 200 mg de momelotinib una vez al d&iacute;a, lo que sugiere una amplia distribuci&oacute;n tisular. <br>- Metabolismo: En base a una evaluaci&oacute;n in vitro, momelotinib se metaboliza por m&uacute;ltiples enzimas CYP (incluyendo CYP3A4, CYP2C8, CYP2C9, CYP2C19 y CYP1A2). La formaci&oacute;n del metabolito activo M21, implica la biotransformaci&oacute;n por las enzimas CYP seguido del metabolismo por la aldeh&iacute;do oxidasa. <br>- Eliminaci&oacute;n: Tras la administraci&oacute;n oral de 200 mg de momelotinib, la semivida terminal media (t½) de momelotinib fue aproximadamente de 4 a 8 horas, la semivida de M21 fue similar. En base a un estudio cl&iacute;nico, el aclaramiento total aparente (CL/F) de momelotinib fue de 103 l/h en pacientes con mielofibrosis. <br>Farmacocin&eacute;tica en <b>situaciones especiales</b>: <br>- Insuficiencia hep&aacute;tica: La AUC de momelotinib aument&oacute; en un 8% y un 97% en sujetos con insuficiencia hep&aacute;tica moderada (Child-Pugh Clase B) y grave (Child-Pugh Clase C), respectivamente, en comparaci&oacute;n con sujetos con funci&oacute;n hep&aacute;tica normal<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Tratamiento de la <strong>ESPLENOMEGALIA</strong> o los s&iacute;ntomas relacionados con la enfermedad en pacientes <b>adultos</b> con anemia de moderada a grave que padecen mielofibrosis primaria, mielofibrosis secundaria a policitemia vera o mielofibrosis secundaria a trombocitemia esencial y que no hayan sido tratados previamente con inhibidores de la Janus quinasa (JAK) o hayan sido tratados con ruxolitinib<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No se debe utilizar Momelotinib en combinaci&oacute;n con otros inhibidores de la JAK. <br>La dosis recomendada es de 200 mg una vez al d&iacute;a. <br>- Ni&ntilde;os y <b>adolescentes</b> &lt; 18 a&ntilde;os: no se ha establecido la seguridad y eficacia. No se dispone de datos. <br>- Pacientes de edad avanzada: no requiere reajuste posol&oacute;gico. <br>Ajuste de la dosificaci&oacute;n: La modificaci&oacute;n de dosis se debe considerar cuando se produzcan toxicidades hematol&oacute;gicas y no hematol&oacute;gicas <br>Duraci&oacute;n del tratamiento: Se debe de continuar el tratamiento mientras que el balance beneficio-riesgo se mantenga positivo para los pacientes, seg&uacute;n sea evaluado por el m&eacute;dico responsable. <br>Olvido de dosis: Si se omite una dosis de Momelotinib, la siguiente dosis planificada se debe tomar al d&iacute;a siguiente. No se debe tomar una dosis doble para compensar las dosis olvidadas.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Se administra por v&iacute;a oral y se puede tomar con o sin alimentos<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "Posología en insuficiencia hepática:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La dosis de inicio recomendada de Momelotinib es de 150 mg una vez al d&iacute;a en pacientes con insuficiencia hep&aacute;tica grave (Child-Pugh Clase C)<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_renal": "Posología en insuficiencia renal:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No requiere reajuste posol&oacute;gico.<br></BODY></HTML></p>",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Inductores potentes CYP3A4 (rifampicina, carbamacepina, fenobarbital, hip&eacute;rico, fenito&iacute;na) pueden disminuir las concentraciones plasm&aacute;ticas de momelotinib, por lo que se recomienda monitorizar al paciente. <br>- Transportadores AOTP1B1 y ATP1B3 pueden disminuir su actividad por f&aacute;rmacos como la fenito&iacute;na, pudiendo incrementar la exposici&oacute;n a momelotinib. <br>- Momelotinib es un inhibidor de BCRP, por lo que puede incrementar la concentraci&oacute;n plasm&aacute;tica de sus sustratos, por lo que se recomienda precauci&oacute;n. <br>- Momelotinib puede inhibir P-gp por lo tanto se recomienda monitorizar al paciente en los casos de f&aacute;rmacos de estrecho margen terap&eacute;utico. <br>- Momelotinib puede inducir CYP1A2, CYP2B6, por lo que se recomienda precauci&oacute;n con f&aacute;rmacos de estrecho margen terap&eacute;utico (teofilina, tizanidina, ciclofosfamida)<br></BODY></HTML></p>",
+    "detalle": [
+      {
+        "principio_activo": "AMITRIPTILINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CAFEINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CARBAMAZEPINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CICLOFOSFAMIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CLOMIPRAMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CLOZAPINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "VELPATASVIR",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DROPERIDOL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENITOINA (ANTIARRITMICO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BORTEZOMIB",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ANAGRELIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RASAGILINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DULOXETINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENITOINA (ANTIEPILEPTICO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BUPROPION (ANTIDEPRESIVO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "HALOPERIDOL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "HIPERICO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "IMIPRAMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "KETAMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ENZALUTAMIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROSUVASTATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos BCRP",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n de los f&aacute;rmacos sustratos de BCRP</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "AGOMELATINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PRASUGREL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PROPRANOLOL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RIFAMPICINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SULFASALAZINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos BCRP",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la acci&oacute;n de los f&aacute;rmacos sustratos de BCRP</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ESTIRIPENTOL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BENDAMUSTINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROFLUMILAST",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TEOFILINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ASENAPINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TIOTEPA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "MELATONINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "WARFARINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "POMALIDOMIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "PIRFENIDONA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "DEXMEDETOMIDINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "CICLOSPORINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + transportadores OATP1B1 y OATP1B3",
+        "efecto": "",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>El efecto inhibitorio del OATP1B/1B3 puede incrementar de forma moderada la exposici&oacute;n a momelotinib.</BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LOXAPINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "IFOSFAMIDA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SELEGILINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TIZANIDINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ONDANSETRON",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "OLANZAPINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "MIRTAZAPINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "RILUZOL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROPINIROL",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ROPIVACAINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ZOLMITRIPTAN",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "EFAVIRENZ",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LEVOBUPIVACAINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "BUPROPION (ANTITABAQUICO)",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "NIRAPARIB",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "LUMACAFTOR",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + inductores potentes CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n a la exposici&oacute;n de momelitinib.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es metabolizado por CYP3A4, por lo que los inductores pueden disminuir sus concentraciones plasm&aacute;ticas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (<SPAN >momelotinib</SPAN>), <SPAN >GlaxoSmithKline</SPAN>, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "OSILODROSTAT",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FENFLURAMINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "FEZOLINETANT",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "Momelotinib + sustratos CYP3A4",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible reduci&oacute;n en el efecto farmacoterap&eacute;utico.</BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Momelotinib es un inductor de CYP1A2 y CYP2B6, por lo que puede reducir la concentraci&oacute;n plasm&aacute;tica de los farmacos metabolitados por estas enzimas. </BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica de OMJJARA (momelotinib), GlaxoSmithKline, 2023.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Las reacciones adversas se describen seg&uacute;n cada intervalo de frecuencia, consider&aacute;ndose muy frecuentes (&gt;10%), frecuentes (1-10%), poco frecuentes (0,1-1%), raras (0,01-0,1%), muy raras (&lt;0,01%) o de frecuencia desconocida (no puede estimarse a partir de los datos disponibles). <br>- Infecciones e infestaciones: frecuente <strong>INFECCIONES DEL TRACTO URINARIO</strong>,<strong>INFECCION RESPIRATORIA SUPERIOR</strong>, <strong>NEUMONIA</strong>, <strong>RESFRIADO COMUN</strong>, COVID-19, <strong>CISTITIS</strong>, <strong>BRONQUITIS</strong>, <strong>HERPES SIMPLE LABIAL</strong>, <strong>SINUSITIS</strong>, <strong>HERPES ZOSTER</strong>, <strong>CELULITIS</strong>, <strong>INFECCION RESPIRATORIA</strong>, <strong>SEPSIS</strong>, infecci&oacute;n del tracto respiratorio inferior, <strong>CANDIDIASIS ORAL</strong>, <strong>INFECCION DE PIEL</strong>, <strong>GASTROENTERITIS</strong>; poco frecuente neumon&iacute;a por COVID-19 <br>- Trastornos de la sangre y del sistema linf&aacute;tico: muy frecuente <strong>TROMBOCITOPENIA</strong>; frecuente <strong>NEUTROPENIA</strong> <br>- Trastornos del metabolismo y de la nutrici&oacute;n: frecuente <strong>DEFICIT DE TIAMINA</strong> <br>- Trastornos del sistema nervioso: muy frecuente <strong>MAREO</strong>, <strong>ALERGIA A CEFALOSPORINAS</strong>; frecuente <strong>SINCOPE</strong>, <strong>NEUROPATIA</strong>perif&eacute;rica, <strong>PARESTESIA</strong> <br>- Trastornos oculares: frecuente <strong>VISION BORROSA</strong> <br>- Trastornos del o&iacute;do y el laberinto: frecuente <strong>VERTIGO</strong> <br>- Trastornos vasculares: frecuente <strong>HIPOTENSION</strong>, <strong>HEMATOMA</strong>, <strong>RUBORIZACION</strong> <br>- Trastornos respiratorios, tor&aacute;cicos y mediast&iacute;nicos: muy frecuente <strong>TOS</strong> <br>- Trastornos gastrointestinales: muy frecuente <strong>DIARREA</strong>, <strong>DOLOR ABDOMINAL</strong>, <strong>NAUSEAS</strong>; frecuente <strong>VOMITOS</strong>, <strong>ESTREÑIMIENTO</strong> <br>- Trastornos musculoesquel&eacute;ticos y del tejido conjuntivo: frecuente <strong>ARTRALGIA</strong>, <strong>DOLOR DE LAS EXTREMIDADES</strong> <br>- Trastornos generales y alteraciones en el lugar de administraci&oacute;n: muy frecuente <strong>ASTENIA</strong>, <strong>FATIGA</strong>; frecuente <strong>FIEBRE</strong> <br>- Exploraciones complementarias: <strong>AUMENTO DE TRANSAMINASAS</strong><br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Hipersensibilidad a momelotinib o a cualquier otro componente del medicamento.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <strong>INFECCION</strong>: Momelotinib no se debe iniciar en pacientes con infecciones activas. Los m&eacute;dicos deben observar cuidadosamente a los pacientes que reciben Momelotinib para detectar signos y s&iacute;ntomas de infecci&oacute;n (incluyendo pero no limitado a fiebre, tos, diarrea, v&oacute;mitos, n&aacute;useas y dolor al orinar) e iniciar el tratamiento adecuado de forma inmediata. <br>Se ha notificado un aumento de la carga viral de la hepatitis B (t&iacute;tulo de ADN del VHB), con o sin una elevaci&oacute;n asociada de la alanina transaminasa (ALT) o de la aspartato transaminasa (AST), en pacientes con infecci&oacute;n por el virus de la hepatitis B (VHB) cr&oacute;nica que tomaban inhibidores de la JAK, incluyendo Momelotinib. <br>- <strong>TROMBOCITOPENIA</strong>y <strong>NEUTROPENIA</strong>: Se observ&oacute; la aparici&oacute;n de trombocitopenia y neutropenia grave (Grado &gt;=3) en pacientes tratados con Momelotinib. Se debe obtener un hemograma completo incluyendo el recuento de plaquetas antes de iniciar el tratamiento con Momelotinib, peri&oacute;dicamente durante el tratamiento y seg&uacute;n est&eacute; indicado cl&iacute;nicamente. Puede ser necesario interrumpir el tratamiento o reducir la dosis <br>- Monitorizaci&oacute;n hep&aacute;tica: Los an&aacute;lisis de la funci&oacute;n hep&aacute;tica se deben obtener antes de iniciar el tratamiento con Momelotinib, peri&oacute;dicamente durante el tratamiento y seg&uacute;n est&eacute; indicado cl&iacute;nicamente. Si se sospecha de un aumento de ALT, AST o bilirrubina relacionado con el tratamiento, puede ser necesario interrumpir el tratamiento o reducir la dosis <br>- Acontecimientos adversos cardiovasculares graves: Se han notificado acontecimientos MACE en pacientes que recib&iacute;an Momelotinib, sin embargo, no se ha establecido una relaci&oacute;n causal. Antes de iniciar o continuar el tratamiento con Momelotinib, se debe tener en cuenta el balance beneficio/riesgo de forma individual para cada paciente, especialmente en pacientes de 65 a&ntilde;os o mayores, pacientes que son actualmente o han sido fumadores durante un largo periodo de tiempo y pacientes con antecedentes de enfermedad cardiovascular ateroscler&oacute;tica u otros factores de riesgo cardiovasculares. <br>- <strong>TROMBOSIS</strong>: Se han notificado acontecimientos de DVT y EP en pacientes que recib&iacute;an Momelotinib. Sin embargo, no se ha establecido una relaci&oacute;n causal. En pacientes con mielofibrosis tratados con Momelotinib en los ensayos cl&iacute;nicos, la tasa de acontecimientos tromboemb&oacute;licos fue similar en los pacientes tratados con Momelotinib y los tratados con el control. <br>- Segundas neoplasias malignas primarias: En un amplio estudio aleatorizado y controlado con el tratamiento activo tofacitinib (otro inhibidor de la JAK) en pacientes con artritis reumatoide de 50 a&ntilde;os o mayores con al menos un factor de riesgo cardiovascular adicional, se observ&oacute; una mayor tasa de neoplasias malignas, particularmente de c&aacute;ncer de pulm&oacute;n, linfoma y c&aacute;ncer de piel no melanoma (CPNM) con tofacitinib en comparaci&oacute;n con los inhibidores del TNF. <br>- Mujeres en edad f&eacute;rtil: Dadas las incertidumbres sobre si Momelotinib puede reducir la efectividad de los anticonceptivos hormonales, las mujeres que toman anticonceptivos hormonales orales deben a&ntilde;adir un m&eacute;todo de barrera durante el tratamiento y por lo menos 1 semana tras la &uacute;ltima dosis de Momelotinib<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: Al tratarse de un inhibidor de la JAK, Momelotinib ha demostrado causar mortalidad embriofetal y teratogenicidad en ratas y conejas embarazadas a exposiciones cl&iacute;nicamente relevantes. <br>Se debe advertir a las mujeres en edad f&eacute;rtil que eviten quedarse embarazadas mientras est&eacute;n en tratamiento con Momelotinib. Actualmente se desconoce si Momelotinib puede reducir la efectividad de los anticonceptivos hormonales de acci&oacute;n sist&eacute;mica, por lo que las mujeres que utilizan dichos anticonceptivos hormonales deben a&ntilde;adir un m&eacute;todo de barrera durante el tratamiento y por lo menos una semana tras la &uacute;ltima dosis de Momelotinib <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. Contraindicado. <br>Efectos sobre la fertilidad: No hay datos relativos al efecto de momelotinib en la fertilidad humana tanto masculina como femenina. En los estudios realizados en animales, momelotinib afect&oacute; a la fertilidad en ratas macho y hembra<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales</I>: Se encontr&oacute; momelotinib en cr&iacute;as de rata que presentaron acontecimientos adversos tras la lactancia de madres tratadas. <br>Seguridad en humanos</I>: se desconoce si se excreta con la leche, y las consecuencias que podr&iacute;a tener para el lactante. Contraindicado.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Si se sospecha de una sobredosis, el paciente debe ser monitorizado para detectar cualquier signo o s&iacute;ntoma de reacciones o efectos adversos, y se debe instaurar inmediatamente un tratamiento est&aacute;ndar adecuado. Se deben tomar medidas adicionales cuando est&eacute; cl&iacute;nicamente indicado. No se espera que la hemodi&aacute;lisis mejore la eliminaci&oacute;n de momelotinib.<br></BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Puede afectar sustancialmente a la capacidad para conducir y/o manejar maquinaria<br></BODY></HTML></p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Aseg&uacute;rate de conocer adecuadamente las normas de administraci&oacute;n de este medicamento antes de su empleo. Consulta al farmac&eacute;utico si es necesario. <br>- Si olvidas una dosis, t&oacute;mala cuanto antes, salvo que faltara poco tiempo para la siguiente. A continuaci&oacute;n, contin&uacute;a el tratamiento a las horas habituales. No dupliques la siguiente dosis para compensar la olvidada. <br>- Consulta con tu m&eacute;dico y/o farmac&eacute;utico si los s&iacute;ntomas contin&uacute;an o empeoran durante el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s embarazada, crees que puedes estarlo o tienes previsto hacerlo antes de iniciar el tratamiento. <br>- Informa a tu m&eacute;dico si est&aacute;s en periodo de lactancia antes de iniciar el tratamiento. <br>- Momelotinib es un medicamento susceptible de producir interacciones. Informa a tu m&eacute;dico o farmac&eacute;utico de todos los medicamentos, complementos alimenticios y/o plantas que est&eacute;s tomando.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "DOPAJE",
+      "texto": "Deporte/dopaje: contiene una o varias sustancias incluidas en resolucion oficial (ver descripcion para mas informacion)"
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    },
+    {
+      "categoria": "UTILIZACION",
+      "texto": "Medicamento citostático / citotóxico"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INHIBIDOR GLICOPROTEINA P MODERADO",
+    "INHIBIDOR BCRP",
+    "INHIBIDOR OCT1",
+    "SUSTRATO OATP1B1",
+    "SUSTRATO OATP1B3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Antis&eacute;ptico mercurial, bacteriost&aacute;tico y fungiest&aacute;tico. Act&uacute;a inhibiendo determinados enzimas microbianos mediante la formaci&oacute;n de sulfuros, interfiriendo de esta forma el metabolismo celular.</BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Desinfecci&oacute;n de heridas superficiales de la piel y mucosas: grietas, <strong>ESCARAS</strong> mec&aacute;nicas, llagas, u&ntilde;eros de extremidades, <strong>QUEMADURAS</strong>, cicatrizaci&oacute;n y curas de <strong>HERIDAS POSTOPERATORIAS</strong>, etc.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Antes de aplicarla, lavar bien la herida (agua, agua y jab&oacute;n, agua oxigenada, etc), secar bien, especialmente si se us&oacute; agua oxigenada, ya que esta puede descomponer el producto. Aplicar unas gotas sobre la herida y sus bordes 2-3 veces al d&iacute;a.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>En personas hipersensible puede producir sensibilizaci&oacute;n de la piel (eczema de contacto).<br>Si bien es muy rara, no puede excluirse la posibilidad de toxicidad sist&eacute;mica propia de los derivados mercuriales (acrodinia, nefrotoxicidad) cuando se aplica sobre grandes superficies corporales con vendaje oclusivo y en administraci&oacute;n repetida.</BODY></HTML></p>",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Se inactiva por la presencia de prote&iacute;nas org&aacute;nicas (sangre, suero, etc).</BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: no se dispone de estudios adecuados y bien controlados en humanos. Uso precautorio. No se recomienda su utilizaci&oacute;n de forma continuada. <br><EM>Efectos sobre la fertilidad</EM>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche. Administrarla con precauci&oacute;n durante la lactancia.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- S&iacute;ntomas: la ingesti&oacute;n moderada produce irritaci&oacute;n de la mucosa, dosis elevadas pueden producir ulceraciones.<br>- Tratamiento: lavado g&aacute;strico con soluci&oacute;n prote&iacute;ca y administraci&oacute;n de carb&oacute;n activado y un purgante salino. Si no existe alteraci&oacute;n de la funci&oacute;n renal, puede ser &uacute;til forzar la diuresis. Adem&aacute;s se aconseja tratamiento sintom&aacute;tico con monitorizaci&oacute;n de la funci&oacute;n renal y equilibrio electrol&iacute;tico, con determinaci&oacute;n de niveles de mercurio en sangre y orina, instaurando tratamiento quelante si procede. Considerar la di&aacute;lisis peritoneal y la hemodi&aacute;lisis.<br></BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "CICATRIZANTE",
+    "ANTISEPTICO"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "LEVODOPA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "LEVODOPA + METIONINA",
+        "efecto": "<p style='text-indent:0px;'>La administración de metionina puede antagonizar los efectos antiparkinsonianos de la levodopa.</p>",
+        "importancia": "<p style='text-indent:0px;'>Aunque los datos de que se disponen son muy limitados, es recomendable no administrar elevadas cantidades de metionina a pacientes bajo tratamiento con levodopa. No parece que la interacción sea significativa con las dosis normales.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Desconocido. Se ha sugerido que la metionina inhibiría el enzima DOPA-descarboxilasa a nivel central, la cual transforma la levodopa en dopamina, sienda esta última sustancia la que ejerce, a nivel cerebral, el efecto antiparkinsoniano.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado sobre 14 enfermos de Parkinson, que estaban siendo tratados con levodopa, se les comenz&oacute; a administrar metionina o placebo, durante un per&iacute;odo de 8 d&iacute;as. Mientras que en 3 de los 7 pacientes con levodopa m&aacute;s placebo se apreci&oacute; una ligera mejor&iacute;a, en 5 de los 7 restantes pacientes (levodopa m&aacute;s 4,5 g de metionina/d&iacute;a) se observ&oacute; un recrudecimiento de los s&iacute;ntomas del Parkinson (temblor, rigidez, etc.). Este empeoramiento del \"status\" parkinsoniano ces&oacute; poco despu&eacute;s de suspender la administraci&oacute;n de metionina.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Pearce LA. Neurology 1974;24:640. </BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ACIDIFICANTE URINARIO",
+    "SUPLEMENTO ORGANICO (RESTAURACION)",
+    "ANTIDOTO",
+    "AMINOACIDO"
+  ]
+}
