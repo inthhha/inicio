@@ -1,0 +1,47 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Vacuna, promueve la inmunización activa frente al tétanos por inducción a la producción de antitoxina específica.<br />Después de una serie primaria de tres dosis de toxoide tetánico en personas >7 años de edad y 4 dosis en niños <7 años se consiguen niveles de antitoxina suficientes para estar protegido, teniendo en cuenta que<br />el nivel protector mínimo es de 0,01 IU/ml. La efectividad de la vacuna es prácticamente del 100%, siendo excepcional los casos de tétanos en personas correctamente vacunadas.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>Inmunización activa contra el <strong>TETANOS</strong>. <br />- La vacunación primaria de difteria -tétanos-tos ferina se realiza actualmente con vacuna DTP en niños de 7 años o menores. En aquellos casos en que no pueda utilizarse dicha vacuna, debe utilizarse DT. Solo en aquellos casos en que no pueda utilizarse DTP ni DT se utilizará vacuna frente a tétanos en la inmunización primaria. <br />En niños mayores de 7 años y <b>adultos</b>, la vacunación primaria se realizará con Td (Vacuna frente a tétanos y difteria de <b>adultos</b>) preferentemente, utilizándose la vacuna antitetánica cuando la vacuna Td no pueda utilizarse.<br />- También se puede utilizar como dosis de recuerdo en los casos en que se haya completado el ciclo de vacunación primaria. Se recomienda como dosis de recuerdo la vacuna Td. No obstante, si existe una<br />contraindicación que no permita utilizar dicha vacuna, se utilizará vacuna antitetánica.<br />- En caso de heridas, la vacunación se puede utilizar como profilaxis frente al tétanos.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Vía im:.<br />- Vacunación primaria: 1ª Dosis: en la fecha elegida. 2ª Dosis: 1 - 2 meses después de la primera dosis. 3ª dosis: 6-12 meses después de la segunda dosis. En el supuesto que falte alguna de las tres dosis del calendario de vacunación primaria, continuar con la misma, independientemente del tiempo transcurrido desde la administración anterior y procurar cumplir con las pautas indicadas en las administraciones siguientes. <br />- Dosis de recuerdo: Se administrará cada 10 años, a partir de la última dosis. <br />Vacunación asociada a heridas: Se tendrán en cuenta las siguientes consideraciones: <br />- Heridas menores y limpias: En personas que se sabe han completado un ciclo primario de vacunación antitetánica o que han recibido su última dosis de refuerzo en los últimos 10 años, no está recomendado revacunar ni tampoco la utilización de inmunoglobulina antitetánica. En personas que no han completado su ciclo primario de vacunación antitetánica, en las que se desconoce o es incierto su estado de inmunización, y en las que han transcurrido más de 10 años desde su último refuerzo, se recomienda revacunar. No es necesaria la administración de inmunoglobulina antitetánica. <br />- Heridas mayores o sucias: En personas que hayan completado su ciclo primario de vacunación antitetánica y hayan recibido además su última dosis de refuerzo en los últimos 5 años, no es necesario revacunar. En personas que no han completado su ciclo primario de vacunación antitetánica, y en las que se desconoce o es incierto su estado de inmunización, además de la vacunación se administrará inmunoglobulina antitetánica. La administración de inmunoglobulina antitetánica se realizará en un lugar de inyección distinto del utilizado para la administración de la vacuna.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Antes de proceder a la vacunación deberá agitarse bien antes de usarla y ser observada visualmente para confirmar que no ha sufrido ninguna variación de color ni contiene ninguna partícula.  La dosis (0,5 ml) debe inyectarse por vía intramuscular, preferentemente en la región glútea o en el deltoides (excepto en niños pequeños). Nunca debe inyectarse por vía intravenosa. Las personas que padecen diátesis hemorrágica deben ser vacunadas por vía subcutánea.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>- Inmunoglobulina antitetánica: hay estudios en los que se ha registrado disminución de la respuesta inmune al toxoide tetánico, por formación de un complejo antígeno-anticuerpo, sin ninguna capacidad inmunogénica.</p>",
+    "detalle": [
+      {
+        "principio_activo": "INMUNOGLOBULINA ANTITETANICA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "TOXOIDE TETANICO + INMUNOGLOBULINA ANTITETANICA",
+        "efecto": "<p style='text-indent:0px;'>Puede darse una interferencia con la respuesta inmune al toxoide tetánico en sujetos con bajos títulos de anticuerpos previamente a la vacunación.</p>",
+        "importancia": "<p style='text-indent:0px;'>La interacción ha sido constatada en términos clínicos, habiéndose descrito una disminución de la respuesta inmune al toxoide tetánico. Atendiendo a estas circunstancias, se sugiere evitar esta asociación medicamentosa.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La inmunoglobulina antitetánica puede antagonizar al toxoide tetánico, mediante la formación de un complejo antígeno-anticuerpo, sin ninguna capacidad inmunogénica.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1\tDos grupos de 60 y 59 sujetos <b>adultos</b> sanos, previamente inmunizados frente a tétanos y difteria, fueron aleatoriamente asignados a recibir una vacuna de difteria y tétanos sola o conjuntamente con 500 Ui de inmunoglobulina antitetánica. La administración conjunta con la inmunoglobulina interfirió de forma significativa con la respuesta inmune al toxoide tetánico en los sujetos con bajos títulos de anticuerpos antitetánicos previos a la vacunación.</p>",
+        "referencias": "<p style='text-indent:0px;'>1\tDal Ré R. J Clin Pharmacol 1995;35:420-5</p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad al medicamento (más comunes en mayores de 25 años que han recibido dosis frecuentes de refuerzo).</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- <strong>FIEBRE</strong>, <strong>INFECCION</strong>: Las vacunas están contraindicadas durante las infecciones agudas moderadas y graves y en el periodo de convalecencia. En caso de fiebre elevada se retrasará la vacunación ya que puede ser el comienzo de una enfermedad más grave y la vacuna supone someter al organismo a un esfuerzo complementario, y sobre todo porque podría llevar a error de que la enfermedad grave ha sido causada por la vacunación. La presencia de enfermedades infecciosas banales tales como catarros de vías altas, diarreas leves o fiebre leve o moderada, no se onsidera motivo para retrasar la vacunación. <br />- No se debe administrar a personas con antecedentes de trombocitopenia o con complicaciones neurológicas después de una vacunación anterior frente al tétanos</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>Categoría C de la FDA. No hay estudios adecuados y bien controlados en humanos. Se ha utilizado en mujeres embarazadas para prevenir el tétanos en neonatos con alto riesgo de sufrir la enfermedad. Se recomienda esperar hasta el segundo trimestre para minimizar cualquier riesgo teórico del feto. El Colegio Americano de Obstetricia y Ginecología recomienda el uso del toxoide en mujeres con riesgo que no han seguido la pauta de vacunación o que no han tomado la dosis de recuerdo en los últimos 10 años.</p>\n\nLactancia:\n<p style='text-indent:0px;'>Se ignora si este producto se excreta con la leche materna, y si ello pudiese afectar al niño. Uso aceptado.</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "TOXOIDE INMUNOGENICO"
+  ]
+}

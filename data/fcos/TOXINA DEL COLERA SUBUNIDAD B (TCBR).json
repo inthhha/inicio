@@ -1,0 +1,49 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "ALIMENTOS",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "VACUNA DEL COLERA + ALIMENTOS",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de alimentos con la vacuna oral contra el cólera puede dar lugar a una una reducción o pérdida de la actividad terapéutica de la vacuna.</p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>La disminuci&oacute;n del pH del est&oacute;mago puede reducir la inmunogeneidad de la vacuna ora frente al c&oacute;lera, por ello se ingiere oralmente con bicarbonato como amortiguador del pH que protege a los ant&iacute;genos frente al &aacute;cido g&aacute;strico. Debe evitarse la ingesta de alimentos y bebidas una hora antes y una hora despu&eacute;s de la administraci&oacute;n de la vacuna. Debe evitarse la administraci&oacute;n oral de otros medicamentos durante un espacio de una hora antes y una hora despu&eacute;s de la administraci&oacute;n de la vacuna frente al c&oacute;lera. </BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>La vacuna es l&aacute;bil al &aacute;cido. Los alimentos y las bebidas aumentar&aacute;n la producci&oacute;n de &aacute;cido en el est&oacute;mago, lo que puede disminuir el efecto de la vacuna. Por lo tanto, debe evitarse la ingesta de alimentos y bebidas una hora antes y una hora despu&eacute;s de la administraci&oacute;n de la vacuna. Debe evitarse la administraci&oacute;n oral de otras vacunas y medicamentos durante un espacio de una hora antes y una hora despu&eacute;s de la vacunaci&oacute;n.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>1 El fabricante informa del riesgo de interacci&oacute;n.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18283\"></HEAD><BODY>1. Ficha t&eacute;cnica Dukoral (Vibrio cholerae + Subunidad B de la toxina del c&oacute;lera), mayo 2015. </BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: No se dispone de datos de estudios con animales acerca de la toxicidad sobre el proceso reproductivo. <br>Seguridad en humanos: Tras una cuidadosa evaluaci&oacute;n del riesgo / beneficio, se puede administrar la vacuna durante el embarazo, aunque no se han realizado estudios cl&iacute;nicos espec&iacute;ficos para abordar este tema. <br>Efectos sobre la fertilidad: no hay datos disponibles.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: Tras una cuidadosa evaluaci&oacute;n del riesgo / beneficio, se puede administrar la vacuna durante la lactancia, aunque no se han realizado estudios cl&iacute;nicos espec&iacute;ficos para abordar este tema.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: autorizado su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": []
+}

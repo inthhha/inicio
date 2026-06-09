@@ -1,0 +1,35 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Prueba de diagnóstico de la tuberculosis. La tuberculina PPD RT 23 (Derivado Proteico Purificado), se obtiene a partir de  cultivos filtrados de Mycobacterium tuberculosis de tipo humano, titulada con relación a la preparación standar de la OMS.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Prueba de diagn&oacute;stico para <strong>TUBERCULOSIS</strong> por Mycobacterium tuberculosis.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Inicialmente se inyectar&aacute; 0,1 ml de la diluci&oacute;n que contenga menor concentraci&oacute;n (ej, 1 UT &oacute; 2 UT/0,1 ml de soluci&oacute;n). La lectura se efectuar&aacute; a las 48-72 horas, si la lectura al tercer d&iacute;a fuera negativa, se practicar&aacute; una segunda prueba a los 4 d&iacute;as, aplicando 0,1 ml de diluci&oacute;n que contenga mayor concentraci&oacute;n (ej, 5 UT &oacute; 10 UT/0,1 ml de soluci&oacute;n). <br>\"Interpretaci&oacute;n del test tubercul&iacute;nico\" <br>La lectura del test se efectuar&aacute; a las 48-72 h de la inyeccci&oacute;n, para ello se medir&aacute; el di&aacute;metro de la induraci&oacute;n, no el del eritema, y se expresar&aacute; en mil&iacute;metros. Se considera positiva una induraci&oacute;n igual o superior a 5 mm. En los vacunados con BCG, donde la interpretaci&oacute;n de la prueba es m&aacute;s compleja, se considera positiva la induraci&oacute;n superior a 14 mm. Una reacci&oacute;n positiva indica una sensibilidad a la tuberculina, como resultado de una infecci&oacute;n (pasada o presente) por Micobacterias.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1.-Utilizar jeringas y agujas especiales para tuberculina de 1 ml, graduadas en d&eacute;cimas, desechables y de un s&oacute;lo uso. <br>2.-Disolver el liofilizado con el disolvente de la ampolla, insertar la aguja suavemente y extraer 0,1 ml. <br>3.-Limpiar el antebrazo con alcohol y secar. <br>4.-Inyectar v&iacute;a intrad&eacute;rmica en el antebrazo, cara anterior o posterior. <br>5.-Inyectar 0,1 ml. Si la inyecci&oacute;n est&aacute; bien realizada se producir&aacute; una p&aacute;pula isqu&eacute;mica de unos 10 mm la cual desaparecer&aacute; en pocos minutos. <br>Si por error se ha inyectado subcut&aacute;neamente o bien si una parte de la dosis se ha salido del sitio de inyecci&oacute;n, se repetir&aacute; el test inmediatamente en otro lugar a una distacia m&iacute;nima de 5 cm. <br>El test de Mantoux es el standar de comparaci&oacute;n para el resto de los test tubercul&iacute;nicos.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><strong>ERITEMA</strong> durante 3-10 días. En pacientes altamente sensibilizados, la induración puede tomar un aspecto vesiculoso o ulceroso.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Historial de reacción positiva a la tuberculina: riesgo de vesiculación, ulceración o necrosis.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18525\"></HEAD><BODY>- Pacientes con <strong>TUBERCULOSIS</strong> activa. <br>- Puede haber disminuci&oacute;n de la respuesta a la tuberculina despu&eacute;s de <strong>INFECCION VIRAL</strong> recientes, tratamiento con corticoides u otros agentes inmunosupresores, estados de <strong>DESNUTRICION</strong> o en individuos que hayan recibidos recientemente vacunas de virus vivos. <br>- En caso de administraci&oacute;n subcut&aacute;nea accidental, podr&iacute;a aparecer una reacci&oacute;n febril y/o inflamaci&oacute;n de antiguas lesiones tuberculosas.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>Categoría C de la FDA. No se han realizado estudios adecuados y bien controlados en embarazadas o animales. El riesgo de tuberculosis no diagnosticada y el estrecho contacto postparto entre una madre con enfermedad activa y su bebé, pone al recién nacido en peligro de contacto de tuberculosis y sus complicaciones (meningitis tuberculosa), por este motivo el clínico deberá considerar si el beneficio potencial compensa los posibles riesgos.</p>\n\nLactancia:\n<p style='text-indent:0px;'>No se han registrado problemas en humanos, al poderse considerar su excreción en leche materna prácticamente nula. Uso generalmente aceptado.</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: autorizado su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: autorizado su uso durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "AGENTE DE DIAGNOSTICO"
+  ]
+}
