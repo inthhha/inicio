@@ -1,0 +1,65 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Antiinflamatorio de tipo estero&iacute;dico. Act&uacute;a inhibiendo la s&iacute;ntesis de prostaglandinas y de leucotrienos.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- Alivio sintom&aacute;tico de las <strong>AFTAS ORALES</strong>.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- <b>Adultos</b> y <b>adolescentes</b> &gt; 12 a&ntilde;os: 1 comprimido/6-8 h. M&aacute;ximo 4 comprimidos/24 h. <br>- Ni&ntilde;os &lt; 12 a&ntilde;os: no usar.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>Dejar disolver lentamente en la boca, lo m&aacute;s cerca posible de la zona ulcerada. En caso de lesiones m&uacute;ltiples, lo adecuado es succionar el comprimido para que la saliva lo distribuya por las ulceraciones. La permanencia adecuada del comprimido en la boca es de 15-30 minutos.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "LENACAPAVIR",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "CORTICOESTEROIDES (sistémicos) + lenacapavir",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><SPAN >La administraci&oacute;n concomitante de Sunlenca con corticoesteroides cuyas exposiciones aumentan considerablemente con el uso de inhibidores de CYP3A puede aumentar el riesgo de s&iacute;ndrome de Cushing y de supresi&oacute;n suprarrenal. </SPAN></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Las concentraciones plasm&aacute;ticas de los corticoesteroides pueden aumentar con la administraci&oacute;n concomitante de lenacapavir.<BR><SPAN ></SPAN>&nbsp;<br></BODY></HTML></p>",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha T&eacute;cnica SUNLENCA (lenacapavir), Gilead Sciences Ireland Unlimited Company<br>&nbsp;<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "ETRANACOGEN DEZAPARVOVEC",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "etranacogén dezaparvovec + glucocorticoides",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><SPAN >Pueden disminuir la eficacia del r&eacute;gimen de corticosteroides o aumentar sus efectos adversos</SPAN></BODY></HTML></p>",
+        "importancia": "",
+        "mecanismo": "",
+        "evidencias": "",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1 Ficha T&eacute;cnica HEMGENIX (<SPAN >etranacog&eacute;n dezaparvovec</SPAN>), <SPAN >CSL Behring GmbH</SPAN> 2023.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>Los efectos adversos de hidrocortisona son, en general, leves y transitorios. Las reacciones adversas son m&aacute;s frecuentes con dosis altas, y en tratamientos prolongados. <br>Las reacciones adversas se describen seg&uacute;n cada intervalo de frecuencia, consider&aacute;ndose muy frecuentes (&gt;10%), frecuentes (1-10%), poco frecuentes (0,1-1%), raras (0,01-0,1%), muy raras (&lt;0,01%) o de frecuencia desconocida (no puede estimarse a partir de los datos disponibles). <br><br>- Trastornos gastrointestinales: muy raras retraso en la cicatrizaci&oacute;n de la &uacute;lcera.<br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- <strong>ALERGIA A CORTICOIDES</strong>. <br>- <strong>INFECCION BUCAL</strong>: &uacute;lceras bucales que se acompa&ntilde;en de fiebre o malestar general, infecciones no tratadas de la mucosa oral, heridas causadas por traumas y pr&oacute;tesis, infecciones gingivales y lesiones eruptivas localizadas fuera de la cavidad bucal.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- No debe utilizarse durante m&aacute;s de 4 d&iacute;as.</BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no debe utilizarse durante el embarazo por la posible ingesti&oacute;n de una dosis significativa de hidrocortisona. <br>Efectos sobre la fertilidad: estudios de reproducci&oacute;n en animales indican que los corticoides pueden perjudicar la fertilidad masculina. <br>Sin embargo, en otros estudios no se observ&oacute; perjuicio en fertilidad. No se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no debe utilizarse durante la lactancia por la posible ingesti&oacute;n de una dosis significativa de hidrocortisona.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>En caso de sobredosificaci&oacute;n pueden aparecer los efectos sist&eacute;micos de los corticoides. El tratamiento ser&aacute; sintom&aacute;tico. En caso de ingesti&oacute;n accidental, al no haber ant&iacute;doto espec&iacute;fico y siendo improbable que se produzcan efectos graves, el tratamiento consiste en diluci&oacute;n con l&iacute;quidos.</BODY></HTML></p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- Disolver lentamente en las proximidades de la lesi&oacute;n sin masticarlo ni tragarlo durante 15-30 minutos. <br>- La forma infantil se presenta a manera de pastilla con un sujetador pl&aacute;stico, para evitar que el ni&ntilde;o se trague la pastilla. <br>- Administrar como m&aacute;ximo 4 comprimidos al d&iacute;a (10 mg). <br>- No administrar durante m&aacute;s de 4 d&iacute;as.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "GLUCOCORTICOIDE TOPICO",
+    "HORMONA CORTICOSUPRARRENAL",
+    "GLUCOCORTICOIDE",
+    "ANTIINFLAMATORIO TOPICO"
+  ]
+}
