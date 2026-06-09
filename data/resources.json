@@ -816,6 +816,14 @@
     "url": "https://drive.google.com/file/d/17JsCXeKyLS0k6J10-eUAKlGmuYAdWYoP/view?usp=drive_link"
   },
   {
+    "title": "Resumen Volumenes/Calorias/Alimentación/DSM Pediatría",
+    "type": "apunte",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://docs.google.com/spreadsheets/d/1XDjeBd6dAbGhAJoYOLLJOf7ONAclhJD5h_MC1xUg37s/edit?usp=sharing"
+  },
+  {
     "title": "Manual PUC 3° Edición",
     "type": "libro",
     "format": "pdf",
@@ -942,6 +950,38 @@
     "category": "pediatria",
     "year": "2025",
     "url": "https://www.pedz.de/de/pedz/main.html"
+  },
+  {
+    "title": "Esquema Sueros y Alimentación en Pediatría",
+    "type": "Otros recursos",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1EcwHxPiOMDaujI0_eYWVxVLdGNvBfM1J/view?usp=drive_link"
+  },
+  {
+    "title": "Explicación Sueros y Alimentación en Pediatría",
+    "type": "Otros recursos",
+    "format": "pdf",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/10ibKlda4PbidIh0PqFLUkS6s9qnZE8ls/view?usp=drive_link"
+  },
+  {
+    "title": "Protocolos AEPED",
+    "type": "link",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://www.aeped.es/publicaciones/protocolos"
+  },
+  {
+    "title": "Anales de Pediatría",
+    "type": "link",
+    "format": "link",
+    "category": "pediatria",
+    "year": "2025",
+    "url": "https://www.analesdepediatria.org/"
   },
   {
     "title": "IA Pediatría",
