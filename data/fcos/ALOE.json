@@ -1,0 +1,97 @@
+{
+  "farmacologia": "",
+  "indicaciones": "",
+  "posologia": "",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "DIGOXINA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "LAXANTES ESTIMULANTES + DIGOXINA",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de digoxina con plantas laxantes estimulantes podría dar lugar a un aumento de la toxicidad de la digoxina.</p>",
+        "importancia": "<p style='text-indent:0px;'>Si bien no se han comunicado casos de interacciones con plantas laxantes estimulantes, se sabe que en situaciones de hipopotasemia la toxicidad de digoxina se ve incrementada. Las plantas laxantes estimulantes pueden ocasionar esta hipopotasemia en caso de utilizarse a altas dosis y durante períodos prolongados de tiempo, especialmente si se asocian a otros fármacos hipokalemiantes como los diuréticos tiazídicos o el regaliz.<br />Los pacientes tratados con digoxina que deban emplear un laxante estimulante deberán beber abundante cantidad de agua durante el tratamiento para garantizar el aporte hidroelectrolítico. Se recomienda evitar tratamientos prolongados con estos laxantes estimulantes, así como superar las dosis recomendadas. En caso de apreciarse mareo, sed intensa, cansancio o debilidad muscular, se recomienda ponerlo en conocimiento del médico.<br />Se aconseja monitorizar los niveles de potasio en paciente con síntomas de intoxicación digitálica, tratados con laxantes estimulantes. En caso de observarse hipopotasemia, se suspenderá el laxante.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>La utilización continuada y a altas dosis de laxantes estimulantes del tipo antraquinónico o lipídico (como el ricino) podría dar lugar a hipopotasemia. En situaciones de hipopotasemia, la toxicidad de la digoxina se podría ver incrementada.</p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Un paciente de 84 a&ntilde;os, tratado con digoxina (125 mcg/24 h) y furosemida (80 mg/24 h) comenz&oacute; a tomar un preparado chino para el estre&ntilde;imiento, con regaliz (400 mg) y ruibarbo (1,6 g), 3 veces al d&iacute;a. Cinco d&iacute;as despu&eacute;s de iniciar el laxante, el paciente experiment&oacute; fatiga y edemas en las piernas, y al medir sus niveles de digoxina, se comprob&oacute; que &eacute;stos se hab&iacute;an incrementado de 1 a 2,9 ng/ml. La frecuencia card&iacute;aca hab&iacute;a disminuido a 30 latidos por minuto, y los niveles de potasio eran de 2,9 mmol/l. <br>2. El fabricante de digoxina alerta del riesgo te&oacute;rico de interacci&oacute;n entre estos medicamentos.<br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Harada T, Ohtaki E, Misu K et al. Congestive heart failure caused by digitalis toxicity in an elderly man taking a licorice-containing chinese herbal laxative. Cardiology. 2002; 98: 218. <br>2. Ficha t&eacute;cnica Lanacordin (digoxina). Kern Pharma, S.L., febrero 2009.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "GLIBENCLAMIDA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "ALOE VERA + ANTIDIABETICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de los niveles sangu&iacute;neos de glucosa con el consiguiente riesgo de hipoglucemia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada en cl&iacute;nica, se describe un &uacute;nico caso en el que se produjo una disminuci&oacute;n de los niveles de glucosa al administrar concomitantemente zumo de aloe vera con glibenclamida. Sin embargo, debido al uso tradicional del aloe vera como antidiab&eacute;tico, ser&iacute;a conveniente vigilar los niveles de glucosa en sangre de aquellos pacientes que ya se encuentren en tratamiento con antidiab&eacute;ticos para evitar posibles hipoglucemias.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Desconocido. Se sugiere una posible adici&oacute;n de los efectos antidiab&eacute;ticos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado, una cucharada de zumo de aloe vera diaria, disminuy&oacute; los niveles sangu&iacute;neos de glucosa de 14 a 8mmol/L, tanto en pacientes diab&eacute;ticos que estaban en tratamiento con glibenclamida como los que no tomaban ning&uacute;n antidiab&eacute;tico.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Bunyapraphatsara N, et al. Antidiabetic activity of Aloe vera juice. Clinical trial in diabetes mellitus patients in combination with glibenclamide. Phytomedicine. 1996; 3, 245-8.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "GLICLAZIDA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "ALOE VERA + ANTIDIABETICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de los niveles sangu&iacute;neos de glucosa con el consiguiente riesgo de hipoglucemia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada en cl&iacute;nica, se describe un &uacute;nico caso en el que se produjo una disminuci&oacute;n de los niveles de glucosa al administrar concomitantemente zumo de aloe vera con glibenclamida. Sin embargo, debido al uso tradicional del aloe vera como antidiab&eacute;tico, ser&iacute;a conveniente vigilar los niveles de glucosa en sangre de aquellos pacientes que ya se encuentren en tratamiento con antidiab&eacute;ticos para evitar posibles hipoglucemias.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Desconocido. Se sugiere una posible adici&oacute;n de los efectos antidiab&eacute;ticos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado, una cucharada de zumo de aloe vera diaria, disminuy&oacute; los niveles sangu&iacute;neos de glucosa de 14 a 8mmol/L, tanto en pacientes diab&eacute;ticos que estaban en tratamiento con glibenclamida como los que no tomaban ning&uacute;n antidiab&eacute;tico.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Bunyapraphatsara N, et al. Antidiabetic activity of Aloe vera juice. Clinical trial in diabetes mellitus patients in combination with glibenclamide. Phytomedicine. 1996; 3, 245-8.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "GLIPIZIDA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "ALOE VERA + ANTIDIABETICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de los niveles sangu&iacute;neos de glucosa con el consiguiente riesgo de hipoglucemia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada en cl&iacute;nica, se describe un &uacute;nico caso en el que se produjo una disminuci&oacute;n de los niveles de glucosa al administrar concomitantemente zumo de aloe vera con glibenclamida. Sin embargo, debido al uso tradicional del aloe vera como antidiab&eacute;tico, ser&iacute;a conveniente vigilar los niveles de glucosa en sangre de aquellos pacientes que ya se encuentren en tratamiento con antidiab&eacute;ticos para evitar posibles hipoglucemias.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Desconocido. Se sugiere una posible adici&oacute;n de los efectos antidiab&eacute;ticos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado, una cucharada de zumo de aloe vera diaria, disminuy&oacute; los niveles sangu&iacute;neos de glucosa de 14 a 8mmol/L, tanto en pacientes diab&eacute;ticos que estaban en tratamiento con glibenclamida como los que no tomaban ning&uacute;n antidiab&eacute;tico.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Bunyapraphatsara N, et al. Antidiabetic activity of Aloe vera juice. Clinical trial in diabetes mellitus patients in combination with glibenclamide. Phytomedicine. 1996; 3, 245-8.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "SEVOFLURANO",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "ALOE VERA + SEVOFLURANO",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible incremento de la hemorragia quir&uacute;rgica.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada y solo se ha reportado un caso, en el cual, no fueron evaluados ni el tiempo de tromboplastina ni el INR del paciente. Por ello, los autores sugieren que los factores m&aacute;s importantes en la p&eacute;rdida de sangre en este caso fueron la vascularidad y el tama&ntilde;o del hemangioma.<br>Ante la falta de informaci&oacute;n suficiente, la Sociedad Americana de Anestesiolog&iacute;a recomienda suspender todos los tratamientos a base de plantas, al menos, dos semanas antes de la&nbsp;intervenci&oacute;n quir&uacute;rgica con un anest&eacute;sico electivo. <BR><br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Sevoflurano presenta una cierta capacidad para inhibir la agregaci&oacute;n plaquetaria y el tromboxano A2, mientras que los efectos del Aloe vera afectan a la s&iacute;ntesis de las prostaglandinas. La adici&oacute;n de ambos efectos antiplaquetarios contribuye a un exceso de sangrado.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Una paciente que tomaba aloe vera diariamente durante 2 semanas antes de una intervenci&oacute;n quir&uacute;rgica de hemangioma, perdi&oacute; el doble de sangre del estimado. La anestesia general fue inducida con propofol, Fentanilo y rocuronio y, posteriormente, se utiliz&oacute; sevoflurano para mantener la anestesia. Los autores sugieren que la posible interacci&oacute;n entre sevoflurano y aloe vera contribuy&oacute; al exceso de sangrado.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Lee A, et al. Possible interaction between sevoflurane and Aloe vera. Ann Pharmacother. 2004; 38, 1651-4.</BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "GLIMEPIRIDA",
+        "severidad": 3,
+        "categoria_severidad": "Leve",
+        "titulo": "ALOE VERA + ANTIDIABETICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de los niveles sangu&iacute;neos de glucosa con el consiguiente riesgo de hipoglucemia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido poco estudiada en cl&iacute;nica, se describe un &uacute;nico caso en el que se produjo una disminuci&oacute;n de los niveles de glucosa al administrar concomitantemente zumo de aloe vera con glibenclamida. Sin embargo, debido al uso tradicional del aloe vera como antidiab&eacute;tico, ser&iacute;a conveniente vigilar los niveles de glucosa en sangre de aquellos pacientes que ya se encuentren en tratamiento con antidiab&eacute;ticos para evitar posibles hipoglucemias.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Desconocido. Se sugiere una posible adici&oacute;n de los efectos antidiab&eacute;ticos.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. En un estudio realizado, una cucharada de zumo de aloe vera diaria, disminuy&oacute; los niveles sangu&iacute;neos de glucosa de 14 a 8mmol/L, tanto en pacientes diab&eacute;ticos que estaban en tratamiento con glibenclamida como los que no tomaban ning&uacute;n antidiab&eacute;tico.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Bunyapraphatsara N, et al. Antidiabetic activity of Aloe vera juice. Clinical trial in diabetes mellitus patients in combination with glibenclamide. Phytomedicine. 1996; 3, 245-8.</BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "COLAGOGO/COLERETICO",
+    "LAXANTE",
+    "EMOLIENTE DERMATOLOGICO",
+    "CICATRIZANTE",
+    "LAXANTE ESTIMULANTE DEL PERISTALTISMO INTESTINAL"
+  ]
+}

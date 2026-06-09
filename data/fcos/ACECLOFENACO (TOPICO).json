@@ -1,0 +1,57 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>El aceclofenaco es un <strong>ANTIINFLAMATORIO</strong> y <strong>ANALGESICO</strong> no esteroídico, que actúa impidiendo la síntesis de prostaglandinas y otros prostanoides, mediante la inhibición de la ciclooxigenasa que interviene en procesos inflamatorios.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Alivio local sintom&aacute;tico de afecciones dolorosas o inflamatorias, de origen traum&aacute;tico o degenerativo de las articulaciones, tendones, ligamentos y m&uacute;sculos (<strong>ARTRITIS</strong>, periartritis, <strong>CAPSULITIS</strong>, artrosinovitis, <strong>TENDINITIS</strong>, <strong>TENOSINOVITIS</strong>, <strong>BURSITIS</strong>, <strong>CONTUSION</strong>, distorsiones, <strong>LUXACION</strong>, lesiones meniscales de la rodilla, <strong>TORTICOLIS</strong>, <strong>LUMBALGIA</strong>, <strong>ESGUINCE</strong>, <strong>CONTRACTURA MUSCULAR</strong> ).</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b> y ni&ntilde;os mayores de 12 a&ntilde;os: aplicar entre 1,5-2 gramos ( 5-7 cm aproximadamente) 3 veces al d&iacute;a. <br>Duraci&oacute;n del tratamiento: No aplicar m&aacute;s de 7 d&iacute;as seguidos sin consultar al m&eacute;dico.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>- Aplicar una fina capa del producto en la zona afectada mediante un ligero masaje para facilitar la penetración.<br />- Lavar las manos después de cada aplicación.<br />- No aplicar vendajes oclusivos.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>- No se han descrito en el uso cutáneo, ya que se alcanzan concentraciones sistémicas muy bajas del fármaco, pero se valorará si debe utilizarse conjuntamente con otros analgésicos tópicos.</p>",
+    "detalle": [
+      {
+        "principio_activo": "DASATINIB",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "DASATINIB + AINE",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18231\"></HEAD><BODY>Posible aumento del riesgo de sangrado. </BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18231\"></HEAD><BODY>Dasatinib puede causar trombocitopenia grave y aumentar el riesgo de hemorragia. En consecuencia las fichas t&eacute;cnicas advierten de que se debe tener precauci&oacute;n cuando dasatinib se administre junto con anticoagulantes o antiagregantes plaquetarios.&nbsp;<BR>Dado el perfil farmacodin&aacute;mico de los AINE, que aumentan el riesgo de hemorragias y pueden alterar la funci&oacute;n plaquetaria, y las consecuencias deriavdas, se&nbsp;aconseja&nbsp;que en caso de&nbsp;administraci&oacute;n concomitante de Dasatinib con AINE debe ser vigilados estrechamente los pacientesante el posible aumento de signos de sangrado. En caso de trombocitopenia o hemorragia se debe valorar la suspensi&oacute;n del AINE. <br></BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18231\"></HEAD><BODY>Posible adici&oacute;n de efectos sobre la coagulaci&oacute;n. </BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18231\"></HEAD><BODY>1, 2: La interacci&oacute;n se ha planteado a nivel te&oacute;rico a partir de los efectos de dasatiib sobre funci&oacute;n plaquetaria y el perfil farmadin&aacute;mico de los AINE. En pacientes con LMC en fase cr&oacute;nica (n = 548), 5 pacientes (1%) que recibieron dasatinib tuvieron hemorragia grado 3 &oacute; 4. En ensayos cl&iacute;nicos en pacientes con LMC en fase avanzada que recibieron la dosis recomendada de dasatinib (n = 304) ocurrieron hemorragias graves en el sistema nervioso central (SNC) en el 1% de los pacientes. Un caso fue mortal y se asoci&oacute; seg&uacute;n los Criterios de Toxicidad Com&uacute;n (CTC), a una trombocitopenia grado 4. Se produjo hemorragia gastrointestinal grado 3 &oacute; 4 en el 6% de los pacientes con LMC en fase avanzada y generalmente requirieron suspensi&oacute;n del tratamiento y transfusiones. Se produjeron otras hemorragias grado 3 &oacute; 4 en el 2% de los pacientes con LMC en fase avanzada. La mayor&iacute;a de los sangrados relacionados en estos pacientes fueron t&iacute;picamente asociados con trombocitopenia grado 3 &oacute; 4 . Adicionalmente, los estudios de funci&oacute;n plaquetaria sugieren que el tratamiento con dasatinib afecta de modo reversible a la activaci&oacute;n de plaquetas. <BR></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.18231\"></HEAD><BODY>1. Ficha t&eacute;cnica Sprycel (Dasatinib), diciembre 2015. <br>2. Ficha t&eacute;cnica USA Sprycel (Dasatinib), diciembre 2015.<br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>- Pueden producirse <strong>ERITEMA</strong> local moderado (0,1%-1%), <strong>DERMATITIS</strong>, <strong>IRRITACION CUTANEA</strong>, <strong>PRURITO</strong> (0,1%-1%) y sensación de <strong>IRRITACION CUTANEA</strong> en la zona de aplicación, que desaparecen al suspender el tratamiento.<br />- Puede aparecer <strong>REACCIONES DE FOTOSENSIBILIDAD</strong>  (0,01%-0,1%).<br />- En el caso de que se manifiesten síntomas para los que no se encuentre justificación, debe suspenderse el tratamiento y se reevaluará la situación clínica del paciente.<br />- La administración tópica de forma prolongada, en áreas extensas de piel, sobre heridas abiertas, mucosas o piel eczematosa, así como la utilización de vendajes oclusivos, puede provocar la aparición de reacciones adversas sistémicas típicas de los AINEs.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a aceclofenaco o a cualquiera de los componentes de este medicamento.<br />- <strong>ALERGIA A AINE</strong>, <strong>ALERGIA A SALICILATOS</strong>: Aunque la administración local minimiza los riesgos derivados de su uso sistémico, la aplicación tópica, en áreas extensas de la piel, en heridas abiertas, mucosas o piel eczematosa, de forma prolongada y con la utilización de vendajes oclusivos, puede provocar efectos sistémicos, por lo que conviene recordar que no se recomienda su uso en los pacientes que hayan presentado reacciones alérgicas (rinitis, asma, prurito, angioedema, urticaria, shock u otras), provocadas por ácido acetilsalicílico u otros AINES debido a la posibilidad de hipersensibilidad cruzada.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se dispone de estudios adecuados y bien controlados en humanos. Como medida de precauci&oacute;n se recomienda evitar su empleo. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se desconoce si se excreta con la leche, y las consecuencias que podr&iacute;a tener para el lactante. Se recomienda suspender la lactancia o evitar su administraci&oacute;n.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: Debido a su uso externo, no es probable que se produzcan cuadros de intoxicación.<br />En caso de ingestión accidental, los síntomas de sobredosis serán reacciones adversas sistémicas que dependerán de la dosis ingerida y el tiempo transcurrido desde la ingestión. <br />- Tratamiento: si se produjese ingestión accidental se procederá a lavado de estómago y a una terapia sintomática.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'>- Evitar el contacto con los ojos y membranas mucosas.<br />- No utilizar con vendajes oclusivos ni aplicar simultáneamente en la misma zona que otras preparaciones tópicas. <br />- No utilizar de forma prolongada ni en áreas extensas.<br />- Utilizar sólo en piel intacta, no sobre heridas abiertas, mucosas o piel eczematosa.<br />- No exponer al sol la zona tratada.<br />- Lavar las manos después de cada aplicación.</p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "FOTOSENSIBILIDAD",
+      "texto": "Este medicamento puede provocar reaccion de fotosensibilidad"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "INHIBIDOR DE LA SINTESIS DE PROSTAGLANDINAS (CICLOOXIGENASA)",
+    "ANTIINFLAMATORIO",
+    "ANTIINFLAMATORIO TOPICO"
+  ]
+}
