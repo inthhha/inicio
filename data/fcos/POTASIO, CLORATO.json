@@ -1,0 +1,31 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Sialagogo, astringente y antiséptico débil. Pertenece al grupo de los cloratos. Actúa liberando ácido clórico (oxidante) con débil acción antiséptica.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- Alivio sintomático de la <strong>SEQUEDAD DE BOCA</strong> y la <strong>HALITOSIS</strong> (mal aliento) consecuente.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Vía tópica:. <br />- <b>Adultos</b>: 200-325 mg (1 comprimido)/2-3 h, hasta un máximo de 8 comprimidos/día. <br />- Niños mayores de 6 años: 100-162,5 mg (1/2 comprimido)/3 h, hasta un máximo de 4 comprimidos/día.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>dejar disolver lentamente en la boca, sin masticar ni tragar.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Los efectos adversos de clorato potásico son, en general, infrecuentes aunque moderadamente importantes. Las reacciones adversas más características son:<br />-Raramente (<1%): con dosis elevadas, alrededor de 5 g en <b>adultos</b> y de 1 g en niños, se pueden provocar intoxicaciones agudas manifestadas mediante náuseas, vómitos, diarrea, dolor abdominal, hemorragia, anemia hemolítica y metahemoglobinemia.</p>",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>Evita tratamientos prolongados, especialmente en pacientes con <br /><b>insuficiencia renal</b>, insuficiencia hepática o alteraciones <br />sanguíneas.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>- Síntomas: El clorato potásico es muy tóxico. La dosis mortal es de 5 g en <b>adultos</b> y de 1 g en niños. Una  intoxicación aguda puede cursar con dolor abdominal, náuseas, vómitos y diarrea. Posteriormente, formación de metahemoglobina (no responde a zul de metileno), anemia hemolítica (hemorragia) e <b>insuficiencia renal</b>. Tambien puede producir convulsiones, daño hepático y coma.<br />- Tratamiento: lavado gástrico, exanguinotransfusión, bicarbonato (iv) y hemodiálisis.</p>",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><br>- Dejar disolver l&eacute;ntamente en la boca. <br>- No se debe sobrepasar la dosis diaria de 8 comprimidos en <b>adultos</b>. <br>- Evitar tratamientos prolongados, especialmente en pacientes con <b>insuficiencia renal</b>, insuficiencia hep&aacute;tica o alteraciones sangu&iacute;neas.<br>- No administrar a ni&ntilde;os menores de 6 a&ntilde;os.</BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTISEPTICO"
+  ]
+}

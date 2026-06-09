@@ -1,0 +1,51 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>Antis&eacute;ptico y desinfectante de uso externo de corta duraci&oacute;n de acci&oacute;n y amplio especto, incluyendo anaerobios. Act&uacute;a como oxidante sobre los grupos sulfhidrilo alterando la conformaci&oacute;n de las enzimas bacterianas, estas pierden su acci&oacute;n y provocan la muerte celular. Las catalasas celulares descomponen el agua oxigenda r&aacute;pidamente, por lo que su mayor utilidad es como debridante de heridas, al desprender ox&iacute;geno.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>- Soluci&oacute;n: Limpieza de heridas superficiales, taponamiento de hemorragias nasales, ablandamiento de ap&oacute;sitos y vendajes.<br>Diluida a partes iguales en agua (50%): <strong>AMIGDALITIS</strong>, <strong>EXTRACCION DENTAL</strong>, <strong>INFECCION BUCAL</strong>, cuidado de la piel (<strong>ACNE</strong>, etc).<br>Diluida al 30%: Higiene &iacute;ntima.</BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b>, ni&ntilde;os y <b>ancianos</b>: <br>* Lavado de heridas: se emplea sin diluir, vertiendo directamente sobre la herida o empapando un algod&oacute;n. <br><br>* Hemorragia nasal: empapar el algod&oacute;n y taponar la fosa nasal correspondiente. <br>* Como estomatol&oacute;gico (al 50%): realizar enjuagues o gargarismos. <br>* En la higiene &iacute;ntima diluir con agua al 30%.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": [
+      {
+        "principio_activo": "HIDROQUINONA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "HIDROQUINONA + PEROXIDOS",
+        "efecto": "<p style='text-indent:0px;'>La administración conjunta de hidroquinona con peróxidos puede dar lugar a una coloración temporal de la piel.</p>",
+        "importancia": "<p style='text-indent:0px;'>Los fabricantes advierten que la la utilización simultánea de la hidroquinona con peróxidos, (por ejemplo: agua oxigenada, peróxido de benzoilo, etc.), puede producir una coloración temporal de la piel. Esta coloración temporal se elimina interrumpiendo el uso de uno de estos medicamentos y lavando la zona de aplicación con un jabón suave.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>Se produce debido a la oxidación de la hidroquinona que tiene lugar cuando se administra conjuntamente con peróxidos.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1   El fabricante advierte de la posible aparición de una coloración temporal cuando se administra conjuntamente hidroquinona con peróxidos.</p>",
+        "referencias": "<p style='text-indent:0px;'>1    Ficha Técnica Hidroquilaude (Hidroquinona), Laboratorios Dermofarm, 2001.</p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Con el uso repetido en enjuagues bucales o gargarismos puede producir irritaci&oacute;n de la mucosa bucal o dar lugar a la denominada \"lengua vellosa\", por hipertrofia de las papilas de la lengua. <br>Crema: excepcionalmente, ligera irritaci&oacute;n y ardor en el lugar de aplicaci&oacute;n.</BODY></HTML></p>",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>- No aplicar en los ojos.<br>- No debe utilizarse en cavidades cerradas, ya que existe el riesgo de producir lesiones tisulares y embolia gaseosa.<br>- El efecto del per&oacute;xido de hidr&oacute;geno en soluci&oacute;n es bastante corto, por lo que no se aconseja el empleo &uacute;nico de agua oxigenada como antis&eacute;ptico.<br>- Es incompatible con agentes fuertemente oxidantes (iodo, permanganato, etc).</BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: no se han realizado estudios adecuados y bien controlados en humanos. Su administraci&oacute;n s&oacute;lo se acepta si no existen alternativas terap&eacute;uticas m&aacute;s seguras, y los beneficios superan los posibles riesgos. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>No hay datos disponibles. <TABLE >  <TBODY>  <TR>    <TD     ></TD></TR></TBODY></TABLE><br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTISEPTICO"
+  ]
+}

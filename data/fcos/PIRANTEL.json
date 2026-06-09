@@ -1,0 +1,67 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Antihelm&iacute;ntico, activo frente a Enterobius vermicularis, Ascaris lumbricoides, Ancylostoma duodenale, Necator americanus. Ejerce su acci&oacute;n por bloqueo neuromuscular sobre los helmintos sensibles, inmovilizando el par&aacute;sito y provocando su expulsi&oacute;n intestinal.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <strong>ENTEROBIASIS</strong>, <strong>ASCARIDIASIS</strong> y <strong>ANQUILOSTOMIASIS</strong>.<br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- <b>Adultos</b> y ni&ntilde;os. <br>* Enterobiasis y ascariasis: 10 mg/kg, administrados en una &uacute;nica. Puede repetirse la dosis, en caso necesario, al cabo de 2 semanas (enterobiasis). <br>* Anquilostomiasis: 10 mg/kg/24 h durante 3 d&iacute;as, pudiendo repetirse la dosis, en caso necesario, al cabo de 1 mes. <br>Esquema de dosificaci&oacute;n, basado en una estimaci&oacute;n del peso corporal/edad. <br>- De 6 meses a 2 a&ntilde;os (menos de 12 kg): 1/2 comprimido masticable &oacute; 2.5 ml (1/2 cucharadita de 5 ml). <br>- De 2 a 6 a&ntilde;os (de 12 a 22 kg): 1 comprimido masticable &oacute; 5 ml (1 cucharadita de 5 ml). <br>- De 6 a 12 a&ntilde;os (de 22 a 41 kg): 2 comprimidos masticables &oacute; 10 ml (2 cucharaditas de 5 ml). <br>- Mayores de 12 a&ntilde;os y <b>adultos</b> (de 41 a 75 kg): 3 comprimidos masticables &oacute; 15 ml (3 cuchartaditas de 5 ml). <br>- <b>Adultos</b> con m&aacute;s de 75 kg: 4 comprimidos masticables &oacute; 20 ml (4 cucharaditas de 5 ml).<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Comprimidos masticables, administrados oralmente, en una dosis &uacute;nica.<br></BODY></HTML></p><p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La suspensi&oacute;n oral puede mezclarse con leche o jugo de frutas.<br></BODY></HTML></p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Existe antagonismo entre pamoato de pirantel y piperazina, debido a sus distintos mecanismos de acci&oacute;n. Ambos f&aacute;rmacos ejercen su acci&oacute;n por bloqueo neuromuscular sobre los helmintos sensibles, aunque pirantel lo hace por despolarizaic&oacute;n mientras que piperazina lo hace por hiperpolarizaci&oacute;n, oponi&eacute;ndose ambas acciones. <br>- Teofilina: hay un estudio en el que se ha registrado aumento de los niveles plasm&aacute;ticos de teofilina, con posible potenciaci&oacute;n de su toxicidad.<br></BODY></HTML></p>",
+    "detalle": [
+      {
+        "principio_activo": "HIDROXICLOROQUINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "HIDROXICLOROQUINA + ANTIHELMINTICOS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de la concentraci&oacute;n s&eacute;rica de los antihelm&iacute;nticos, con el consiguiente riesgo de p&eacute;rdida de su eficacia.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Aunque no se han descrito casos de esta interacci&oacute;n, el fabricante indica que podr&iacute;a ser necesario un ajuste posol&oacute;gico en caso de administraci&oacute;n concomitante de hidroxicloroquina con f&aacute;rmacos antihelm&iacute;nticos.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Desconocido.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante, en su ficha t&eacute;cnica, advierte de la posible disminuci&oacute;n de la concentraci&oacute;n del antihelm&iacute;ntico si se administra conjuntamente con hidroxicloroquina.</BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica Dolquine (hidroxicloroquina sulfato). Products and technology, S.L., septiembre 2018.<br></BODY></HTML></p>"
+      },
+      {
+        "principio_activo": "TEOFILINA",
+        "severidad": 10,
+        "categoria_severidad": "Grave",
+        "titulo": "TEOFILINA + PIRANTEL",
+        "efecto": "<p style='text-indent:0px;'>Posible aumento de los niveles séricos de teofilina. Riesgo de intoxicación teofilínica.</p>",
+        "importancia": "<p style='text-indent:0px;'>Sólo hay disponible un único caso clínico, que demuestra la existencia de una interacción farmacocinética, aunque sin repercusiones toxicológicas. De todas las maneras, la interacción puede ser potencialmente importante, atendiendo a la rapidez con que se manifestó en el caso clínico descrito.</p>",
+        "mecanismo": "<p style='text-indent:0px;'>El pirantel es capaz de inhibir el metabolismo hepático de teofilina, provocando así la acumulación de ésta en el organismo.</p>",
+        "evidencias": "<p style='text-indent:0px;'>1\tUn paciente pediátrico que llevaba siendo tratado con teofilina desde hacía tres días y que presentaba al final de este periodo unos niveles plasmáticos del fármaco de 15 mcg/ml, comenzó a ser tratado por vía oral con pamoato de pirantel (160 mg). A las 2.5 horas de esta administración, los niveles séricos de teofilina fueron de 24 mcg/ml (aumento del 60%), mientras que a las 4 horas fueron de 30 mcg/ml (aumento del 100%). El paciente no mostró síntomas de intoxicación teofilínica.</p>",
+        "referencias": "<p style='text-indent:0px;'>1\tHecht L. Drug Intell Clin Pharm 1989;23:258</p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18538\"></HEAD><BODY>Suelen ser leves y transitorios. Los efectos adversos m&aacute;s frecuentes son de tipo gastrointestinal: <strong>NAUSEAS</strong>, <strong>VOMITOS</strong>, <strong>DOLOR ABDOMINAL</strong>, <strong>DIARREA</strong>. Con menor frecuencia, <strong>VERTIGO</strong>, <strong>ERUPCIONES CUTANEAS</strong> y <strong>AUMENTO DE TRANSAMINASAS</strong> pasajero.<br></BODY></HTML></p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Alergia al medicamento.<br></BODY></HTML></p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18525\"></HEAD><BODY>- <strong>INSUFICIENCIA HEPATICA</strong> (en algunos pacientes se han observado elevaciones de transaminasas). <br>- <strong>ANEMIA</strong>, <strong>DESNUTRICION</strong> o <strong>DESHIDRATACION</strong> graves. <br>- Es conveniente el tratamiento simult&aacute;neo de todos los miembros de la familia. <br>- Aplicar medidas higi&eacute;nicas para controlar las causas de la infestaci&oacute;n.<br></BODY></HTML></p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY><EM>Seguridad en animales</EM>: los estudios sobre animales no han registrado efectos adversos fetales. <br><EM>Seguridad en humanos</EM>: no hay estudios adecuados y bien controlados en humanos. El uso de este medicamento s&oacute;lo se acepta en caso de ausencia de alternativas terap&eacute;uticas m&aacute;s seguras. <br><EM>Efectos sobre la fertilidad</EM>: no existen estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY><EM>Seguridad en animales</EM>: no hay datos disponibles. <br><EM>Seguridad en humanos</EM>: se desconoce si se excreta con la leche, y las consecuencias que podr&iacute;a tener para el lactante. <br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    },
+    {
+      "categoria": "INSUFICIENCIA_HEPATICA",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia hepática (IH), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "ANTIHELMINTICO",
+    "ANTIPARASITARIO"
+  ]
+}
