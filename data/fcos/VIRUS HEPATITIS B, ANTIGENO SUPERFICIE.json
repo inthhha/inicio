@@ -1,0 +1,36 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>La tasa media de seroconversión después de tres dosis de vacuna (según la posología elegida), se aproxima al 100 por 100.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Inmunizaci&oacute;n aciva frente a la infecci&oacute;n por el virus de la <strong>HEPATITIS B</strong> (VHB) causada por todos los subtipos conocidos, en personas no inmunes. Los grupos de poblaci&oacute;n susceptibles de inmunizaci&oacute;n estar&aacute;n determinados en base a las recomendaciones oficiales.<br><br>Puede esperarse que, mediante la inmunizaci&oacute;n de la hepatitis B, tambi&eacute;n se prevenga la hepatitis D (causada por el agente delta), dado que &eacute;sta no se produce en ausencia de una infecci&oacute;n de hepatitis B.<br><br></BODY></HTML></p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>Vía im (vía sc profunda excepcionalmente):.<br />ENGERIX B:.<br />- <b>Adultos</b> y niños de 15 o más años: dosis de 20 µg (1 ml).<br />- Neonatos, y niños hasta 14 años inclusive: dosis de 10 µg (0.5 ml).<br />- Pauta de inmunización: Pauta usual a los 0, 1 y 6 meses. Pauta rápida (produce niveles de anticuerpos más bajos) de 0, 1 y 2 meses + dosis de refuerzo a los 12 meses. <br />- Niños nacidos de madres HBsAg positivas: 1ª dosis de vacuna antihepatitis B (10 µg) + inmunoglobulina antihepatitis B (0,5 ml) dentro de las 12 h tras el nacimiento, ambas por vía im en sitios diferentes. Continuar la pauta de vacunación (usual ó rápida) administrando ya sólo la vacuna. <br />- Exposición o presunta exposición al VHB (p. ej, pinchazo reciente con aguja contaminada): una dosis de vacuna de hepatitis B + inmunoglobulina antihepatitis B en lugares de inyección diferentes. Se aconseja seguir la pauta de inmunización rápida.<br />- Personas inmunocomprometidas (p. ej, hemodiálisis crónica): dosis de 40 µg a los 0, 1, 2 y 6 meses (4 dosis en total). En personas infectadas con el VIH sólo se ha ensayado la dosis de 20 µg. Adaptar la pauta de inmunización con el fin de mantener los títulos de anticuerpos anti-HBs por encima de 10 ui/l. En hemodiálisis, valorar la necesidad de dosis de refuerzo anualmente mediante ensayos de anticuerpos (administrar dosis de refuerzo cuando los niveles de anticuerpos desciendan de 10 ui/l).<br />RECOMBIVAX HB:.<br />- <b>Adultos</b> y niños de 16 o más años: dosis de 10 µg (0.5 ml).<br />- Neonatos y niños hasta 15 años inclusive: dosis de 5 µg (1 ml).<br />- Diálisis y prediálisis: dosis de 40 µg (1 ml).<br />- Pauta de inmunización: Pauta usual a los  0, 1 y 6 meses. Pauta rápida (produce niveles de anticuerpos más bajos) a los 0, 1 y 2 meses + dosis de refuerzo a los 12 meses.<br />- Niños nacidos de madres HBsAg positivas: dosis de inmunoglobulina antihepatitis B en las 24 h después del nacimiento. Adminstrar la 1ª dosis de vacuna antihepatitis B en los 7 primeros días del nacimiento (se podrá adminstrar al nacer junto con la inmunoglobulina por vía im en distintos lugares de inyección). Continuar la pauta de inmunización ya sólo administrando la vacuna.<br />- Exposición o presunta esposición al VHB: administrar la 1ª dosis de la vacuna junto con la inmunoglobulina por vía im en lugares de inyección diferentes. Se aconseja la pauta de inmunización rápida.<br />- <b>Adultos</b> en diálisis o prediálisis: seguir la pauta usual de inmunización (0, 1 y 6 meses) con la dosis de 40 µg. Valorar la necesidad de administrar una dosis de refuerzo anualmente, mediante ensayo de anticuerpos (adminstrar el refuerzo si el título de anticuerpos desciende por debajo de 10 ui/l).<br />ENGERIX B Y RECOMBIVAX HB:.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>utilizar preferentemente la vía im en el deltoides (<b>adultos</b>) o en la cara anterolateral del muslo (niños). En pacientes con trastornos de la coagulación o trombocitopenia, utilizar la vía sc. En <b>adultos</b> obesos utilizar aguja de 25 mm (RECOMBIVAX)..</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a cualquiera de los componentes de la vacuna.<br />-  Enfermedad febril grave. La presencia de infecciones febriles leves no contraindican su administración.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- La vacuna no debe administarse en la región glútea ni por vía intradérmica. Por estas vías no hay una respuesta inmunológica adecuada. No administrar por vía endovenosa.<br />- En pacientes sometidos a <strong>HEMODIALISIS</strong> o en <strong>INMUNODEFICIENCIA</strong> podría no obtenerse una respuesta adecuada después de la primera tanda de vacunación, lo que obligaría a la repetición de la vacunación.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>Categoría C de la FDA. No hay estudios adecuados y bien controlados en humanos. La vacuna contiene solamente partículas HbsAg no infecciosas, por lo que el riesgo teórico para el feto parece ser bajo. A causa de los riesgos potenciales de la exposición a hepatitis B en embarazadas y el potencial de desarrollar infección crónica en el neonato, se considera indicada como profilaxis pre y postexposición en embarazadas con alto riesgo de infección.</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "VACUNA",
+    "ANTIGENO VIRAL"
+  ]
+}

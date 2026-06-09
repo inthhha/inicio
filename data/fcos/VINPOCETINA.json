@@ -1,0 +1,47 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Vasodilatador cerebral y nootropo, derivado síntetico de la vincamina (alcaloide obtenido de la Vinca minor). Actúa incrementando la circulación cerebral y la utilización de oxígeno y glucosa por las neuronas.</p>\n\nFarmacocinética:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.9600.18817\"></HEAD><BODY>- Absorci&oacute;n: Oral: Su biodisponibilidad es muy variable, oscilando entre el 7-57%, alcanzando una concentraci&oacute;n s&eacute;rica m&aacute;xima de 5-60 ng/ml (10 mg, oral) al cabo de 1.5 h. Los alimentos aumentan hasta un 60-100% la biodisponibilidad oral. <br>- Distribuci&oacute;n: Su volumen aparente de distribuci&oacute;n (Vd) es de 3 l/kg (adulto joven), 7 l/kg (en <b>ancianos</b>). <br>- Eliminaci&oacute;n: Es metabolizado ampliamente en el h&iacute;gado, principalmente a &aacute;cido apovincam&iacute;nico (AVA), aparentemente desprovisto de actividad biol&oacute;gica significativa, siendo eliminado mayoritariamente con la orina, una m&iacute;nima cantidad en forma inalterable. Su aclaramiento es de 0.9 l/h/kg (iv) y su semivida de eliminaci&oacute;n es de 2 h.<br></BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- Tratamiento de síntomas de <strong>DETERIORO COGNITIVO</strong> relacionadas con patología cerebrovascular, previa exclusión de enfermedad degenerativa de causa no vascular (Ej: enfermedad de Alzheimer).</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>- Alteraciones cerebrovasculares (<b>adultos</b>, oral): inicialmente 5-10 mg/8 h, durante 30 días máximo, seguido de 5 mg/8 h durante 2 meses. Se desconoce el posible beneficio de tratamientos más prolongados.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Las comprimidos  deben administrase con alimentos, durante las comidas, sin masticar.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>Las alteraciones más frecuentes son:.<br />- Cardiovasculares: hipotensión y rubor, rara vez taquicardia,  extrasístole y prolongación del intervalo QT.<br />- Digestivas: náuseas, dispepsia, dolor abdominal. <br />- Neurológicas/psicológicas: insomnio, cansancio, cefalea tensional, nerviosismo, ansiedad, vértigo y, excepcionalmente, parestesia.<br />- Metabólicas: ligera disminución de los niveles séricos de glucosa.<br />-Dermatológicas: Excepcionalmente, erupciones exantemáticas y prurito.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Alergia al medicamento, así como en pacientes con <strong>HIPERTENSION INTRACRANEAL</strong>, <strong>HEMORRAGIA CEREBRAL</strong> reciente.</p>",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>Deberá realizarse un especial control clínico en pacientes con <strong>ARRITMIA CARDIACA</strong>, evitando en lo posible su utilización en pacientes con intervalo QT prolongado, ante el mayor riesgo de arritmias ventriculares, así mismo se aconseja precaución en pacientes con <strong>HIPERTENSION ARTERIAL</strong>, <strong>INSUFICIENCIA HEPATICA</strong> (se metaboliza ampliamente en el hígado), <strong>EPILEPSIA</strong>, historial de intolerancia a los derivados de la vinca o en aquellos que  estén tomando fármacos que prolonguen el intervalo QT. <br />Advertir al paciente que este medicamento puede alterar la capacidad de reacción, lo que puede afectar la conducción de vehículos o el manejo de maquinaria peligrosa, especialmente al comienzo del tratamiento.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: No se han realizado ensayos cl&iacute;nicos en seres humanos, por lo que el uso de este medicamento s&oacute;lo se acepta en caso de ausencia de alternativas terap&eacute;uticas m&aacute;s seguras. <br>Efectos sobre la fertilidad</I>: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: se ignora si este medicamento es excretado en cantidades significativas con la leche materna, y si ello pudiese afectar al ni&ntilde;o. Se recomienda suspender la lactancia materna o evitar la administraci&oacute;n de este medicamento.<br></BODY></HTML></p>",
+  "sobredosis": "Sobredosis:\n<p style='text-indent:0px;'>Síntomas: se desconocen.<br />Tratamiento: sintomático y de soporte, con atención preferente a la función cardiorrespiratoria.</p>",
+  "efectos_sobre_la_conduccion": "Efectos sobre la conducción:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>-&nbsp;Puede afectar sustancialmente a la capacidad para conducir por alteraci&oacute;n de la capacidad de reacci&oacute;n. Los pacientes deber&aacute;n evitar la conducci&oacute;n, hasta que tengan la certeza razonable de que el tratamiento farmacol&oacute;gico no les afecta de forma adversa.<br></BODY></HTML></p>",
+  "consejos_paciente": "Consejos al paciente:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Tomar con alimentos, debido a que estos aumentan considerablemente su biodisponibilidad oral.-&nbsp;Este medicamento podr&iacute;a afectar negativamente a tu capacidad para conducir. Evita la conducci&oacute;n hasta que compruebes que el medicamento no te afecta de forma importante.<br></BODY></HTML></p>",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: evitar su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: evitar su uso durante la lactancia"
+    },
+    {
+      "categoria": "INSUFICIENCIA_HEPATICA",
+      "texto": "Este medicamento presenta una advertencia de seguridad de insuficiencia hepática (IH), por lo que debe dirigirse a los epígrafes correspondientes de la ficha técnica para acceder a toda la información necesaria."
+    },
+    {
+      "categoria": "CONDUCCION",
+      "texto": "Puede tener efecto sobre la capacidad para conducir y utilizar máquinas"
+    },
+    {
+      "categoria": "EDAD AVANZADA: PRECAUCION",
+      "texto": "Edad avanzada: consultar con el medico acerca de la utilizacion en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "VASODILATADOR CEREBRAL"
+  ]
+}

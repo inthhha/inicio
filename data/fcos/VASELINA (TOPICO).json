@@ -1,0 +1,39 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.19375\"></HEAD><BODY>Emoliente y protector dermatol&oacute;gico.</BODY></HTML></p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META name=BotPlus2 content=1><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.9600.19036\"></HEAD><BODY>- Tratamiento sintom&aacute;tico de la piel seca, agrietada, <strong>IRRITACION CUTANEA</strong>, escoceduras y escoriaciones de la piel.<br>- Como lubrificante en general, en exploraciones ginecol&oacute;gicas y rectales, colocaci&oacute;n de sondas y aplicaciones de ap&oacute;sitos.<br></BODY></HTML></p><p style='text-indent:0px;'>- Lubricante en tactos rectales o en sondajes uretrales.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>- Ni&ntilde;os, <b>adultos</b> y mayores de 65 a&ntilde;os: <br>* En la piel y labios: Aplicar en la zona a tratar una capa fina 2-3 veces al d&iacute;a, si se considera necesario. <br>* En exploraciones ginecol&oacute;gicas y rectales (por personal sanitario cualificado): Aplicar en la zona de fricci&oacute;n una capa fina antes de cada exploraci&oacute;n.<br></BODY></HTML></p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "",
+    "detalle": []
+  },
+  "reacciones_adversas": "",
+  "contraindicaciones": "",
+  "precauciones": "Precauciones:\n<p style='text-indent:0px;'>- <strong>DERMATOSIS</strong> inflamatorias agudas y/o subagudas.<br />- Si utiliza preservativos de látex y desea una lubricación adicional, utilice sólo lubricantes con base de agua, como la glicerina. No use lubricantes con base de aceites como vaselina, aceites para bebés, lociones corporales, aceite de masaje, mantequilla, margarina, etc... ya que podrían dañar el preservativo.</p>",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: No se han realizado estudios adecuados con vaselina pura en mujeres embarazadas. Dado el tipo de medicamento de que se trata y su v&iacute;a de administraci&oacute;n, se puede utilizar durante el embarazo. <br>Efectos sobre la fertilidad: no se han realizado estudios espec&iacute;ficos en humanos.<br></BODY></HTML></p>\n\nLactancia:\n<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=unicode\" http-equiv=Content-Type><META name=BotPlus2 content=1><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Seguridad en animales: no hay datos disponibles. <br>Seguridad en humanos: No se han realizado estudios adecuados con vaselina pura en mujeres durante el per&iacute;odo de lactancia. No se aconseja su administraci&oacute;n durante la lactancia.<br></BODY></HTML></p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: autorizado su uso durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: autorizado su uso durante la lactancia"
+    },
+    {
+      "categoria": "EDAD AVANZADA: COMPATIBLE",
+      "texto": "Edad avanzada: autorizado su uso en pacientes de edad avanzada"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "EMOLIENTE DERMATOLOGICO"
+  ]
+}

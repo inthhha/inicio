@@ -1,0 +1,48 @@
+{
+  "farmacologia": "Acción y mecanismo:\n<p style='text-indent:0px;'>Vacuna, promueve la inmunización activa frente a la poliomielitis, induciendo la producción de anticuerpos específicos. Contiene virus inactivados tipos I, II y III, y está preparada según Salk.</p>",
+  "indicaciones": "Indicaciones:\n<p style='text-indent:0px;'>- Profilaxis activa de la <strong>POLIOMIELITIS</strong> en lactantes, niños y <b>adultos</b>. Se utiliza en la inmunización primaria y para los refuerzos posteriores. La vacuna inactivada antipoliomielítica es la recomendada por las Autoridades Sanitarias españolas para la vacunación sistemática.</p>",
+  "posologia": "Posología:\n<p style='text-indent:0px;'>En inmunización primaria. Tres dosis de vacuna comenzando a partir del segundo mes y a intervalos de 1 a 2 meses. Se recomienda una dosis de refuerzo 6 a 12 meses después.<br />En vacunación de <b>adultos</b> sin historia de vacunación antipoliomielítica que se desplacen a zonas en que la poliomielitis es endémica, una dosis de vacuna puede ser suficiente.</p>",
+  "posologia_y_forma_de_administracion": "",
+  "normas_para_la_correcta_administracion": "Normas para la correcta administración:\n<p style='text-indent:0px;'>Vía preferentemente subcutánea, aunque en ocasiones pueda administrarse por vía intramuscular.<br />En lactantes y en niños se recomienda la inyección en la cara medio lateral del muslo y en <b>adolescentes</b> y <b>adultos</b> se recomienda realizar la inyección en la región anterolateral del brazo y la región deltoidea.<br />En caso de no haber completado el ciclo de vacunación primaria, se administrarán las dosis necesarias hasta completarlo.</p>",
+  "posologia_en_insuficiencia_hepatica": "",
+  "posologia_en_insuficiencia_renal": "",
+  "interacciones": {
+    "texto_epigrafe": "Interacciones:\n<p style='text-indent:0px;'>No debe administrarse en pacientes sometidos a un tratamiento con inmunodepresores (corticoides, antimetabolitos, rayos X).</p>",
+    "detalle": [
+      {
+        "principio_activo": "HIDROXICLOROQUINA",
+        "severidad": 6,
+        "categoria_severidad": "Moderada",
+        "titulo": "HIDROXICLOROQUINA + VACUNAS INACTIVADAS",
+        "efecto": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>Posible disminuci&oacute;n de la eficacia terap&eacute;utica de las vacunas inactivadas.</BODY></HTML></p>",
+        "importancia": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La interacci&oacute;n ha sido estudiada en cl&iacute;nica observ&aacute;ndose una disminuci&oacute;n en la respuesta de los anticuerpos frente a la inmunizaci&oacute;n con estas vacunas. Los fabricantes recomiendan, en caso de que sea necesaria una administraci&oacute;n concomitante, monitorizar al paciente para observar la posible aparici&oacute;n de reacciones adversas y la respuesta al tratamiento.</BODY></HTML></p>",
+        "mecanismo": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>La acci&oacute;n inmunosupresora de hidroxicloroquina tiene cierta capacidad para disminuir la eficacia de este tipo de vacunas.</BODY></HTML></p>",
+        "evidencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. El fabricante en su ficha t&eacute;cnica, advierte de una posible disminuci&oacute;n de la respuesta de anticuerpos a la vacuna contra la rabia.<br>2. En un estudio realizado sobre 51 sujetos sanos a los cuales se les administr&oacute; una dosis de la vacuna contra la rabia. 26 de ellos hab&iacute;an recibido cloroquina 300mg unos d&iacute;as antes. El n&uacute;mero de anticuerpos neutralizantes fue menor en el grupo que hab&iacute;a recibido cloroquina.<BR><br></BODY></HTML></p>",
+        "referencias": "<p style='text-indent:0px;'><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><HTML><HEAD><META content=\"text/html; charset=windows-1252\" http-equiv=Content-Type><META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD><BODY>1. Ficha t&eacute;cnica Hidroxicloroquina ratiopharm (hidroxicloroquina). Ratiopharm Espa&ntilde;a, S.A., abril 2019.<br>2. Pappaioanou M, et al. Antibody response to preexposure human diploid-cell rabies vaccine given concurrently with chloroquine. N Engl J Med. 1986; 314, 280-4.<BR><br></BODY></HTML></p>"
+      }
+    ]
+  },
+  "reacciones_adversas": "Reacciones adversas:\n<p style='text-indent:0px;'>- Reacciones locales: <strong>DOLOR EN EL PUNTO DE INYECCION</strong>, enrojecimiento, <strong>INDURACION</strong>, <strong>EDEMA</strong>. La incidencia y severidad de las reacciones locales depende de las personas, lugar, vía, método de administración y número de dosis previas.<br />- Reacciones sistémicas: No se han observado reacciones sistémicas significativas en <b>adultos</b> a los que se ha administrado V.I.P. sola. Puede observarse <strong>FIEBRE</strong> superior a 39ºC en niños vacunados, la mayoría de los cuales han recibido D.T.P. al mismo tiempo que la vacuna inactivada antipoliomielítica. Este efecto secundario se observa con la misma frecuencia en niños que reciben exclusivamente D.T.P.</p>",
+  "contraindicaciones": "Contraindicaciones:\n<p style='text-indent:0px;'>- Hipersensibilidad a cualquiera de los componentes del preparado, incluyendo neomicina, estreptomicina y polimixina B. Pueden encontrarse trazas de estos antibióticos en el producto final.<br />- La presencia de una infección sin importancia no contraindica la vacunación.</p>",
+  "precauciones": "",
+  "advertencias_precaucion_extrema_aemps": "",
+  "embarazo_y_lactancia": "Embarazo:\n<p style='text-indent:0px;'>Categoría C de la FDA. No hay estudios adecuados y bien controlados en humanos. Aunque puede haber daño fetal cuando la madre contrae la enfermedad durante el embarazo, el riesgo de la vacuna en el feto es desconocido. El Colegio Americano de Obstetricia y Ginecología recomienda el uso de la vacuna solamente cuando hay un riesgo elevado a la exposición, en cuyo caso algunos clínicos prefieren la forma oral.</p>\n\nLactancia:\n<p style='text-indent:0px;'>Se ignora si esta vacuna se excreta con la leche materna, y si ello pudiese afectar al niño. Uso precautorio.</p>",
+  "sobredosis": "",
+  "efectos_sobre_la_conduccion": "",
+  "consejos_paciente": "",
+  "advertencias_de_seguridad": [
+    {
+      "categoria": "EMBARAZO",
+      "texto": "Embarazo: consultar con el medico acerca de la utilizacion durante el embarazo"
+    },
+    {
+      "categoria": "LACTANCIA",
+      "texto": "Lactancia: consultar con el medico acerca de la utilizacion durante la lactancia"
+    }
+  ],
+  "clasificacion_ATC": [],
+  "clasificaciones_actividad_farmacologica": [
+    "VACUNA",
+    "ANTIGENO VIRAL"
+  ]
+}
