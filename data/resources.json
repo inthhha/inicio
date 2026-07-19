@@ -176,70 +176,6 @@
     "url": "https://drive.google.com/file/d/1HrH1mMzE-70dY8BQA-U7eVQDW1ffWvug/view?usp=drive_link"
   },
   {
-    "title": "Apuntes RCP",
-    "type": "RCP",
-    "format": "pdf",
-    "category": "cirugia",
-    "year": "antiguo",
-    "url": "https://drive.google.com/file/d/1ZRgQci4iFIeTqMnWIhw_eJtmbyFsASSG/view?usp=drive_link"
-  },
-  {
-    "title": "Algoritmos AHA 2020",
-    "type": "RCP",
-    "format": "pdf",
-    "category": "cirugia",
-    "year": "2020",
-    "url": "https://drive.google.com/file/d/176q9h_R3P8D6_z_-_9kM2WHPoTMZCyZS/view?usp=drive_link"
-  },
-  {
-    "title": "ATLS 2025",
-    "type": "libro",
-    "format": "pdf",
-    "category": "cirugia",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1cSRoEoDMeui_3m5oSsDBhwXwLcc3UQ_W/view?usp=sharing"
-  },
-  {
-    "title": "ATLS 2025 - Español",
-    "type": "libro",
-    "format": "pdf",
-    "category": "cirugia",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1FrA1WjRFk8u0xG5L4Fijn9r99z0vxlZL/view?usp=sharing"
-  },
-  {
-    "title": "Algoritmos RCP",
-    "type": "RCP",
-    "format": "pdf",
-    "category": "cirugia",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1PBqa38fHFySlIIgSoEgIV0k1wDKG7Zyl/view?usp=drive_link"
-  },
-  {
-    "title": "Resumenes Traumatología Kika",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "cirugia",
-    "year": "2021",
-    "url": "https://drive.google.com/file/d/1x0htGLzMIqaI9SNLtMaUbhBQ3-7uciCR/view?usp=drive_link"
-  },
-  {
-    "title": "Resumenes Traumatología Solange",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "cirugia",
-    "year": "2020",
-    "url": "https://drive.google.com/file/d/1rzenEgMsE1gqq6Z1w11TEZB2k2tSA9kJ/view?usp=drive_link"
-  },
-  {
-    "title": "Resumenes Traumatología",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "cirugia",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1BvTSvpb8FeNS8WxO6HNyJ-WVWX7UPXG3/view?usp=drive_link"
-  },
-  {
     "title": "Cirugía Docente",
     "type": "link",
     "format": "link",
@@ -262,30 +198,6 @@
     "category": "medicina",
     "year": "2020",
     "url": "https://drive.google.com/file/d/1-8ipuFGxJ5k4en6UdbmiqMQDMoxUn9Xo/view?usp=sharing"
-  },
-  {
-    "title": "Resumenes Neurología Kika",
-    "type": "apunte",
-    "format": "pdf",
-    "category": "medicina",
-    "year": "2020",
-    "url": "https://drive.google.com/file/d/10fTAJlFSxlz65bHY5OaqYq0Ck-E7PKtH/view?usp=drive_link"
-  },
-  {
-    "title": "Resumenes Neurología Pauli",
-    "type": "apunte",
-    "format": "pdf",
-    "category": "medicina",
-    "year": "2020",
-    "url": "https://drive.google.com/file/d/1w9esRWgvrO8tdPQM_gy39zG9AUF-p5yG/view?usp=drive_link"
-  },
-  {
-    "title": "Resumenes Psiquiatría Kika",
-    "type": "apunte",
-    "format": "pdf",
-    "category": "medicina",
-    "year": "2020",
-    "url": "https://drive.google.com/file/d/19LaZYsO80U9WgLKnxXFwza3FaCsooiA5/view?usp=drive_link"
   },
   {
     "title": "Resumen Cardiología",
@@ -360,14 +272,6 @@
     "url": "https://drive.google.com/file/d/1jdFli4BIsU8q2xGHR6MSyd3BP5_BoTR8/view?usp=drive_link"
   },
   {
-    "title": "Actualización en Medicina de Urgencias UFRO",
-    "type": "libro",
-    "format": "pdf",
-    "category": "medicina",
-    "year": "2024",
-    "url": "https://bibliotecadigital.ufro.cl/v2/files/original/36492cf1a67832ce4eb4d049fac73ed2bb04cd94.pdf"
-  },
-  {
     "title": "Farreras - Medicina Interna 20° Edición",
     "type": "libro",
     "format": "pdf",
@@ -390,6 +294,14 @@
     "category": "medicina",
     "year": "2023",
     "url": "https://drive.google.com/file/d/1QBD-uR3pO_ZaiTulgNRtz1K4UV_OlG4e/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Práctico EKG",
+    "type": "libro",
+    "format": "pdf",
+    "category": "medicina",
+    "year": "2026",
+    "url": "https://drive.google.com/file/d/1heSup0nFjwqsck8lz-sNIFtftppaZ3h8/view?usp=drive_link"
   },
   {
     "title": "Manual Empendium",
@@ -488,46 +400,6 @@
     "url": "https://drive.google.com/drive/folders/1UMILTu1-knzG1cIY9ELFaFaPR9eXx48X?usp=sharing"
   },
   {
-    "title": "Criterios de Beers 2019 - Geriatría",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "medicina",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1W26vYzNl3obSBBvobw5UoUbt1e98nuAf/view?usp=sharing"
-  },
-  {
-    "title": "Dermatología Medicina General",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "medicina",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/19ZhcVUHy1T-ZpACI3lv_2yM8Gm8_QG8E/view?usp=drive_link"
-  },
-  {
-    "title": "Virosis Cutáneas",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "medicina",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1eEjHSYaHmX3e31FIPRoLmcivnbjVqaaH/view?usp=drive_link"
-  },
-  {
-    "title": "Lesiones Cutáneas - Fotos",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "medicina",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1SAGB_HcltxfDc59_r3Do-NhYnQa_qzDN/view?usp=drive_link"
-  },
-  {
-    "title": "Recetario Magistral EDF: Dermatología",
-    "type": "Otros recursos",
-    "format": "guia",
-    "category": "medicina",
-    "year": "2025",
-    "url": "https://drive.google.com/file/d/1bdBk5EATxKBfm7NawQBppL4zMBtkUOsb/view?usp=drive_link"
-  },
-  {
     "title": "Control Cardiovascular (PSCV)",
     "type": "Otros recursos",
     "format": "guia",
@@ -536,12 +408,12 @@
     "url": "https://drive.google.com/file/d/1fBdp_pRZBw1Esdz9uLNlD_Y13gurOsPI/view?usp=sharing"
   },
   {
-    "title": "Resumen EUNACOM Guevara 2024",
+    "title": "Guía Bacterias y ATB Práctica Clínica",
     "type": "Otros recursos",
-    "format": "pdf",
+    "format": "guia",
     "category": "medicina",
     "year": "2024",
-    "url": "https://drive.google.com/file/d/1MW8BVpMYsDhLgKpwSqWvlpDyfQReNsoX/view?usp=drive_link"
+    "url": "https://drive.google.com/file/d/16rkqX24MZFIMYUwsDeFeB47aPpKGNOFN/view?usp=drive_link"
   },
   {
     "title": "IA Medicina Interna",
@@ -998,5 +870,413 @@
     "category": "pediatria",
     "year": "2025",
     "url": "https://notebooklm.google.com/notebook/35f1d53b-8ce4-418b-949d-fffdf65b3a5e"
+  },
+  {
+    "title": "Manuales CTO 14° Ed",
+    "type": "EUNACOM/CTO",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2024",
+    "url": "https://drive.google.com/drive/folders/1qaYO-EoZ6QX4Apw16MWSuZrAo3wZK14w?usp=drive_link"
+  },
+  {
+    "title": "Resumen Cirugía Infantil 2020",
+    "type": "Cirugía Infantil",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1K7f2-tCXz0HvqWsHUqlX8r_W24lyZbCJ/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Cirugía Infantil 2021",
+    "type": "Cirugía Infantil",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/13wj0bDa3yrlitVNrrAMclKjxEjQhnRhV/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Cirugía Pediátrica 2024",
+    "type": "Cirugía Infantil",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1pGrZT2HeyJVMyTOBnk42UTXwCQWWbeC7/view?usp=drive_link"
+  },
+  {
+    "title": "Curso de Cirugía Infantil 2020",
+    "type": "Cirugía Infantil",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1SA4Q4cDNv4O0cKNt9UFYCIOcEnfyvhHH/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Traumatología Infantil 2020",
+    "type": "Traumatología Infantil",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1YM3aHqTy6wNTTknho3Rbiz-IHi2_sZcq/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Traumatología Infantil 2021",
+    "type": "Traumatología Infantil",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/1q1xgdf5_8MQ7Cfb60tKMH3lsv0aBdAU0/view?usp=drive_link"
+  },
+  {
+    "title": "Dermatología Medicina General",
+    "type": "Dermatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/19ZhcVUHy1T-ZpACI3lv_2yM8Gm8_QG8E/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Dermatología UC",
+    "type": "Dermatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2019",
+    "url": "https://drive.google.com/file/d/1fnrs1Lv73_0GMQHjPn0KcTOpOY8rK1CI/view?usp=drive_link"
+  },
+  {
+    "title": "Transcripción Dermatología UFRO",
+    "type": "Dermatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2023",
+    "url": "https://drive.google.com/file/d/1sdx-uUWlY8SyRgfss1vR5N9nHjjJgmPH/view?usp=drive_link"
+  },
+  {
+    "title": "Lesiones Cutáneas - Fotos",
+    "type": "Dermatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1SAGB_HcltxfDc59_r3Do-NhYnQa_qzDN/view?usp=drive_link"
+  },
+  {
+    "title": "Recetario Magistral EDF: Dermatología",
+    "type": "Dermatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1bdBk5EATxKBfm7NawQBppL4zMBtkUOsb/view?usp=drive_link"
+  },
+  {
+    "title": "Virosis Cutáneas",
+    "type": "Dermatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1eEjHSYaHmX3e31FIPRoLmcivnbjVqaaH/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen EUNACOM Guevara 2024",
+    "type": "EUNACOM/CTO",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2024",
+    "url": "https://drive.google.com/file/d/1MW8BVpMYsDhLgKpwSqWvlpDyfQReNsoX/view?usp=drive_link"
+  },
+  {
+    "title": "Criterios de Beers 2019 - Geriatría",
+    "type": "Geriatría",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1W26vYzNl3obSBBvobw5UoUbt1e98nuAf/view?usp=sharing"
+  },
+  {
+    "title": "Resumenes Neurología Kika",
+    "type": "Neurología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/10fTAJlFSxlz65bHY5OaqYq0Ck-E7PKtH/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Neurología Pauli",
+    "type": "Neurología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1w9esRWgvrO8tdPQM_gy39zG9AUF-p5yG/view?usp=drive_link"
+  },
+  {
+    "title": "Transcripciones Neurologia",
+    "type": "Neurología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1_RDcuAi_Bzh0Mt7LQ0PELLiY2FlZ3Aib/view?usp=drive_link"
+  },
+  {
+    "title": "CÓDIGO ACV Urgencia",
+    "type": "Neurología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2018",
+    "url": "https://drive.google.com/file/d/1tdpmmOOQKimkEdd2PA2uqFkkqwtLpokH/view?usp=drive_link"
+  },
+  {
+    "title": "ACV Isquémico UFRO 2022",
+    "type": "Neurología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2022",
+    "url": "https://drive.google.com/file/d/1LErtLy7K4n_VRsm7Zfnip20L16CbyRdB/view?usp=drive_link"
+  },
+  {
+    "title": "Transcripciones Oftalmología",
+    "type": "Oftalmología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1dJL9bBTtU6TuohdBcJn-o10oxcMDjMsW/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Oftalmología UCH",
+    "type": "Oftalmología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1RkocQZatH0U7UnpzLnjaOD_AjAqPLUCl/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Otorrinolaringología 2021",
+    "type": "Otorrinolaringología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/1eDNwlLEYMzSN9bPz6N3HeWe3eXslJKtm/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Otorrinolaringología UC",
+    "type": "Otorrinolaringología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1fWGZMAYXt3PdYr4NLXAZxG5pdZzLUUDF/view?usp=drive_link"
+  },
+  {
+    "title": "Transcripción Fisiopatología/Psiquiatría",
+    "type": "Psiquiatría",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1Kc0XKWTIaGoxWq4MoRh5LHKsLl9EOQO6/view?usp=drive_link"
+  },
+  {
+    "title": "Psiquiatría Adultos Libuy",
+    "type": "Psiquiatría",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2016",
+    "url": "https://drive.google.com/file/d/1e6o9oLtCLAPFPOQacJNLaup_EUQFVram/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Psiquiatría Kika",
+    "type": "Psiquiatría",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/19LaZYsO80U9WgLKnxXFwza3FaCsooiA5/view?usp=drive_link"
+  },
+  {
+    "title": "ABC: Ecografía Abdominal",
+    "type": "Radiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2026",
+    "url": "https://drive.google.com/file/d/1ddcGp5j-JpJXzmLOoU1TQP69MRYF4zXd/view?usp=drive_link"
+  },
+  {
+    "title": "ABC: Radiografía Abdomen",
+    "type": "Radiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2026",
+    "url": "https://drive.google.com/file/d/1L0ptUFSMR-Z5k1NS_z2k7P8lMJCxhhYO/view?usp=drive_link"
+  },
+  {
+    "title": "ABC: Radiografía Tórax",
+    "type": "Radiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2026",
+    "url": "https://drive.google.com/file/d/1iPoTi70U2xxw_lgKtWwbXj3mV9QXNAxm/view?usp=drive_link"
+  },
+  {
+    "title": "ABC: Tomografía de Cráneo",
+    "type": "Radiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2026",
+    "url": "https://drive.google.com/file/d/18aqk9q09ScwPWC8DacBqh9aENiq5-DvC/view?usp=drive_link"
+  },
+  {
+    "title": "ABC: Atlas de Anatomia Radiológica",
+    "type": "Radiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2026",
+    "url": "https://drive.google.com/file/d/1Ml-c6VFA4UascZIopAP3NOvyuJ4hS_Ui/view?usp=drive_link"
+  },
+  {
+    "title": "Apuntes RCP",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "antiguo",
+    "url": "https://drive.google.com/file/d/1ZRgQci4iFIeTqMnWIhw_eJtmbyFsASSG/view?usp=drive_link"
+  },
+  {
+    "title": "Algoritmos AHA 2020",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/176q9h_R3P8D6_z_-_9kM2WHPoTMZCyZS/view?usp=drive_link"
+  },
+  {
+    "title": "Algoritmos RCP",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1PBqa38fHFySlIIgSoEgIV0k1wDKG7Zyl/view?usp=drive_link"
+  },
+  {
+    "title": "Semiología UFRO 2011",
+    "type": "Semiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2011",
+    "url": "https://drive.google.com/file/d/1MRTZbr3n-SGAbOh5875Ds2P7D0PXNQRr/view?usp=drive_link"
+  },
+  {
+    "title": "Semiología Goic 4° Ed",
+    "type": "Semiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2010",
+    "url": "https://drive.google.com/file/d/1Nodf4ediyfubJnJsmSGQwmexVNXnvrHm/view?usp=drive_link"
+  },
+  {
+    "title": "Clasificación y Esquemas Diagnósticos 2° Ed",
+    "type": "Semiología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2003",
+    "url": "https://drive.google.com/file/d/1saQ6jk7ZV20kC4R6RlXmGXfkZYgFjYn4/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Traumatología Kika",
+    "type": "Traumatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2021",
+    "url": "https://drive.google.com/file/d/1x0htGLzMIqaI9SNLtMaUbhBQ3-7uciCR/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Traumatología Solange",
+    "type": "Traumatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2020",
+    "url": "https://drive.google.com/file/d/1rzenEgMsE1gqq6Z1w11TEZB2k2tSA9kJ/view?usp=drive_link"
+  },
+  {
+    "title": "Resumenes Traumatología",
+    "type": "Traumatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1BvTSvpb8FeNS8WxO6HNyJ-WVWX7UPXG3/view?usp=drive_link"
+  },
+  {
+    "title": "Ortopedia y Traumatología Básica",
+    "type": "Traumatología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2014",
+    "url": "https://drive.google.com/file/d/1Z-KY7mVfkg6YBAE-OLNzwoUJweCEoydM/view?usp=drive_link"
+  },
+  {
+    "title": "ATLS 2025",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1cSRoEoDMeui_3m5oSsDBhwXwLcc3UQ_W/view?usp=sharing"
+  },
+  {
+    "title": "ATLS 2025 - Español",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1FrA1WjRFk8u0xG5L4Fijn9r99z0vxlZL/view?usp=sharing"
+  },
+  {
+    "title": "Actualización en Medicina de Urgencias UFRO",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2024",
+    "url": "https://bibliotecadigital.ufro.cl/v2/files/original/36492cf1a67832ce4eb4d049fac73ed2bb04cd94.pdf"
+  },
+  {
+    "title": "Epidemiología clínica y decisiones en medicina",
+    "type": "Urgencias",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2001",
+    "url": "https://www.navarra.es/nr/rdonlyres/b31a650f-3952-4e42-a4c2-1439ed42f72d/147800/epidemiologia_clinica.pdf"
+  },
+  {
+    "title": "Manual Urología Esencial UC",
+    "type": "Urología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2018",
+    "url": "https://drive.google.com/file/d/1zztgUxre33PdOFdWg_0Gc9etd6Ohc2xg/view?usp=drive_link"
+  },
+  {
+    "title": "Resumen Urología Internado",
+    "type": "Urología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1Rin5ZC9zwcafqIPguymp8pd_VSnkOVTq/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Urología 2° Ed - SUCH",
+    "type": "Urología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2019",
+    "url": "https://drive.google.com/file/d/1FQ2ncHhToGC9HPsJuWtJNdCDUqvfEljV/view?usp=drive_link"
+  },
+  {
+    "title": "Manual Urología 3° Ed - SUCH",
+    "type": "Urología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://manualurologia.cl/capitulos/"
+  },
+  {
+    "title": "Urología para apurados",
+    "type": "Urología",
+    "format": "pdf",
+    "category": "especialidades",
+    "year": "2025",
+    "url": "https://drive.google.com/file/d/1w2OTW6h75BGbneeqx9P1sSS2Tx9MI-iz/view?usp=drive_link"
   }
 ]
