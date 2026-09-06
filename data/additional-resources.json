@@ -67,7 +67,7 @@
       "label": "RNQ (Quemados MINSAL)"
     },
     {
-      "href": "https://midas.minsal.cl/midas/index.php",
+      "href": "https://epivigilamidas.minsal.cl/",
       "img": "images/ssasur.webp",
       "alt": "Icono MIDAS",
       "label": "MIDAS"
@@ -149,8 +149,8 @@
           "label": "DoctorPDF"
         },
         {
-          "href": "https://archive.org/",
-          "label": "Archive"
+          "href": "https://farmacoacademy.com/FarmacoCalc/",
+          "label": "FarmacoCalc"
         },
         {
           "href": "https://annas-archive.gl/",
